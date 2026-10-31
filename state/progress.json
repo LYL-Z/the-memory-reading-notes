@@ -1,37 +1,38 @@
 {
-  "updated": "2026-10-31T03:40:00-07:00",
-  "phase": "1-inventory",
+  "updated": "2026-10-31T09:40:00-07:00",
+  "phase": "writing",
   "literary_frozen": false,
-  "chapters_written": 0,
+  "chapters_written": 1,
+  "hanzi_chapter_001": 4511,
+  "hanzi_counter": "scripts/hanzi_count.py",
   "working_title": "时间的复数人称",
   "former_title": "刘佑林的19年回忆录",
+  "title_status": "作者已最终确定",
   "vault_read_only": true,
   "studio": "NovelStudio_Grok47",
+  "structure": "editorial/narrative_design.md",
+  "volume_01": "outline/volume-01.md",
+  "manuscript": "manuscript/volume-01/001.md",
+  "next_chapter": "outline/volume-01.md 第2章 右边那张床",
   "scan": {
     "files": 5886,
     "bytes": 1091342983,
     "errors": 0,
     "fts_documents": 651,
     "ai_draft_files_excluded": 132,
-    "attachments_unread": 295,
+    "images_waived": true,
     "close_read_receipts": 38
   },
   "completed": [
-    "路径、备份和 git 提示已核对",
-    "全库哈希与来源分类",
-    "旧稿隔离，写作体系退出检索",
-    "八份用户订正与学段索引精读",
-    "叙述者、赵问竹、父母页精读",
-    "高一个人回忆、手稿、小组表、新加坡访学",
-    "时间线种子、人物种子、冲突清单、第二轮事实卡"
+    "开写任务书已执行",
+    "结构决选：第一部只开历史课这一扇门，高一前移，童年后置",
+    "第一部 24 章目录",
+    "第一章《左边的位置》4511 汉字"
   ],
   "not_completed": [
-    "651 篇入库文本的精读",
-    "295 个附件",
-    "董佳好、刘弈帆、曾子沣、桃园原文",
-    "三种文学结构",
-    "三篇试样",
-    "任何章节正文"
+    "不是全库逐篇精读的新声明",
+    "第二章及以后",
+    "已发表正文的连续性仍只覆盖 001"
   ],
   "blockers": []
 }
