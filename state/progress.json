@@ -1,9 +1,11 @@
 {
-  "updated": "2026-10-31T09:40:00-07:00",
+  "updated": "2026-10-31T10:10:00-07:00",
   "phase": "writing",
   "literary_frozen": false,
   "chapters_written": 1,
-  "hanzi_chapter_001": 4503,
+  "hanzi_chapter_001": 4845,
+  "hanzi_chapter_001_previous": 4503,
+  "hanzi_chapter_001_net": 342,
   "hanzi_counter": "scripts/hanzi_count.py",
   "working_title": "时间的复数人称",
   "former_title": "刘佑林的19年回忆录",
@@ -13,7 +15,7 @@
   "structure": "editorial/narrative_design.md",
   "volume_01": "outline/volume-01.md",
   "manuscript": "manuscript/volume-01/001.md",
-  "next_chapter": "outline/volume-01.md 第2章 右边那张床",
+  "next_chapter": "暂停。第一章修订待作者看过再开第二章",
   "scan": {
     "files": 5886,
     "bytes": 1091342983,
@@ -27,7 +29,7 @@
     "开写任务书已执行",
     "结构决选：第一部只开历史课这一扇门，高一前移，童年后置",
     "第一部 24 章目录",
-    "第一章《左边的位置》4503 汉字"
+    "第一章《左边的位置》修订，4845 汉字，净增 342。未开第二章"
   ],
   "not_completed": [
     "不是全库逐篇精读的新声明",
