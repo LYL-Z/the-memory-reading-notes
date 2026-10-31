@@ -1,0 +1,37 @@
+{
+  "updated": "2026-10-31T03:40:00-07:00",
+  "phase": "1-inventory",
+  "literary_frozen": false,
+  "chapters_written": 0,
+  "working_title": "时间的复数人称",
+  "former_title": "刘佑林的19年回忆录",
+  "vault_read_only": true,
+  "studio": "NovelStudio_Grok47",
+  "scan": {
+    "files": 5886,
+    "bytes": 1091342983,
+    "errors": 0,
+    "fts_documents": 651,
+    "ai_draft_files_excluded": 132,
+    "attachments_unread": 295,
+    "close_read_receipts": 38
+  },
+  "completed": [
+    "路径、备份和 git 提示已核对",
+    "全库哈希与来源分类",
+    "旧稿隔离，写作体系退出检索",
+    "八份用户订正与学段索引精读",
+    "叙述者、赵问竹、父母页精读",
+    "高一个人回忆、手稿、小组表、新加坡访学",
+    "时间线种子、人物种子、冲突清单、第二轮事实卡"
+  ],
+  "not_completed": [
+    "651 篇入库文本的精读",
+    "295 个附件",
+    "董佳好、刘弈帆、曾子沣、桃园原文",
+    "三种文学结构",
+    "三篇试样",
+    "任何章节正文"
+  ],
+  "blockers": []
+}
