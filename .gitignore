@@ -1,0 +1,9 @@
+private_index/
+tools/**/node_modules/
+tools/**/package-lock.json
+**/*.db
+**/*.db-wal
+**/*.db-shm
+**/__pycache__/
+editorial/ai_draft_paths.txt
+editorial/external_legacy_hashes.txt
