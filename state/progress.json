@@ -1,8 +1,8 @@
 {
-  "updated": "2026-10-31T22:40:00-07:00",
+  "updated": "2026-11-01",
   "phase": "writing",
   "literary_frozen": false,
-  "chapters_written": 3,
+  "chapters_written": 4,
   "chapter_001_frozen": true,
   "chapter_002_frozen": true,
   "hanzi_chapter_001": 4889,
@@ -16,12 +16,12 @@
   "studio": "NovelStudio_Grok47",
   "structure": "editorial/narrative_design.md",
   "volume_01": "outline/volume-01.md",
-  "manuscript": "manuscript/volume-01/003.md",
-  "hanzi_chapter_002": 4507,
-  "hanzi_chapter_003": 8551,
+  "manuscript": "manuscript/volume-01/004.md",
+  "hanzi_chapter_002": 4520,
+  "hanzi_chapter_003": 8560,
   "hanzi_chapter_003_previous": 8382,
-  "hanzi_chapter_003_net": 169,
-  "next_chapter": "前三章精修待终审。未授权不写第四章",
+  "hanzi_chapter_003_net": 178,
+  "next_chapter": "第四章完整初稿待终审；第五章未启动",
   "scan": {
     "files": 5886,
     "bytes": 1091342983,
@@ -34,14 +34,21 @@
   "completed": [
     "开写任务书已执行",
     "结构决选：第一部只开历史课这一扇门，高一前移，童年后置",
-    "第一部 24 章目录",
-    "第二章《晚饭后的桌子》冻结。两项勘误后 4506 汉字",
-    "第三章《525》按床位与口述修订，8378 汉字，待审",
-    "目录已把《525》编为第三章，《右边那张床》移入暂缓"
+    "第一部 21 项暂定目录（允许并章）",
+    "第二章《晚饭后的桌子》开头重复修正，4520汉字",
+    "第三章《525》完成同晚与异晚口径纠正，8560汉字，审稿放行",
+    "目录已把《525》编为第三章，《右边那张床》移入暂缓",
+    "第四章《月考之后》ChatGPT接手创作，5188汉字，尚待作者复核与文学终审"
   ],
   "not_completed": [
-    "不是全库逐篇精读的新声明",
-    "第四章及以后"
+    "第四章最终文学审定与作者事实确认",
+    "第五章及以后"
   ],
-  "blockers": []
+  "blockers": [],
+  "chapter_003_frozen": true,
+  "chapter_004_frozen": false,
+  "hanzi_chapter_002_previous": 4507,
+  "hanzi_chapter_002_net": 13,
+  "hanzi_chapter_004": 5188,
+  "chapter_004_status": "ChatGPT authorship draft complete; not literary-frozen; editorial/chapter04-20261101 review branch"
 }
