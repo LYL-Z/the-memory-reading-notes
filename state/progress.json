@@ -2,7 +2,7 @@
   "updated": "2026-11-01",
   "phase": "writing",
   "literary_frozen": false,
-  "chapters_written": 5,
+  "chapters_written": 6,
   "chapter_001_frozen": false,
   "chapter_002_frozen": false,
   "hanzi_chapter_001": 5328,
@@ -16,12 +16,12 @@
   "studio": "NovelStudio_Grok47",
   "structure": "editorial/narrative_design.md",
   "volume_01": "outline/volume-01.md",
-  "manuscript": "manuscript/volume-01/005.md",
+  "manuscript": "manuscript/volume-01/006.md",
   "hanzi_chapter_002": 5292,
   "hanzi_chapter_003": 12805,
   "hanzi_chapter_003_previous": 8382,
   "hanzi_chapter_003_net": 4228,
-  "next_chapter": "006《一只福袋》待正式创作；第五章已成文并纳入公开审稿流程",
+  "next_chapter": "007《答案放在桌上》待创作；第六章已三轮精修并阶段放行，未文学冻结",
   "scan": {
     "files": 5886,
     "bytes": 1091342983,
@@ -51,12 +51,13 @@
     "2026-11-01第十轮针对001游戏/茶桌与002器物重复做场景化改写、003洗衣房群像和004数学对白重写；正文30535汉字每章净增",
     "2026-11-01第十一轮为003竹林杯后果场景去解释，并决定前四章阶段放行、抽签选座并004、新005改盒饭；第五章公开发布尚未获独立授权",
     "2026-11-01第十二轮：《盒饭》成文并十项审稿，保持2022高一上疫情阶段的纪事边界，对话与小场景标注文学复合；新授权允许公开创作及合并",
-    "2026-11-01第十三轮第五章《盒饭》独立复读与润色：纠正高一上寝室过早恋爱起哄、替换重复心理解释、添加课堂/人物生活动作；正文4906汉字净增587"
+    "2026-11-01第十三轮第五章《盒饭》独立复读与润色：纠正高一上寝室过早恋爱起哄、替换重复心理解释、添加课堂/人物生活动作；正文4906汉字净增587",
+    "2026-11-01第十四轮：第六章《一只福袋》成文5275汉字，完成三轮场景化写作和十问审稿；与005盒饭衔接，核定次日提前离校和约四天后居家网课，长沙期末延期不写为永远取消"
   ],
   "not_completed": [
     "作者继续核对四章新增场景的人物与实物细节",
     "前四章最终文学冻结评审",
-    "第六章及以后"
+    "第七章及以后"
   ],
   "blockers": [],
   "chapter_003_frozen": false,
@@ -73,7 +74,7 @@
   "hanzi_chapter_003_oral_addition": 744,
   "hanzi_chapter_004_before_oral_addendum": 5188,
   "hanzi_chapter_004_oral_addition": 600,
-  "editorial_round": "2026-11-01 thirteenth: chapter 5 independent literary revision, chronology fix, stage-approved, not frozen",
+  "editorial_round": 14,
   "hanzi_chapter_001_before_style_round": 5175,
   "hanzi_chapter_001_style_round_net": 1,
   "hanzi_chapter_002_before_style_round": 4887,
@@ -141,8 +142,12 @@
   "chapters_001_to_004_stage_approved": true,
   "hanzi_chapter_005": 4906,
   "chapter_005_frozen": false,
-  "chapter_005_status": "第一次完整成文＋事实/语言/十项文学审查阶段放行，可日后回改",
+  "chapter_005_status": "已两轮精修、阶段放行、未文学冻结",
   "hanzi_total_001_to_005": 35471,
   "hanzi_chapter_005_previous": 4319,
-  "hanzi_chapter_005_round2_net": 587
+  "hanzi_chapter_005_round2_net": 587,
+  "hanzi_chapter_006": 5275,
+  "hanzi_total_001_to_006": 40746,
+  "chapter_006_frozen": false,
+  "chapter_006_status": "已完成正文、三轮文学精修和十项审稿；阶段通过，尚未文学冻结"
 }
