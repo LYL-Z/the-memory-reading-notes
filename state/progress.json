@@ -18,10 +18,10 @@
   "volume_01": "outline/volume-01.md",
   "manuscript": "manuscript/volume-01/004.md",
   "hanzi_chapter_002": 5292,
-  "hanzi_chapter_003": 12775,
+  "hanzi_chapter_003": 12805,
   "hanzi_chapter_003_previous": 8382,
   "hanzi_chapter_003_net": 4228,
-  "next_chapter": "继续开展前四章文学终审；本轮已修订并提交，暂不冻结、不合并main、不启动第五章",
+  "next_chapter": "005《盒饭》阶段放行、准备非公开起稿；原抽签选位并入004；第五章公共提交须明确授权",
   "scan": {
     "files": 5886,
     "bytes": 1091342983,
@@ -48,7 +48,8 @@
     "2026-11-01第七轮根据作者新口述补QQ群截图风波、唐鑫宇和好、赵问竹短时冷落及学年末喻翰东/伍筱丹传话，004新增追溯性伏笔",
     "2026-11-01第八轮四章语言审阅，003修正喻翰东玩笑质问伍筱丹与赵问竹使眼色且未成冲突，增两周同桌时被催洗澡的自嘲细节",
     "2026-11-01第九轮四章场面化重写，赵问竹留校周末、唐鑫宇失恋、双汇拍摄及四人组独立闲聊；核对4章字数总计30193，四章净增，无第五章",
-    "2026-11-01第十轮针对001游戏/茶桌与002器物重复做场景化改写、003洗衣房群像和004数学对白重写；正文30535汉字每章净增"
+    "2026-11-01第十轮针对001游戏/茶桌与002器物重复做场景化改写、003洗衣房群像和004数学对白重写；正文30535汉字每章净增",
+    "2026-11-01第十一轮为003竹林杯后果场景去解释，并决定前四章阶段放行、抽签选座并004、新005改盒饭；第五章公开发布尚未获独立授权"
   ],
   "not_completed": [
     "作者继续核对四章新增场景的人物与实物细节",
@@ -70,7 +71,7 @@
   "hanzi_chapter_003_oral_addition": 744,
   "hanzi_chapter_004_before_oral_addendum": 5188,
   "hanzi_chapter_004_oral_addition": 600,
-  "editorial_round": "2026-11-01 tenth round: narrative rhythm, dorm laundry scene, classroom math re-authored, character autonomy; PR Draft",
+  "editorial_round": "2026-11-01 eleventh: first four chapters stage-approved, remaining issues nonblocking, chapter 5 retitled 盒饭; fifth public permission not assumed",
   "hanzi_chapter_001_before_style_round": 5175,
   "hanzi_chapter_001_style_round_net": 1,
   "hanzi_chapter_002_before_style_round": 4887,
@@ -132,5 +133,8 @@
   "hanzi_chapter_003_before_tenth_round": 12679,
   "hanzi_chapter_003_tenth_net": 96,
   "hanzi_chapter_004_before_tenth_round": 6920,
-  "hanzi_chapter_004_tenth_net": 220
+  "hanzi_chapter_004_tenth_net": 220,
+  "hanzi_chapter_003_before_eleventh_round": 12775,
+  "hanzi_chapter_003_eleventh_net": 30,
+  "chapters_001_to_004_stage_approved": true
 }
