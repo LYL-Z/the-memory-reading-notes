@@ -2,7 +2,7 @@
   "updated": "2026-11-01",
   "phase": "writing",
   "literary_frozen": false,
-  "chapters_written": 4,
+  "chapters_written": 5,
   "chapter_001_frozen": false,
   "chapter_002_frozen": false,
   "hanzi_chapter_001": 5328,
@@ -16,12 +16,12 @@
   "studio": "NovelStudio_Grok47",
   "structure": "editorial/narrative_design.md",
   "volume_01": "outline/volume-01.md",
-  "manuscript": "manuscript/volume-01/004.md",
+  "manuscript": "manuscript/volume-01/005.md",
   "hanzi_chapter_002": 5292,
   "hanzi_chapter_003": 12805,
   "hanzi_chapter_003_previous": 8382,
   "hanzi_chapter_003_net": 4228,
-  "next_chapter": "005《盒饭》阶段放行、准备非公开起稿；原抽签选位并入004；第五章公共提交须明确授权",
+  "next_chapter": "006《一只福袋》待正式创作；第五章已成文并纳入公开审稿流程",
   "scan": {
     "files": 5886,
     "bytes": 1091342983,
@@ -49,12 +49,13 @@
     "2026-11-01第八轮四章语言审阅，003修正喻翰东玩笑质问伍筱丹与赵问竹使眼色且未成冲突，增两周同桌时被催洗澡的自嘲细节",
     "2026-11-01第九轮四章场面化重写，赵问竹留校周末、唐鑫宇失恋、双汇拍摄及四人组独立闲聊；核对4章字数总计30193，四章净增，无第五章",
     "2026-11-01第十轮针对001游戏/茶桌与002器物重复做场景化改写、003洗衣房群像和004数学对白重写；正文30535汉字每章净增",
-    "2026-11-01第十一轮为003竹林杯后果场景去解释，并决定前四章阶段放行、抽签选座并004、新005改盒饭；第五章公开发布尚未获独立授权"
+    "2026-11-01第十一轮为003竹林杯后果场景去解释，并决定前四章阶段放行、抽签选座并004、新005改盒饭；第五章公开发布尚未获独立授权",
+    "2026-11-01第十二轮：《盒饭》成文并十项审稿，保持2022高一上疫情阶段的纪事边界，对话与小场景标注文学复合；新授权允许公开创作及合并"
   ],
   "not_completed": [
     "作者继续核对四章新增场景的人物与实物细节",
     "前四章最终文学冻结评审",
-    "第五章及以后"
+    "第六章及以后"
   ],
   "blockers": [],
   "chapter_003_frozen": false,
@@ -71,7 +72,7 @@
   "hanzi_chapter_003_oral_addition": 744,
   "hanzi_chapter_004_before_oral_addendum": 5188,
   "hanzi_chapter_004_oral_addition": 600,
-  "editorial_round": "2026-11-01 eleventh: first four chapters stage-approved, remaining issues nonblocking, chapter 5 retitled 盒饭; fifth public permission not assumed",
+  "editorial_round": "2026-11-01 twelfth: chapter 5 盒饭 completed, 10-gate literary audit, public publication authorized by author",
   "hanzi_chapter_001_before_style_round": 5175,
   "hanzi_chapter_001_style_round_net": 1,
   "hanzi_chapter_002_before_style_round": 4887,
@@ -136,5 +137,9 @@
   "hanzi_chapter_004_tenth_net": 220,
   "hanzi_chapter_003_before_eleventh_round": 12775,
   "hanzi_chapter_003_eleventh_net": 30,
-  "chapters_001_to_004_stage_approved": true
+  "chapters_001_to_004_stage_approved": true,
+  "hanzi_chapter_005": 4319,
+  "chapter_005_frozen": false,
+  "chapter_005_status": "第一次完整成文＋事实/语言/十项文学审查阶段放行，可日后回改",
+  "hanzi_total_001_to_005": 34884
 }
