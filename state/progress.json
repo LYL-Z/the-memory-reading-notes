@@ -18,8 +18,9 @@
   "volume_01": "outline/volume-01.md",
   "manuscript": "manuscript/volume-01/003.md",
   "hanzi_chapter_002": 4506,
-  "hanzi_chapter_003": 2044,
-  "next_chapter": "第三章《525》已成稿。第二章已冻结",
+  "hanzi_chapter_003": 2288,
+  "hanzi_chapter_003_previous": 2044,
+  "next_chapter": "第三章《525》修订待审。未授权不写第四章",
   "scan": {
     "files": 5886,
     "bytes": 1091342983,
