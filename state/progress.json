@@ -1,8 +1,9 @@
 {
-  "updated": "2026-10-31T10:10:00-07:00",
+  "updated": "2026-10-31T20:10:00-07:00",
   "phase": "writing",
   "literary_frozen": false,
-  "chapters_written": 1,
+  "chapters_written": 2,
+  "chapter_001_frozen": true,
   "hanzi_chapter_001": 4845,
   "hanzi_chapter_001_previous": 4503,
   "hanzi_chapter_001_net": 342,
@@ -14,8 +15,9 @@
   "studio": "NovelStudio_Grok47",
   "structure": "editorial/narrative_design.md",
   "volume_01": "outline/volume-01.md",
-  "manuscript": "manuscript/volume-01/001.md",
-  "next_chapter": "三项前置已改。第二章定为晚饭后的桌子。作者点头前不写正文",
+  "manuscript": "manuscript/volume-01/002.md",
+  "hanzi_chapter_002": 4043,
+  "next_chapter": "第二章已成稿，待审。未点头不写第三章",
   "scan": {
     "files": 5886,
     "bytes": 1091342983,
@@ -29,7 +31,7 @@
     "开写任务书已执行",
     "结构决选：第一部只开历史课这一扇门，高一前移，童年后置",
     "第一部 24 章目录",
-    "第一章《左边的位置》修订，4845 汉字，净增 342。未开第二章"
+    "第二章《晚饭后的桌子》4043 汉字"
   ],
   "not_completed": [
     "不是全库逐篇精读的新声明",
