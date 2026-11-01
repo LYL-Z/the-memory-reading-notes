@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T21:10:00-07:00",
+  "updated": "2026-10-31T22:40:00-07:00",
   "phase": "writing",
   "literary_frozen": false,
   "chapters_written": 3,
@@ -18,9 +18,10 @@
   "volume_01": "outline/volume-01.md",
   "manuscript": "manuscript/volume-01/003.md",
   "hanzi_chapter_002": 4506,
-  "hanzi_chapter_003": 2288,
-  "hanzi_chapter_003_previous": 2044,
-  "next_chapter": "第三章《525》修订待审。未授权不写第四章",
+  "hanzi_chapter_003": 8006,
+  "hanzi_chapter_003_previous": 2288,
+  "hanzi_chapter_003_net": 5718,
+  "next_chapter": "第三章《525》第二轮扩写待审。未授权不写第四章",
   "scan": {
     "files": 5886,
     "bytes": 1091342983,
@@ -35,7 +36,7 @@
     "结构决选：第一部只开历史课这一扇门，高一前移，童年后置",
     "第一部 24 章目录",
     "第二章《晚饭后的桌子》冻结。两项勘误后 4506 汉字",
-    "第三章《525》已成稿",
+    "第三章《525》第二轮扩写，8006 汉字，待审",
     "目录已把《525》编为第三章，《右边那张床》移入暂缓"
   ],
   "not_completed": [
