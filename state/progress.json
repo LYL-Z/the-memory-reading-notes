@@ -2,7 +2,7 @@
   "updated": "2026-11-01",
   "phase": "writing",
   "literary_frozen": false,
-  "chapters_written": 8,
+  "chapters_written": 9,
   "chapter_001_frozen": false,
   "chapter_002_frozen": false,
   "hanzi_chapter_001": 5328,
@@ -16,12 +16,12 @@
   "studio": "NovelStudio_Grok47",
   "structure": "editorial/narrative_design.md",
   "volume_01": "outline/volume-01.md",
-  "manuscript": "manuscript/volume-01/008.md",
+  "manuscript": "manuscript/volume-01/009.md",
   "hanzi_chapter_002": 5292,
   "hanzi_chapter_003": 12805,
   "hanzi_chapter_003_previous": 8382,
   "hanzi_chapter_003_net": 4228,
-  "next_chapter": "009《讲台两侧》待创作；第十八轮005—008已联合精修、审稿，前八章继续开放文学修订",
+  "next_chapter": "010《那个零》待创作；第十九轮009《讲台两侧》成文并三轮文学审校，前九章均继续开放精修",
   "scan": {
     "files": 5886,
     "bytes": 1091342983,
@@ -56,12 +56,13 @@
     "2026-11-01第十五轮：005与006连读精修，005 4957汉字（+51）、006 5413汉字（+138），纠正重复意象、解释腔和因果缺口，联合十问审稿，均阶段放行未文学冻结",
     "2026-11-01第十六轮：第七章《答案放在桌上》5310汉字，以高一下答案册默契为独立场景，三轮构思/创作/精修，校核003—006、只读素材与疫情春季政策，十项审稿阶段放行；前七章累计46245汉字",
     "2026-11-01第十七轮：第八章《两周》5475汉字，围绕真正两周同桌、桌面边界及洗澡提醒写出完整场景并十问审稿；核对003/004/007及只读源素材，前八章累计51720汉字、阶段放行，非文学冻结",
-    "2026-11-01第十八轮：005—008深度联合精修并落实作者喜欢向室友分享赵问竹日常的新口述，四章独立净增787/687/1402/1313正文汉字，累计前八章55901（统一排除章节标题）；联动四份原审稿及总审稿，非文学冻结"
+    "2026-11-01第十八轮：005—008深度联合精修并落实作者喜欢向室友分享赵问竹日常的新口述，四章独立净增787/687/1402/1313正文汉字，累计前八章55901（统一排除章节标题）；联动四份原审稿及总审稿，非文学冻结",
+    "2026-11-01第十九轮：第九章《讲台两侧》成文并三轮文学审校，7059汉字；讲台涂画、她的浙江大学与他的北京双校、525室友回述、次日粉笔印擦除；前九章累计62960汉字，未冻结。"
   ],
   "not_completed": [
     "作者继续核对四章新增场景的人物与实物细节",
     "前四章最终文学冻结评审",
-    "第九章《讲台两侧》及以后"
+    "第十章《那个零》及以后"
   ],
   "blockers": [],
   "chapter_003_frozen": false,
@@ -78,7 +79,7 @@
   "hanzi_chapter_003_oral_addition": 744,
   "hanzi_chapter_004_before_oral_addendum": 5188,
   "hanzi_chapter_004_oral_addition": 600,
-  "editorial_round": 18,
+  "editorial_round": 19,
   "hanzi_chapter_001_before_style_round": 5175,
   "hanzi_chapter_001_style_round_net": 1,
   "hanzi_chapter_002_before_style_round": 4887,
@@ -171,5 +172,9 @@
   "hanzi_chapter_006_round18_net": 687,
   "hanzi_chapter_007_round18_net": 1402,
   "hanzi_chapter_008_round18_net": 1313,
-  "chapters_005_to_008_stage_approved": true
+  "chapters_005_to_008_stage_approved": true,
+  "hanzi_chapter_009": 7059,
+  "hanzi_total_001_to_009": 62960,
+  "chapter_009_frozen": false,
+  "chapter_009_status": "第十九轮创作与三轮审校，讲台左右、理想大学互猜/525回述/次日余韵；7059汉字，阶段放行，非冻结"
 }
