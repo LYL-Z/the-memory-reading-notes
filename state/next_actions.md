@@ -7,7 +7,7 @@
 ## 当前稿
 
 - `manuscript/volume-01/001.md`：4845 汉字。冻结。
-- `manuscript/volume-01/002.md`：4043 汉字。
+- `manuscript/volume-01/002.md`：4044 汉字。
 - 第二章的推演在 `evidence/chapter-002.md`，不进公开仓库。
 - 时间三层在 `editorial/clocks.md`。
 
