@@ -2,7 +2,7 @@
   "updated": "2026-11-01",
   "phase": "writing",
   "literary_frozen": false,
-  "chapters_written": 11,
+  "chapters_written": 12,
   "chapter_001_frozen": false,
   "chapter_002_frozen": false,
   "hanzi_chapter_001": 5328,
@@ -16,12 +16,12 @@
   "studio": "NovelStudio_Grok47",
   "structure": "editorial/narrative_design.md",
   "volume_01": "outline/volume-01.md",
-  "manuscript": "manuscript/volume-01/011.md",
+  "manuscript": "manuscript/volume-01/012.md",
   "hanzi_chapter_002": 5292,
   "hanzi_chapter_003": 12805,
   "hanzi_chapter_003_previous": 8382,
   "hanzi_chapter_003_net": 4228,
-  "next_chapter": "012《橘子洲》待创作；第二十一轮011《竞赛班门口》成文并多轮文学/物理/事实审校，前十一章仍开放精修",
+  "next_chapter": "013《婚礼进行曲》待创作；必须接012同一晚从吴明博起哄/关灯/音乐写起，并考虑将原014并入；前十二章开放精修",
   "scan": {
     "files": 5886,
     "bytes": 1091342983,
@@ -59,12 +59,13 @@
     "2026-11-01第十八轮：005—008深度联合精修并落实作者喜欢向室友分享赵问竹日常的新口述，四章独立净增787/687/1402/1313正文汉字，累计前八章55901（统一排除章节标题）；联动四份原审稿及总审稿，非文学冻结",
     "2026-11-01第十九轮：第九章《讲台两侧》成文并三轮文学审校，7059汉字；讲台涂画、她的浙江大学与他的北京双校、525室友回述、次日粉笔印擦除；前九章累计62960汉字，未冻结。",
     "2026-11-01第二十轮：第十章《那个零》6488汉字，晚自习赵写零、刘向她与舒追问而无确定解释、525夜谈、赵班务与独立性；前十章累计69448汉字，未冻结。",
-    "2026-11-01第二十一轮：第十一章《竞赛班门口》5927汉字，双物理课堂场景、赵独立的竞赛训练及高一末退出、具体原因留空，静摩擦与速度符号物理复核；前十一章累计75375，非文学冻结。"
+    "2026-11-01第二十一轮：第十一章《竞赛班门口》5927汉字，双物理课堂场景、赵独立的竞赛训练及高一末退出、具体原因留空，静摩擦与速度符号物理复核；前十一章累计75375，非文学冻结。",
+    "2026-11-01第二十二轮：第十二章《橘子洲》5728汉字；核定窗边赵友刘前后站位、高一下课间与同晚013连续性，外部2023-05-11烟花报道只作候选日期，前十二章累计81103，非文学冻结。"
   ],
   "not_completed": [
     "作者继续核对四章新增场景的人物与实物细节",
     "前四章最终文学冻结评审",
-    "第十二章《橘子洲》及以后"
+    "第十三章《婚礼进行曲》及以后"
   ],
   "blockers": [],
   "chapter_003_frozen": false,
@@ -81,7 +82,7 @@
   "hanzi_chapter_003_oral_addition": 744,
   "hanzi_chapter_004_before_oral_addendum": 5188,
   "hanzi_chapter_004_oral_addition": 600,
-  "editorial_round": 21,
+  "editorial_round": 22,
   "hanzi_chapter_001_before_style_round": 5175,
   "hanzi_chapter_001_style_round_net": 1,
   "hanzi_chapter_002_before_style_round": 4887,
@@ -186,5 +187,9 @@
   "hanzi_chapter_011": 5927,
   "hanzi_total_001_to_011": 75375,
   "chapter_011_frozen": false,
-  "chapter_011_status": "第二十一轮创作与文学精修，赵的物理竞赛训练/后来退出、刘的物理自负及知识限度；5927汉字，阶段放行、非冻结，未归因退出理由"
+  "chapter_011_status": "第二十一轮创作与文学精修，赵的物理竞赛训练/后来退出、刘的物理自负及知识限度；5927汉字，阶段放行、非冻结，未归因退出理由",
+  "hanzi_chapter_012": 5728,
+  "hanzi_total_001_to_012": 81103,
+  "chapter_012_frozen": false,
+  "chapter_012_status": "第二十二轮创作与三轮文学审校，橘子洲烟花/月考前教室群像/赵闺蜜右后与刘身后站位；5728汉字，阶段放行、非冻结，不锁5月11日期"
 }
