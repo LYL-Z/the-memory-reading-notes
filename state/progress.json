@@ -264,7 +264,7 @@
   "hanzi_total_001_to_019": 132304,
   "volume_01_stage_complete": true,
   "volume_01_stage_approved": true,
-  "volume_01_hanzi": 134303,
+  "volume_01_hanzi": 135731,
   "volume_01_literary_frozen": false,
   "chapter_019_frozen": false,
   "chapter_019_stage_approved": true,
@@ -346,7 +346,13 @@
   "volume_01_round35_report": "editorial/volume01-round35-comprehensive-review-2026-11-02.md",
   "volume_01_round35_context": "editorial/round35-author-handoff-and-standards-2026-11-02.md",
   "hanzi_total": 135731,
-  "last_round": 42,
+  "last_round": 43,
   "next_round": 43,
-  "literary_freeze_verdict": "R42 full-volume cold read: not passed; R43 revision required"
+  "literary_freeze_verdict": "R42 full-volume cold read: not passed; R43 revision required",
+  "round43_status": "IN_PROGRESS: five-AI six-document archive; prose surgery comparison branch below baseline, not eligible for main merge",
+  "round43_source_reports": "editorial/round43-five-ai/",
+  "round43_synthesis": "editorial/round43-five-ai-crossreview-and-action-ledger-2026-11-02.md",
+  "round43_base_commit": "1f49f402947dbb7634a20acb2a13f9385a3f5213",
+  "round43_main_hanzi_floor": 135731,
+  "round43_real_human_reader_count": 0
 }
