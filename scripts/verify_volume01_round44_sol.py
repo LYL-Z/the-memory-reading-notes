@@ -27,7 +27,8 @@ assert "她仍没有开口，我心里已经吵得一片。" in current[-1]
 assert "他说一局救了我两三次" in current[0]
 assert "低一年级的工程力学强基生" not in current[0]
 assert "不同于上一回窗边" not in current[14]
-assert "究竟是在我改字前还是改字后" in current[16]
+assert "喻翰东先看过没有改字的版本。" in current[16]
+assert "究竟是在我改字前还是改字后" not in current[16]
 assert "是不是同一个晚上，我至今记不准" in current[16]
 assert "伍筱丹看见的是我改过的版本" in current[16]
 for s in current:
@@ -52,7 +53,7 @@ read_current = bool(
 total = sum(counts.values())
 # 2026-11-03: the author clarified that each official whole-volume version
 # must not shrink, even when it still exceeds the old 135731 lower bound.
-no_decrease_baseline = 136404  # official candidate 9934d238...
+no_decrease_baseline = 136474  # R47 starts from a4f512e, author: whole-volume count never decreases
 head_text = [subprocess.check_output(["git", "-C", str(ROOT), "show", f"HEAD:manuscript/volume-01/{p.name}"]).decode("utf-8") for p in paths]
 head_total = sum(count(s) for s in head_text)
 assert total >= max(135731, no_decrease_baseline, head_total), "整卷总量减少，不得提交"
@@ -75,7 +76,7 @@ result = {
     "historical_absolute_minimum": 135731,
     "margin_from_historical_minimum": total - 135731,
     "non_decreasing_against_head": True,
-    "length_policy": "整卷不少于续接前9934d23的136404，且不低于提交前HEAD；原135731仅为历史绝对底线。work试版不计正文。",
+    "length_policy": "R47整卷不少于a4f512e的136474，且不低于提交前HEAD；原135731与136404为历史基线。work试版不计正文。",
     "r43_hanzi": 127508,
     "net_from_r43": total - 127508,
     "gross_paragraph_added_hanzi": added,

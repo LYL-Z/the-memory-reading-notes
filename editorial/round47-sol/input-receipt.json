@@ -1,0 +1,229 @@
+{
+  "image_count": 23,
+  "images": [
+    {
+      "input_number": 1,
+      "file": "codex-clipboard-cef60996-9944-4ed2-a7b6-3b3b2a57cca9.png",
+      "sha256": "2dededa5b03b9ac9f2bd13da6d546464261e4346493d2ddbda9b8edcb6d22876",
+      "pixels": [
+        1967,
+        885
+      ]
+    },
+    {
+      "input_number": 2,
+      "file": "codex-clipboard-2f7c4279-ff09-43d8-aa31-cb4607ad5e8c.png",
+      "sha256": "b38fd2fd4b52ae97459858226dffdcac18043893fa42a3a40e68b7651d769ce5",
+      "pixels": [
+        2000,
+        1785
+      ]
+    },
+    {
+      "input_number": 3,
+      "file": "codex-clipboard-52add1cf-8fa9-40c6-a460-f9a75dd388c2.png",
+      "sha256": "dc86f00f5d285cb7e792e651de7125596f1f93e0316a83a40c7c657f1c6477a9",
+      "pixels": [
+        1990,
+        1352
+      ]
+    },
+    {
+      "input_number": 4,
+      "file": "codex-clipboard-ec601cc4-3280-410a-aa62-4538a819aa07.png",
+      "sha256": "8922987288a6d281ce439385a0aaf5a354adcc4e866bd5ebe402838475e10a79",
+      "pixels": [
+        1677,
+        727
+      ]
+    },
+    {
+      "input_number": 5,
+      "file": "codex-clipboard-aec154b9-6220-4d4c-aca3-9a690a45db86.png",
+      "sha256": "cc6d28214f122699e1427d70551cbe2230b7fbfc984fe6526c5ff216dc63ff95",
+      "pixels": [
+        1645,
+        1302
+      ]
+    },
+    {
+      "input_number": 6,
+      "file": "codex-clipboard-d96065d2-a915-49e1-8875-0dbe0a4be0d0.png",
+      "sha256": "87661d2d5c15337ae84c9fa5c2f8d536da9d05eeb552ae0516e1b3e35bef20f4",
+      "pixels": [
+        1395,
+        920
+      ]
+    },
+    {
+      "input_number": 7,
+      "file": "codex-clipboard-36694aea-aefe-452b-ba2f-8e58c0b0a723.png",
+      "sha256": "2c9a6a761073e3de8fbdfa2ca220c8cb6d5696a10a24aa6bfb6d86b546f6fc8d",
+      "pixels": [
+        1865,
+        990
+      ]
+    },
+    {
+      "input_number": 8,
+      "file": "codex-clipboard-eb324bca-0f28-4d81-8cbd-7a0724d8f21b.png",
+      "sha256": "5f616b6df90f6077f1d75faecd41df20814297eb1438da49527aee128291ec15",
+      "pixels": [
+        1962,
+        1000
+      ]
+    },
+    {
+      "input_number": 9,
+      "file": "codex-clipboard-64bd51fd-e471-404e-a25b-a8f95cc1779b.png",
+      "sha256": "7f910c66ac0a29bebe23562793c3623c9117a81a96a7cf55639d7b5e891f0556",
+      "pixels": [
+        1855,
+        1837
+      ]
+    },
+    {
+      "input_number": 10,
+      "file": "codex-clipboard-a0282c04-6f0d-409c-b265-e6aa5645d9da.png",
+      "sha256": "a3490b680345599b71df6a7644bd314bd285401be72a57cfe6a7d6cbc2b20fde",
+      "pixels": [
+        2030,
+        925
+      ]
+    },
+    {
+      "input_number": 11,
+      "file": "codex-clipboard-1e47eb7d-b5e4-4130-b096-d3df85277c77.png",
+      "sha256": "abcadbbda6c3ab927cb957ed17565c9b149c33bc8ff9740e329eeaae70cdd19d",
+      "pixels": [
+        1950,
+        1425
+      ]
+    },
+    {
+      "input_number": 12,
+      "file": "codex-clipboard-1dfb4f38-d15e-4343-8f63-eb895589a0a4.png",
+      "sha256": "8bb744b8592aac4dae3ec3d72c862c94b786572dad4dc54f7c9575498d52d626",
+      "pixels": [
+        1982,
+        722
+      ]
+    },
+    {
+      "input_number": 13,
+      "file": "codex-clipboard-230a5cc6-080f-4e4d-b001-5a77ae40c7e2.png",
+      "sha256": "aeab823027101b36867f386e1fa8d16327813931b3d984d541da0bf5b4e71132",
+      "pixels": [
+        2030,
+        1705
+      ]
+    },
+    {
+      "input_number": 14,
+      "file": "codex-clipboard-f92f6d35-75de-4c80-8d9a-56839f9f92c1.png",
+      "sha256": "9fd047971b54d5995dece684a9877cd211d1dbfb116133b41e49955486888a56",
+      "pixels": [
+        1992,
+        1465
+      ]
+    },
+    {
+      "input_number": 15,
+      "file": "codex-clipboard-ca68e25e-70aa-4ef4-ac52-76081a703b44.png",
+      "sha256": "0472fe45ae674e02f12a023d3da78c0b90a11b402c316e558d216ad472c24d29",
+      "pixels": [
+        1787,
+        1387
+      ]
+    },
+    {
+      "input_number": 16,
+      "file": "codex-clipboard-57d63459-016b-4c81-b01a-296193493149.png",
+      "sha256": "2fdc330a319eb5d3491428bca332ac65a17d0446751bbe7c8334392371b89788",
+      "pixels": [
+        2040,
+        1795
+      ]
+    },
+    {
+      "input_number": 17,
+      "file": "codex-clipboard-ae9c9a33-cb30-4f21-9ba2-0672990bfc22.png",
+      "sha256": "01cd94d79864aca312152d9710f8e9a76155a6551f2cc86758e45f815520047a",
+      "pixels": [
+        1942,
+        1730
+      ]
+    },
+    {
+      "input_number": 18,
+      "file": "codex-clipboard-ab029934-f4de-4950-b420-f5cdec024a6c.png",
+      "sha256": "4ef81c40551405eef72d20d8bc5f5ebc7bea54f8f846a90f16febd96a3b80abd",
+      "pixels": [
+        2055,
+        1760
+      ]
+    },
+    {
+      "input_number": 19,
+      "file": "codex-clipboard-f9b95b72-2dbe-4608-ac10-09b19fe04a17.png",
+      "sha256": "35195b6282f7b5ccf9055887b81ef00c985c0ea453ef74ee59038fdeda00710f",
+      "pixels": [
+        2012,
+        1707
+      ]
+    },
+    {
+      "input_number": 20,
+      "file": "codex-clipboard-0c2e4df9-5370-429e-b04b-e9bb838ec579.png",
+      "sha256": "8f94ee9e3667d392d5c31c77f8ea36d563a77d52ac3fe177796535d584467ec3",
+      "pixels": [
+        2037,
+        585
+      ]
+    },
+    {
+      "input_number": 21,
+      "file": "codex-clipboard-78d57e74-d8ea-439b-be40-22be73552dea.png",
+      "sha256": "e71fce09dfdf6dd4c7b10c7a2d81db5ce264bd75f2d1428c16dd15dc6d802c79",
+      "pixels": [
+        1952,
+        1307
+      ]
+    },
+    {
+      "input_number": 22,
+      "file": "codex-clipboard-da61420a-3fba-4e4c-b61a-07bd8a4c7c5f.png",
+      "sha256": "360201a1d5d2cb638f3970add8ffa5176c4f6730c2798797ec63cbb47e1d02ad",
+      "pixels": [
+        1885,
+        1760
+      ]
+    },
+    {
+      "input_number": 23,
+      "file": "codex-clipboard-2c8a9d03-000e-4d38-9428-fe3cd7c75240.png",
+      "sha256": "7b5d173b4b8fc5b3b5941c85acf011ef967ec9b717ec694684f8fd399937be44",
+      "pixels": [
+        1920,
+        1730
+      ]
+    }
+  ],
+  "images_read": "23 images visually read in user message; hashes and dimensions identify inputs, not automatic proof of reading",
+  "review_commit": "0526a6cc53d457a27954accc23451fb9941da68b",
+  "review_lines_read": [
+    [
+      1,
+      175
+    ],
+    [
+      176,
+      390
+    ],
+    [
+      391,
+      587
+    ]
+  ],
+  "english_advice_read": true
+}
