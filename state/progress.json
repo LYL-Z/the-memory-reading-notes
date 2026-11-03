@@ -92,7 +92,7 @@
   "round47_report": "editorial/volume01-round47-sol-literary-revision-and-acceptance.md",
   "round48_report": "editorial/volume01-round48-kimi-literary-revision-and-acceptance.md",
   "round48_surgery_consent": "editorial/volume01-round48-kimi-surgery-consent.md",
-  "round48_chatgpt_pr": null,
+  "round48_chatgpt_pr": 12,
   "round48_chatgpt_review_doc": "editorial/volume01-round48-chatgpt-review-and-polish-2026-11-03.md",
   "round48_chatgpt_verifier": "scripts/verify_volume01_round48_chatgpt.py",
   "round48_chatgpt_scope": [
@@ -100,5 +100,6 @@
     "015 literary sentence restoration",
     "018 six-character correction"
   ],
-  "round48_latest_source": "Kimi PR #11 fixed HEAD 15a45ad3f14d8503654efb58c0f1e25a6dc53a21; ChatGPT derivative branch"
+  "round48_latest_source": "Kimi PR #11 fixed HEAD 15a45ad3f14d8503654efb58c0f1e25a6dc53a21; ChatGPT derivative branch",
+  "round48_chatgpt_pr_url": "https://github.com/LYL-Z/the-memory-reading-notes/pull/12"
 }
