@@ -12,6 +12,8 @@
   "round47_status": "EDITORIAL_REVISION_COMPLETE_READER_VALIDATION_PENDING",
   "round48_status": "CHATGPT_INTERNAL_REVIEW_AND_POLISH_COMPLETE_PENDING_AUTHOR",
   "round49_status": "KIMI_REVISION_COMPLETE_CHATGPT_INTERNAL_REVIEW_PENDING",
+  "round49_pr": 15,
+  "round49_first_complete_commit": "5a3aa33291190ae7d1839cd558087d347704d87f",
   "round48_pr": 11,
   "round48_first_complete_commit": "aeceb27ca8c656050e7be35782a3901ae41a99d1",
   "chapter_count": 18,

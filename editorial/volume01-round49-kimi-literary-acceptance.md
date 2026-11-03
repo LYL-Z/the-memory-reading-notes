@@ -90,6 +90,8 @@ git diff --check
 
 ## 九、交付与回退
 
+Draft PR：[#15](https://github.com/LYL-Z/the-memory-reading-notes/pull/15)。首次完整提交`5a3aa33291190ae7d1839cd558087d347704d87f`；最终HEAD以PR为准。
+
 已提交冷读、结构诊断、修改账、事实递延账、阅读收据、验证JSON、R48→R49正文patch、状态文件和致ChatGPT交接书。可回退至R48 `7d03ec3636592ff27a301da250bd366fc380e063`；任何回退均须复核事实、接缝与总量。
 
 R49到此交ChatGPT独立复盘，**不自动开启R50，不延长为R51。**
