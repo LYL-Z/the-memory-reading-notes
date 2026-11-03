@@ -1,7 +1,7 @@
 {
   "project": "时间的复数人称",
   "volume_01_title": "现在有人回头",
-  "active_branch": "editorial/volume01-round48-kimi-20261103",
+  "active_branch": "editorial/volume01-round48-chatgpt-review-20261103",
   "base_commit": "23ff2c949b7584ea11910937356bbf3a7053530d",
   "guidance_start_commit": "af2957db948a1366ac991160d3a96a4704701e1c",
   "last_round": 48,
@@ -10,11 +10,11 @@
   "round45_status": "EDITOR_CONTINUOUS_READ_AND_16_REPAIRS_DONE_HUMAN_GATE_PENDING",
   "round46_status": "THREE_NONCANONICAL_PILOTS_S11_AND_TWO_FORMAL_REPAIRS_DONE_FULL_ADOPTION_PENDING",
   "round47_status": "EDITORIAL_REVISION_COMPLETE_READER_VALIDATION_PENDING",
-  "round48_status": "KIMI_REVISION_COMPLETE_CHATGPT_INTERNAL_REVIEW_PENDING",
+  "round48_status": "CHATGPT_INTERNAL_REVIEW_AND_POLISH_COMPLETE_PENDING_AUTHOR",
   "round48_pr": 11,
   "round48_first_complete_commit": "aeceb27ca8c656050e7be35782a3901ae41a99d1",
   "chapter_count": 18,
-  "hanzi_total": 136641,
+  "hanzi_total": 136676,
   "volume_01_main_hanzi_floor": 136633,
   "chapter_hanzi": {
     "001": 7738,
@@ -30,8 +30,8 @@
     "011": 9185,
     "012": 6320,
     "013": 6752,
-    "014": 7381,
-    "015": 6283,
+    "014": 7370,
+    "015": 6329,
     "016": 5404,
     "017": 5532,
     "018": 6925
@@ -80,16 +80,25 @@
   "total_length_policy": "NON_DECREASING_EACH_OFFICIAL_COMMIT",
   "non_decrease_start_commit": "9934d2389098888a03cac7abe0d3147f5c5e70c9",
   "non_decrease_start_hanzi": 136404,
-  "next_official_commit_must_not_be_below": 136641,
+  "next_official_commit_must_not_be_below": 136676,
   "round46_ledger": "editorial/volume01-round46-sol-editing-ledger.md",
   "length_authority": "editorial/author-addendum-2026-11-03-total-length.md",
   "structural_pilots": "work/round46-structure-pilots/",
   "round47_ledger": "editorial/volume01-round47-sol-editing-ledger.md",
   "round48_ledger": "editorial/volume01-round48-kimi-editing-ledger.md",
-  "next_stage": "CHATGPT_R48_INTERNAL_REVIEW_AND_LIMITED_POLISH",
+  "next_stage": "AUTHOR_REVIEW_R48_ACCEPTANCE_R49_NOT_STARTED",
   "prior_full_continuous_read_complete": true,
   "current_round_new_full_continuous_read": true,
   "round47_report": "editorial/volume01-round47-sol-literary-revision-and-acceptance.md",
   "round48_report": "editorial/volume01-round48-kimi-literary-revision-and-acceptance.md",
-  "round48_surgery_consent": "editorial/volume01-round48-kimi-surgery-consent.md"
+  "round48_surgery_consent": "editorial/volume01-round48-kimi-surgery-consent.md",
+  "round48_chatgpt_pr": null,
+  "round48_chatgpt_review_doc": "editorial/volume01-round48-chatgpt-review-and-polish-2026-11-03.md",
+  "round48_chatgpt_verifier": "scripts/verify_volume01_round48_chatgpt.py",
+  "round48_chatgpt_scope": [
+    "014 selective rollback",
+    "015 literary sentence restoration",
+    "018 six-character correction"
+  ],
+  "round48_latest_source": "Kimi PR #11 fixed HEAD 15a45ad3f14d8503654efb58c0f1e25a6dc53a21; ChatGPT derivative branch"
 }
