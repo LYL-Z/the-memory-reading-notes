@@ -16,8 +16,8 @@
 |---|---|
 | 工作库 | `LYL-Z/the-memory-reading-notes` |
 | 正文与编辑基线 | ChatGPT R49 [PR #16](https://github.com/LYL-Z/the-memory-reading-notes/pull/16) HEAD **`3881eb880c975ae06aa01455974a24f7391f3546`**；此分支包含Kimi R49 [PR #15](https://github.com/LYL-Z/the-memory-reading-notes/pull/15) 的两处事实修正及ChatGPT独立审稿。 |
-| 创建的R50分支 | `editorial/volume01-round50-kimi-20261103`，**从本任务书分支** \`editorial/volume01-round50-kimi-guidance-20261103\` 的最新HEAD切出；先验证它的祖先包含上述R49 ChatGPT SHA，且从该SHA到指导分支之间没有小说正文差异。不得从默认main、PR #14的兄弟分支或旧R47/R48分支起跑。 |
-| PR target | `editorial/volume01-round49-chatgpt-20261103`，**Draft PR**；只显示R50相对R49 ChatGPT的增量。 |
+| 创建的R50分支 | `editorial/volume01-round50-kimi-20261103`，**从本任务书分支** `editorial/volume01-round50-kimi-guidance-20261103` 的最新HEAD切出；先验证它的祖先包含上述R49 ChatGPT SHA，且从该SHA到指导分支之间没有小说正文差异。不得从默认main、PR #14的兄弟分支或旧R47/R48分支起跑。 |
+| PR target | **`editorial/volume01-round50-kimi-guidance-20261103`**，**Draft PR**；只显示Kimi R50施工相对指导文档的增量。另用固定R49 ChatGPT SHA作第一部正文对照，不把指导文档算作施工。 |
 | 第一部现状 | `manuscript/volume-01/001.md`—`018.md`，18章，**136,685汉字**；`state/progress.json`中`round50_started=false`。 |
 | 旧轮次 | R48原始计数136,676；R49 Kimi净增9，ChatGPT R49正文零改。不能抹去此历史。 |
 | Claude来源 | 作者提供的三次英文交流完整原文、适配及记忆卡均在[PR #14](https://github.com/LYL-Z/the-memory-reading-notes/pull/14)固定HEAD **`106ec040783b40608d5d3d0ed5e1d959ad46fecd`**。这是**兄弟分支**：你必须主动读取，不能因为R50目录里没有就当不存在；不得未经评估整枝合并并覆盖R49状态。 |
