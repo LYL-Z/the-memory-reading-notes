@@ -1,3 +1,5 @@
+> **此为R44—46历史交接，R47已更新正文及证据。** 请先读[独立可用的R47交接书](handoff-to-chatgpt-literary-craft-round47-sol.md)。当前136633；喻已确认看改前；S11迁011。不要据本页旧数字、旧位置或未知覆盖新确认。
+
 # 致后续ChatGPT创作者的文学技法与修改交接书
 
 你接手的是刘佑林的自传体长篇《时间的复数人称》第一部《现在有人回头》。请先读本文件、`state/progress.json`、`state/next_actions.md`、本轮修改账、三钟和实际正文。不要以本交接代替小说。原材料库 `LYL-Z/the-memory` 只读；写作库 `LYL-Z/the-memory-reading-notes`。本次基于R43提交 `793e4b20400e62d0199c9b1ec9ec2ceafeb4afdc`，工作分支 `editorial/volume01-round44-sol-20261102`；本交接随正文提交，实际版本以PR head及正文指纹清单为准。

@@ -1,3 +1,7 @@
+> **R47逐项回验已更新**：当前十八章136633，原24项完整映射、暂缓项与本轮功能变化见[最新验收报告](volume01-round47-sol-literary-revision-and-acceptance.md)。下面旧计数／旧未知按历史版本理解。
+
+> R47状态更正：本文是R44结构记录。喻所见纸版本的“未知”已被作者2026-11-03本次确认“改字前”取代，见author-addendum-2026-11-03-yu-paper-version.md；原24项映射不变。
+
 # R44结构、原24项与候选状态
 
 基线R43：793e4b20400e62d0199c9b1ec9ec2ceafeb4afdc，20章127508汉字。现稿18章，实际总数以 `round44-sol/verification.json` 为准。达到135731体量底线，仍非冻结母版；main未动，真人0。
