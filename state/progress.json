@@ -115,5 +115,7 @@
   "round49_chatgpt_manuscript_changes": 0,
   "round49_chatgpt_hanzi_total_verified": 136685,
   "round49_chatgpt_new_independent_full_continuous_read": false,
-  "round49_chatgpt_literary_verdict": "ACCEPT_KIMI_TWO_FACT_REPAIRS_NO_UNPROVEN_PROSE_CHURN"
+  "round49_chatgpt_literary_verdict": "ACCEPT_KIMI_TWO_FACT_REPAIRS_NO_UNPROVEN_PROSE_CHURN",
+  "round49_chatgpt_pr": 16,
+  "round49_chatgpt_pr_url": "https://github.com/LYL-Z/the-memory-reading-notes/pull/16"
 }
