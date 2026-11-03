@@ -21,7 +21,7 @@
   "hanzi_chapter_003": 10349,
   "hanzi_chapter_003_previous": 8382,
   "hanzi_chapter_003_net": 4228,
-  "next_chapter": "R43第二阶段已试改010、011、017，联网考证经典、外文与物理术语；分支128914汉字，离正式最低135731差6817，仍不得合并。下一步真实源材料扩写、009+010和018—020结构A/B、时间证据校勘、整卷冷读及两名真人读者。",
+  "next_chapter": "第44轮：根据R43最终裁决补真实有戏剧作用的生活材料；对009+010分并章及018—020三章/同章三节开展真人A/B试读；逐段核对事实与隐私。试修稿127508汉字，距离main最低135731尚缺8223，不得合并，仍不冻结。",
   "scan": {
     "files": 5886,
     "bytes": 1091342983,
@@ -73,7 +73,8 @@
     "第三十四轮：吸收作者关于手机、铁路、技术兴趣、自我矛盾的口述，并修订001、002、003、004、007、008、009、014；审稿撤回010和011两段冗余新增。",
     "2026-11-02第三十五轮：第3章分离竹林杯与高二转述成为现行第17章；原17—19顺移为18—20并删减重复概括；深化001、002、004、007和525；复核未改动的005—016章事实与连续性；19→20章，正文134078→134303汉字（+225），未文学冻结。",
     "2026-11-02第42轮对001—020 20章135731汉字完整冷读并核原24项及十问；23项有正文承接、《右边那张床》暂缓；文学冻结不通过。正式记录 editorial/volume01-round42-full-cold-read-freeze-audit-2026-11-02.md。本轮未修改小说正文。",
-    "2026-11-02 R43第二阶段：原典及术语联网核证，建立典故修辞候选/拒绝/实装证据账；在隔离试修分支优化010零的坐标反喻、011物理图像真实感和赵独立质疑、017纸张顺序与录像反衬；总量128914仍未达正式135731，未合并。"
+    "2026-11-02 R43第二阶段：原典及术语联网核证，建立典故修辞候选/拒绝/实装证据账；在隔离试修分支优化010零的坐标反喻、011物理图像真实感和赵独立质疑、017纸张顺序与录像反衬；总量128914仍未达正式135731，未合并。",
+    "2026-11-02第43轮第三阶段最终手术：010、011、014、017、020删除叙述者抢先解释和重复现场；011原评价逐字校验、020最后两句校验、017纸舞未知同夜守住；试修稿127508汉字，仅分支，不合并。"
   ],
   "not_completed": [
     "第一部20章尚未全书文学冻结，世界文学水准仍需后续成书后通读、作者核对和外部读者检验",
@@ -81,7 +82,8 @@
     "第17章纸张递送/舞蹈演出日期先后未证，不可假定同晚；高二听到的女生寝室传言仅二手转述",
     "第18—20章真实游戏手势与对白属于文学复合；赵问竹从未对‘我喜欢你’作口头是或否答复",
     "第二部尚未开始，第一部原定不强行抢写高二或大学后续结局",
-    "R43试修还差6817汉字至正式字数下限；不得以引文、成人说理或小说复合冒充实际新增事件。"
+    "第43轮第三阶段草稿低于main正式底线8223汉字；须在第44轮从独立、有证据的行动中补写，不得机械填词。",
+    "009+010及018—020结构A/B和至少两名真正陌生读者的连续试读尚未完成，前期五AI模拟反馈不得冒充真人。"
   ],
   "blockers": [],
   "chapter_003_frozen": false,
@@ -229,7 +231,7 @@
   "hanzi_total_001_to_013": 99736,
   "chapter_013_frozen": false,
   "chapter_013_status": "第35轮现行目录，阶段成文，开放精修，未文学冻结",
-  "next_chapter_title": "第一部第35轮之后的结构终审（不预设新章）",
+  "next_chapter_title": "R44真实生活与信息时机复建",
   "chapter13_literary_audit": "editorial/chapter13-literary-audit-2026-11-01.md",
   "chapter_013_stage_approved": true,
   "hanzi_chapter_014": 8509,
@@ -349,9 +351,9 @@
   "volume_01_round35_context": "editorial/round35-author-handoff-and-standards-2026-11-02.md",
   "hanzi_total": 135731,
   "last_round": 43,
-  "next_round": 43,
-  "literary_freeze_verdict": "R42 full-volume cold read: not passed; R43 revision required",
-  "round43_status": "IN_PROGRESS: five-AI six-document archive; prose surgery comparison branch below baseline, not eligible for main merge",
+  "next_round": 44,
+  "literary_freeze_verdict": "NOT_FROZEN: R43 trial 127508 Hanzi is 8223 below main minimum 135731; unresolved real-reader validation, A/B structure and truth ledger",
+  "round43_status": "DRAFT_STAGE3_COMPLETE: manuscript revised and audited, 127508 Hanzi trial below 135731 main floor; PR unmerged; not literarily frozen",
   "round43_source_reports": "editorial/round43-five-ai/",
   "round43_synthesis": "editorial/round43-five-ai-crossreview-and-action-ledger-2026-11-02.md",
   "round43_base_commit": "1f49f402947dbb7634a20acb2a13f9385a3f5213",
@@ -359,16 +361,45 @@
   "round43_real_human_reader_count": 0,
   "round43_trial": {
     "branch": "editorial/volume01-round43-surgery-20261102",
-    "stage": "stage2_rhetoric_and_source_verified_edits",
-    "trial_total_hanzi": 128914,
+    "stage": "stage3_final_narrator_and_structure_surgery",
+    "trial_total_hanzi": 127508,
     "main_minimum_hanzi": 135731,
-    "remaining_hanzi": 6817,
+    "remaining_hanzi": 8223,
     "chapters_changed_this_stage": [
       "010",
       "011",
-      "017"
+      "014",
+      "017",
+      "020"
     ],
     "manuscript_merge_allowed": false,
-    "allusion_research": "editorial/volume01-round43-stage2-literary-allusions-rhetoric-research-2026-11-02.md"
+    "allusion_research": "editorial/volume01-round43-stage2-literary-allusions-rhetoric-research-2026-11-02.md",
+    "hanzi_deleted_net_this_stage": 1406,
+    "chapter_hanzi": {
+      "001": 7122,
+      "002": 6191,
+      "003": 10349,
+      "004": 10807,
+      "005": 6340,
+      "006": 7253,
+      "007": 7217,
+      "008": 6286,
+      "009": 7537,
+      "010": 5103,
+      "011": 8011,
+      "012": 6327,
+      "013": 6736,
+      "014": 7437,
+      "015": 6527,
+      "016": 6420,
+      "017": 3249,
+      "018": 2703,
+      "019": 3257,
+      "020": 2636
+    },
+    "finished_on": "2026-11-02",
+    "report": "editorial/volume01-round43-stage3-final-surgical-audit-2026-11-02.md",
+    "human_reader_count": 0,
+    "structure_ab_readers": 0
   }
 }
