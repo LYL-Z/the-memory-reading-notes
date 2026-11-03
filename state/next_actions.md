@@ -1,3 +1,18 @@
+# 最新行动：R50最后一轮任务书已发布，等待Kimi执行
+
+> **这只是任务指导提交，不代表R50已开始、更不代表第一部已收口。**
+
+1. Kimi从固定SHA `3881eb880c975ae06aa01455974a24f7391f3546`（R49 ChatGPT PR #16）新建`editorial/volume01-round50-kimi-20261103`；PR base `editorial/volume01-round49-chatgpt-20261103`，Draft，不写main。
+2. 首先逐字读[第50轮完整终轮任务书](../editorial/volume01-round50-kimi-final-task-and-acceptance-2026-11-03.md)与[可复制的启动入口](../editorial/round50-kimi-execution-entry-2026-11-03.md)。
+3. **必须跨分支读取**[Claude三次交流归档PR #14](https://github.com/LYL-Z/the-memory-reading-notes/pull/14)的英文原文和文学方法适配；当前R50基线没有自动合入该兄弟分支。
+4. 本轮只对013／016／017至多三处窗口提出A/B竞争；先读完整18章及现行保护锁，无文学净收益就留原文；官方正文18章136685汉字，正式每commit整卷非递减。
+5. Kimi须提交18章阅读卡、具体竞争账、事件—知情—读者信念图、作者声音与隐私审查、可重跑验证、固定HEAD及PR，再交ChatGPT做**第50轮同轮最终复盘**。
+6. R50结束后马上开始**第二部实际第一章正文**；绝无R51。当前真人试读0、第一部未文学冻结、第二部未开写。
+
+---
+
+## 前一交接记录（R49）
+
 # 当前交接（ChatGPT R49已完成；R50未启动）
 
 - **完整审稿**：[`editorial/volume01-round49-chatgpt-literary-review-2026-11-03.md`](../editorial/volume01-round49-chatgpt-literary-review-2026-11-03.md)。
