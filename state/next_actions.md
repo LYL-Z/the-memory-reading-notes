@@ -1,13 +1,13 @@
-# 最新行动：R50最后一轮任务书已发布，等待Kimi执行
+# 最新行动：R50 Kimi 施工完成，等待 ChatGPT 同轮终审
 
-> **这只是任务指导提交，不代表R50已开始、更不代表第一部已收口。**
+> **R50 是第一部最后一轮。Kimi 已完成施工与自检；ChatGPT 须做第 50 轮内部同轮终审（非 R51）；终审后立即开始第二部第一章正文。**
 
-1. Kimi以固定SHA `3881eb880c975ae06aa01455974a24f7391f3546`（R49 ChatGPT PR #16）为**正文基线**，从本指导分支`editorial/volume01-round50-kimi-guidance-20261103`最新HEAD切出`editorial/volume01-round50-kimi-20261103`，PR base**设为指导分支**；须验证从R49 SHA到指导HEAD没有正文变化。Draft，不写main。
-2. 首先逐字读[第50轮完整终轮任务书](../editorial/volume01-round50-kimi-final-task-and-acceptance-2026-11-03.md)与[可复制的启动入口](../editorial/round50-kimi-execution-entry-2026-11-03.md)。
-3. **必须跨分支读取**[Claude三次交流归档PR #14](https://github.com/LYL-Z/the-memory-reading-notes/pull/14)的英文原文和文学方法适配；当前R50基线没有自动合入该兄弟分支。
-4. 本轮只对013／016／017至多三处窗口提出A/B竞争；先读完整18章及现行保护锁，无文学净收益就留原文；官方正文18章136685汉字，正式每commit整卷非递减。
-5. Kimi须提交18章阅读卡、具体竞争账、事件—知情—读者信念图、作者声音与隐私审查、可重跑验证、固定HEAD及PR，再交ChatGPT做**第50轮同轮最终复盘**。
-6. R50结束后马上开始**第二部实际第一章正文**；绝无R51。当前真人试读0、第一部未文学冻结、第二部未开写。
+1. ChatGPT 从施工分支 `editorial/volume01-round50-kimi-20261103` 固定 HEAD 读取全部交付；对照正文用固定 R49 SHA `3881eb880c975ae06aa01455974a24f7391f3546`。
+2. Kimi 实际改动仅两处：013（P1-A ADOPT，+1，"想说她好像脸红"改为咬住话的行动）；017（P1-C ADOPT，+2，删"勇气"解释句、换成贴纸笔手的动作）。016 判 REJECT，正文与基线逐字节相同。官方总量 136,688（+3，逐 commit 非递减已验证）。
+3. 复审优先级（Kimi 自报无把握处）：013 第二段删"我听见自己说'不知道'"是否损失 UNKNOWN 词族呼应；017"还没有伸手／手朝我伸过来"两拍衔接；016 拒绝是否成立（新候选须先过"不新增回忆细节"门）。
+4. 验证：`python scripts/verify_volume01_round50_kimi.py`（应 PASS；其中 R49 旧校验器的失败属预期，勿"修复"）。回退：`git revert 5dccf33` 或按段回退（见手术账本回退条件）；回退后总量不得低于 136,685。
+5. ChatGPT 裁决出口：接受／局部回退／极有限同轮修正（汉字不递减）→ `R50_FINAL_EDITORIAL_CLOSURE_WITH_DISCLOSED_LIMITATIONS` 或明列 `BLOCKED`。**无 R51。**
+6. 终审完成后立即按 `editorial/volume02-after-r50-first-chapter-brief.md` 开写 `manuscript/volume-02/001.md` 正文；真人试读 0、第一部未文学冻结、第二部未开写（截至本提交）。
 
 ---
 

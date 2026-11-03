@@ -1,0 +1,168 @@
+{
+  "round": 50,
+  "base_commit": "3881eb880c975ae06aa01455974a24f7391f3546",
+  "base_hanzi": 136685,
+  "chapter_count": 18,
+  "chapter_hanzi": {
+    "001": 7737,
+    "002": 10575,
+    "003": 11050,
+    "004": 11915,
+    "005": 6168,
+    "006": 7255,
+    "007": 8175,
+    "008": 7084,
+    "009": 7860,
+    "010": 5049,
+    "011": 9185,
+    "012": 6320,
+    "013": 6753,
+    "014": 7370,
+    "015": 6329,
+    "016": 5404,
+    "017": 5534,
+    "018": 6925
+  },
+  "chapter_delta_from_r49_chatgpt": {
+    "001": 0,
+    "002": 0,
+    "003": 0,
+    "004": 0,
+    "005": 0,
+    "006": 0,
+    "007": 0,
+    "008": 0,
+    "009": 0,
+    "010": 0,
+    "011": 0,
+    "012": 0,
+    "013": 1,
+    "014": 0,
+    "015": 0,
+    "016": 0,
+    "017": 2,
+    "018": 0
+  },
+  "total_hanzi": 136688,
+  "net_hanzi": 3,
+  "official_history": [
+    {
+      "commit": "3881eb880c975ae06aa01455974a24f7391f3546",
+      "hanzi": 136685
+    },
+    {
+      "commit": "37d339c621585a7238e904480b46f7918c344263",
+      "hanzi": 136685
+    },
+    {
+      "commit": "7badf2280ce6ff7a136724aed05bef4b97b94f47",
+      "hanzi": 136685
+    },
+    {
+      "commit": "1efc6d0fcfa74138e4ff89d634a40341bf1bd83c",
+      "hanzi": 136685
+    },
+    {
+      "commit": "01463457be5b60cf38f3db158109813da7c7ecc3",
+      "hanzi": 136685
+    },
+    {
+      "commit": "5424842e431170b4ce184475e0e667d0c933ff9a",
+      "hanzi": 136685
+    },
+    {
+      "commit": "8fb847d39a8d8116d606a701e2660f9fe02057b9",
+      "hanzi": 136685
+    },
+    {
+      "commit": "c26fc695cd636a36f58240aef32c06da2a2bac34",
+      "hanzi": 136685
+    },
+    {
+      "commit": "3a11e39b464fc3b04b1f8e62d9f6f2dd0681e1d5",
+      "hanzi": 136685
+    },
+    {
+      "commit": "f377054e24740b661eb238cb346c316c71706923",
+      "hanzi": 136685
+    },
+    {
+      "commit": "5dccf33657aee84f9469d0249550440a0524b0b8",
+      "hanzi": 136688
+    }
+  ],
+  "all_official_versions_non_decreasing": true,
+  "next_official_version_minimum": 136688,
+  "surgeries": {
+    "P1-A-013": "ADOPT (+1)",
+    "P1-B-016": "REJECT_KEEP_ORIGINAL (byte-identical to base)",
+    "P1-C-017": "ADOPT (+2)"
+  },
+  "protected_original_evaluation_equal": true,
+  "protected_last_two_lines_equal": true,
+  "protected_017_latest_author_version": true,
+  "protected_017_three_visibilities": true,
+  "protected_018_core_facts": true,
+  "protected_013_unknown_blush": true,
+  "r49_fact_repairs_intact": [
+    "001 university duration",
+    "003 final exam postponed not permanently cancelled"
+  ],
+  "manuscript_sha256_normalized_lf": {
+    "001.md": "b32d6bcb3a6247b87e280c42a4d46b54138746d1600457e01494cf58a7184c08",
+    "002.md": "0d9f7e284ae7bb8c86acfbbdf6672990fd9e66eb643e382bbc5fb3ee160befb0",
+    "003.md": "6c35efd8c60dbaf9d99fa7685f7fae30398c805d138fa6e4c16f0f30caf078d4",
+    "004.md": "3a0e9e2ec385254c6c347401982df2a4daf4239f2422469dc919582f206561d9",
+    "005.md": "059394ba2bd61cb870bf8a5af184381687df7ab513c25685308669ace1abaca6",
+    "006.md": "b56063b55111d2c97832016d848d61e54c7dc421e5a4b2d127ce50b08a874e78",
+    "007.md": "951f04a7a35249fb80c0c03aa7ec3065a17226d9a581d95fd9eb052a25789193",
+    "008.md": "8134ffa053e8ee90946a17d1824f6f1cd4cb47379595370df3daf9f85cdc5db0",
+    "009.md": "993dd812a6fadb22c45090c7c04e542b7db946ae9f7bbf2299df513d8fb0a4cb",
+    "010.md": "8d210d72483ac5e2fc20f87fe83d72547b376fb6ae117b2a4b67f07043d8cf65",
+    "011.md": "dbfb34d74cebd0d81a9f64a315392fabbd0e5da85c770d93634448b3d288bd16",
+    "012.md": "a602fec86cc4e8d6a4e5d40da03f8a3f2199e27f231f827e2dc478a5a510e0fb",
+    "013.md": "0ada038fa7037d4e6db26600550d7fd8f15a68201f8ffa925b531a95af8c32f2",
+    "014.md": "4029cbe29a48e2741b8bc84772d37be47b9065e5fc03f51722e4904b28aadadd",
+    "015.md": "ba54172ee1cd224bd008b1cd242fd741f36b9f1169ba5bf892729c7386cc3156",
+    "016.md": "83c4c07902610d55442436b8ba4ba9785b9fb50d5f006058f2ce69ea47b61ad4",
+    "017.md": "ae7a5cf52ba0c47d527b8ce0cd59e78859c4e7747bc5f539a33c2bb9b97a5969",
+    "018.md": "ba825ad263285206bbb79d946e94015fc33bfa99665885a5fd82c4504807aeb6"
+  },
+  "read_receipt_matches": true,
+  "full_current_volume_cold_read_this_round": true,
+  "independent_blind_human_read": false,
+  "human_readers": 0,
+  "literary_frozen": false,
+  "main_merge_allowed": false,
+  "source_vault_modified": false,
+  "commands": [
+    {
+      "command": "python scripts/hanzi_count.py (self-test)",
+      "exit_code": 0,
+      "stdout": "hanzi_count self-test ok",
+      "stderr": ""
+    },
+    {
+      "command": "git diff --check (working tree)",
+      "exit_code": 0,
+      "stdout": "",
+      "stderr": ""
+    },
+    {
+      "command": "git diff --check (committed BASE..HEAD)",
+      "exit_code": 2,
+      "stdout": "editorial/volume01-round50-kimi-final-task-and-acceptance-2026-11-03.md:3: trailing whitespace.\n+**执行者：Kimi K3.1 Pro（文学创作者＋严格审稿人＋GitHub执行者）**  \neditorial/volume01-round50-kimi-final-task-and-acceptance-2026-11-03.md:4: trailing whitespace.\n+**终审者：ChatGPT（第50轮内部独立复盘，非第51轮）**  \neditorial/volume01-round50-kimi-final-task-and-acceptance-2026-11-03.md:5: trailing whitespace.\n+**委托人／最终表达裁决：刘佑林（刘主席）**  \neditorial/volume01-round50-kimi-final-task-and-acceptance-2026-11-03.md:6: trailing whitespace.\n+**编制日期：2026-11-03**",
+      "stderr": ""
+    },
+    {
+      "command": "python scripts/verify_volume01_round49_kimi.py (expected-fail record)",
+      "exit_code": 1,
+      "stdout": "",
+      "stderr": "Traceback (most recent call last):\n  File \"D:\\The Memory\\tmp\\reading-notes-r50-kimi\\scripts\\verify_volume01_round49_kimi.py\", line 84, in <module>\n    assert receipt[\"current_manuscript_sha256_normalized_lf\"] == hashes, \"Read receipt belongs to other text\"\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\nAssertionError: Read receipt belongs to other text"
+    }
+  ],
+  "r49_verifier_expected_failure_recorded": true,
+  "not_run": [],
+  "development_failures": [],
+  "scope_note": "Machine invariants only; no literary-quality or human-reader certification. The R49 verifier failing on R50 text is by design (fixed old floor and old receipt hashes); it is recorded under commands, not silenced."
+}
