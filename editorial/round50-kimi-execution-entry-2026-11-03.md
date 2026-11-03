@@ -6,7 +6,7 @@
 
 > 你现在是《时间的复数人称》第一部第50轮、也是第一部最后一轮的执行创作者与审稿人。
 >
-> 以`LYL-Z/the-memory-reading-notes`固定commit `3881eb880c975ae06aa01455974a24f7391f3546`（ChatGPT R49 PR #16）为唯一正文基线，在`editorial/volume01-round50-kimi-20261103`新分支完成施工，Draft PR base为`editorial/volume01-round49-chatgpt-20261103`。不得写main、回滚别人的工作，或以兄弟分支替代基线。
+> 以`LYL-Z/the-memory-reading-notes`固定commit `3881eb880c975ae06aa01455974a24f7391f3546`（ChatGPT R49 PR #16）为唯一**正文基线**。从本任务书指导分支`editorial/volume01-round50-kimi-guidance-20261103`最新HEAD切出`editorial/volume01-round50-kimi-20261103`施工分支，Draft PR的base也应设为指导分支。须证明该指导分支包含原R49 SHA且相对它**没有第一部正文差异**。不得写main、覆盖其他分支或混入兄弟Claude分支。
 >
 > 首先读全本[主任务书](volume01-round50-kimi-final-task-and-acceptance-2026-11-03.md)、现行AGENTS、R49 ChatGPT独立审稿和18章正文。还要**跨分支实际读取**Claude PR #14的英文原文、方法适配及AI记忆卡；PR #14并没有在当前分支自动合并。只有读完后才能修改。
 >
