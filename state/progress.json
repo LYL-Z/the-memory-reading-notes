@@ -121,5 +121,9 @@
   "round50_guidance_status": "PUBLISHED_AWAITING_KIMI_EXECUTION",
   "round50_guidance_start_sha": "3881eb880c975ae06aa01455974a24f7391f3546",
   "round50_guidance_task": "editorial/volume01-round50-kimi-final-task-and-acceptance-2026-11-03.md",
-  "round50_guidance_entry": "editorial/round50-kimi-execution-entry-2026-11-03.md"
+  "round50_guidance_entry": "editorial/round50-kimi-execution-entry-2026-11-03.md",
+  "round50_guidance_pr": 17,
+  "round50_guidance_pr_url": "https://github.com/LYL-Z/the-memory-reading-notes/pull/17",
+  "round50_implementation_branch": "editorial/volume01-round50-kimi-20261103",
+  "round50_implementation_base": "editorial/volume01-round50-kimi-guidance-20261103"
 }
