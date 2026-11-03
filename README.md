@@ -1,6 +1,6 @@
-# R44 Sol独立修订审阅中
+# R44／R45 Sol独立修订审阅中
 
-第一部当前分支正文18章、136404汉字；main未覆盖，尚未文学冻结，真人试读0。先读[state/progress.json](state/progress.json)、[本轮修改记录](editorial/volume01-round44-sol-editing-ledger.md)、[技法手册](editorial/literary-craft-playbook-for-volume-02.md)及[交接书](editorial/handoff-to-chatgpt-literary-craft-round44-sol.md)。
+第一部当前分支正文18章、135916汉字；R45编辑连续通读及16处接缝修复已做，main未覆盖，尚未文学冻结，真人试读0。先读[state/progress.json](state/progress.json)、[R45通读结论](editorial/volume01-round45-sol-continuous-read.md)、[R45修改账](editorial/volume01-round45-sol-editing-ledger.md)、[本轮修改记录](editorial/volume01-round44-sol-editing-ledger.md)、[技法手册](editorial/literary-craft-playbook-for-volume-02.md)及[交接书](editorial/handoff-to-chatgpt-literary-craft-round44-sol.md)。
 
 以下为既有项目介绍，历史数字以现行状态为准。
 

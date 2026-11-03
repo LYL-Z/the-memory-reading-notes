@@ -1,0 +1,162 @@
+{
+  "date": "2026-11-03",
+  "reader": "本轮编辑AI本人",
+  "full_read_source_commit": "9934d2389098888a03cac7abe0d3147f5c5e70c9",
+  "full_read_completed": true,
+  "order": "001至018顺序完整阅读；003/004/006/007工具省略范围已补读",
+  "is_independent_blind": false,
+  "human_readers": 0,
+  "files": [
+    {
+      "file": "manuscript/volume-01/001.md",
+      "lines": 315,
+      "read_range": "1-315",
+      "sha256_normalized_lf": "6dd405ad75ccf1d7444dc06b504004d6eff958c7e1fcfaffe574d17f082ed8da",
+      "hanzi": 7777
+    },
+    {
+      "file": "manuscript/volume-01/002.md",
+      "lines": 307,
+      "read_range": "1-307",
+      "sha256_normalized_lf": "08694ea73dd57922e6cbcaf0b1cc923e3510548319e284ce0bc0f3c621d35b45",
+      "hanzi": 10291
+    },
+    {
+      "file": "manuscript/volume-01/003.md",
+      "lines": 261,
+      "read_range": "1-261",
+      "sha256_normalized_lf": "2586b43146c73f5d9600aa6f7911f9240a52b906a9ffa6b567751f90edc698cc",
+      "hanzi": 11043
+    },
+    {
+      "file": "manuscript/volume-01/004.md",
+      "lines": 281,
+      "read_range": "1-281",
+      "sha256_normalized_lf": "43a0e9207a28526ca7fb3f2769b81428393effb39b8f945dbbfd049fe0742a59",
+      "hanzi": 11898
+    },
+    {
+      "file": "manuscript/volume-01/005.md",
+      "lines": 197,
+      "read_range": "1-197",
+      "sha256_normalized_lf": "11d98bb9a40c52551405cc82dc82c82ef093edf7998fb5601c8594192667e8b7",
+      "hanzi": 6340
+    },
+    {
+      "file": "manuscript/volume-01/006.md",
+      "lines": 221,
+      "read_range": "1-221",
+      "sha256_normalized_lf": "b56063b55111d2c97832016d848d61e54c7dc421e5a4b2d127ce50b08a874e78",
+      "hanzi": 7255
+    },
+    {
+      "file": "manuscript/volume-01/007.md",
+      "lines": 223,
+      "read_range": "1-223",
+      "sha256_normalized_lf": "755ad97e746e9291b289e07be861d81dfb234d4a84cf489f9036dcad162467bc",
+      "hanzi": 7663
+    },
+    {
+      "file": "manuscript/volume-01/008.md",
+      "lines": 323,
+      "read_range": "1-323",
+      "sha256_normalized_lf": "f64c02634c85f2f88633efd787e4799172bc4777708f156601569032a541fb8e",
+      "hanzi": 7674
+    },
+    {
+      "file": "manuscript/volume-01/009.md",
+      "lines": 297,
+      "read_range": "1-297",
+      "sha256_normalized_lf": "3d1c1f08062a9e190c30c21dec0bdb66bac0d342cafba1a25861aef78502397b",
+      "hanzi": 7484
+    },
+    {
+      "file": "manuscript/volume-01/010.md",
+      "lines": 227,
+      "read_range": "1-227",
+      "sha256_normalized_lf": "022e2d6b37b65bc83ca66d9db92be7269b6b252fa47828a760b527208c5236fe",
+      "hanzi": 5008
+    },
+    {
+      "file": "manuscript/volume-01/011.md",
+      "lines": 329,
+      "read_range": "1-329",
+      "sha256_normalized_lf": "ea365a1ddeca6a2022f07f61ab05f835fdf2afc0502db6e74263eb9c29b8e317",
+      "hanzi": 9018
+    },
+    {
+      "file": "manuscript/volume-01/012.md",
+      "lines": 223,
+      "read_range": "1-223",
+      "sha256_normalized_lf": "ee5b9abd3b526a7b41e28c58d9ffa453d1c29860ea84bf6b97364922a060a863",
+      "hanzi": 6327
+    },
+    {
+      "file": "manuscript/volume-01/013.md",
+      "lines": 267,
+      "read_range": "1-267",
+      "sha256_normalized_lf": "fccbc245c02ab211437595aaec29362498d35ffdf8c75a59ae84771ccbf63582",
+      "hanzi": 6727
+    },
+    {
+      "file": "manuscript/volume-01/014.md",
+      "lines": 375,
+      "read_range": "1-375",
+      "sha256_normalized_lf": "6ff4d8c4c7d9bc9b38bc86142cf8adaf4825741192296e99e05932a4715a03d6",
+      "hanzi": 7351
+    },
+    {
+      "file": "manuscript/volume-01/015.md",
+      "lines": 281,
+      "read_range": "1-281",
+      "sha256_normalized_lf": "03c3ac5ca38c209f959b9ed546df2261b94ef24651150ce6cc747882b2952037",
+      "hanzi": 6388
+    },
+    {
+      "file": "manuscript/volume-01/016.md",
+      "lines": 245,
+      "read_range": "1-245",
+      "sha256_normalized_lf": "62fe0566ca432ca0bda4207f6ebbaf4cb6b5076a45c53cc651aa9b22d4771f55",
+      "hanzi": 5767
+    },
+    {
+      "file": "manuscript/volume-01/017.md",
+      "lines": 127,
+      "read_range": "1-127",
+      "sha256_normalized_lf": "d3580d52bbdbb704aa90beb4c7e4ce0fd47ecb505afbca44a54a421347ead361",
+      "hanzi": 5495
+    },
+    {
+      "file": "manuscript/volume-01/018.md",
+      "lines": 315,
+      "read_range": "1-315",
+      "sha256_normalized_lf": "a108775bd042a92450b4c3feaa1a534537e5dd38e2c096e709b76105e389aa92",
+      "hanzi": 6898
+    }
+  ],
+  "repair_contexts_reviewed": true,
+  "repair_groups": 16,
+  "post_repair_scope": "读全部修稿差异、002回场、008完整领器材场、014持物链、001结尾与018第三节；未声称修后又一次整卷盲读。",
+  "reviewed_final_manuscript_hashes_normalized_lf": {
+    "001.md": "5708df1c84932d3dba900aca3ad926a9afc4d85542b6bbab891e790277a735cd",
+    "002.md": "0f64e416e7215342dc0a831c06d0b57177b4ea1b3a30324e6bbc09e4097b60ae",
+    "003.md": "c58405414eed86307b8c21dfaa87d3f53cc4727f65e60af20386920a8144f089",
+    "004.md": "43a0e9207a28526ca7fb3f2769b81428393effb39b8f945dbbfd049fe0742a59",
+    "005.md": "11d98bb9a40c52551405cc82dc82c82ef093edf7998fb5601c8594192667e8b7",
+    "006.md": "b56063b55111d2c97832016d848d61e54c7dc421e5a4b2d127ce50b08a874e78",
+    "007.md": "7959a188f9c3f6d1a703b483e2098fb7a75dec84d4391703ccdb4bc87c21c351",
+    "008.md": "015bb68c7727228bcf7f17321debd94d15b648c696242f253ccb8a6bfb0823eb",
+    "009.md": "05a2b848a3944302f2e05a1a605208eb5f23fe76c76d1b9b7dd23621345cdb08",
+    "010.md": "022e2d6b37b65bc83ca66d9db92be7269b6b252fa47828a760b527208c5236fe",
+    "011.md": "ce77444c6034d0ca888e0669516a2be5c3be90165d1f1db29197953558b251af",
+    "012.md": "c29bbc8c0f063a3899bc361eaa812be323d5b93b6b8895f15ebe6830811e8369",
+    "013.md": "fccbc245c02ab211437595aaec29362498d35ffdf8c75a59ae84771ccbf63582",
+    "014.md": "8d2bdd978dc40e0cf3ced93af4bd9354c259696e4953411409594c05fb954b33",
+    "015.md": "03c3ac5ca38c209f959b9ed546df2261b94ef24651150ce6cc747882b2952037",
+    "016.md": "fa2fe0ec7b0790bd7b2f5d82e84168e2481d2358b40857678da4d882f601e7b9",
+    "017.md": "580f3f7fa87762981a4d407f9a95ab47329b5cb89026d5122bd03e2c26a63734",
+    "018.md": "2ca7cbd9d9cd96b699c2ecc586f3a82d8ce5b46e63d6961cfa16896b2e69445d"
+  },
+  "signed_record": "editorial/volume01-round45-sol-continuous-read.md",
+  "evidence_limit": "指纹用于绑定版本；代码生成本文件不构成阅读凭证本身，实际阅读范围与判断见署名记录。没有重新通审源库或旧报告。"
+}

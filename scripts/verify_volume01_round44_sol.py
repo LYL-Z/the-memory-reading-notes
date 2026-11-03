@@ -1,4 +1,4 @@
-"""R44文本完整性核验。不能代替文学连读或真人试读。"""
+"""R44/R45文本完整性核验。阅读状态引用署名记录，脚本不证明阅读或文学效果。"""
 from pathlib import Path
 import collections
 import difflib
@@ -41,6 +41,14 @@ three = "\n\n".join((ab / "three-chapters" / f"{i:03}.md").read_text(encoding="u
 assert normalize(three) == normalize(current[-1]), "终场同词对照已漂移"
 assert normalize((ab / "009-010-one-chapter.md").read_text(encoding="utf-8")) == normalize(current[8] + "\n\n" + current[9])
 counts = {p.stem: count(s) for p, s in zip(paths, current)}
+hashes = {p.name: hashlib.sha256(s.encode("utf-8")).hexdigest() for p, s in zip(paths, current)}
+receipt_path = ROOT / "editorial/round45-sol/read-receipt.json"
+receipt = json.loads(receipt_path.read_text(encoding="utf-8")) if receipt_path.exists() else {}
+read_current = bool(
+    receipt.get("full_read_completed")
+    and receipt.get("repair_contexts_reviewed")
+    and receipt.get("reviewed_final_manuscript_hashes_normalized_lf") == hashes
+)
 total = sum(counts.values())
 assert total >= 135731
 paragraphs = lambda ss: [p.strip() for p in body("\n\n".join(ss)).split("\n\n") if p.strip()]
@@ -64,17 +72,21 @@ result = {
     "gross_paragraph_added_hanzi": added,
     "gross_paragraph_deleted_hanzi": deleted,
     "gross_note": "含整段重写，不是全部新增史料；全卷对齐避免将终场迁移虚计成新故事",
-    "manuscript_sha256_normalized_lf": {p.name: hashlib.sha256(s.encode("utf-8")).hexdigest() for p, s in zip(paths, current)},
+    "manuscript_sha256_normalized_lf": hashes,
     "hash_note": "UTF-8、LF换行的正文文件指纹；避免Windows检出CRLF使同文异哈希",
     "protected_original_evaluation_equal": True,
     "protected_last_two_lines_equal": True,
     "same_word_terminal_ab_equal": True,
     "same_word_009_010_ab_equal": True,
     "human_readers": 0,
-    "full_new_continuous_cold_read_complete": False,
+    "full_new_continuous_cold_read_complete": read_current,
+    "continuous_read_is_independent_blind": False,
+    "continuous_read_source_commit": receipt.get("full_read_source_commit"),
+    "reading_receipt": "editorial/round45-sol/read-receipt.json" if receipt else None,
+    "reading_status_note": "阅读状态来自编辑署名记录与修后指纹匹配，不是脚本读文件即视为通读；整读R44候选后修16处，回读差异与上下文，未假称修后再全卷盲读。" if read_current else "尚无覆盖当前正文指纹的完整通读及修后回读记录。",
     "literary_frozen": False,
     "main_merge_allowed": False,
-    "verification_scope": "继承R43全文阅读；核本轮差异、场景与上下文、终章全文、首尾、题理、计数与来源边界。不是新稿再次整卷盲读或真人效果。",
+    "verification_scope": "R44候选18章按顺序全文阅读，修后回读16处差异及接缝、首尾；脚本核计数、指纹、保护引文与同词A/B。原库审查沿用前轮，不冒称此次重新全库审计；不是陌生真人效果。" if read_current else "核差异、场景与上下文、首尾、题理、计数与来源边界；完整阅读状态另查署名记录，不由脚本背书。",
 }
 (ROOT / "editorial/round44-sol/verification.json").write_text(json.dumps(result, ensure_ascii=False, indent=2) + "\n", encoding="utf-8", newline="\n")
 print(json.dumps(result, ensure_ascii=False, indent=2))
