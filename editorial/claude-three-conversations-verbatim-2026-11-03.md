@@ -11,7 +11,7 @@ Short version: nonlinear structure and unreliable narration both work by control
 
 **Why Nolan's structures work**
 
-Nolan never scrambles time arbitrarily. Each structure is a mechanism that mirrors the theme. *Memento* runs backward because the protagonist can't form new memories, so we're disoriented exactly as he is. *Dunkirk* runs a week, a day, and an hour in parallel because the experience of the event is the point. *The Prestige* is built like a magic trick: pledge, turn, prestige. Before you design your timeline, finish this sentence: "The reader experiences the story out of order because ____." If you can't fill it in, the structure will feel like a gimmick.
+Nolan never scrambles time arbitrarily. Each structure is a mechanism that mirrors the theme. *Memento* runs backward because the protagonist can't form new memories, so we're disoriented exactly as he is. *Dunkirk* runs a week, a day, and an hour in parallel because the experience of the event is the point. *The Prestige* is built like a magic trick: pledge, turn, prestige. Before you design your timeline, finish this sentence: "The reader experiences the story out of order because \_\_\_\_." If you can't fill it in, the structure will feel like a gimmick.
 
 He also sets rules early and never cheats them, and he always gives the audience a clear question to hold onto while the timeline fragments. Confusion is fine as long as the reader knows what they're confused about.
 
@@ -87,7 +87,7 @@ Autobiography and Nolan-style unreliable narration fit together better than almo
 Think about *Memento*. Leonard's Polaroids, tattoos, and notes are a personal knowledge base that he curates, and the tragedy is that he edits it. He decides what to record, and at some point he starts falsifying it to give himself a mission. Your GitHub repo is structurally the same object. The question the book can ask is: who has been editing this record, and why?
 
 **1. Let the structure be the shape of avoidance.**\
-&#x20;Finish the sentence from before: "The reader experiences the story out of order because ____." In an autobiographical novel, the best answer is usually "because that's the order in which the narrator can bear to remember." Sebald, Carson's *Nox*, and Ferrante all circle the event they can't approach directly. Pick the thing you've been avoiding, and let the timeline spiral toward it. By the time the reader arrives, the structure itself should have explained why you couldn't go there straight on.
+&#x20;Finish the sentence from before: "The reader experiences the story out of order because \_\_\_\_." In an autobiographical novel, the best answer is usually "because that's the order in which the narrator can bear to remember." Sebald, Carson's *Nox*, and Ferrante all circle the event they can't approach directly. Pick the thing you've been avoiding, and let the timeline spiral toward it. By the time the reader arrives, the structure itself should have explained why you couldn't go there straight on.
 
 **2. Use three versions of every key event.**
 
