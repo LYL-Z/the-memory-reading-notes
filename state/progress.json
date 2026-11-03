@@ -21,7 +21,7 @@
   "hanzi_chapter_003": 10349,
   "hanzi_chapter_003_previous": 8382,
   "hanzi_chapter_003_net": 4228,
-  "next_chapter": "R43 全卷结构/语言返工：优先017事实指代与高二传闻迁移、010/014篇幅与后果、011评价减解释、012—016连续节奏、018—020终场留白；第一部总字数不得低于135731汉字。",
+  "next_chapter": "R43第二阶段已试改010、011、017，联网考证经典、外文与物理术语；分支128914汉字，离正式最低135731差6817，仍不得合并。下一步真实源材料扩写、009+010和018—020结构A/B、时间证据校勘、整卷冷读及两名真人读者。",
   "scan": {
     "files": 5886,
     "bytes": 1091342983,
@@ -72,14 +72,16 @@
     "2026-11-01第三十二轮：比照主线原稿逐章修订第一部001—019，增强001江安室友边界、002父母家务、004抽签组座、005—016赵问竹独立班务/学习/青春日常与群像，003补数学作业与竹席的身体场面，017—019将三人称追问—二人称告白—复数笑声中重复解释改为课堂动作。各章汉字数只增不减，正文总计由125980增至130148，净增4168。来源核对只读库时间线/人物档案/用户口述；赵的心理与第三方转述不升格为客观事实。未文学冻结；《525》结构负担/右边那张床独立素材/竹林杯独立拆章待进一步评估。",
     "第三十四轮：吸收作者关于手机、铁路、技术兴趣、自我矛盾的口述，并修订001、002、003、004、007、008、009、014；审稿撤回010和011两段冗余新增。",
     "2026-11-02第三十五轮：第3章分离竹林杯与高二转述成为现行第17章；原17—19顺移为18—20并删减重复概括；深化001、002、004、007和525；复核未改动的005—016章事实与连续性；19→20章，正文134078→134303汉字（+225），未文学冻结。",
-    "2026-11-02第42轮对001—020 20章135731汉字完整冷读并核原24项及十问；23项有正文承接、《右边那张床》暂缓；文学冻结不通过。正式记录 editorial/volume01-round42-full-cold-read-freeze-audit-2026-11-02.md。本轮未修改小说正文。"
+    "2026-11-02第42轮对001—020 20章135731汉字完整冷读并核原24项及十问；23项有正文承接、《右边那张床》暂缓；文学冻结不通过。正式记录 editorial/volume01-round42-full-cold-read-freeze-audit-2026-11-02.md。本轮未修改小说正文。",
+    "2026-11-02 R43第二阶段：原典及术语联网核证，建立典故修辞候选/拒绝/实装证据账；在隔离试修分支优化010零的坐标反喻、011物理图像真实感和赵独立质疑、017纸张顺序与录像反衬；总量128914仍未达正式135731，未合并。"
   ],
   "not_completed": [
     "第一部20章尚未全书文学冻结，世界文学水准仍需后续成书后通读、作者核对和外部读者检验",
     "原24项文学任务尚需逐项严格对照验收；《右边那张床》缺独立真实事件仍暂缓",
     "第17章纸张递送/舞蹈演出日期先后未证，不可假定同晚；高二听到的女生寝室传言仅二手转述",
     "第18—20章真实游戏手势与对白属于文学复合；赵问竹从未对‘我喜欢你’作口头是或否答复",
-    "第二部尚未开始，第一部原定不强行抢写高二或大学后续结局"
+    "第二部尚未开始，第一部原定不强行抢写高二或大学后续结局",
+    "R43试修还差6817汉字至正式字数下限；不得以引文、成人说理或小说复合冒充实际新增事件。"
   ],
   "blockers": [],
   "chapter_003_frozen": false,
@@ -96,7 +98,7 @@
   "hanzi_chapter_003_oral_addition": 744,
   "hanzi_chapter_004_before_oral_addendum": 5188,
   "hanzi_chapter_004_oral_addition": 600,
-  "editorial_round": 35,
+  "editorial_round": 43,
   "hanzi_chapter_001_before_style_round": 5175,
   "hanzi_chapter_001_style_round_net": 1,
   "hanzi_chapter_002_before_style_round": 4887,
@@ -354,5 +356,19 @@
   "round43_synthesis": "editorial/round43-five-ai-crossreview-and-action-ledger-2026-11-02.md",
   "round43_base_commit": "1f49f402947dbb7634a20acb2a13f9385a3f5213",
   "round43_main_hanzi_floor": 135731,
-  "round43_real_human_reader_count": 0
+  "round43_real_human_reader_count": 0,
+  "round43_trial": {
+    "branch": "editorial/volume01-round43-surgery-20261102",
+    "stage": "stage2_rhetoric_and_source_verified_edits",
+    "trial_total_hanzi": 128914,
+    "main_minimum_hanzi": 135731,
+    "remaining_hanzi": 6817,
+    "chapters_changed_this_stage": [
+      "010",
+      "011",
+      "017"
+    ],
+    "manuscript_merge_allowed": false,
+    "allusion_research": "editorial/volume01-round43-stage2-literary-allusions-rhetoric-research-2026-11-02.md"
+  }
 }
