@@ -8,7 +8,8 @@
 - 指导分支起点：`af2957db948a1366ac991160d3a96a4704701e1c`。
 - Kimi工作分支：`editorial/volume01-round48-kimi-20261103`。
 - 当前Kimi正文：18章，**136,641汉字，净增8**。
-- R48最终HEAD与PR链接：在分支提交后补记于PR正文及最终交付；请以实际Git HEAD为准，不以main旧版为正文。
+- R48首次完整提交：`aeceb27ca8c656050e7be35782a3901ae41a99d1`。
+- Draft PR：[#11](https://github.com/LYL-Z/the-memory-reading-notes/pull/11)，base为指导分支；最终HEAD以该PR顶部提交为准，不以main旧版为正文。
 
 ## 必读入口
 

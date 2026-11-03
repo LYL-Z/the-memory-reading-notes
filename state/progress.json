@@ -11,6 +11,8 @@
   "round46_status": "THREE_NONCANONICAL_PILOTS_S11_AND_TWO_FORMAL_REPAIRS_DONE_FULL_ADOPTION_PENDING",
   "round47_status": "EDITORIAL_REVISION_COMPLETE_READER_VALIDATION_PENDING",
   "round48_status": "KIMI_REVISION_COMPLETE_CHATGPT_INTERNAL_REVIEW_PENDING",
+  "round48_pr": 11,
+  "round48_first_complete_commit": "aeceb27ca8c656050e7be35782a3901ae41a99d1",
   "chapter_count": 18,
   "hanzi_total": 136641,
   "volume_01_main_hanzi_floor": 136633,
