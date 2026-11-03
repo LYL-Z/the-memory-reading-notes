@@ -135,10 +135,10 @@
     }
   ],
   "repair_contexts_reviewed": true,
-  "repair_groups": 16,
-  "post_repair_scope": "读全部修稿差异、002回场、008完整领器材场、014持物链、001结尾与018第三节；未声称修后又一次整卷盲读。",
+  "repair_groups": 18,
+  "post_repair_scope": "R45整读9934d23后回读16处差异及接缝；R46三试版全读，并回读F01/F02正式时段与拾物、S11新增全文与001前后。未声称修后再次整卷盲读。",
   "reviewed_final_manuscript_hashes_normalized_lf": {
-    "001.md": "5708df1c84932d3dba900aca3ad926a9afc4d85542b6bbab891e790277a735cd",
+    "001.md": "6d5ff2d0930041f07a635a0601cae555df2c60220cc1ae27b3c89733d481689e",
     "002.md": "0f64e416e7215342dc0a831c06d0b57177b4ea1b3a30324e6bbc09e4097b60ae",
     "003.md": "c58405414eed86307b8c21dfaa87d3f53cc4727f65e60af20386920a8144f089",
     "004.md": "43a0e9207a28526ca7fb3f2769b81428393effb39b8f945dbbfd049fe0742a59",
@@ -147,16 +147,24 @@
     "007.md": "7959a188f9c3f6d1a703b483e2098fb7a75dec84d4391703ccdb4bc87c21c351",
     "008.md": "015bb68c7727228bcf7f17321debd94d15b648c696242f253ccb8a6bfb0823eb",
     "009.md": "05a2b848a3944302f2e05a1a605208eb5f23fe76c76d1b9b7dd23621345cdb08",
-    "010.md": "022e2d6b37b65bc83ca66d9db92be7269b6b252fa47828a760b527208c5236fe",
+    "010.md": "c2beb8a83e21388d6f5fe29360165e60cde76ce372a1d573f5bb3c098d252154",
     "011.md": "ce77444c6034d0ca888e0669516a2be5c3be90165d1f1db29197953558b251af",
     "012.md": "c29bbc8c0f063a3899bc361eaa812be323d5b93b6b8895f15ebe6830811e8369",
     "013.md": "fccbc245c02ab211437595aaec29362498d35ffdf8c75a59ae84771ccbf63582",
-    "014.md": "8d2bdd978dc40e0cf3ced93af4bd9354c259696e4953411409594c05fb954b33",
+    "014.md": "05d3b0c850978615d6357cf1258bf47b0541331ad144e1948f8409e825a1045d",
     "015.md": "03c3ac5ca38c209f959b9ed546df2261b94ef24651150ce6cc747882b2952037",
     "016.md": "fa2fe0ec7b0790bd7b2f5d82e84168e2481d2358b40857678da4d882f601e7b9",
     "017.md": "580f3f7fa87762981a4d407f9a95ab47329b5cb89026d5122bd03e2c26a63734",
     "018.md": "2ca7cbd9d9cd96b699c2ecc586f3a82d8ce5b46e63d6961cfa16896b2e69445d"
   },
   "signed_record": "editorial/volume01-round45-sol-continuous-read.md",
-  "evidence_limit": "指纹用于绑定版本；代码生成本文件不构成阅读凭证本身，实际阅读范围与判断见署名记录。没有重新通审源库或旧报告。"
+  "evidence_limit": "指纹用于绑定版本；代码生成本文件不构成阅读凭证本身，实际阅读范围与判断见署名记录。没有重新通审源库或旧报告。",
+  "addition_scenes": 1,
+  "canonical_total_hanzi": 136474,
+  "work_trial_read_complete": [
+    "010",
+    "014",
+    "018"
+  ],
+  "additional_source_receipt": "editorial/round46-sol/source-read-receipt.json"
 }

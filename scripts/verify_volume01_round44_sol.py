@@ -50,7 +50,12 @@ read_current = bool(
     and receipt.get("reviewed_final_manuscript_hashes_normalized_lf") == hashes
 )
 total = sum(counts.values())
-assert total >= 135731
+# 2026-11-03: the author clarified that each official whole-volume version
+# must not shrink, even when it still exceeds the old 135731 lower bound.
+no_decrease_baseline = 136404  # official candidate 9934d238...
+head_text = [subprocess.check_output(["git", "-C", str(ROOT), "show", f"HEAD:manuscript/volume-01/{p.name}"]).decode("utf-8") for p in paths]
+head_total = sum(count(s) for s in head_text)
+assert total >= max(135731, no_decrease_baseline, head_total), "整卷总量减少，不得提交"
 paragraphs = lambda ss: [p.strip() for p in body("\n\n".join(ss)).split("\n\n") if p.strip()]
 a, b = paragraphs(old), paragraphs(current)
 added = deleted = 0
@@ -65,8 +70,12 @@ result = {
     "chapter_count": len(paths),
     "chapter_hanzi": counts,
     "total_hanzi": total,
-    "minimum": 135731,
-    "margin": total - 135731,
+    "minimum": no_decrease_baseline,
+    "margin": total - no_decrease_baseline,
+    "historical_absolute_minimum": 135731,
+    "margin_from_historical_minimum": total - 135731,
+    "non_decreasing_against_head": True,
+    "length_policy": "整卷不少于续接前9934d23的136404，且不低于提交前HEAD；原135731仅为历史绝对底线。work试版不计正文。",
     "r43_hanzi": 127508,
     "net_from_r43": total - 127508,
     "gross_paragraph_added_hanzi": added,
@@ -83,10 +92,10 @@ result = {
     "continuous_read_is_independent_blind": False,
     "continuous_read_source_commit": receipt.get("full_read_source_commit"),
     "reading_receipt": "editorial/round45-sol/read-receipt.json" if receipt else None,
-    "reading_status_note": "阅读状态来自编辑署名记录与修后指纹匹配，不是脚本读文件即视为通读；整读R44候选后修16处，回读差异与上下文，未假称修后再全卷盲读。" if read_current else "尚无覆盖当前正文指纹的完整通读及修后回读记录。",
+    "reading_status_note": "阅读状态来自编辑署名记录与修后指纹匹配，不是脚本读文件即视为通读；整读R44候选后回读R45/R46正式修稿、新增S11及相关上下文，未假称修后再全卷盲读。" if read_current else "尚无覆盖当前正文指纹的完整通读及修后回读记录。",
     "literary_frozen": False,
     "main_merge_allowed": False,
-    "verification_scope": "R44候选18章按顺序全文阅读，修后回读16处差异及接缝、首尾；脚本核计数、指纹、保护引文与同词A/B。原库审查沿用前轮，不冒称此次重新全库审计；不是陌生真人效果。" if read_current else "核差异、场景与上下文、首尾、题理、计数与来源边界；完整阅读状态另查署名记录，不由脚本背书。",
+    "verification_scope": "R44候选18章按顺序全文阅读，回读后续正式修稿、新增S11及上下文、首尾；三份R46局部试版全文阅读。脚本核不减总量、指纹、保护引文与同词A/B。沿用原证据账，仅额外重读S11相关五件来源，不冒称全库重审；不是陌生真人效果。" if read_current else "核差异、场景与上下文、首尾、题理、计数与来源边界；完整阅读状态另查署名记录，不由脚本背书。",
 }
 (ROOT / "editorial/round44-sol/verification.json").write_text(json.dumps(result, ensure_ascii=False, indent=2) + "\n", encoding="utf-8", newline="\n")
 print(json.dumps(result, ensure_ascii=False, indent=2))
