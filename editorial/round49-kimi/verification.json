@@ -1,0 +1,134 @@
+{
+  "round": 49,
+  "base_commit": "7d03ec3636592ff27a301da250bd366fc380e063",
+  "base_hanzi": 136676,
+  "chapter_count": 18,
+  "chapter_hanzi": {
+    "001": 7737,
+    "002": 10575,
+    "003": 11050,
+    "004": 11915,
+    "005": 6168,
+    "006": 7255,
+    "007": 8175,
+    "008": 7084,
+    "009": 7860,
+    "010": 5049,
+    "011": 9185,
+    "012": 6320,
+    "013": 6752,
+    "014": 7370,
+    "015": 6329,
+    "016": 5404,
+    "017": 5532,
+    "018": 6925
+  },
+  "chapter_delta_from_r48_chatgpt": {
+    "001": -1,
+    "002": 0,
+    "003": 10,
+    "004": 0,
+    "005": 0,
+    "006": 0,
+    "007": 0,
+    "008": 0,
+    "009": 0,
+    "010": 0,
+    "011": 0,
+    "012": 0,
+    "013": 0,
+    "014": 0,
+    "015": 0,
+    "016": 0,
+    "017": 0,
+    "018": 0
+  },
+  "total_hanzi": 136685,
+  "net_hanzi": 9,
+  "official_history": [
+    {
+      "commit": "7d03ec3636592ff27a301da250bd366fc380e063",
+      "hanzi": 136676
+    },
+    {
+      "commit": "ea497c1e898aed7854e5355cbc7b54ea3eba0f9f",
+      "hanzi": 136676
+    },
+    {
+      "commit": "a8725f3f49becd9762cb38a71bfae2acc9c20ec5",
+      "hanzi": 136676
+    },
+    {
+      "commit": "bfe2441c177eb69dde62f9323ceaa429f7209a89",
+      "hanzi": 136676
+    }
+  ],
+  "all_official_versions_non_decreasing": true,
+  "next_official_version_minimum": 136685,
+  "protected_original_evaluation_equal": true,
+  "protected_last_two_lines_equal": true,
+  "protected_017_latest_author_version": true,
+  "protected_018_core_facts": true,
+  "r49_fact_repairs": [
+    "001 university duration",
+    "003 final exam postponed not permanently cancelled"
+  ],
+  "manuscript_sha256_normalized_lf": {
+    "001.md": "b32d6bcb3a6247b87e280c42a4d46b54138746d1600457e01494cf58a7184c08",
+    "002.md": "0d9f7e284ae7bb8c86acfbbdf6672990fd9e66eb643e382bbc5fb3ee160befb0",
+    "003.md": "6c35efd8c60dbaf9d99fa7685f7fae30398c805d138fa6e4c16f0f30caf078d4",
+    "004.md": "3a0e9e2ec385254c6c347401982df2a4daf4239f2422469dc919582f206561d9",
+    "005.md": "059394ba2bd61cb870bf8a5af184381687df7ab513c25685308669ace1abaca6",
+    "006.md": "b56063b55111d2c97832016d848d61e54c7dc421e5a4b2d127ce50b08a874e78",
+    "007.md": "951f04a7a35249fb80c0c03aa7ec3065a17226d9a581d95fd9eb052a25789193",
+    "008.md": "8134ffa053e8ee90946a17d1824f6f1cd4cb47379595370df3daf9f85cdc5db0",
+    "009.md": "993dd812a6fadb22c45090c7c04e542b7db946ae9f7bbf2299df513d8fb0a4cb",
+    "010.md": "8d210d72483ac5e2fc20f87fe83d72547b376fb6ae117b2a4b67f07043d8cf65",
+    "011.md": "dbfb34d74cebd0d81a9f64a315392fabbd0e5da85c770d93634448b3d288bd16",
+    "012.md": "a602fec86cc4e8d6a4e5d40da03f8a3f2199e27f231f827e2dc478a5a510e0fb",
+    "013.md": "4cdc6689d1f68aaa5140b94d69eeac66a96a5a584511308a5b36bfaf12efacb7",
+    "014.md": "4029cbe29a48e2741b8bc84772d37be47b9065e5fc03f51722e4904b28aadadd",
+    "015.md": "ba54172ee1cd224bd008b1cd242fd741f36b9f1169ba5bf892729c7386cc3156",
+    "016.md": "83c4c07902610d55442436b8ba4ba9785b9fb50d5f006058f2ce69ea47b61ad4",
+    "017.md": "1d44a0296f0025d21d38f4bc71551124bcce76265f1c57cdeedf68aa80573333",
+    "018.md": "ba825ad263285206bbb79d946e94015fc33bfa99665885a5fd82c4504807aeb6"
+  },
+  "read_receipt_matches": true,
+  "full_current_volume_cold_read_this_round": true,
+  "independent_blind_human_read": false,
+  "human_readers": 0,
+  "literary_frozen": false,
+  "main_merge_allowed": false,
+  "source_vault_modified": false,
+  "commands": [
+    {
+      "command": "python scripts/verify_volume01_round48_chatgpt.py（阶段0、修改前）",
+      "exit_code": 0,
+      "stdout": "{\"status\":\"PASS\",\"current_hanzi\":136676,\"protected_011_017_018\":true,\"historical_non_decreasing\":true}",
+      "stderr": "",
+      "note": "在R49正文修改前实际运行通过；不将修改后的136685误报到R48固定校验器。"
+    },
+    {
+      "command": "python scripts/hanzi_count.py (self-test)",
+      "exit_code": 0,
+      "stdout": "hanzi_count self-test ok",
+      "stderr": ""
+    },
+    {
+      "command": "git diff --check",
+      "exit_code": 0,
+      "stdout": "",
+      "stderr": ""
+    }
+  ],
+  "not_run": [],
+  "development_failures": [
+    {
+      "command": "R49脚本初稿在修改后重复调用R48固定校验器",
+      "exit_code": 1,
+      "cause": "R48校验器按设计只接受136676，R49正文已为136685；并非正文回退或保护项失败。",
+      "resolution": "保留修改前阶段0的PASS记录，R49使用独立基线比较与保护校验，不把新字数误报到旧校验器。"
+    }
+  ],
+  "scope_note": "Machine invariants only; no literary-quality or human-reader certification."
+}
