@@ -16,7 +16,7 @@
 |---|---|
 | 工作库 | `LYL-Z/the-memory-reading-notes` |
 | 正文与编辑基线 | ChatGPT R49 [PR #16](https://github.com/LYL-Z/the-memory-reading-notes/pull/16) HEAD **`3881eb880c975ae06aa01455974a24f7391f3546`**；此分支包含Kimi R49 [PR #15](https://github.com/LYL-Z/the-memory-reading-notes/pull/15) 的两处事实修正及ChatGPT独立审稿。 |
-| 创建的R50分支 | `editorial/volume01-round50-kimi-20261103`，必须从上述SHA切出；不得从默认main、PR #14的兄弟分支或旧R47/R48分支起跑。 |
+| 创建的R50分支 | `editorial/volume01-round50-kimi-20261103`，**从本任务书分支** \`editorial/volume01-round50-kimi-guidance-20261103\` 的最新HEAD切出；先验证它的祖先包含上述R49 ChatGPT SHA，且从该SHA到指导分支之间没有小说正文差异。不得从默认main、PR #14的兄弟分支或旧R47/R48分支起跑。 |
 | PR target | `editorial/volume01-round49-chatgpt-20261103`，**Draft PR**；只显示R50相对R49 ChatGPT的增量。 |
 | 第一部现状 | `manuscript/volume-01/001.md`—`018.md`，18章，**136,685汉字**；`state/progress.json`中`round50_started=false`。 |
 | 旧轮次 | R48原始计数136,676；R49 Kimi净增9，ChatGPT R49正文零改。不能抹去此历史。 |
@@ -24,7 +24,7 @@
 | 原始记忆库 | `LYL-Z/the-memory`及原Obsidian Vault**只读**；按当前`AGENTS.md`禁止访问／仿写旧连载、退出检索的写作体系及旧结构。 |
 | 字数法律 | 仅`scripts/hanzi_count.py`作正式统计；每一commit整卷总汉字`>=`紧邻前一commit，首个R50 commit须`>=136685`，不得拿editorial文件或非正式试稿充数。 |
 
-执行开始，给出本地Git状态、精确HEAD、上游分支、源码与工具版本、章节数量及官方汉字总数的**实际命令输出**。工作树如有其他人未提交的变动，不覆盖，不做破坏性reset。先创建施工分支与记录，**不要先改正文**。所有实修必须允许一键定位和有理由回退。
+执行开始，给出本地Git状态、精确HEAD、上游分支、源码与工具版本、章节数量及官方汉字总数的**实际命令输出**。工作树如有其他人未提交的变动，不覆盖，不做破坏性reset。先从指导分支创建施工分支，核对相对R49 ChatGPT SHA的正文无变化，再记录和**不要先改正文**。所有实修必须允许一键定位和有理由回退。
 
 ## 1. 必读资料的顺序：少一次错用版本就多保住一处声音
 
