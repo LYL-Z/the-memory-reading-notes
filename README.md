@@ -1,3 +1,5 @@
+> **第一部最新审阅候选：R47（2026-11-03）**。十八章136633正文汉字，比a4f512e净增159，十五章有实质修改。见[文学精修与验收](editorial/volume01-round47-sol-literary-revision-and-acceptance.md)、[修改账](editorial/volume01-round47-sol-editing-ledger.md)、[后续创作交接](editorial/handoff-to-chatgpt-literary-craft-round47-sol.md)。本候选在独立分支editorial/volume01-round47-sol-20261103；main未由本轮写入，未文学冻结，真人0。以下旧轮次数字与状态须按其历史版本理解。
+
 # R44—46 Sol独立修订审阅中
 
 第一部当前分支正文18章、136474汉字，较续接前136404净增70；整卷只增不减。R45编辑连续通读已做，R46局部试版未采用，main未覆盖，尚未文学冻结，真人试读0。先读[state/progress.json](state/progress.json)、[R46修改与试稿](editorial/volume01-round46-sol-editing-ledger.md)、[作者总量约束](editorial/author-addendum-2026-11-03-total-length.md)、[R45通读结论](editorial/volume01-round45-sol-continuous-read.md)、[R45修改账](editorial/volume01-round45-sol-editing-ledger.md)、[本轮修改记录](editorial/volume01-round44-sol-editing-ledger.md)、[技法手册](editorial/literary-craft-playbook-for-volume-02.md)及[交接书](editorial/handoff-to-chatgpt-literary-craft-round44-sol.md)。
