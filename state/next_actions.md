@@ -2,7 +2,7 @@
 
 > **这只是任务指导提交，不代表R50已开始、更不代表第一部已收口。**
 
-1. Kimi从固定SHA `3881eb880c975ae06aa01455974a24f7391f3546`（R49 ChatGPT PR #16）新建`editorial/volume01-round50-kimi-20261103`；PR base `editorial/volume01-round49-chatgpt-20261103`，Draft，不写main。
+1. Kimi以固定SHA `3881eb880c975ae06aa01455974a24f7391f3546`（R49 ChatGPT PR #16）为**正文基线**，从本指导分支`editorial/volume01-round50-kimi-guidance-20261103`最新HEAD切出`editorial/volume01-round50-kimi-20261103`，PR base**设为指导分支**；须验证从R49 SHA到指导HEAD没有正文变化。Draft，不写main。
 2. 首先逐字读[第50轮完整终轮任务书](../editorial/volume01-round50-kimi-final-task-and-acceptance-2026-11-03.md)与[可复制的启动入口](../editorial/round50-kimi-execution-entry-2026-11-03.md)。
 3. **必须跨分支读取**[Claude三次交流归档PR #14](https://github.com/LYL-Z/the-memory-reading-notes/pull/14)的英文原文和文学方法适配；当前R50基线没有自动合入该兄弟分支。
 4. 本轮只对013／016／017至多三处窗口提出A/B竞争；先读完整18章及现行保护锁，无文学净收益就留原文；官方正文18章136685汉字，正式每commit整卷非递减。
