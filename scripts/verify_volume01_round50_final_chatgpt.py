@@ -15,6 +15,7 @@ import subprocess
 ROOT = Path(__file__).resolve().parents[1]
 R49 = "3881eb880c975ae06aa01455974a24f7391f3546"
 KIMI = "81f9884cf37aca0b4a8667b733ea97c3c2463198"
+FINAL_PR_HEAD = "8223712ec910ae85272e07bb6c983869b12e0718"
 FINAL_HANZI = 136693
 count = runpy.run_path(str(ROOT / "scripts/hanzi_count.py"))["hanzi_count"]
 
@@ -84,8 +85,21 @@ assert "研学和表演后来取消，期末也没能按原定时间举行" in c
 assert current["016"] == r49["016"]
 
 subprocess.run(["git", "-C", str(ROOT), "merge-base", "--is-ancestor", KIMI, "HEAD"], check=True)
+subprocess.run(["git", "-C", str(ROOT), "merge-base", "--is-ancestor", FINAL_PR_HEAD, "HEAD"], check=True)
 subprocess.run(["git", "-C", str(ROOT), "diff", "--check"], check=True)
-subprocess.run(["git", "-C", str(ROOT), "diff", f"{KIMI}..HEAD", "--check"], check=True)
+# The independently developed architecture documents on main predate this
+# integration PR and intentionally contain Markdown's two-space hard breaks.
+# Checking KIMI..HEAD would falsely attribute those trailing spaces to this
+# final editorial patch. Check the exact PR patch, plus later edits only to
+# the files this integration owns. Report that distinction in the audit.
+subprocess.run(["git", "-C", str(ROOT), "diff", f"{KIMI}..{FINAL_PR_HEAD}", "--check"], check=True)
+subprocess.run([
+    "git", "-C", str(ROOT), "diff", f"{FINAL_PR_HEAD}..HEAD", "--check", "--",
+    "README.md", "state/progress.json", "state/next_actions.md",
+    "manuscript/volume-01", "editorial/volume01-round50-chatgpt-final-ten-dimension-audit-2026-11-04.md",
+    "editorial/volume01-final-canon-and-volume02-handoff-2026-11-04.md",
+    "scripts/verify_volume01_round50_final_chatgpt.py",
+], check=True)
 
 history = [{"commit": KIMI, "hanzi": total(kimi)}]
 for sha in git("rev-list", "--ancestry-path", "--reverse", f"{KIMI}..HEAD").splitlines():
