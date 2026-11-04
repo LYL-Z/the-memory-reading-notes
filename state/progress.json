@@ -1,7 +1,7 @@
 {
   "project": "时间的复数人称",
   "volume_01_title": "现在有人回头",
-  "active_branch": "editorial/volume01-round50-final-chatgpt-20261104",
+  "active_branch": "main",
   "base_commit": "7d03ec3636592ff27a301da250bd366fc380e063",
   "guidance_start_commit": "bfe2441c177eb69dde62f9323ceaa429f7209a89",
   "last_round": 50,
@@ -159,5 +159,8 @@
   "volume01_editorial_frozen_no_r51": true,
   "volume01_publication_ready": false,
   "volume01_publication_limitations": ["human_cold_readers_0", "independent_privacy_and_real_persons_rights_review_pending", "some_scene_details_are_literary_reconstructions"],
-  "main_merge_status": "PENDING_INTEGRATION_PR"
+  "main_merge_status": "MERGED_TO_MAIN",
+  "main_merge_pr": 19,
+  "main_merge_commit": "6d05774115981c0457f9dba9a92e7afbeca93ecc",
+  "main_merge_date": "2026-11-04"
 }
