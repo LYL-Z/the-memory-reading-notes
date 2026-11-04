@@ -1,0 +1,37 @@
+{
+  "date": "2026-11-03",
+  "vault_commit": "6aeac38a5a9c03e8e2ae06cf4aff398aa2b54672",
+  "purpose": "S11材料上下文重读，不代表全库重新审计",
+  "files": [
+    {
+      "relative_path": "大学/四川大学/强基班/四川大学强基班人物库.md",
+      "read_scope": "full file",
+      "lines": 72,
+      "sha256_normalized_lf": "f3af0b265fed4bfe09344cb255f1c33b090081aa827d075cc4d4b952465923e6"
+    },
+    {
+      "relative_path": "大学/四川大学/强基班/人物/同学/曾子沣.md",
+      "read_scope": "full file",
+      "lines": 210,
+      "sha256_normalized_lf": "98e9cea8b12d0239e114422b895f3c11e829379a0a854d1b99d0b16d8a906f2f"
+    },
+    {
+      "relative_path": "大学/四川大学/强基班/素材/曾子沣自述与对刘佑林的印象.md",
+      "read_scope": "full file",
+      "lines": 50,
+      "sha256_normalized_lf": "052b4f671391138a9cd2a919b2d87cfa9909278aa6e56fb21a74bf3f826a1498"
+    },
+    {
+      "relative_path": "问卷回收/2026-09-08-V2-曾子沣问卷作答全文.md",
+      "read_scope": "full file",
+      "lines": 256,
+      "sha256_normalized_lf": "46ad7f57b1131a05d90efed3d817c58a0ccee6ed47b6e8aa2685678e75871696"
+    },
+    {
+      "relative_path": "大学/四川大学/强基班/素材/聊天记录/刘佑林与曾子沣聊天记录二次总结-2026-06至2026-08.md",
+      "read_scope": "full file",
+      "lines": 293,
+      "sha256_normalized_lf": "b4bbcdf44b883ce3af71135ddac4f5b5a23d24269915ec626bd7a63c516858c8"
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "round": 48,
+  "base_commit": "23ff2c949b7584ea11910937356bbf3a7053530d",
+  "base_hanzi": 136633,
+  "chapter_count": 18,
+  "chapter_hanzi": {
+    "001": 7738,
+    "002": 10575,
+    "003": 11040,
+    "004": 11915,
+    "005": 6168,
+    "006": 7255,
+    "007": 8175,
+    "008": 7084,
+    "009": 7860,
+    "010": 5049,
+    "011": 9185,
+    "012": 6320,
+    "013": 6752,
+    "014": 7381,
+    "015": 6283,
+    "016": 5404,
+    "017": 5532,
+    "018": 6925
+  },
+  "chapter_delta_from_r47": {
+    "001": 0,
+    "002": 0,
+    "003": 0,
+    "004": 17,
+    "005": 0,
+    "006": 0,
+    "007": 28,
+    "008": 0,
+    "009": 0,
+    "010": 0,
+    "011": 0,
+    "012": 0,
+    "013": 0,
+    "014": 11,
+    "015": -46,
+    "016": 0,
+    "017": 0,
+    "018": -2
+  },
+  "total_hanzi": 136641,
+  "net_hanzi": 8,
+  "official_history": [
+    {
+      "commit": "23ff2c949b7584ea11910937356bbf3a7053530d",
+      "hanzi": 136633
+    },
+    {
+      "commit": "f57d0ab5fcd63abfb5855fa9627bf122f7134ef7",
+      "hanzi": 136633
+    },
+    {
+      "commit": "e3c8584f5d0ab8107bea01af2294974a4536d3ab",
+      "hanzi": 136633
+    },
+    {
+      "commit": "af2957db948a1366ac991160d3a96a4704701e1c",
+      "hanzi": 136633
+    },
+    {
+      "commit": "aeceb27ca8c656050e7be35782a3901ae41a99d1",
+      "hanzi": 136641
+    },
+    {
+      "commit": "4eedf7a6f3147203ae05db05c0d2d407a31e1672",
+      "hanzi": 136641
+    }
+  ],
+  "all_official_versions_non_decreasing": true,
+  "next_official_version_minimum": 136641,
+  "protected_original_evaluation_equal": true,
+  "protected_last_two_lines_equal": true,
+  "protected_017_latest_author_version": true,
+  "numeric_cases_checked": [
+    {
+      "a": "3",
+      "roots": [
+        "1/2",
+        "7/2"
+      ]
+    },
+    {
+      "a": "201/100",
+      "roots": [
+        "199/200",
+        "601/200"
+      ]
+    }
+  ],
+  "numeric_scope": "Fictional E example only; no historic exam or Mathematica program certified.",
+  "manuscript_sha256_normalized_lf": {
+    "001.md": "5708df1c84932d3dba900aca3ad926a9afc4d85542b6bbab891e790277a735cd",
+    "002.md": "0d9f7e284ae7bb8c86acfbbdf6672990fd9e66eb643e382bbc5fb3ee160befb0",
+    "003.md": "c58405414eed86307b8c21dfaa87d3f53cc4727f65e60af20386920a8144f089",
+    "004.md": "3a0e9e2ec385254c6c347401982df2a4daf4239f2422469dc919582f206561d9",
+    "005.md": "059394ba2bd61cb870bf8a5af184381687df7ab513c25685308669ace1abaca6",
+    "006.md": "b56063b55111d2c97832016d848d61e54c7dc421e5a4b2d127ce50b08a874e78",
+    "007.md": "951f04a7a35249fb80c0c03aa7ec3065a17226d9a581d95fd9eb052a25789193",
+    "008.md": "8134ffa053e8ee90946a17d1824f6f1cd4cb47379595370df3daf9f85cdc5db0",
+    "009.md": "993dd812a6fadb22c45090c7c04e542b7db946ae9f7bbf2299df513d8fb0a4cb",
+    "010.md": "8d210d72483ac5e2fc20f87fe83d72547b376fb6ae117b2a4b67f07043d8cf65",
+    "011.md": "dbfb34d74cebd0d81a9f64a315392fabbd0e5da85c770d93634448b3d288bd16",
+    "012.md": "a602fec86cc4e8d6a4e5d40da03f8a3f2199e27f231f827e2dc478a5a510e0fb",
+    "013.md": "4cdc6689d1f68aaa5140b94d69eeac66a96a5a584511308a5b36bfaf12efacb7",
+    "014.md": "b01b56d3035a073c94fdc0d46e9664a4d1552aa1a68b1ec8522c53f409ca6d3f",
+    "015.md": "fa98c7ee0ee091460c6e3b407bb363ae877a78031d4ca6c04bedb43d7fc0db4e",
+    "016.md": "83c4c07902610d55442436b8ba4ba9785b9fb50d5f006058f2ce69ea47b61ad4",
+    "017.md": "1d44a0296f0025d21d38f4bc71551124bcce76265f1c57cdeedf68aa80573333",
+    "018.md": "f09dd443b1797e36432124072ad69eee1dfa86c06f1c6ee12596b66ba6278eb3"
+  },
+  "read_receipt_matches": true,
+  "full_current_volume_cold_read_this_round": true,
+  "independent_blind_human_read": false,
+  "human_readers": 0,
+  "literary_frozen": false,
+  "main_merge_allowed": false,
+  "source_vault_modified": false,
+  "scope_note": "Machine invariants only; no literary-quality or human-reader certification."
+}

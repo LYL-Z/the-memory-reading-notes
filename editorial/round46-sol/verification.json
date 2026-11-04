@@ -1,0 +1,39 @@
+{
+  "canonical_hanzi": 136474,
+  "non_decrease_baseline": 136404,
+  "net_since_resumption": 70,
+  "historical_absolute_floor": 135731,
+  "current_canonical_next_floor": 136474,
+  "pilot_integrity": [
+    {
+      "chapter": "010",
+      "source_hanzi": 5008,
+      "pilot_hanzi": 3215,
+      "delta": -1793
+    },
+    {
+      "chapter": "014",
+      "source_hanzi": 7353,
+      "pilot_hanzi": 5056,
+      "delta": -2297
+    },
+    {
+      "chapter": "018",
+      "source_hanzi": 6900,
+      "pilot_hanzi": 4836,
+      "delta": -2064
+    }
+  ],
+  "all_pilots_adopted_hanzi": 130320,
+  "pilot_adoption_delta_from_current": -6154,
+  "pilots_adopted": false,
+  "s11_hanzi": 561,
+  "s11_exactly_once": true,
+  "original_evaluation_equal": true,
+  "last_two_lines_equal": true,
+  "same_word_abs_equal": true,
+  "new_full_blind_read_after_final_edits": false,
+  "human_readers": 0,
+  "literary_frozen": false,
+  "main_merge_allowed": false
+}
