@@ -1,13 +1,18 @@
-# 最新行动：R50 Kimi 施工完成，等待 ChatGPT 同轮终审
+# 最新行动：第一部第50轮已最终收口，下一项只能是第二部
 
-> **R50 是第一部最后一轮。Kimi 已完成施工与自检；ChatGPT 须做第 50 轮内部同轮终审（非 R51）；终审后立即开始第二部第一章正文。**
+> **第一部 R50 Kimi 施工与 ChatGPT 同轮终审均已完成。18章，136,693官方汉字，日常文学精修冻结；绝不启动R51。** 这不是出版级质量背书：真实陌生人试读0，人物隐私与准确性发布核验另行进行。
 
-1. ChatGPT 从施工分支 `editorial/volume01-round50-kimi-20261103` 固定 HEAD 读取全部交付；对照正文用固定 R49 SHA `3881eb880c975ae06aa01455974a24f7391f3546`。
-2. Kimi 实际改动仅两处：013（P1-A ADOPT，+1，"想说她好像脸红"改为咬住话的行动）；017（P1-C ADOPT，+2，删"勇气"解释句、换成贴纸笔手的动作）。016 判 REJECT，正文与基线逐字节相同。官方总量 136,688（+3，逐 commit 非递减已验证）。
-3. 复审优先级（Kimi 自报无把握处）：013 第二段删"我听见自己说'不知道'"是否损失 UNKNOWN 词族呼应；017"还没有伸手／手朝我伸过来"两拍衔接；016 拒绝是否成立（新候选须先过"不新增回忆细节"门）。
-4. 验证：`python scripts/verify_volume01_round50_kimi.py`（应 PASS；其中 R49 旧校验器的失败属预期，勿"修复"）。回退：`git revert 5dccf33` 或按段回退（见手术账本回退条件）；回退后总量不得低于 136,685。
-5. ChatGPT 裁决出口：接受／局部回退／极有限同轮修正（汉字不递减）→ `R50_FINAL_EDITORIAL_CLOSURE_WITH_DISCLOSED_LIMITATIONS` 或明列 `BLOCKED`。**无 R51。**
-6. 终审完成后立即按 `editorial/volume02-after-r50-first-chapter-brief.md` 开写 `manuscript/volume-02/001.md` 正文；真人试读 0、第一部未文学冻结、第二部未开写（截至本提交）。
+1. 现行最终裁决：[ChatGPT R50十项审稿与唯一动作衔接修正](../editorial/volume01-round50-chatgpt-final-ten-dimension-audit-2026-11-04.md)，并以[第一部最终写作记忆与第二部交接](../editorial/volume01-final-canon-and-volume02-handoff-2026-11-04.md)为跨模型入口。官方验证：`python scripts/verify_volume01_round50_final_chatgpt.py`；新定稿正文 136,693 汉字；旧 Kimi 脚本只适用于其固定快照 136,688。
+2. **下一次创作只做第二部**：先读取 [首章事实与场景准备包](../editorial/volume02-after-r50-first-chapter-brief.md)，核实高二 G2205 分班后真实事件、具体行动、日期已知程度及参与人的证据层级；不具材料的关键对白向刘佑林做具体采访，不由AI补证。
+3. 在独立的第二部分支新建 `manuscript/volume-02/001.md` 正文，第一章须有可以独立成立的生活/知识/同学任务，不依赖赵问竹才成立；建立双顺序与五层知情矩阵，且不为“诺兰感”机械倒序。
+4. 第一部仅接受**新的一手证据带来的事实纠正、当事人权益与隐私保护修正**；文学风格、句式优化、讲故事顺不顺不再成为开启第51轮的理由。正式改动仍须经官方全卷汉字单次commit非递减核验与人物知情保护。
+5. 书面 Claude 三轮原文／采用限制／AI记忆卡已并入最终整合范围；它们是编辑方法，不是刘佑林原话，也不代表过去的记忆真实被Git提交所证明。
+
+---
+
+## 终轮的历史交接（留档，不再执行）
+
+Kimi R50 原 [PR #18](https://github.com/LYL-Z/the-memory-reading-notes/pull/18) 固定HEAD `81f9884cf37aca0b4a8667b733ea97c3c2463198`。Kimi在013／017各做一处有条件采纳，016保留原样，原版136,688；ChatGPT同轮只修017纸张物理连续性，+5。013的“不知道”先前已经在该场景口头说出，无需重复补一句后发台词。原Kimi阅读收据始终代表Kimi版本，非ChatGPT修后版本。
 
 ---
 
