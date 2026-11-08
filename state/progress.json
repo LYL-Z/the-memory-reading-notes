@@ -203,5 +203,28 @@
     "next": "AUTHOR_REVIEW_OF_VOLUME02_001_TO_005_AND_FAMILY_SCOPE_GATE",
     "account_wide_memory_write_claimed": false,
     "background_sync_available": false
+  },
+  "volume02_20261108_focalization_repetition_revision": {
+    "status": "DRAFT_EDITORIAL_REPAIR_AUTHOR_REVIEW_PENDING",
+    "scope": ["manuscript/volume-02/002.md", "manuscript/volume-02/003.md", "manuscript/volume-02/005.md"],
+    "chapters_unchanged": ["manuscript/volume-02/001.md", "manuscript/volume-02/004.md"],
+    "chapter_hanzi_before": [6221, 5820, 8836, 6180, 6520],
+    "chapter_hanzi_after": [6221, 6072, 8734, 6180, 6221],
+    "total_hanzi_before": 33577,
+    "total_hanzi_after": 33428,
+    "net_hanzi": -149,
+    "chapter_status": {
+      "001": "EDITORIAL_R4_AUTHOR_REVIEW_PENDING",
+      "002": "EDITORIAL_R5_AUTHOR_REVIEW_PENDING",
+      "003": "EDITORIAL_R5_AUTHOR_REVIEW_PENDING",
+      "004": "PUBLIC_EDITORIAL_R2_FAMILY_SCOPE_GATE_ACTIVE",
+      "005": "EDITORIAL_R3_AUTHOR_REVIEW_PENDING"
+    },
+    "chronology": "B2_READING_ORDER_UNCHANGED; RETURN_DORM_AND_OLD_CLASSROOM_DAY1_EXAM_DAY2_RESULTS_DAY3",
+    "first_volume_changed": false,
+    "source_repo_changed": false,
+    "human_cold_readers": 0,
+    "audit": "editorial/volume02/reviews/2026-11-08-ch02-ch03-ch05-focalization-and-repetition-r5-r3-audit.md",
+    "main_merge_allowed": false
   }
 }
