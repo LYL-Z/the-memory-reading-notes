@@ -1,7 +1,7 @@
 {
   "project": "时间的复数人称",
   "volume_01_title": "现在有人回头",
-  "active_branch": "editorial/volume02-ch01-ch07-final-voice-pass-20261108",
+  "active_branch": "draft/volume02-ch08-yibaishanlingshan-20261108",
   "base_commit": "7d03ec3636592ff27a301da250bd366fc380e063",
   "guidance_start_commit": "bfe2441c177eb69dde62f9323ceaa429f7209a89",
   "last_round": 50,
@@ -67,7 +67,7 @@
   "structural_pilots": "work/round46-structure-pilots/",
   "round47_ledger": "editorial/volume01-round47-sol-editing-ledger.md",
   "round48_ledger": "editorial/volume01-round48-kimi-editing-ledger.md",
-  "next_stage": "VOLUME02_CH01_TO_CH07_FINAL_VOICE_PASS_DRAFT_PR25_AUTHOR_APPROVAL_PENDING",
+  "next_stage": "VOLUME02_CH08_R1_AUTHOR_REVIEW_PENDING_DRAFT_PR26_STACKED_AFTER_PR25",
   "prior_full_continuous_read_complete": true,
   "current_round_new_full_continuous_read": true,
   "round47_report": "editorial/volume01-round47-sol-literary-revision-and-acceptance.md",
@@ -536,5 +536,42 @@
     ],
     "human_blind_readers": 0,
     "merge": "DO_NOT_MERGE_UNTIL_UPSTREAM_PRS_ACCEPTED_AND_AUTHOR_REVIEWS_NET_CUT"
+  },
+  "volume02_20261108_ch08_1305": {
+    "status": "DRAFT_R1_EDITORIAL_FACT_AND_TEN_DIMENSION_REVIEW_COMPLETE_AUTHOR_REVIEW_PENDING_NO_MAIN_MERGE",
+    "chapter_path": "manuscript/volume-02/008.md",
+    "chapter_title": "一百三零五",
+    "official_hanzi_08": 5578,
+    "previous_01_to_07_official_hanzi": 41136,
+    "current_01_to_08_official_hanzi": 46714,
+    "current_chapters": 8,
+    "branch": "draft/volume02-ch08-yibaishanlingshan-20261108",
+    "pr_number": 26,
+    "pr_url": "https://github.com/LYL-Z/the-memory-reading-notes/pull/26",
+    "base_pr": 25,
+    "dependencies": [
+      23,
+      24,
+      25,
+      26
+    ],
+    "editorial_audit": "editorial/volume02/reviews/2026-11-08-ch08-1305-r1-source-and-ten-dimension-review.md",
+    "chapter_order": "B2_CHAPTER_08",
+    "archive_repo": "LYL-Z/the-memory",
+    "archive_branch": "master",
+    "source_repo_write": false,
+    "evidence": "2013-2018_86_LI_SHUNXIAN;GRADE6_1305_LI_XIA;WANG_PEISEN_AND_CAO_ZHUOYA_NOT_GRADE6_CLASSMATES;XIANG_RUIXIN_SIX_YEARS_SAME_CLASS;LI_SHUNXIAN_RETROSPECTIVE_TEN_TERM_REPORT_BOOK_FOR_JINHAI_ADVANCE_ADMISSION",
+    "evidence_gaps": [
+      "exact 2018 grade-six reallocation procedure and timing unknown",
+      "sixth-grade mathematics teacher and new class roster unknown",
+      "report booklet was retrospective, not contemporaneously filled every semester",
+      "2018 09 22 camouflage/origami photo does not prove classmates/teacher/event identity",
+      "2018 citywide class-size reforms are not proof of this school's class split rationale"
+    ],
+    "prior_7_chapter_net_decrease_pending_author_approval": -1721,
+    "first_volume_R50_modified": false,
+    "original_vault_modified": false,
+    "independent_human_cold_readers": 0,
+    "next": "AUTHOR_READ_CH08_AND_CONFIRM_IF_NEW_EVIDENCE; KEEP_DRAFT_AND_PRS_STACKED"
   }
 }
