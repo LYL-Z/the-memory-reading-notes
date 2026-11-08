@@ -67,7 +67,7 @@
   "structural_pilots": "work/round46-structure-pilots/",
   "round47_ledger": "editorial/volume01-round47-sol-editing-ledger.md",
   "round48_ledger": "editorial/volume01-round48-kimi-editing-ledger.md",
-  "next_stage": "VOLUME02_CH10_R2_DEEP_POLISH_AUTHOR_REVIEW_PENDING_DRAFT_PR28_NO_MAIN_MERGE",
+  "next_stage": "VOLUME02_CH10_R3_FINAL_EDITORIAL_PASS_AUTHOR_REVIEW_AND_LENGTH_APPROVAL_PENDING_PR28_DRAFT_NOT_MERGED",
   "prior_full_continuous_read_complete": true,
   "current_round_new_full_continuous_read": true,
   "round47_report": "editorial/volume01-round47-sol-literary-revision-and-acceptance.md",
@@ -664,12 +664,12 @@
   },
   "volume02_20261108_ch10_after_the_exam": {
     "title": "考过以后",
-    "status": "DRAFT_R2_DEEP_LITERARY_POLISH_SOURCE_CONTINUITY_AND_TEN_DIMENSION_AUDIT_COMPLETE_AUTHOR_REVIEW_PENDING_NO_MAIN_MERGE",
+    "status": "R3_WHOLE_CHAPTER_FINAL_POLISH_SUBMITTED_AUTHOR_REVIEW_AND_LENGTH_APPROVAL_PENDING_DRAFT_PR28_NO_MAIN_MERGE",
     "chapter": "manuscript/volume-02/010.md",
-    "official_hanzi": 6327,
+    "official_hanzi": 4272,
     "prior_01_to_09_hanzi": 53977,
-    "current_01_to_10_hanzi": 60304,
-    "version": "R2",
+    "current_01_to_10_hanzi": 58249,
+    "version": "R3_FINAL_EDITORIAL_PASS",
     "branch": "draft/volume02-ch10-after-the-exam-20261108",
     "pr_number": 28,
     "pr_url": "https://github.com/LYL-Z/the-memory-reading-notes/pull/28",
@@ -682,7 +682,7 @@
       27,
       28
     ],
-    "editorial_audit": "editorial/volume02/reviews/2026-11-08-ch10-r2-deep-polish-whole-read-ten-dimension-and-provenance-audit.md",
+    "editorial_audit": "editorial/volume02/reviews/2026-11-08-ch10-r3-final-whole-read-rhythm-evidence-and-continuity-audit.md",
     "factual_clock": "2023-08-27 Grade 2 registration; 2023-08-28 Chinese, Physics/History, remaining two elective subjects; 2023-08-29 Math 07:50-09:50 English 10:10-12:10; 14:10-17:25 self-study, verified from actual Aug 19 grade parent meeting photographs",
     "sourced_timeline": "高中/2025届/素材/家校资料/2023-08-19高二上第一次家长大会-资料整理.md",
     "election_motives": [
@@ -706,9 +706,9 @@
     "human_cold_readers": 0,
     "source_gates_active": true,
     "machine_test": "NOT_RUN_NO_PASS_CLAIM",
-    "next": "AUTHOR_READ_R2_COMPLETELY; ONLY_TARGET_GROUNDED_NEW_FACTS_OR_SPECIFIC_EDITORIAL_FAILINGS; DO_NOT_MERGE_DRAFT_STACK_WO_SATISFYING_PRIOR_GATES",
+    "next": "AUTHOR_WHOLE_READ_R3_VS_R2_AND_DECIDE_2055_HANZI_CUT; CORRECT_OTHER_CHAPTER_AGE_AND_WUHAN_FACT_GATES_SEPARATELY; DO_NOT_MERGE_PR_STACK_UNVERIFIED",
     "prior_r1_hanzi": 5248,
-    "net_change_from_r1": 1079,
+    "net_change_from_r1": -976,
     "r1_audit": "editorial/volume02/reviews/2026-11-08-ch10-after-the-exam-r1-primary-sources-and-ten-dimension-audit.md",
     "main_deep_polish": "Major reconstruction: opening and first-day Chinese/physics, afternoon chemistry-biology with historical four-member team and Wang, second-day math and English, post-exam self-study; targeted review of redundant argument and inaccurate parent attendance implication",
     "key_factual_correction": "2023 Aug19 parent meeting photos do not prove author's parents attended or viewed slides; exact roster publication time remains unknown, not assert not yet published on Aug29 afternoon",
@@ -724,6 +724,25 @@
       26,
       27
     ],
-    "independent_human_cold_readers": 0
+    "independent_human_cold_readers": 0,
+    "prior_r2_hanzi": 6327,
+    "net_change_from_r2": -2055,
+    "r2_audit": "editorial/volume02/reviews/2026-11-08-ch10-r2-deep-polish-whole-read-ten-dimension-and-provenance-audit.md",
+    "author_length_preference_conflict": "R3_NET_DECREASE_2055_FROM_R2_AND_976_FROM_R1; ONLY_AUTHOR_CAN_APPROVE_REDUCTIONS; OLDER_R2_RECOVERABLE_FROM_COMMIT_966bcbbd9da3af45eeb5752c987bd6b2670a5e82",
+    "facts_repaired": [
+      "removed unverified personal participation in 2023 Wuhan trip",
+      "corrected duplicate physics time 14:10",
+      "corrected two-mornings phrasing to two-day exams",
+      "class roster exact public release time unknown",
+      "2023 parent meeting slides do not prove parents personally attended",
+      "did not treat single test as verified exclusive class assignment mechanism"
+    ],
+    "new_grounded_scene": "Wang Qihao's known joke after catching Liu carrying Zhao Wenzhu's math homework, and Liu and Zhao fetching chemistry apparatus, supported by source vault",
+    "cross_chapter_defects_not_edited": [
+      "ch02 2023 Aug protagonist described 16, but before Nov3 2007 birthday actually 15",
+      "ch07 2023 Wuhan author personal attendance at specific sites still uncertain"
+    ],
+    "other_chapters_modified": false,
+    "first_nine_chapters_change": false
   }
 }
