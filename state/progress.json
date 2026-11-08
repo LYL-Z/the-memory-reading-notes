@@ -1,7 +1,7 @@
 {
   "project": "时间的复数人称",
   "volume_01_title": "现在有人回头",
-  "active_branch": "draft/volume02-ch09-father-told-me-20261108",
+  "active_branch": "draft/volume02-ch10-after-the-exam-20261108",
   "base_commit": "7d03ec3636592ff27a301da250bd366fc380e063",
   "guidance_start_commit": "bfe2441c177eb69dde62f9323ceaa429f7209a89",
   "last_round": 50,
@@ -67,7 +67,7 @@
   "structural_pilots": "work/round46-structure-pilots/",
   "round47_ledger": "editorial/volume01-round47-sol-editing-ledger.md",
   "round48_ledger": "editorial/volume01-round48-kimi-editing-ledger.md",
-  "next_stage": "VOLUME02_CH09_R3_FINAL_EDITORIAL_PASS_AUTHOR_REVIEW_PENDING_PR27_DRAFT_NOT_MERGED",
+  "next_stage": "VOLUME02_CH10_R1_SOURCE_VERIFIED_AUTHOR_REVIEW_PENDING_DRAFT_PR28_NOT_MERGED",
   "prior_full_continuous_read_complete": true,
   "current_round_new_full_continuous_read": true,
   "round47_report": "editorial/volume01-round47-sol-literary-revision-and-acceptance.md",
@@ -661,5 +661,51 @@
     "prior_r2_audit": "editorial/volume02/reviews/2026-11-08-ch09-father-told-me-r2-deep-literary-fact-and-continuity-audit.md",
     "revision_summary": "29 targeted operations including 14 redundant-paragraph removals and 15 local rewrites; preserve 1985 TV and 2016 river tape; eliminate double snow; shorten Xinjiang explanatory thesis; bridge family travels to father-son work and physics disagreements through attested tea and history routines",
     "other_chapters_modified": false
+  },
+  "volume02_20261108_ch10_after_the_exam": {
+    "title": "考过以后",
+    "status": "DRAFT_R1_AUTHOR_REVIEW_PENDING_NO_MAIN_MERGE",
+    "chapter": "manuscript/volume-02/010.md",
+    "official_hanzi": 5248,
+    "prior_01_to_09_hanzi": 53977,
+    "current_01_to_10_hanzi": 59225,
+    "version": "R1",
+    "branch": "draft/volume02-ch10-after-the-exam-20261108",
+    "pr_number": 28,
+    "pr_url": "https://github.com/LYL-Z/the-memory-reading-notes/pull/28",
+    "base_pr": 27,
+    "stacked_prs": [
+      23,
+      24,
+      25,
+      26,
+      27,
+      28
+    ],
+    "editorial_audit": "editorial/volume02/reviews/2026-11-08-ch10-after-the-exam-r1-primary-sources-and-ten-dimension-audit.md",
+    "factual_clock": "2023-08-27 Grade 2 registration; 2023-08-28 Chinese, Physics/History, remaining two elective subjects; 2023-08-29 Math 07:50-09:50 English 10:10-12:10; 14:10-17:25 self-study, verified from actual Aug 19 grade parent meeting photographs",
+    "sourced_timeline": "高中/2025届/素材/家校资料/2023-08-19高二上第一次家长大会-资料整理.md",
+    "election_motives": [
+      "thought Zhao Wenzhu would choose physical chemistry biology, not her own declaration",
+      "strong in chemistry biology self-assessment",
+      "perceived professional choice breadth",
+      "favored commonly chosen route"
+    ],
+    "private_gap": [
+      "exam personal questions and scores unverified",
+      "personal ranking unknown",
+      "exact class list publication timestamp unknown",
+      "school class allocation algorithm unknown",
+      "fellow students' exam psychology not known"
+    ],
+    "freshman_first_monthly_exact_rank_deferred": true,
+    "first_vol_R50_modified": false,
+    "source_vault_modified": false,
+    "first_nine_chapters_modified": false,
+    "previous_chapter_R3_net_cuts_author_approval_pending": true,
+    "human_cold_readers": 0,
+    "source_gates_active": true,
+    "machine_test": "NOT_RUN_NO_PASS_CLAIM",
+    "next": "AUTHOR_READ_CH10_R1_THEN_REVISE_ONLY_GROUNDED_DETERMINATE_PROBLEMS; KEEP_STACKED_PR28_DRAFT_AND_DO_NOT_MERGE_ONGOING_GATES"
   }
 }
