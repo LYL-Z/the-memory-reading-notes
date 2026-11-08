@@ -1,7 +1,7 @@
 {
   "project": "时间的复数人称",
   "volume_01_title": "现在有人回头",
-  "active_branch": "draft/volume02-ch10-after-the-exam-20261108",
+  "active_branch": "draft/volume02-ch11-two-places-2017-20261108",
   "base_commit": "7d03ec3636592ff27a301da250bd366fc380e063",
   "guidance_start_commit": "bfe2441c177eb69dde62f9323ceaa429f7209a89",
   "last_round": 50,
@@ -67,7 +67,7 @@
   "structural_pilots": "work/round46-structure-pilots/",
   "round47_ledger": "editorial/volume01-round47-sol-editing-ledger.md",
   "round48_ledger": "editorial/volume01-round48-kimi-editing-ledger.md",
-  "next_stage": "VOLUME02_CH10_FINAL_R2_R3_SYNTHESIS_EDITORIAL_COMPLETE_AUTHOR_REVIEW_AND_LENGTH_GATE_PENDING_PR28_DRAFT",
+  "next_stage": "VOLUME02_CH11_R1_2017_HOME_VS_RESTAURANT_SOURCE_CONFLICT_AUTHOR_REVIEW_PENDING_DRAFT_PR29_NO_MAIN_MERGE",
   "prior_full_continuous_read_complete": true,
   "current_round_new_full_continuous_read": true,
   "round47_report": "editorial/volume01-round47-sol-literary-revision-and-acceptance.md",
@@ -760,5 +760,44 @@
     "final_selection": "R3 exam timeline + R2 grounded friendship, author high achievement, desire for peer recognition and mixed choose-physics motives; no replay of volume01 chapter003 math homework event or chapter011 full Zhao written evaluation",
     "new_source_note": "contemporaneous 2023 parent-meeting slide says 寝室里的表现即学习状态的表现; embedded against remembered 525 normal life, not a claim that parents attended",
     "main_edits": "R2/R3 complete reading, source crosscheck, retain core ordinary group actions, shorten redundant meta/ethics, tighten mathematics time and English-to-study ending, exclude unverified Wuhan same-site presence and exact score"
+  },
+  "volume02_20261108_ch11_two_places": {
+    "title": "两处地点",
+    "chapter": "manuscript/volume-02/011.md",
+    "version": "R1_EDITORIAL_REVIEWED_SOURCE_GATED",
+    "status": "DRAFT_R1_AUTHOR_REVIEW_AND_THIRD_PARTY_PUBLICATION_BOUNDARY_PENDING_NO_MAIN_MERGE",
+    "official_hanzi": 3783,
+    "prior_01_to_10_hanzi": 58645,
+    "current_01_to_11_hanzi": 62428,
+    "branch": "draft/volume02-ch11-two-places-2017-20261108",
+    "pr_number": 29,
+    "pr_url": "https://github.com/LYL-Z/the-memory-reading-notes/pull/29",
+    "base_pr": 28,
+    "stacked_prs": [
+      23,
+      24,
+      25,
+      26,
+      27,
+      28,
+      29
+    ],
+    "source_audit": "editorial/volume02/reviews/2026-11-08-ch11-two-places-r1-deep-sources-ten-dimension-and-privacy-audit.md",
+    "sources": {
+      "home": "小学/素材/童年友谊/桃园三结义-向睿馨刘佑林夏恺宪.md user 2026-09-02 priority confirmed summer 2017 formal oath at narrator home with Xia's mother proposal",
+      "restaurant": "older author 2026-08-28 restaurant self-initiated story preserved; not coequal certainty nor separate verified ceremony",
+      "friend_memory": "向睿馨本人2026年问卷摘要 remembers food and films but not brotherhood ritual; high-privacy original source not published",
+      "photo": "家庭/素材/母亲QQ相册时间线-2011至2026.md photo in 2018 restaurant with Xia; not 2017 evidence",
+      "film_comment": "高中/素材/人物资料/刘佑林朋友圈内容索引与人物特征补充-2018至2024.md 2024 Venom film comment by Xiang",
+      "birthday_comments": "2025 birthday Xiang name correction 向睿馨！！！ and Xia 二弟生日快乐"
+    },
+    "privacy_gate": "PUBLIC_DRAFT_OMITS_FULL_PRIVATE_QUESTIONNAIRE_AND_ORIGINAL_PHOTOS; THIRDPARTY_CHILDHOOD_FACTS_AWAIT_AUTHOR_APPROVAL_AND_OPTIONAL_PERMISSION",
+    "first_vol_R50_modified": false,
+    "source_vault_modified": false,
+    "previous_chapters_modified": false,
+    "human_independent_cold_readers": 0,
+    "machine_test": "NOT_RUN_NO_PASS_CLAIM",
+    "author_approval_pending": true,
+    "next": "AUTHOR_COMPLETE_READ_CH11_R1; DETERMINE IF PUBLICATION_OF_THIRD_PARTY_SURVEY_DETAILS_ALLOWED; FUTURE_CH12_B2_PING_PONG_REAL_TRAINING_SOURCE_FIRST; DON'T_MERGE_STACK_WITHOUT_APPROVAL"
   }
 }
