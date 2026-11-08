@@ -67,7 +67,7 @@
   "structural_pilots": "work/round46-structure-pilots/",
   "round47_ledger": "editorial/volume01-round47-sol-editing-ledger.md",
   "round48_ledger": "editorial/volume01-round48-kimi-editing-ledger.md",
-  "next_stage": "VOLUME02_CH07_R1_AUTHOR_REVIEW_PENDING_STACKED_PR24_AFTER_PR23",
+  "next_stage": "VOLUME02_CH07_R2_AUTHOR_REVIEW_PENDING_AND_CH06_PR23_DEPENDENCY",
   "prior_full_continuous_read_complete": true,
   "current_round_new_full_continuous_read": true,
   "round47_report": "editorial/volume01-round47-sol-literary-revision-and-acceptance.md",
@@ -459,5 +459,24 @@
     "source_vault_write": false,
     "human_cold_readers": 0,
     "next": "AUTHOR_READ_CH07_AND_CONFIRM_HOMEWORK_LIVED_DETAILS_BEFORE_NON_DRAFT_OR_MAIN_MERGE"
+  },
+  "volume02_20261108_ch07_r2": {
+    "status": "EDITORIAL_R2_AUTHOR_REVIEW_PENDING_STACKED_PR24_NO_MAIN_MERGE",
+    "chapter_path": "manuscript/volume-02/007.md",
+    "chapter_title": "没做完的作业",
+    "audit": "editorial/volume02/reviews/2026-11-08-ch07-r2-discipline-wuhan-family-trip-fact-and-literary-review.md",
+    "draft_pr": 24,
+    "base_pr": 23,
+    "updated_official_hanzi": 5088,
+    "previous_r1_official_hanzi": 4462,
+    "net_hanzi_change": 626,
+    "six_chapters_official_hanzi": 37769,
+    "seven_chapters_official_hanzi": 42857,
+    "source_updates": "AUTHOR_CORRECTION_SCHOOL_DISCIPLINE_AND_STRONG_EXTERNAL_REPUTATION; 2023_JULY_WUHAN_PARENT_PHOTO_ALBUM_TRAVEL",
+    "wuhan_author_participation": "TENTATIVE_AUTHOR_RECALL_FAMILY_ALBUM_CONFIRMS_PARENTS_TRAVEL_NOT_USER_AT_EACH_PLACE",
+    "unpublished_album_metadata_not_full_publication": true,
+    "first_volume_R50_modified": false,
+    "source_vault_modified": false,
+    "next": "AUTHOR_READ_R2_AND_CONFIRM_WUHAN_ATTENDANCE_WHEN_POSSIBLE; KEEP_DRAFT_AND_STAGED_PR"
   }
 }
