@@ -342,6 +342,8 @@
     "volume01_modified": false,
     "volume01_verified_hanzi": 136693,
     "human_blind_readers": 0,
-    "next": "VERIFY_AND_SYNC_PR23_KEEP_DRAFT_THEN_AUTHOR_FINAL_READ"
+    "remote_content_commit": "a763662f934913161a15943459dd3358dae0a499",
+    "remote_sync_status": "DRAFT_PR23_CONTENT_AND_HANDOFF_SYNCED",
+    "next": "AUTHOR_FINAL_CONTINUOUS_READ_AND_FACT_CHECK_NO_MAIN_MERGE"
   }
 }
