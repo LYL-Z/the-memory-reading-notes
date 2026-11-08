@@ -1,7 +1,7 @@
 {
   "project": "时间的复数人称",
   "volume_01_title": "现在有人回头",
-  "active_branch": "draft/volume02-ch08-yibaishanlingshan-20261108",
+  "active_branch": "draft/volume02-ch09-father-told-me-20261108",
   "base_commit": "7d03ec3636592ff27a301da250bd366fc380e063",
   "guidance_start_commit": "bfe2441c177eb69dde62f9323ceaa429f7209a89",
   "last_round": 50,
@@ -67,7 +67,7 @@
   "structural_pilots": "work/round46-structure-pilots/",
   "round47_ledger": "editorial/volume01-round47-sol-editing-ledger.md",
   "round48_ledger": "editorial/volume01-round48-kimi-editing-ledger.md",
-  "next_stage": "VOLUME02_CH08_R2_AUTHOR_REVIEW_PENDING_DRAFT_PR26_STACKED",
+  "next_stage": "VOLUME02_CH09_R3_FINAL_EDITORIAL_PASS_AUTHOR_REVIEW_PENDING_PR27_DRAFT_NOT_MERGED",
   "prior_full_continuous_read_complete": true,
   "current_round_new_full_continuous_read": true,
   "round47_report": "editorial/volume01-round47-sol-literary-revision-and-acceptance.md",
@@ -590,5 +590,76 @@
     "source_repo_modified": false,
     "volume01_R50_modified": false,
     "test_claim": "REMOTE_DIFF_AND_HANZI_COUNT_ONLY_NO_LOCAL_R50_SCRIPT"
+  },
+  "volume02_20261108_ch09_father": {
+    "status": "R3_FINAL_EDITORIAL_POLISH_COMMITTED_AUTHOR_REVIEW_PENDING_DRAFT_PR27_NO_MAIN_MERGE",
+    "title": "父亲讲过的",
+    "chapter": "manuscript/volume-02/009.md",
+    "official_hanzi": 5828,
+    "previous_01_to_08_hanzi": 48149,
+    "current_01_to_09_hanzi": 53977,
+    "source_repo": "LYL-Z/the-memory",
+    "source_repo_write": false,
+    "father_primary_sources": [
+      "家庭/人物/父亲.md",
+      "家庭/素材/父亲毕业就业推荐表-脱敏摘要.md",
+      "初中/2022届/素材/家庭书信/2022-01-25写给父母的信-叙事整理.md"
+    ],
+    "school_author_safe_note": "editorial/volume02/2026-11-08-1907-author-addendum-public-safe-and-restricted-gates.md",
+    "editorial_audit": "editorial/volume02/reviews/2026-11-08-ch09-final-r3-whole-chapter-literary-edit-and-acceptance-record.md",
+    "pr_number": 27,
+    "pr_url": "https://github.com/LYL-Z/the-memory-reading-notes/pull/27",
+    "base_pr": 26,
+    "dependencies": [
+      23,
+      24,
+      25,
+      26,
+      27
+    ],
+    "private_items_not_published": [
+      "third party medical and bereavement information",
+      "identifiable school admission interview relationship detail",
+      "third party secondary-school placement claims and alleged school discipline incidents"
+    ],
+    "merge_decision": "CONDITIONAL_USER_AUTHORIZATION_BUT_EXISTING_PRS_DRAFT_NO_CONFIRMED_CI_AND_AUTHOR_APPROVAL_GATES_UNRESOLVED; NO_MERGE",
+    "prior_chapters_change": false,
+    "first_volume_R50_change": false,
+    "human_independent_cold_readers": 0,
+    "machine_test": "NOT_RUN_NO_PASS_CLAIM",
+    "next": "AUTHOR_COMPLETE_READ_R3_ONLY_REOPEN_CH09_FOR_CONCRETE_FACT_GAP_OR_INDEPENDENT_READER_FINDING; DO_NOT_MERGE_STACKED_DRAFTS_WITH_UNRESOLVED_GATES",
+    "version": "R3_FINAL_EDITORIAL_PASS",
+    "prior_r1_hanzi": 5504,
+    "net_added_since_r1": 1235,
+    "r1_audit": "editorial/volume02/reviews/2026-11-08-ch09-father-told-me-r1-evidence-ten-dimension-and-privacy-audit.md",
+    "main_edits": "44 targeted prose replacements; move 2016 river memory after 1985 television as nonlinear hinge; six fact/time refinements; five ending revisions; 55 main operations total",
+    "facts": [
+      "1985 father's first-hand recollection not narrator witnessed",
+      "2016 October return to Yiyang precedes grade six",
+      "sack Meicheng clay and river tape author's firsthand remembered material",
+      "2002 food delivery and Xinjiang choices in father's own account",
+      "2003 SARS public context not father's medical history",
+      "father colleague work complaints excluded",
+      "first junior month test exact rank deliberately deferred to B5"
+    ],
+    "volume01_R50_change": false,
+    "first_8_chapters_change": false,
+    "upstream_prs": [
+      23,
+      24,
+      25,
+      26
+    ],
+    "draft": true,
+    "author_approval_pending": true,
+    "independent_human_cold_readers": 0,
+    "prior_r2_hanzi": 6739,
+    "net_change_from_r2": -911,
+    "net_change_from_r1": 324,
+    "author_length_preference_conflict": "R3_REMOVED_911_HANZI_FROM_R2_FOR_SUBSTANTIVE_LITERARY_REASONS_R2_RECOVERABLE_FROM_GIT_HISTORICAL_OLD_DRAFT; NOT_AUTOMATICALLY_APPROVED",
+    "r3_audit": "editorial/volume02/reviews/2026-11-08-ch09-final-r3-whole-chapter-literary-edit-and-acceptance-record.md",
+    "prior_r2_audit": "editorial/volume02/reviews/2026-11-08-ch09-father-told-me-r2-deep-literary-fact-and-continuity-audit.md",
+    "revision_summary": "29 targeted operations including 14 redundant-paragraph removals and 15 local rewrites; preserve 1985 TV and 2016 river tape; eliminate double snow; shorten Xinjiang explanatory thesis; bridge family travels to father-son work and physics disagreements through attested tea and history routines",
+    "other_chapters_modified": false
   }
 }
