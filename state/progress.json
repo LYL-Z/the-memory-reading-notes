@@ -67,7 +67,7 @@
   "structural_pilots": "work/round46-structure-pilots/",
   "round47_ledger": "editorial/volume01-round47-sol-editing-ledger.md",
   "round48_ledger": "editorial/volume01-round48-kimi-editing-ledger.md",
-  "next_stage": "VOLUME02_CH01_CH05_EDITORIAL_REVISION_AUTHOR_REVIEW_PENDING_NO_R51",
+  "next_stage": "VOLUME02_CH06_R1_AUTHOR_FACT_SCENE_REVIEW_PENDING_NO_R51",
   "prior_full_continuous_read_complete": true,
   "current_round_new_full_continuous_read": true,
   "round47_report": "editorial/volume01-round47-sol-literary-revision-and-acceptance.md",
@@ -252,6 +252,24 @@
     "human_blind_readers": 0,
     "source_vault_unchanged": true,
     "audit": "editorial/volume02/reviews/2026-11-08-ch01-ch05-final-continuous-read-main-merge-acceptance.md",
-    "next": "VERIFY_PR22_MERGE_STATUS_THEN_START_SEPARATE_VOLUME02_CH06_SOURCE_GATE"
+    "next": "PR22_MERGED_MAIN_BAD5B234; CH06_IN_SEPARATE_DRAFT"
+  },
+  "volume02_20261108_ch06_first_draft": {
+    "status": "R1_DRAFT_AUTHOR_SCENE_CONFIRMATION_REQUIRED_NO_MAIN_MERGE",
+    "main_at_start": "bad5b23483fd21c8f65423ff3747c095e06c0759",
+    "source_vault_master_at_read": "6aeac38a5a9c03e8e2ae06cf4aff398aa2b54672",
+    "chapter": "manuscript/volume-02/006.md",
+    "chapter_title": "轮到谁说话",
+    "chapter_hanzi": 4942,
+    "scope": "childhood companions and shared activities; 2017 remembered brotherhood with conflicting location; 2023 birthday group presence only",
+    "people_protected": "no private questionnaire quotes, no unconfirmed dialogue, no raw photographs, no invented peers' inner states",
+    "author_new_real_scene_required": true,
+    "draft_pr": null,
+    "draft_pr_url": null,
+    "chapter_audit": "editorial/volume02/reviews/2026-11-08-ch06-turn-taking-r1-source-and-continuity-audit.md",
+    "volume01_unchanged": true,
+    "source_vault_unchanged": true,
+    "human_blind_readers": 0,
+    "next": "AUTHOR_SUPPLY_ONE_CONCRETE_COMPANION_CHOICE_OR_SHARED_FILMING_SCENE_THEN_R2"
   }
 }
