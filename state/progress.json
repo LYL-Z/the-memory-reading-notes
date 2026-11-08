@@ -226,5 +226,32 @@
     "human_cold_readers": 0,
     "audit": "editorial/volume02/reviews/2026-11-08-ch02-ch03-ch05-focalization-and-repetition-r5-r3-audit.md",
     "main_merge_allowed": false
+  },
+  "volume02_20261108_ch01_ch05_final_phase_acceptance": {
+    "status": "EDITORIAL_PHASE_CLOSED_AUTHOR_MAIN_MERGE_AUTHORIZED",
+    "current_reading_order": ["一个人的客厅", "二班", "后门", "三餐", "借来的床"],
+    "chapter_count": 5,
+    "chapter_hanzi": [6221, 6072, 8262, 6180, 6221],
+    "five_chapter_hanzi_total": 32956,
+    "previous_total": 33428,
+    "final_pass_net_hanzi": -472,
+    "ch03_only_final_pass_change": true,
+    "no_ch06_draft": true,
+    "ch04_existing_public_text_authorized": true,
+    "ch04_complete_private_original_uploaded": false,
+    "ch04_withheld_mother_questionnaire_anecdotes_uploaded": false,
+    "family_independent_third_party_publication_clearance_proven": false,
+    "author_authorized_pr22_main_merge": true,
+    "pr_number": 22,
+    "pr_url": "https://github.com/LYL-Z/the-memory-reading-notes/pull/22",
+    "pr_status_should_be_checked_live": true,
+    "main_merge_sha": null,
+    "author_last_phase_revision_requested": true,
+    "first_volume_unchanged": true,
+    "first_volume_verified_hanzi": 136693,
+    "human_blind_readers": 0,
+    "source_vault_unchanged": true,
+    "audit": "editorial/volume02/reviews/2026-11-08-ch01-ch05-final-continuous-read-main-merge-acceptance.md",
+    "next": "VERIFY_PR22_MERGE_STATUS_THEN_START_SEPARATE_VOLUME02_CH06_SOURCE_GATE"
   }
 }

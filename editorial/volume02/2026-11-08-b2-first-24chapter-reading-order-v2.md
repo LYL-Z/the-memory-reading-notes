@@ -2,6 +2,8 @@
 
 > 2026-11-08 版。`ORDER_APPROVED_BY_AUTHOR / MANUSCRIPT_IN_PROGRESS / SOURCE_GATES_ACTIVE`。作者明确要求：**《一个人的客厅》→《二班》**，符合其此前选定的方案 B2。此文作为**第二部当前正式排序的编辑基准**，替代 `2026-11-08-dual-timeline-chapter-revelations-and-volume01-echoes.md` 中第01—04章的旧阅读排序；其余20章沿用旧版事件池与暂名，但仍是可审改候选，不能因此宣布“已全部写好”。第一部R50共18章冻结不动，主库不动。
 
+> **本阶段五章最后一次合读精修与作者公开/入主线裁决（最高优先级）：** 01《一个人的客厅》R4（6,221）、02《二班》R5（6,072）、03《后门》本轮最终编辑稿（8,262）、04《三餐》现有公开R2（6,180）、05《借来的床》R3（6,221），共**32,956官方汉字**。作者明确表示现有家庭内容可公开、前五章本阶段最后精修后可并入 `main`；本轮只压缩03重复解释，**不新开06**。具体的五章时钟、第一部回扣、人物自主性、家庭权益限制与合并门槛见[最终合读与主线合并审稿](reviews/2026-11-08-ch01-ch05-final-continuous-read-main-merge-acceptance.md)。以下历史R4/R2和33,577／33,428字数记录不得取代本段。
+
 > **同日第二次定向修订状态（最新，覆盖下方旧状态和章表01—05的候审字数标签）：** 01 `EDITORIAL_R4 / AUTHOR_REVIEW_PENDING`，02、03 `EDITORIAL_R5 / AUTHOR_REVIEW_PENDING`，04 `PUBLIC_EDITORIAL_R2 / FAMILY_SCOPE_GATE_ACTIVE`，05 `EDITORIAL_R3 / AUTHOR_REVIEW_PENDING`。五章官方汉字依次6,221／6,072／8,734／6,180／6,221，总 **33,428**。仍是**01→02→03→04→05**，没有新增真实场景或重排；只调整02的双重动机、03的王麒皓考试线与05的短暂寝室线。完整差异与减少重复的取舍见[定向修订R5/R3审稿账](reviews/2026-11-08-ch02-ch03-ch05-focalization-and-repetition-r5-r3-audit.md)。
 
 > **同日精修后最新状态（覆盖下表五章旧进度标签，不改原历史记录）：** 01—03 `EDITORIAL_R4 / AUTHOR_REVIEW_PENDING`；04 `PUBLIC_EDITORIAL_R2 / FAMILY_SCOPE_GATE_ACTIVE`；05 `EDITORIAL_R2 / AUTHOR_REVIEW_PENDING`。正文顺序仍是01→02→03→04→05。官方计数依次为6,221／5,820／8,836／6,180／6,520，五章共33,577汉字。逐处与第一部的重复、读者知情锁、隐私及事实核对见[五章连续精修审稿账](reviews/2026-11-08-ch01-ch05-cross-volume-continuity-r4-r2-audit.md)。旧表反映初稿形成时状态，不等于本次稿件尚未更新。
