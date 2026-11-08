@@ -1,6 +1,6 @@
 # 第二部第06章《轮到谁说话》｜R1事实、连续性、人物和文气审稿
 
-> 2026-11-08。状态 `CH06_R1_DRAFT / SOURCE_GATE_PARTIALLY_OPEN / AUTHOR_SCENE_CONFIRMATION_REQUIRED / NO_MAIN_MERGE`。本章是获作者启动写作许可的**候审初稿**，不是作者逐句核过的事实稿。GitHub Draft PR仅供协作、版本保全；不能代表第三方发布许可或真实采访。
+> 2026-11-08。状态 `CH06_R1_DRAFT / SOURCE_GATE_PARTIALLY_OPEN / AUTHOR_SCENE_CONFIRMATION_REQUIRED / NO_MAIN_MERGE`。本章是获作者启动写作许可的**候审初稿**，不是作者逐句核过的事实稿。GitHub [Draft PR #23](https://github.com/LYL-Z/the-memory-reading-notes/pull/23)（首次上传提交 `6b46c80a96b9878720e0f2acdc37601e63a1be34`）仅供协作、版本保全；不能代表第三方发布许可或真实采访。
 
 ## 一、双仓本轮重新核对
 
