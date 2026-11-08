@@ -1,7 +1,7 @@
 {
   "project": "时间的复数人称",
   "volume_01_title": "现在有人回头",
-  "active_branch": "draft/volume02-ch08-yibaishanlingshan-20261108",
+  "active_branch": "draft/volume02-ch09-father-told-me-20261108",
   "base_commit": "7d03ec3636592ff27a301da250bd366fc380e063",
   "guidance_start_commit": "bfe2441c177eb69dde62f9323ceaa429f7209a89",
   "last_round": 50,
@@ -67,7 +67,7 @@
   "structural_pilots": "work/round46-structure-pilots/",
   "round47_ledger": "editorial/volume01-round47-sol-editing-ledger.md",
   "round48_ledger": "editorial/volume01-round48-kimi-editing-ledger.md",
-  "next_stage": "VOLUME02_CH08_R2_AUTHOR_REVIEW_PENDING_DRAFT_PR26_STACKED",
+  "next_stage": "VOLUME02_CH09_R1_AUTHOR_REVIEW_PENDING_DRAFT_PR27_STACKED_NOT_MERGED",
   "prior_full_continuous_read_complete": true,
   "current_round_new_full_continuous_read": true,
   "round47_report": "editorial/volume01-round47-sol-literary-revision-and-acceptance.md",
@@ -590,5 +590,43 @@
     "source_repo_modified": false,
     "volume01_R50_modified": false,
     "test_claim": "REMOTE_DIFF_AND_HANZI_COUNT_ONLY_NO_LOCAL_R50_SCRIPT"
+  },
+  "volume02_20261108_ch09_father": {
+    "status": "DRAFT_R1_TEN_DIMENSION_AND_EVIDENCE_AUDIT_COMPLETE_AUTHOR_REVIEW_PENDING_NO_MAIN_MERGE",
+    "title": "父亲讲过的",
+    "chapter": "manuscript/volume-02/009.md",
+    "official_hanzi": 5504,
+    "previous_01_to_08_hanzi": 48149,
+    "current_01_to_09_hanzi": 53653,
+    "source_repo": "LYL-Z/the-memory",
+    "source_repo_write": false,
+    "father_primary_sources": [
+      "家庭/人物/父亲.md",
+      "家庭/素材/父亲毕业就业推荐表-脱敏摘要.md",
+      "初中/2022届/素材/家庭书信/2022-01-25写给父母的信-叙事整理.md"
+    ],
+    "school_author_safe_note": "editorial/volume02/2026-11-08-1907-author-addendum-public-safe-and-restricted-gates.md",
+    "editorial_audit": "editorial/volume02/reviews/2026-11-08-ch09-father-told-me-r1-evidence-ten-dimension-and-privacy-audit.md",
+    "pr_number": 27,
+    "pr_url": "https://github.com/LYL-Z/the-memory-reading-notes/pull/27",
+    "base_pr": 26,
+    "dependencies": [
+      23,
+      24,
+      25,
+      26,
+      27
+    ],
+    "private_items_not_published": [
+      "third party medical and bereavement information",
+      "identifiable school admission interview relationship detail",
+      "third party secondary-school placement claims and alleged school discipline incidents"
+    ],
+    "merge_decision": "CONDITIONAL_USER_AUTHORIZATION_BUT_EXISTING_PRS_DRAFT_NO_CONFIRMED_CI_AND_AUTHOR_APPROVAL_GATES_UNRESOLVED; NO_MERGE",
+    "prior_chapters_change": false,
+    "first_volume_R50_change": false,
+    "human_independent_cold_readers": 0,
+    "machine_test": "NOT_RUN_NO_PASS_CLAIM",
+    "next": "AUTHOR_READ_CH09_AND_REVIEW_EVIDENCE_AND_PRIVACY; DO_NOT_CONFUSE_CH10_2023_DIVISION_TEST_WITH_2019_JUNIOR_FIRST_MONTHLY_EXAM"
   }
 }
