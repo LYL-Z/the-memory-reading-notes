@@ -67,7 +67,7 @@
   "structural_pilots": "work/round46-structure-pilots/",
   "round47_ledger": "editorial/volume01-round47-sol-editing-ledger.md",
   "round48_ledger": "editorial/volume01-round48-kimi-editing-ledger.md",
-  "next_stage": "VOLUME02_CH06_R1_AUTHOR_FACT_SCENE_REVIEW_PENDING_NO_R51",
+  "next_stage": "VOLUME02_CH06_R2_DETECTIVE_COMPOSITE_AUTHOR_REVIEW_PENDING_NO_R51",
   "prior_full_continuous_read_complete": true,
   "current_round_new_full_continuous_read": true,
   "round47_report": "editorial/volume01-round47-sol-literary-revision-and-acceptance.md",
@@ -272,6 +272,28 @@
     "volume01_unchanged": true,
     "source_vault_unchanged": true,
     "human_blind_readers": 0,
-    "next": "AUTHOR_SUPPLY_ONE_CONCRETE_COMPANION_CHOICE_OR_SHARED_FILMING_SCENE_THEN_R2"
+    "next": "AUTHOR_LATER_SUPPLIED_UNCERTAIN_DETECTIVE_THEME; SEE_CH06_R2"
+  },
+  "volume02_20261108_ch06_second_draft": {
+    "status": "R2_EDITORIAL_DRAFT_AUTHOR_REVIEW_PENDING_COMPOSITE_FICTION_LABELED",
+    "author_new_utterance": "跟夏恺宪、向睿馨拍过的某部短剧好像是跟侦探有关，可文学化，做第六章第二轮精修",
+    "author_memory_status": "TENTATIVE_DETECTIVE_THEME_NOT_CONFIRMED_PLOT",
+    "literary_reconstruction": "fictional lost keys detective case, fictional camera/operator/witness role assignment, multiple filming takes and discovered clue",
+    "literal_dialogue_attributed_to_real_childhood_peers": false,
+    "fiction_details_are_historical_claims": false,
+    "chapter_file": "manuscript/volume-02/006.md",
+    "chapter_hanzi_before": 4942,
+    "chapter_hanzi_after": 5595,
+    "volume02_six_chapters_hanzi": 38551,
+    "editorial_audit": "editorial/volume02/reviews/2026-11-08-ch06-turn-taking-r2-detective-fiction-source-and-literary-audit.md",
+    "draft_pr": 23,
+    "draft_pr_url": "https://github.com/LYL-Z/the-memory-reading-notes/pull/23",
+    "draft_branch": "draft/volume02-ch06-turn-taking-20261108",
+    "prior_remote_head_before_r2": "f1ac37069228b6960099dce7113826779d235f44",
+    "needs_author_scene_confirmation": true,
+    "first_volume_unchanged": true,
+    "source_vault_unchanged": true,
+    "human_blind_readers": 0,
+    "next": "AUTHOR_REVIEW_DETECTIVE_COMPOSITE_THEN_OPTIONAL_R3_OR_APPROVAL"
   }
 }
