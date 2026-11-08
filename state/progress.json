@@ -67,7 +67,7 @@
   "structural_pilots": "work/round46-structure-pilots/",
   "round47_ledger": "editorial/volume01-round47-sol-editing-ledger.md",
   "round48_ledger": "editorial/volume01-round48-kimi-editing-ledger.md",
-  "next_stage": "VOLUME02_CH11_R1_2017_HOME_VS_RESTAURANT_SOURCE_CONFLICT_AUTHOR_REVIEW_PENDING_DRAFT_PR29_NO_MAIN_MERGE",
+  "next_stage": "VOLUME02_CH11_R2_DEEP_POLISH_COMPLETE_AUTHOR_REVIEW_AND_THIRD_PARTY_PUBLICATION_GATE_PENDING_DRAFT_PR29_NOT_MERGED",
   "prior_full_continuous_read_complete": true,
   "current_round_new_full_continuous_read": true,
   "round47_report": "editorial/volume01-round47-sol-literary-revision-and-acceptance.md",
@@ -764,11 +764,11 @@
   "volume02_20261108_ch11_two_places": {
     "title": "两处地点",
     "chapter": "manuscript/volume-02/011.md",
-    "version": "R1_EDITORIAL_REVIEWED_SOURCE_GATED",
-    "status": "DRAFT_R1_AUTHOR_REVIEW_AND_THIRD_PARTY_PUBLICATION_BOUNDARY_PENDING_NO_MAIN_MERGE",
-    "official_hanzi": 3783,
+    "version": "R2_DEEP_EDITORIAL_POLISH",
+    "status": "R2_EDITORIAL_REVIEWED_AUTHOR_AND_THIRD_PARTY_PRIVACY_REVIEW_PENDING_DRAFT_PR29_NOT_MERGED",
+    "official_hanzi": 3808,
     "prior_01_to_10_hanzi": 58645,
-    "current_01_to_11_hanzi": 62428,
+    "current_01_to_11_hanzi": 62453,
     "branch": "draft/volume02-ch11-two-places-2017-20261108",
     "pr_number": 29,
     "pr_url": "https://github.com/LYL-Z/the-memory-reading-notes/pull/29",
@@ -798,6 +798,24 @@
     "human_independent_cold_readers": 0,
     "machine_test": "NOT_RUN_NO_PASS_CLAIM",
     "author_approval_pending": true,
-    "next": "AUTHOR_COMPLETE_READ_CH11_R1; DETERMINE IF PUBLICATION_OF_THIRD_PARTY_SURVEY_DETAILS_ALLOWED; FUTURE_CH12_B2_PING_PONG_REAL_TRAINING_SOURCE_FIRST; DON'T_MERGE_STACK_WITHOUT_APPROVAL"
+    "next": "AUTHOR_READ_CH11_R2_FULLY, RESOLVE_OPTIONAL_THIRDPARTY_PUBLICATION_CONSENT, ONLY_TARGET_NEW_GROUNDED_DEFECTS; DO_NOT_MERGE_DRAFT_STACK; CH12_PINGPONG_SOURCE_FIRST",
+    "r1_hanzi": 3783,
+    "net_change_from_r1": 25,
+    "editorial_audit": "editorial/volume02/reviews/2026-11-08-ch11-two-places-r2-deep-polish-whole-read-and-provenance-audit.md",
+    "previous_r1_audit": "editorial/volume02/reviews/2026-11-08-ch11-two-places-r1-deep-sources-ten-dimension-and-privacy-audit.md",
+    "substantive_edits": [
+      "rewritten 2025 name correction and 2017 venue priority",
+      "deepened mother-led gathering and household kitchen without invented exact action",
+      "emphasized symbolic brotherhood alongside lifelong friendship and school changes",
+      "restored 2024 film and 2025 university admission congrats, Xia's mother's gift",
+      "deleted private Xiang personality assessment not cleared for publishing",
+      "fixed impossible age 10 in summer 2017 and 2018 birthday exact-day assumption",
+      "compressed report-like memory disclaimers and repeated name quotation"
+    ],
+    "public_background_sources": [
+      "https://ctext.org/sanguo-yanyi/zhs",
+      "https://www.sony.com.cn/content/sonyportal/zh-cn/cms/newscenter/corporate/2024/241023-1.html.html"
+    ],
+    "high_privacy_new_assessment_excluded": true
   }
 }
