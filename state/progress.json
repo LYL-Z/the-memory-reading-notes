@@ -1,7 +1,7 @@
 {
   "project": "时间的复数人称",
   "volume_01_title": "现在有人回头",
-  "active_branch": "editorial/author-interview-156q-answers-and-seven-part-20261107",
+  "active_branch": "editorial/volume02-ch01-ch07-final-voice-pass-20261108",
   "base_commit": "7d03ec3636592ff27a301da250bd366fc380e063",
   "guidance_start_commit": "bfe2441c177eb69dde62f9323ceaa429f7209a89",
   "last_round": 50,
@@ -67,7 +67,7 @@
   "structural_pilots": "work/round46-structure-pilots/",
   "round47_ledger": "editorial/volume01-round47-sol-editing-ledger.md",
   "round48_ledger": "editorial/volume01-round48-kimi-editing-ledger.md",
-  "next_stage": "VOLUME02_CH07_R2_AUTHOR_REVIEW_PENDING_AND_CH06_PR23_DEPENDENCY",
+  "next_stage": "VOLUME02_CH01_TO_CH07_FINAL_VOICE_PASS_DRAFT_PR25_AUTHOR_APPROVAL_PENDING",
   "prior_full_continuous_read_complete": true,
   "current_round_new_full_continuous_read": true,
   "round47_report": "editorial/volume01-round47-sol-literary-revision-and-acceptance.md",
@@ -478,5 +478,63 @@
     "first_volume_R50_modified": false,
     "source_vault_modified": false,
     "next": "AUTHOR_READ_R2_AND_CONFIRM_WUHAN_ATTENDANCE_WHEN_POSSIBLE; KEEP_DRAFT_AND_STAGED_PR"
+  },
+  "volume02_20261108_final_voice_polish": {
+    "status": "DRAFT_EDITORIAL_FINAL_VOICE_PASS_COMPLETE_AUTHOR_REVIEW_PENDING_NO_MAIN_MERGE",
+    "author_request": "深度吸收Claude反AI写作意见并持久化到GitHub，对已完成前七章做最后一次润色与十维审查",
+    "branch": "editorial/volume02-ch01-ch07-final-voice-pass-20261108",
+    "pr_number": 25,
+    "pr_url": "https://github.com/LYL-Z/the-memory-reading-notes/pull/25",
+    "base_pr": 24,
+    "dependency_prs": [
+      23,
+      24,
+      25
+    ],
+    "voice_protocol": "editorial/style-and-influences/2026-11-08-author-voice-anti-template-and-evidence-protocol.md",
+    "editorial_audit": "editorial/volume02/reviews/2026-11-08-ch01-ch07-final-voice-polish-ten-dimension-and-deletion-ledger.md",
+    "chapter_files": [
+      "manuscript/volume-02/001.md",
+      "manuscript/volume-02/002.md",
+      "manuscript/volume-02/003.md",
+      "manuscript/volume-02/004.md",
+      "manuscript/volume-02/005.md",
+      "manuscript/volume-02/006.md",
+      "manuscript/volume-02/007.md"
+    ],
+    "base_official_hanzi_by_chapter": [
+      6491,
+      6043,
+      7834,
+      5949,
+      6032,
+      5420,
+      5088
+    ],
+    "current_official_hanzi_by_chapter": [
+      6359,
+      5808,
+      7656,
+      5713,
+      5667,
+      5121,
+      4812
+    ],
+    "base_official_hanzi": 42857,
+    "current_official_hanzi": 41136,
+    "net_change": -1721,
+    "number_of_targeted_text_operations": 50,
+    "historical_net_non_decrease_requirement": "FIRST_VOLUME_FORMAL_CONTRACT; AUTHOR_HAS_EXPRESSED_BROADER_NON_DECREASE_PREFERENCE; THIS_SCALED_DOWN_SECOND_VOLUME_VERSION IS_DRAFT_NOT_APPROVED",
+    "source_repo_modified": false,
+    "volume01_R50_modified": false,
+    "account_memory_write_not_guaranteed": true,
+    "project_memory_recorded_to_repo": true,
+    "source_gaps": [
+      "2023年武汉作者本人是否逐站同行仍待确认",
+      "童年侦探短剧钥匙案属文学复合",
+      "第二部07的具体作业种类页数及考试分数未知"
+    ],
+    "human_blind_readers": 0,
+    "merge": "DO_NOT_MERGE_UNTIL_UPSTREAM_PRS_ACCEPTED_AND_AUTHOR_REVIEWS_NET_CUT"
   }
 }
