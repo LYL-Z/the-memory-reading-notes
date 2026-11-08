@@ -67,7 +67,7 @@
   "structural_pilots": "work/round46-structure-pilots/",
   "round47_ledger": "editorial/volume01-round47-sol-editing-ledger.md",
   "round48_ledger": "editorial/volume01-round48-kimi-editing-ledger.md",
-  "next_stage": "VOLUME02_CH09_R1_AUTHOR_REVIEW_PENDING_DRAFT_PR27_STACKED_NOT_MERGED",
+  "next_stage": "VOLUME02_CH09_R2_DEEP_POLISH_AUTHOR_REVIEW_PENDING_DRAFT_PR27_NOT_MERGED",
   "prior_full_continuous_read_complete": true,
   "current_round_new_full_continuous_read": true,
   "round47_report": "editorial/volume01-round47-sol-literary-revision-and-acceptance.md",
@@ -592,12 +592,12 @@
     "test_claim": "REMOTE_DIFF_AND_HANZI_COUNT_ONLY_NO_LOCAL_R50_SCRIPT"
   },
   "volume02_20261108_ch09_father": {
-    "status": "DRAFT_R1_TEN_DIMENSION_AND_EVIDENCE_AUDIT_COMPLETE_AUTHOR_REVIEW_PENDING_NO_MAIN_MERGE",
+    "status": "DRAFT_R2_DEEP_LITERARY_POLISH_EVIDENCE_AND_TEN_DIMENSION_AUDIT_COMPLETE_AUTHOR_REVIEW_PENDING_NO_MAIN_MERGE",
     "title": "父亲讲过的",
     "chapter": "manuscript/volume-02/009.md",
-    "official_hanzi": 5504,
+    "official_hanzi": 6739,
     "previous_01_to_08_hanzi": 48149,
-    "current_01_to_09_hanzi": 53653,
+    "current_01_to_09_hanzi": 54888,
     "source_repo": "LYL-Z/the-memory",
     "source_repo_write": false,
     "father_primary_sources": [
@@ -606,7 +606,7 @@
       "初中/2022届/素材/家庭书信/2022-01-25写给父母的信-叙事整理.md"
     ],
     "school_author_safe_note": "editorial/volume02/2026-11-08-1907-author-addendum-public-safe-and-restricted-gates.md",
-    "editorial_audit": "editorial/volume02/reviews/2026-11-08-ch09-father-told-me-r1-evidence-ten-dimension-and-privacy-audit.md",
+    "editorial_audit": "editorial/volume02/reviews/2026-11-08-ch09-father-told-me-r2-deep-literary-fact-and-continuity-audit.md",
     "pr_number": 27,
     "pr_url": "https://github.com/LYL-Z/the-memory-reading-notes/pull/27",
     "base_pr": 26,
@@ -627,6 +627,31 @@
     "first_volume_R50_change": false,
     "human_independent_cold_readers": 0,
     "machine_test": "NOT_RUN_NO_PASS_CLAIM",
-    "next": "AUTHOR_READ_CH09_AND_REVIEW_EVIDENCE_AND_PRIVACY; DO_NOT_CONFUSE_CH10_2023_DIVISION_TEST_WITH_2019_JUNIOR_FIRST_MONTHLY_EXAM"
+    "next": "AUTHOR_READ_R2_AND_CHECK_FATHER_MEMORY_DETAILS; NEVER_MERGE_UPSTREAM_STACK_WITHOUT_APPROVAL_AND_GATES",
+    "version": "R2",
+    "prior_r1_hanzi": 5504,
+    "net_added_since_r1": 1235,
+    "r1_audit": "editorial/volume02/reviews/2026-11-08-ch09-father-told-me-r1-evidence-ten-dimension-and-privacy-audit.md",
+    "main_edits": "44 targeted prose replacements; move 2016 river memory after 1985 television as nonlinear hinge; six fact/time refinements; five ending revisions; 55 main operations total",
+    "facts": [
+      "1985 father's first-hand recollection not narrator witnessed",
+      "2016 October return to Yiyang precedes grade six",
+      "sack Meicheng clay and river tape author's firsthand remembered material",
+      "2002 food delivery and Xinjiang choices in father's own account",
+      "2003 SARS public context not father's medical history",
+      "father colleague work complaints excluded",
+      "first junior month test exact rank deliberately deferred to B5"
+    ],
+    "volume01_R50_change": false,
+    "first_8_chapters_change": false,
+    "upstream_prs": [
+      23,
+      24,
+      25,
+      26
+    ],
+    "draft": true,
+    "author_approval_pending": true,
+    "independent_human_cold_readers": 0
   }
 }
