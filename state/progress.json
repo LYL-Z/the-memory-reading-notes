@@ -67,7 +67,7 @@
   "structural_pilots": "work/round46-structure-pilots/",
   "round47_ledger": "editorial/volume01-round47-sol-editing-ledger.md",
   "round48_ledger": "editorial/volume01-round48-kimi-editing-ledger.md",
-  "next_stage": "VOLUME02_CH06_R2_DETECTIVE_COMPOSITE_AUTHOR_REVIEW_PENDING_NO_R51",
+  "next_stage": "VOLUME02_CH07_R1_AUTHOR_REVIEW_PENDING_STACKED_PR24_AFTER_PR23",
   "prior_full_continuous_read_complete": true,
   "current_round_new_full_continuous_read": true,
   "round47_report": "editorial/volume01-round47-sol-literary-revision-and-acceptance.md",
@@ -158,7 +158,11 @@
   "claude_three_conversations_archived": "editorial/claude-three-conversations-verbatim-2026-11-03.md",
   "volume01_editorial_frozen_no_r51": true,
   "volume01_publication_ready": false,
-  "volume01_publication_limitations": ["human_cold_readers_0", "independent_privacy_and_real_persons_rights_review_pending", "some_scene_details_are_literary_reconstructions"],
+  "volume01_publication_limitations": [
+    "human_cold_readers_0",
+    "independent_privacy_and_real_persons_rights_review_pending",
+    "some_scene_details_are_literary_reconstructions"
+  ],
   "main_merge_status": "MERGED_TO_MAIN",
   "main_merge_pr": 19,
   "main_merge_commit": "6d05774115981c0457f9dba9a92e7afbeca93ecc",
@@ -174,7 +178,13 @@
       "manuscript/volume-02/004.md",
       "manuscript/volume-02/005.md"
     ],
-    "chapter_hanzi": [6221, 5820, 8836, 6180, 6520],
+    "chapter_hanzi": [
+      6221,
+      5820,
+      8836,
+      6180,
+      6520
+    ],
     "five_chapter_hanzi_before": 30296,
     "five_chapter_hanzi_after": 33577,
     "five_chapter_hanzi_net": 3281,
@@ -206,10 +216,29 @@
   },
   "volume02_20261108_focalization_repetition_revision": {
     "status": "DRAFT_EDITORIAL_REPAIR_AUTHOR_REVIEW_PENDING",
-    "scope": ["manuscript/volume-02/002.md", "manuscript/volume-02/003.md", "manuscript/volume-02/005.md"],
-    "chapters_unchanged": ["manuscript/volume-02/001.md", "manuscript/volume-02/004.md"],
-    "chapter_hanzi_before": [6221, 5820, 8836, 6180, 6520],
-    "chapter_hanzi_after": [6221, 6072, 8734, 6180, 6221],
+    "scope": [
+      "manuscript/volume-02/002.md",
+      "manuscript/volume-02/003.md",
+      "manuscript/volume-02/005.md"
+    ],
+    "chapters_unchanged": [
+      "manuscript/volume-02/001.md",
+      "manuscript/volume-02/004.md"
+    ],
+    "chapter_hanzi_before": [
+      6221,
+      5820,
+      8836,
+      6180,
+      6520
+    ],
+    "chapter_hanzi_after": [
+      6221,
+      6072,
+      8734,
+      6180,
+      6221
+    ],
     "total_hanzi_before": 33577,
     "total_hanzi_after": 33428,
     "net_hanzi": -149,
@@ -229,9 +258,21 @@
   },
   "volume02_20261108_ch01_ch05_final_phase_acceptance": {
     "status": "EDITORIAL_PHASE_CLOSED_AUTHOR_MAIN_MERGE_AUTHORIZED",
-    "current_reading_order": ["一个人的客厅", "二班", "后门", "三餐", "借来的床"],
+    "current_reading_order": [
+      "一个人的客厅",
+      "二班",
+      "后门",
+      "三餐",
+      "借来的床"
+    ],
     "chapter_count": 5,
-    "chapter_hanzi": [6221, 6072, 8262, 6180, 6221],
+    "chapter_hanzi": [
+      6221,
+      6072,
+      8262,
+      6180,
+      6221
+    ],
     "five_chapter_hanzi_total": 32956,
     "previous_total": 33428,
     "final_pass_net_hanzi": -472,
@@ -301,9 +342,30 @@
     "author_new_fact_exact": "我们所有道具都很朴素易找（家里的）",
     "author_new_fact_scope": "childhood filming props ordinary and locally available in the household; actual keys, devices, plot, actor assignments and dialogue not confirmed",
     "fiction_boundary": "CH06_DETECTIVE_LOST_KEYS_THREE_TAKES_EXPLICIT_COMPOSITE_RECONSTRUCTION_NOT_REAL_EVENT_LEDGER",
-    "chapter_files": ["manuscript/volume-02/001.md", "manuscript/volume-02/002.md", "manuscript/volume-02/003.md", "manuscript/volume-02/004.md", "manuscript/volume-02/005.md", "manuscript/volume-02/006.md"],
-    "chapter_hanzi_before": [6221, 6072, 8262, 6180, 6221, 5595],
-    "chapter_hanzi_after": [6509, 6051, 7834, 5949, 6006, 5849],
+    "chapter_files": [
+      "manuscript/volume-02/001.md",
+      "manuscript/volume-02/002.md",
+      "manuscript/volume-02/003.md",
+      "manuscript/volume-02/004.md",
+      "manuscript/volume-02/005.md",
+      "manuscript/volume-02/006.md"
+    ],
+    "chapter_hanzi_before": [
+      6221,
+      6072,
+      8262,
+      6180,
+      6221,
+      5595
+    ],
+    "chapter_hanzi_after": [
+      6509,
+      6051,
+      7834,
+      5949,
+      6006,
+      5849
+    ],
     "six_chapter_hanzi_before": 38551,
     "six_chapter_hanzi_after": 38198,
     "net_hanzi": -353,
@@ -328,10 +390,32 @@
     "detective_theme_certainty": "TENTATIVE",
     "case_keys_roles_takes_certainty": "LITERARY_COMPOSITE_NOT_HISTORICALLY_VERIFIED",
     "simple_household_props_author_confirmed": true,
-    "changed_chapter_numbers": [1, 2, 5, 6],
-    "unchanged_chapter_numbers": [3, 4],
-    "chapter_hanzi_before": [6509, 6051, 7834, 5949, 6006, 5849],
-    "chapter_hanzi_after": [6491, 6043, 7834, 5949, 6032, 5571],
+    "changed_chapter_numbers": [
+      1,
+      2,
+      5,
+      6
+    ],
+    "unchanged_chapter_numbers": [
+      3,
+      4
+    ],
+    "chapter_hanzi_before": [
+      6509,
+      6051,
+      7834,
+      5949,
+      6006,
+      5849
+    ],
+    "chapter_hanzi_after": [
+      6491,
+      6043,
+      7834,
+      5949,
+      6032,
+      5571
+    ],
     "six_chapter_hanzi_before": 38198,
     "six_chapter_hanzi_after": 37920,
     "net_hanzi": -278,
@@ -345,5 +429,35 @@
     "remote_content_commit": "a763662f934913161a15943459dd3358dae0a499",
     "remote_sync_status": "DRAFT_PR23_CONTENT_AND_HANDOFF_SYNCED",
     "next": "AUTHOR_FINAL_CONTINUOUS_READ_AND_FACT_CHECK_NO_MAIN_MERGE"
+  },
+  "volume02_20261108_ch07_first_draft": {
+    "status": "DRAFT_R1_AUTHOR_REVIEW_PENDING_STACKED_PR24_NO_MAIN_MERGE",
+    "title": "没做完的作业",
+    "chapter_path": "manuscript/volume-02/007.md",
+    "audit": "editorial/volume02/reviews/2026-11-08-ch07-unfinished-homework-r1-ten-dimension-and-source-audit.md",
+    "draft_pr": 24,
+    "draft_pr_url": "https://github.com/LYL-Z/the-memory-reading-notes/pull/24",
+    "draft_branch": "draft/volume02-ch07-unfinished-homework-20261108",
+    "base_pr": 23,
+    "base_branch": "draft/volume02-ch06-turn-taking-20261108",
+    "current_chapters": 7,
+    "official_hanzi_by_chapter": [
+      6491,
+      6043,
+      7834,
+      5949,
+      6032,
+      5420,
+      4462
+    ],
+    "official_hanzi_six_chapters": 37769,
+    "official_hanzi_seven_chapters": 42231,
+    "previous_ch06_5571_is_stale": true,
+    "author_review_pending": true,
+    "fact_gates": "SUMMER_HOMEWORK_AND_TWO_PEERS_UNDERPREPARED_AUTHOR_RECALL; EXACT_ASSIGNMENTS_AND_EXAM_UNKNOWN; COMPOSITE_HOMEWORK_ACTIONS_NOT_HISTORICAL_CERTAINTY",
+    "first_volume_round50_unchanged": true,
+    "source_vault_write": false,
+    "human_cold_readers": 0,
+    "next": "AUTHOR_READ_CH07_AND_CONFIRM_HOMEWORK_LIVED_DETAILS_BEFORE_NON_DRAFT_OR_MAIN_MERGE"
   }
 }
