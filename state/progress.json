@@ -319,5 +319,29 @@
     "source_vault_unchanged": true,
     "audit": "editorial/volume02/reviews/2026-11-08-ch01-ch06-whole-unit-deep-polish-and-household-props-audit.md",
     "next": "AUTHOR_CONTINUOUS_READ_AND_FACT_CHECK; NO_MAIN_MERGE"
+  },
+  "volume02_20261108_final_natural_memory_voice_pass": {
+    "status": "FINAL_READER_VOICE_POLISH_AUTHOR_REVIEW_PENDING_DRAFT_PR23",
+    "author_latest_exact": "不要太让读者知道具体案件是文学重构，本身就是回忆很正常，进行最后一次进修",
+    "editorial_policy": "SUBTLE_SINGLE_MEMORY_UNCERTAINTY_SIGNAL_IN_READER_TEXT_FULL_COMPOSITE_DISCLOSURE_IN_EDITORIAL_LEDGER_ONLY",
+    "real_did_film_short_plays": true,
+    "detective_theme_certainty": "TENTATIVE",
+    "case_keys_roles_takes_certainty": "LITERARY_COMPOSITE_NOT_HISTORICALLY_VERIFIED",
+    "simple_household_props_author_confirmed": true,
+    "changed_chapter_numbers": [1, 2, 5, 6],
+    "unchanged_chapter_numbers": [3, 4],
+    "chapter_hanzi_before": [6509, 6051, 7834, 5949, 6006, 5849],
+    "chapter_hanzi_after": [6491, 6043, 7834, 5949, 6032, 5571],
+    "six_chapter_hanzi_before": 38198,
+    "six_chapter_hanzi_after": 37920,
+    "net_hanzi": -278,
+    "draft_pr": 23,
+    "draft_branch": "draft/volume02-ch06-turn-taking-20261108",
+    "audit": "editorial/volume02/reviews/2026-11-08-ch01-ch06-final-natural-memory-voice-pass.md",
+    "source_repo_modified": false,
+    "volume01_modified": false,
+    "volume01_verified_hanzi": 136693,
+    "human_blind_readers": 0,
+    "next": "VERIFY_AND_SYNC_PR23_KEEP_DRAFT_THEN_AUTHOR_FINAL_READ"
   }
 }
