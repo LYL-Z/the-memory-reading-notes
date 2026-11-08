@@ -297,7 +297,7 @@
     "next": "AUTHOR_REVIEW_DETECTIVE_COMPOSITE_THEN_OPTIONAL_R3_OR_APPROVAL"
   },
   "volume02_20261108_ch01_ch06_whole_unit_deep_polish": {
-    "status": "SIX_CHAPTER_EDITORIAL_CANDIDATE_AUTHOR_REVIEW_PENDING_PR23_DRAFT_ONLY",
+    "status": "SIX_CHAPTER_EDITORIAL_CANDIDATE_SYNCED_PR23_DRAFT_AUTHOR_REVIEW_PENDING",
     "author_new_fact_exact": "我们所有道具都很朴素易找（家里的）",
     "author_new_fact_scope": "childhood filming props ordinary and locally available in the household; actual keys, devices, plot, actor assignments and dialogue not confirmed",
     "fiction_boundary": "CH06_DETECTIVE_LOST_KEYS_THREE_TAKES_EXPLICIT_COMPOSITE_RECONSTRUCTION_NOT_REAL_EVENT_LEDGER",
@@ -310,11 +310,14 @@
     "main_base": "bad5b23483fd21c8f65423ff3747c095e06c0759",
     "draft_pr": 23,
     "draft_pr_url": "https://github.com/LYL-Z/the-memory-reading-notes/pull/23",
+    "first_remote_commit_verified": "b275ceacebfd36dd562b597270b2b07af67fabbc",
+    "remote_blob_paths_verified_count": 9,
+    "pr_remains_open_draft": true,
     "human_blind_readers": 0,
     "first_volume_unchanged": true,
     "first_volume_verified_hanzi": 136693,
     "source_vault_unchanged": true,
     "audit": "editorial/volume02/reviews/2026-11-08-ch01-ch06-whole-unit-deep-polish-and-household-props-audit.md",
-    "next": "VERIFY_AND_SYNC_PR23_DRAFT_HEAD_THEN_AUTHOR_REVIEW; NO_MAIN_MERGE"
+    "next": "AUTHOR_CONTINUOUS_READ_AND_FACT_CHECK; NO_MAIN_MERGE"
   }
 }
