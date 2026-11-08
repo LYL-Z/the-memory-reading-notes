@@ -24,8 +24,8 @@ V1采取A3榜单先行，读者先以“青春关系失位”理解人物，再�
 | **01** | 一个人的客厅 | B2 | 孩子能编演多重角色，会争会偏心 | 一次具体追逃游戏是文学重构，不能再当新“真实童年事实” | `DRAFT_R3 / AUTHOR_REVIEW_PENDING` |
 | **02** | 二班 | A3 | 赵G2202，刘G2205；他曾长久在2班找自己的名字 | 分班考试具体成绩未知；暂不讲熟人调任及侥幸的全部背景 | `DRAFT_R3 / AUTHOR_REVIEW_PENDING` |
 | 03 | 后门 | A1 | 旧G2204返校首晚；王麒皓在刘身旁且同样面对考试，赵问竹在前排；高一友谊与分班愿望相互映照 | 她向后门看过不证明看的是刘；王当晚具体台词、复习卷及他人心思未知 | `DRAFT_R3 / AUTHOR_REVIEW_PENDING` |
-| 04 | 三餐 | B1 | 一个人在家和有家人照料可以同时成立；奶奶的三餐与她在安化的独立生活 | 不造某日三餐分工、配菜或家人心思；母亲问卷的家庭隐私先审再决定能否公开 | `PRIVATE_R1 / AUTHOR_REVIEW_PENDING / FAMILY_PUBLICATION_HOLD` |
-| 05 | 借来的床 | A0 | 525已散，返校先住过渡寝室 | 不能混同后来425，不造齐全部床友 | `READY` |
+| 04 | 三餐 | B1 | 一个人在家和有家人照料可以同时成立；奶奶的三餐与她在安化的独立生活 | 不造某日三餐分工、配菜或家人心思；母亲问卷中待本人审阅的两则具体回忆从公开版移除，完整私稿仍受限 | `PUBLIC_R1_REDACTED / GRANDMOTHER_PORTRAYAL_AUTHOR_APPROVED / PUBLIC_TEXT_REVIEW_PENDING` |
+| 05 | 借来的床 | A0 | 525已散，返校先住过渡寝室；熟人未必因换房而失散 | 不能混同后来425，不造齐全部床友；王麒皓等人未知的当晚对白与心思留空 | `DRAFT_R1 / EDITORIAL_REVIEWED / AUTHOR_REVIEW_PENDING` |
 | 06 | 轮到谁说话 | B2 | 同伴加入后游戏安排遭遇别人自己的选择 | 不能写同伴心声/不明儿童密事 | `GATED` |
 | 07 | 没做完的作业 | A1 | 刘和王麒皓暑假作业准备不足，仍期望结果好 | 不由此推定分班算法或分数 | `READY` |
 | 08 | 一百三零五 | B4 | 益阳实验小学86班后六年级1305班 | 具体换班现场尚无证据 | `GATED` |
@@ -67,7 +67,8 @@ V1采取A3榜单先行，读者先以“青春关系失位”理解人物，再�
 ## 五、创作推进与冻结边界
 
 - `manuscript/volume-02/001.md`、`002.md`为**第一轮连续正文草稿R1**，已从B2候选及A3候选分别精修改写；原实验稿原样保留，可对照追溯。
-- 03《后门》已写至R3。04《三餐》已核祖母、母亲、父亲和童年本人自述，完成约6.3千Unicode字符的**私阅R1**；因母亲2026-09-08第二份问卷收紧家庭叙事公开授权，正文暂不放入公开GitHub，审稿与授权门槛见 `editorial/volume02/reviews/2026-11-08-ch04-sancan-r1-private-draft-and-consent-gate.md`。不硬编已发生的一餐。
+- 03《后门》已写至R3。04《三餐》完整私阅R1约6.3千Unicode字符，作者认可祖母为拥有完整人生的人并允许提交GitHub；出于母亲独立审阅范围限制，**公开版** `manuscript/volume-02/004.md` 单独修订、约6.2千字符，不公开母亲尚未审阅的两则个人回忆；完整私稿保持私有，不擅称家人已经授权所有家庭细节。沿用 `editorial/volume02/reviews/2026-11-08-ch04-sancan-r1-private-draft-and-consent-gate.md` 的历史门槛并补记这次公开裁决。
+- 05《借来的床》现完成约6.3千Unicode字符正式R1；以2023年返校过渡寝室为中心，回折高一525，在旧班晚自习与翌日分班考之间收束，王麒皓有独立存在，蒋明和阳隽豪仅按已知事实出现；审稿账见 `editorial/volume02/reviews/2026-11-08-ch05-jielaidechuang-r1-editorial-source-audit.md`。作者待审。
 - 每章步骤：`SOURCE_CHECK → DRAFT → LITERARY_EDIT → FACT_AUDIT → CONTINUITY_AUDIT → AUTHOR_REVIEW`。只有最后一步完成才可标作者确认；当前两章状态是 `R1 / EDITORIAL_REVIEWED / AUTHOR_REVIEW_PENDING`，不冒充“终审通过”。
 - 旧A/B受控实验仍是历史实验。作者已正式改序，但并未进行真人陌生读者试验；编辑预测不能写作读者数据。
 - GitHub只更新创作草稿分支的Draft PR，不把草稿直接合并到main，不移动、删改第一部R50十八章，也不公开上传涉及未成年人与家人的原始照片。
