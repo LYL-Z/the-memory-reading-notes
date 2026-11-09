@@ -1002,7 +1002,7 @@
     "next": "VERIFY_NEW_DRAFT_PR_AND_STACK; AUTHOR_READ_FULL_CH13; HY4_INDEPENDENT_COLD_READ_AND_ACTUAL_EDIT; AWAIT_FACT_CORRECTIONS_OR_NEXT_AUTHORIZATION"
   },
   "volume02_ch14_mother_side_20261109": {
-    "status": "R1_LOCAL_DRAFT_COMPLETE_PUBLIC_REMOTE_PUBLICATION_REQUIRES_EXPLICIT_APPROVAL",
+    "status": "R1_PUBLIC_DRAFT_PR37_CREATED_AUTHOR_AND_MOTHER_REVIEW_PENDING_NO_MAIN_MERGE",
     "branch": "draft/volume02-ch14-mother-side-20261109",
     "parent_pr": 36,
     "parent_sha": "b90533f096684c41af554ec1c666b47c64e1dc7c",
@@ -1027,7 +1027,12 @@
     "independent_hy4_prompt": "editorial/volume02/prompts/2026-11-09-HY4-volume02-ch14-mother-side-independent-review.md",
     "human_independent_cold_readers": 0,
     "main_merge_allowed": false,
-    "remote_publication_status": "NOT_PUSHED_POLICY_REVIEW_REQUIRES_EXPLICIT_USER_APPROVAL_FOR_PUBLIC_GITHUB_DISCLOSURE_OF_MOTHER_FAMILY_CONTENT",
-    "next": "ASK_AUTHOR_EXPLICITLY_IF_THE_NEW_CH14_AND_EDITORIAL_ARTIFACTS_MAY_BE_PUBLISHED_TO_PUBLIC_GITHUB_DRAFT_PR; UNTIL_THEN_LOCAL_ONLY; AUTHOR_AND_MOTHER_READ; NO_MAIN_MERGE"
+    "remote_publication_status": "AUTHOR_EXPLICITLY_AUTHORIZED_PUBLIC_DRAFT_2026_11_09; PR37_OPEN_DRAFT_MERGEABLE_TRUE",
+    "draft_pr": 37,
+    "draft_pr_url": "https://github.com/LYL-Z/the-memory-reading-notes/pull/37",
+    "remote_first_commit": "65d17f0ec512fb346c4f99acd599c940199503f5",
+    "remote_tree_sha": "cf6e5425b3e7990a3fd02f6c24dc61ebdbcae938",
+    "remote_compare": "AHEAD_1_BEHIND_0_FIVE_FILES",
+    "next": "AUTHOR_AND_MOTHER_READ_CH14; HY4_INDEPENDENT_COLD_READ_AND_OPTIONAL_ACTUAL_REVISION; PUBLIC_DRAFT_ONLY; NO_MAIN_MERGE"
   }
 }
