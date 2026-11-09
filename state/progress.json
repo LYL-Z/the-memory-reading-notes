@@ -1064,7 +1064,13 @@
     "author_review_pending": true,
     "main_merge_allowed": false,
     "project_ci": "NOT_RUN",
-    "remote_publication_status": "DRAFT_PR_NOT_YET_CREATED_AT_LOCAL_MANUSCRIPT_STAGE",
-    "next": "CREATE_STACKED_DRAFT_PR; AUTHOR_CONFIRM_2023_MEAL_LOCATION_AND_BIRTHDAY_QUOTE; HY4_INDEPENDENT_COLD_READ_THEN_OPTIONAL_ACTUAL_REVISION; NO_MAIN_MERGE"
+    "first_volume_r50_machine_verifier": "PASS_LOCAL_18_CHAPTERS_136693_OFFICIAL_HANZI_NO_HUMAN_COLD_READ",
+    "remote_publication_status": "OPEN_DRAFT_PR39_MERGEABLE_TRUE_NOT_MAIN_MERGE_AUTHORIZED",
+    "draft_pr": 39,
+    "draft_pr_url": "https://github.com/LYL-Z/the-memory-reading-notes/pull/39",
+    "remote_first_commit": "706ba025a3c8d445dbaf1fbdec7d3e0e47c97446",
+    "remote_first_tree_sha": "f29263785e8ae5d98a92053c01f9ed554186249f",
+    "remote_compare": "AHEAD_1_BEHIND_0_FIVE_FILES",
+    "next": "AUTHOR_CONFIRM_2023_MEAL_LOCATION_AND_BIRTHDAY_QUOTE; HY4_INDEPENDENT_COLD_READ_THEN_OPTIONAL_ACTUAL_REVISION; NO_MAIN_MERGE"
   }
 }
