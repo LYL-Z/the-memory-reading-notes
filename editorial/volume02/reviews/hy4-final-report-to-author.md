@@ -101,4 +101,28 @@
 
 ## 第七部分｜GitHub 分支、提交记录、Draft PR 及验收结果
 
-见本 PR 的交付记录与下方 `## 交付验收` 节（分支、commit SHA、Draft PR 链接由实际推送后如实填入；若权限或分叉导致无法建立，将明确说明并提供可应用补丁，不会谎称已提交）。
+**独立分支**：`hy4/volume02-ch01-ch11-independent-review-20261109`，从 PR #29 head（`7dba7eddc3d8af900b64d16cf51f657364c65eb6`）切出，未覆盖任何既有分支。远端：`https://github.com/LYL-Z/the-memory-reading-notes/tree/hy4/volume02-ch01-ch11-independent-review-20261109`。
+
+**提交**：`4cb6840cc3799c97ff1a33de0ad8c49b06bcf506` —— `review(hy4): 第二部01-11章独立文学终审、58处A/B对照、事实隐私核查与47处实际修订`（34 个文件：11 章修订正文、6 份报告、原版备份 12 份、3 个可复现脚本、完整 diff 补丁、首次判断原文）。另有一次交付记录补录提交。推送已用 `git ls-remote` 核验，远端 SHA 与本地一致。
+
+**Draft PR**：**#30** —— https://github.com/LYL-Z/the-memory-reading-notes/pull/30 。`isDraft = true`，`base = draft/volume02-ch11-two-places-2017-20261108`（PR #29 head 分支，遵循安全叠加链），`head = hy4/volume02-ch01-ch11-independent-review-20261109`。**未合并、未改 main、未改第一部 R50、未改 `LYL-Z/the-memory`、未强推、未 rebase 上游、未合并任何已有 PR。**
+
+**分叉诊断结论**：PR29 相对 PR28 `diverged（ahead 31 / behind 8）`，`merge-base = 5167840…`；PR28 独有 8 个提交全部改 `010.md`，但两分支 `010.md` blob 完全相同（`5e6a3e7…`），`volume-02/` 唯一差异是 PR29 新增的 `011.md`。正文已镜像、提交图仍分叉；合并 PR29 进 PR28 会引入 8 个重复提交并与 `state/` 冲突。因此本轮只做只读诊断，不以"文件相同"假称祖先同步。
+
+**验收结果**：
+
+| 项 | 状态 |
+|---|---|
+| 十一章连续通读并保存未受污染判断 | 已完成，落盘两份 |
+| 第一部 18 章 R50 完整阅读（三组逐章逐字） | 已完成，只读 |
+| 十维度逐章审稿、P0/P1/P2、分歧对照 | 已完成 |
+| 58 处 A/B 对照（23 处判保留原文） | 已完成 |
+| 十一章实际修订 47 处、整体复读 | 已完成，5 处接缝问题已修 |
+| 事实来源与隐私边界核查 | 已完成，6 项 P0 全修 |
+| 完整 diff／逐章字数增减 | 已完成，413 行补丁，净 −914 |
+| 独立分支／commit／Draft PR | 已完成并核验 |
+| `scripts/hanzi_count.py`、仓库 CI、真人独立冷读 | **未运行／仍为 0**，不标 PASS |
+
+**交付文件清单**：`hy4-stage1-first-read-judgments.md`、`hy4-independent-ch01-ch11-review.md`、`hy4-sentence-ab-proposals.md`、`hy4-facts-and-privacy-audit.md`、`hy4-revision-diff-and-whole-read.md`、`hy4-final-report-to-author.md`；`manuscript/volume-02/001.md`—`011.md`；`_hy4_delivery/original/`（原版 PR29 十一章＋PR28 版 010 参照）、`_hy4_delivery/06-full-diff.patch`、三个修订脚本。
+
+**仍待您裁决**：净减 914 字是否接受；鬼片地点（原库"你家／我家" vs 任务书"向家"）；「向睿馨！！！／对不起对不起」是否另有截图；向睿馨问卷童年细节的公开发表授权；夏恺宪与赵问竹 2023 年的独立证词；2023 放榜日期与武汉逐站同行。
