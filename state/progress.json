@@ -1,7 +1,7 @@
 {
   "project": "时间的复数人称",
   "volume_01_title": "现在有人回头",
-  "active_branch": "draft/volume02-ch13-look-again-20261109",
+  "active_branch": "draft/volume02-ch14-mother-side-20261109",
   "base_commit": "7d03ec3636592ff27a301da250bd366fc380e063",
   "guidance_start_commit": "bfe2441c177eb69dde62f9323ceaa429f7209a89",
   "last_round": 50,
@@ -67,7 +67,7 @@
   "structural_pilots": "work/round46-structure-pilots/",
   "round47_ledger": "editorial/volume01-round47-sol-editing-ledger.md",
   "round48_ledger": "editorial/volume01-round48-kimi-editing-ledger.md",
-  "next_stage": "VOLUME02_CH01_TO_CH12_FINAL_HY4_SYNTHESIS_AUTHOR_REVIEW_PENDING_DRAFT_ONLY_NO_MAIN_MERGE",
+  "next_stage": "VOLUME02_CH14_MOTHER_SIDE_R1_DRAFT_AUTHOR_AND_MOTHER_REVIEW_PENDING_NO_MAIN_MERGE",
   "prior_full_continuous_read_complete": true,
   "current_round_new_full_continuous_read": true,
   "round47_report": "editorial/volume01-round47-sol-literary-revision-and-acceptance.md",
@@ -1000,5 +1000,34 @@
     "main_merge_allowed_for_ch13": false,
     "project_ci": "NOT_RUN",
     "next": "VERIFY_NEW_DRAFT_PR_AND_STACK; AUTHOR_READ_FULL_CH13; HY4_INDEPENDENT_COLD_READ_AND_ACTUAL_EDIT; AWAIT_FACT_CORRECTIONS_OR_NEXT_AUTHORIZATION"
+  },
+  "volume02_ch14_mother_side_20261109": {
+    "status": "R1_LOCAL_DRAFT_COMPLETE_PUBLIC_REMOTE_PUBLICATION_REQUIRES_EXPLICIT_APPROVAL",
+    "branch": "draft/volume02-ch14-mother-side-20261109",
+    "parent_pr": 36,
+    "parent_sha": "b90533f096684c41af554ec1c666b47c64e1dc7c",
+    "chapter": "manuscript/volume-02/014.md",
+    "chapter_title": "母亲那边",
+    "chapter_hanzi": 4218,
+    "previous_13_chapters_hanzi": 69967,
+    "new_volume02_total_hanzi": 74185,
+    "source_vault_modified": false,
+    "previous_13_chapters_modified": false,
+    "first_volume_r50_modified": false,
+    "evidence_primary": [
+      "the-memory/家庭/人物/母亲.md",
+      "the-memory/问卷回收/2026-09-05-母亲问卷作答全文.md",
+      "the-memory/问卷回收/2026-09-08-V2-母亲问卷作答全文.md",
+      "the-memory/家庭/素材/母亲QQ相册时间线-2011至2026.md",
+      "the-memory/家庭/素材/母亲教育与早期职业资料-脱敏摘要.md"
+    ],
+    "evidence_limits": "MOTHER_SCHOOL_GRADUATION_YEAR_CONFLICT; HOTEL_POSITION_UNVERIFIED; NO_CUSTOMER_OR_WORKPLACE_EXACT_DIALOGUE; MARATHON_UNIT_EVENT_ATTENDANCE_NOT_RACE_COMPLETION; RAIN_PICKUP_FROM_MOTHER_MEMORY",
+    "privacy_gate": "MOTHER_PERSONAL_REVIEW_AND_RIGHTS_REVIEW_REQUIRED_BEFORE_FINAL_PUBLICATION",
+    "review_path": "editorial/volume02/reviews/2026-11-09-ch14-mother-side-r1-source-literary-continuity.md",
+    "independent_hy4_prompt": "editorial/volume02/prompts/2026-11-09-HY4-volume02-ch14-mother-side-independent-review.md",
+    "human_independent_cold_readers": 0,
+    "main_merge_allowed": false,
+    "remote_publication_status": "NOT_PUSHED_POLICY_REVIEW_REQUIRES_EXPLICIT_USER_APPROVAL_FOR_PUBLIC_GITHUB_DISCLOSURE_OF_MOTHER_FAMILY_CONTENT",
+    "next": "ASK_AUTHOR_EXPLICITLY_IF_THE_NEW_CH14_AND_EDITORIAL_ARTIFACTS_MAY_BE_PUBLISHED_TO_PUBLIC_GITHUB_DRAFT_PR; UNTIL_THEN_LOCAL_ONLY; AUTHOR_AND_MOTHER_READ; NO_MAIN_MERGE"
   }
 }
