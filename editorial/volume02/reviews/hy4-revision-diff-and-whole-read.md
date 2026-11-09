@@ -24,6 +24,10 @@
 - **但两分支上 `010.md` 的 blob 完全相同**：`5e6a3e766ade0dd9b68a768a33dadd3e641dd984`，汉字数同为 4,136，`git diff` 为空。两分支 `manuscript/volume-02/` 的唯一差异是 **`011.md`（PR29 新增 145 行）**。全仓差异 9 文件、9 insertions／547 deletions（PR29 相对 PR28 多出 ch11 正文与多份审稿报告、state）。
 - **结论**：正文已经镜像，**但提交图仍分叉**。此时把 PR29 合并进 PR28 会把 8 个已在 PR28 上的重复改动重新引入，并与 `state/progress.json`、`state/next_actions.md` 及 ch10 审稿报告产生冲突；**不能用"文件相同"假称祖先同步，也不能据 `mergeable` 断定合并安全**。本轮按任务书要求：只做只读诊断，不合并、不改写上游、不把自己重基到旧 main；HY4 分支从 PR29 head 直接切出，保留原版。
 
+### 二之二、并发基线漂移（交付后补录）
+
+工作期间 PR #29 分支被另一会话推送 7 个提交（`edde9f7`…`29e2dd8`），`011.md` 由 3,750 字改为 3,200 字，其余十章未变；PR #30 初建时因此 `mergeable_state: dirty`。本轮未重写上游、未 rebase、未合并，而是新建冻结快照分支 `hy4/baseline-snapshot-20261109-7dba7ed`（指向 `7dba7ed`）并将 PR #30 的 base 改为它，现 `mergeable_state: clean`、仍为 Draft。**本报告全部字数、diff、原版备份与修订正文均相对 `7dba7ed`**，不受并发更新影响。完整诊断与并发新版 011 的 P0 复核见 `hy4-concurrent-baseline-drift-note.md`。
+
 ## 三、逐章实际修改说明
 
 | 章 | 处数 | 类型 | 具体动作与理由 |

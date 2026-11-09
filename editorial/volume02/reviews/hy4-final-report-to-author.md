@@ -125,4 +125,6 @@
 
 **交付文件清单**：`hy4-stage1-first-read-judgments.md`、`hy4-independent-ch01-ch11-review.md`、`hy4-sentence-ab-proposals.md`、`hy4-facts-and-privacy-audit.md`、`hy4-revision-diff-and-whole-read.md`、`hy4-final-report-to-author.md`；`manuscript/volume-02/001.md`—`011.md`；`_hy4_delivery/original/`（原版 PR29 十一章＋PR28 版 010 参照）、`_hy4_delivery/06-full-diff.patch`、三个修订脚本。
 
+**并发基线漂移（必须如实报告）**：在我工作期间，另一会话向 PR #29 分支推送 7 个提交，把 `011.md` 从 3,750 字改为 3,200 字，并更新任务书与 state；PR #30 初建时因此 `mergeable_state: dirty`（`011.md` 冲突）。我**没有**重写上游、没有 rebase、没有合并，而是新建冻结快照分支 `hy4/baseline-snapshot-20261109-7dba7ed`（指向我开始工作时的 PR29 head `7dba7ed`），把 PR #30 的 base 改为该快照，现为 `clean`、仍为 Draft。所有原版备份、diff、字数与修订正文相对同一基线，可逐段比较。详见 `hy4-concurrent-baseline-drift-note.md`。**复核并发新版 011 后确认：我判定的 P0 全部仍在**（「向睿馨！！！／对不起对不起」、三处「在她家看鬼片」、「她说过……一个人能想起的并不多」）——它压缩了篇幅，但未修事实。若您希望以新版 011 为基线，需要一次新的独立审稿轮次，不能把本版第 11 章修订直接移植。
+
 **仍待您裁决**：净减 914 字是否接受；鬼片地点（原库"你家／我家" vs 任务书"向家"）；「向睿馨！！！／对不起对不起」是否另有截图；向睿馨问卷童年细节的公开发表授权；夏恺宪与赵问竹 2023 年的独立证词；2023 放榜日期与武汉逐站同行。
