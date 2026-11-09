@@ -4,7 +4,7 @@
 
 ## 0. GitHub基线和冻结边界
 
-- 写作仓：`https://github.com/LYL-Z/the-memory-reading-notes`；**本章基线为第13章ChatGPT新建的Draft PR（具体PR号以实时查询为准）**，其父分支是PR #34 `draft/volume02-ch01-ch12-final-synthesis-20261109`。
+- 写作仓：`https://github.com/LYL-Z/the-memory-reading-notes`；**本章基线为第13章ChatGPT [Draft PR #35](https://github.com/LYL-Z/the-memory-reading-notes/pull/35)**（审稿时仍须重新核验实时head），其父分支是PR #34 `draft/volume02-ch01-ch12-final-synthesis-20261109`。
 - 原始事实仓：`https://github.com/LYL-Z/the-memory`，**只读**；不得修改主库、擅披露不公开的人物问卷/敏感资料或把编写计划当事实。
 - 第一部18章R50冻结；第二部001—012的PR#34版本冻结。本轮**仅修改`manuscript/volume-02/013.md`**及你自己的审稿报告/交接记录；不覆盖ChatGPT源分支、不改其他章节、不越级合并`main`。
 - 预期官方汉字：PR#34 01—12合计66,051；本章ChatGPT R1 3,841；01—13合计69,892。请现场用仓内`scripts/hanzi_count.py`重新复核，数字冲突以实际文件与脚本为准。作者偏好“精修尽量不减少汉字”，不要通过删篇幅伪装提质；**但更不能添加无证流水话凑数字**。
