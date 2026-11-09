@@ -1,6 +1,8 @@
 # HY4 第12章｜DIFF_AND_COUNT、整章复读与 HANDOFF
 
 > 2026-11-09。基线：Draft PR #32 head `189b05b9ce83fa689e5e610303bd5df53d5b8b40`（分支 `draft/volume02-ch12-table-tennis-20261109`）。HY4 分支：`hy4/volume02-ch12-independent-review-20261109`。
+>
+> **Draft PR #33** — https://github.com/LYL-Z/the-memory-reading-notes/pull/33 — `is_draft=true`、`mergeable_state=clean`、base 为第12章候审分支、head `051f67a03fa20c0b646a49a00bdca1c42246ac92`、7 文件、1 提交。**未合并**；`main`（`bad5b23`）与 PR #32 head（`189b05b`）SHA 均未变。
 
 ## 一、DIFF_AND_COUNT（官方脚本实跑）
 
