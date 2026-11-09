@@ -67,7 +67,7 @@
   "structural_pilots": "work/round46-structure-pilots/",
   "round47_ledger": "editorial/volume01-round47-sol-editing-ledger.md",
   "round48_ledger": "editorial/volume01-round48-kimi-editing-ledger.md",
-  "next_stage": "VOLUME02_CH11_R3_DEEP_WHOLE_READ_AND_HY4_INDEPENDENT_PROMPT_DELIVERED_AUTHOR_PUBLICATION_REVIEW_PENDING_PR29_DRAFT",
+  "next_stage": "VOLUME02_CH11_LAST_ASSISTANT_PASS_3196_HANZI_FREEZE_UNTIL_HY4_RESULTS_AUTHOR_REVIEW_AND_PRIVACY_GATES_OPEN_PR29_DRAFT",
   "prior_full_continuous_read_complete": true,
   "current_round_new_full_continuous_read": true,
   "round47_report": "editorial/volume01-round47-sol-literary-revision-and-acceptance.md",
@@ -769,11 +769,11 @@
   "volume02_20261108_ch11_two_places": {
     "title": "两处地点",
     "chapter": "manuscript/volume-02/011.md",
-    "version": "R3_DEEP_WHOLE_TEXT_EDITORIAL_REWRITE",
-    "status": "R3_COMPLETED_AUTHOR_AND_THIRD_PARTY_PUBLICATION_REVIEW_PENDING_PR29_DRAFT_NOT_MERGED",
-    "official_hanzi": 3750,
+    "version": "FINAL_ASSISTANT_EDITORIAL_PASS_PRE_HY4_2026_11_09",
+    "status": "EDITORIAL_PASS_COMPLETE_NO_FURTHER_SELF_POLISH_UNTIL_HY4_ACTUAL_OUTPUT_AUTHOR_REVIEW_PENDING_PR29_DRAFT",
+    "official_hanzi": 3196,
     "prior_01_to_10_hanzi": 58109,
-    "current_01_to_11_hanzi": 61859,
+    "current_01_to_11_hanzi": 61305,
     "branch": "draft/volume02-ch11-two-places-2017-20261108",
     "pr_number": 29,
     "pr_url": "https://github.com/LYL-Z/the-memory-reading-notes/pull/29",
@@ -803,10 +803,10 @@
     "human_independent_cold_readers": 0,
     "machine_test": "NOT_RUN_NO_PASS_CLAIM",
     "author_approval_pending": true,
-    "next": "AUTHOR_FULL_READ_CH11_R3; PUBLICATION_SCOPE_AND_SENSITIVE_THIRD_PARTY_FACT_GATE; HAND_USER_HY4_11_CHAPTER_PROMPT; HY4_ACTUAL_OUTPUT_AND_PR_NOT_YET_CREATED; RESOLVE_STACKED_PR29_DIVERGED_FROM_PR28_BEFORE_MERGE",
+    "next": "STOP_ROUTINE_CH11_REVISIONS; WAIT_FOR_AUTHOR_SUPPLIED_HY4_ACTUAL_REVIEW_AND_REVISED_TEXT; COMPARE_TWO_FULL_VERSIONS_AND_FACT_PRIVACY_CHECK; NO_MAIN_MERGE",
     "r1_hanzi": 3783,
     "net_change_from_r1": 48,
-    "editorial_audit": "editorial/volume02/reviews/2026-11-09-ch11-r3-full-reader-pass-trio-embodiment-and-privacy-audit.md",
+    "editorial_audit": "editorial/volume02/reviews/2026-11-09-ch11-final-editorial-pass-before-HY4.md",
     "previous_r1_audit": "editorial/volume02/reviews/2026-11-08-ch11-two-places-r1-deep-sources-ten-dimension-and-privacy-audit.md",
     "substantive_edits": [
       "rewritten 2025 name correction and 2017 venue priority",
@@ -840,7 +840,16 @@
       "explicitly retains lack of Xia's independent 2017 witness and public consent gate"
     ],
     "hy4_review_executed": false,
-    "hy4_status": "PROMPT_DELIVERED_ONLY_NOT_RUN_NO_INDEPENDENT_REVIEW_CLAIM"
+    "hy4_status": "PROMPT_AVAILABLE_AUTHOR_WILL_NOTIFY_AFTER_ACTUAL_HY4_REVIEW",
+    "prior_r3_hanzi": 3750,
+    "net_change_from_r3": -554,
+    "remaining_gaps": [
+      "2017 Xia Kaixian independent memory/action unknown",
+      "2017 actual oath/precise date unknown",
+      "restaurant earlier author account not externally corroborated",
+      "third-party publish:false material release scope must be reviewed",
+      "PR29 commit ancestry diverges from PR28 pending safe history reconciliation"
+    ]
   },
   "writing_handoff_20261109": {
     "author_directive": "After each manuscript writing/deep polish, provide a copyable prompt to HY4 formal version for independent deep reading, adversarial critique, A/B literary line improvements and its own actual revised manuscript and review.",
