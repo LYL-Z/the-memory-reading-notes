@@ -6,7 +6,7 @@
 - **HY4实审证据**：[ChatGPT专用交接入口](https://github.com/LYL-Z/the-memory-reading-notes/blob/docs/hy4-chatgpt-handoff-20261109/HY4-CHATGPT-HANDOFF.md)、[HY4 Draft PR #30](https://github.com/LYL-Z/the-memory-reading-notes/pull/30)。HY4独立版本以旧基线`7dba7ed`审稿，61,859→60,945（−914）；不可用旧分母去评价本轮。
 - **独立对读、本轮文学取舍和字数全表**：[2026-11-09 ChatGPT×HY4联合终轮审稿账](../editorial/volume02/reviews/2026-11-09-chatgpt-hy4-final-synthesis-review.md)。确认四处2023年8月年龄错误均修正、010家长大会日期已订正、011改用HY4据moment-94提供的公开评论转录（**原始截图尚待作者最终对照**）、鬼片地点冲突不擅裁决、伪称第三方原话移除、2017正式结拜在作者家。
 - **本阶段终止条件**：用户完整阅读并对比HY4和本版，允许独立冷读；不再主动无限次深修1—11章。事实P0、第三方隐私授权、2023武汉逐站本人同行与榜单日期、夏恺宪独立证词仍为开放门槛。
-- **GitHub**：新Draft PR应基于PR #29最新候审分支，不合并已有PR，不重写#30快照。PR #29对#28的祖先历史分叉仍待安全修复；本轮PR如提交，只代表编辑候审，不代表可安全并main。
+- **GitHub**：已经创建[Draft PR #31](https://github.com/LYL-Z/the-memory-reading-notes/pull/31)，`base=PR #29最新候审分支`，首次正文提交为`ef657716`；与PR #29比较`ahead=1/behind=0`、13文件、GitHub显示`mergeable=true`（不代表上游整条链已允许并main）。未合并已有PR、未重写HY4 #30快照；PR #29对#28的祖先历史分叉仍待安全修复。
 
 ---
 
