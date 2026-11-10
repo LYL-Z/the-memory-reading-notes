@@ -1213,12 +1213,21 @@
       "hanzi_count.py",
       "git diff --check",
       "python -m json.tool state/progress.json",
-      "verify_volume01_round50_final_chatgpt.py"
+      "verify_volume01_round50_final_chatgpt.py",
+      "verify_volume01_round50_final_chatgpt.py PASS"
     ],
     "human_independent_cold_readers": 0,
     "author_review_pending": true,
     "third_party_rights_review_pending": true,
     "main_merge_allowed": false,
-    "next": "HY4_DRAFT_PR_STACKED_ON_PR41; AUTHOR_TO_SUPPLY_THREE_REAL_LIFE_FACTS; NO_MAIN_MERGE"
+    "next": "PR42_OPEN_DRAFT_STACKED_ON_PR41; AUTHOR_TO_SUPPLY_THREE_REAL_LIFE_FACTS; NO_MAIN_MERGE",
+    "github_draft_pr": 42,
+    "github_draft_pr_url": "https://github.com/LYL-Z/the-memory-reading-notes/pull/42",
+    "github_pr_base": "draft/volume02-ch16-newyear-road-20261110",
+    "github_pr_base_sha": "7d0efef6204cb1476ed589b5d63f3e1a566dd50c",
+    "github_remote_head": "b8a6ac29f7bbcdd0ad4a9cecc491e99918a8f312",
+    "github_pr_state": "OPEN_DRAFT_MERGEABLE_CLEAN_NOT_MERGED",
+    "github_pr_changed_files": 17,
+    "r50_verifier": "PASS; 18 chapters; 136693 hanzi; chain non-decreasing; 017/018 protected; human_cold_readers 0"
   }
 }

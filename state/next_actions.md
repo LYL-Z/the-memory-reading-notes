@@ -1,5 +1,7 @@
 # 2026-11-10｜HY4 第15—16章独立审稿与实改（现行入口）
 
+> **本轮交付 PR**：[Draft PR #42](https://github.com/LYL-Z/the-memory-reading-notes/pull/42)（`OPEN/Draft/MERGEABLE/CLEAN`，17 文件，base `draft/volume02-ch16-newyear-road-20261110` @ `7d0efef`，head `b8a6ac2`，未合并）。R50 验证器 **PASS**（18 章／136,693／链非递减／017 与 018 受保护／human_cold_readers 0）。
+>
 > 本段为当前入口；其下「第16章 R1」「第15章最后一次精修」等为历史记录。HY4 本轮以 **PR #41 head `7d0efef6204cb1476ed589b5d63f3e1a566dd50c`** 为唯一父版（PR #41 的 base 已实时核验为 PR #40 分支 `0de0e00`），新建独立分支 `hy4/volume02-ch15-ch16-independent-review-20261110`。第一部 R50、第二部 001—014、事实仓均只读不动，不合并 main、不关闭他人 PR、不覆盖 ChatGPT 原稿。
 
 - **实时核验**：PR #40 `OPEN/Draft/CLEAN` head `0de0e00b0e63f7d32b465fbdff67696ede73cfb5`（base `9fc6719`）；PR #41 `OPEN/Draft/CLEAN` head `7d0efef6204cb1476ed589b5d63f3e1a566dd50c`。父版官方字数 015=2,698／016=2,046／001—016=78,288，与任务书一致。
