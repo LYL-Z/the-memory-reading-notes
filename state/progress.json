@@ -1204,12 +1204,12 @@
     "docs_pr_url": "https://github.com/LYL-Z/the-memory-reading-notes/pull/43",
     "docs_pr_base_branch": "hy4/volume02-ch15-ch16-independent-review-20261110",
     "docs_remote_initial_head": "bae3af8111b6a5f480b3a677ce3555af14c00972",
-    "docs_pr_state": "OPEN_DRAFT_4_FILES_NOT_MERGED",
+    "docs_pr_state": "OPEN_DRAFT_STACKED_ON_PR42; LAYER1_SYNC_MERGE_AUTHORIZED_2026_11_10",
     "public_history_sensitive_material_gate": "P0_OPEN_SEPARATE_READ_ONLY_AUDIT_REQUIRED; NO_HISTORY_REWRITE_OR_VISIBILITY_CHANGE_AUTHORIZED",
     "human_independent_cold_readers": 0,
     "author_review_pending": true,
     "main_merge_allowed": false,
-    "next": "PR43_OPEN_DRAFT_STACKED_ON_PR42; AUDIT_P0_HISTORICAL_EXPOSURE_SEPARATELY; APPLY_STYLE_GUIDE_TO_FUTURE_WRITING_WITH_HY4_REVIEW"
+    "next": "PR43_SYNC_LATEST_PR42_LAYER1_CURRENT_TREE_WITH_NONFORCE_MERGE; AUDIT_P0_HISTORICAL_EXPOSURE_SEPARATELY; NO_CH17"
   },
   "hy4_volume02_ch15_ch16_independent_review_20261110": {
     "status": "HY4_INDEPENDENT_COLD_READ_FACT_AUDIT_AB_VERDICTS_AND_ACTUAL_REVISIONS_DELIVERED",
@@ -1234,7 +1234,7 @@
     "volume02_total_net_change_hanzi": 1402,
     "ab_groups_ch15": 17,
     "ab_groups_ch16": 24,
-    "p0_finding": "2026_RESTAURANT_FRAME_REMOVED: PRIVATE_SOURCE_EXPORT_FORBIDDEN; REIDENTIFICATION_VIA_VOLUME01_PUBLIC_HOTEL_DELIVERY; SIXTH_VOLUME_CH56_FORESHADOW_USED_TOO_EARLY; THIRD_PARTY_MOTIVE_ATTRIBUTION_RISK",
+    "p0_finding": "FRAME_REMOVED_FROM_TEXT; PRIVATE_SOURCE_EXPORT_FORBIDDEN; REIDENTIFICATION_VIA_PUBLIC_DELIVERY_NARRATIVE; THIRD_PARTY_MOTIVE_ATTRIBUTION_RISK; FORMER_OLD_DRAFT_CHAPTER_ATTRIBUTION_REVOKED_AS_INVALID",
     "newly_called_source_material": "WANG_BAMBOO_CUP_LOOKOUT_2026-10-31_ORAL; 2023-11-11_BIRTHDAY_BANQUET_ATTENDANCE; PATERNAL_AUNTS_XINJIANG_TEACHING_AND_YIYANG; COUSINS_GRADUATE_WORK_GUILIN_2026_VNL; GRANDMOTHER_2003_HOUSE_BEFORE_NARRATOR_BIRTH; 2011_2012_2013_HUILONG_MOUNTAIN_TRIPS; 2012-09_DIM_RESTAURANT_GROUP_PHOTO; 2013-11_OLYMPIC_PARK",
     "author_new_directive_honored": "ALLOW_LARGE_SCALE_LITERARY_INFERENCE_GROUNDED_IN_KNOWLEDGE_BASE; VOLUME_SHRINKAGE_REVERSED_BY_CALLING_EXISTING_FACTS_NOT_BY_PADDING",
     "previous_chapters_001_to_014_modified": false,
@@ -1252,7 +1252,7 @@
     "author_review_pending": true,
     "third_party_rights_review_pending": true,
     "main_merge_allowed": false,
-    "next": "PR42_OPEN_DRAFT_STACKED_ON_PR41; AUTHOR_TO_SUPPLY_THREE_REAL_LIFE_FACTS; NO_MAIN_MERGE",
+    "next": "PR42_OPEN_DRAFT_STACKED_ON_PR41; P0_BLOCKED_DO_NOT_STACK_CH17; AUTHOR_AUTHORIZATION_REQUIRED_FOR_HISTORY_REWRITE_OR_GITHUB_SUPPORT; NO_MAIN_MERGE",
     "github_draft_pr": 42,
     "github_draft_pr_url": "https://github.com/LYL-Z/the-memory-reading-notes/pull/42",
     "github_pr_base": "draft/volume02-ch16-newyear-road-20261110",
@@ -1260,6 +1260,100 @@
     "github_remote_head": "b8a6ac29f7bbcdd0ad4a9cecc491e99918a8f312",
     "github_pr_state": "OPEN_DRAFT_MERGEABLE_CLEAN_NOT_MERGED",
     "github_pr_changed_files": 17,
-    "r50_verifier": "PASS; 18 chapters; 136693 hanzi; chain non-decreasing; 017/018 protected; human_cold_readers 0"
+    "r50_verifier": "PASS; 18 chapters; 136693 hanzi; chain non-decreasing; 017/018 protected; human_cold_readers 0",
+    "structure_basis_revoked": "FORMER \"SIXTH_VOLUME_CH56_FORESHADOW_USED_TOO_EARLY\" CLAIM WITHDRAWN: AGENTS.md:6 bans citing legacy draft dirs; current volume-02 canon assigns no later chapter to this line. Removal verdict unchanged on 3 independent grounds: privacy/reidentification, third-party motive attribution, chapter-internal structure.",
+    "p0_status": "P0_BLOCKED_AWAIT_AUTHOR_AUTHORIZATION",
+    "p0_public_history_residual": "PR42_DIFF_55_HITS; PR41_DIFF_20_HITS; 016_DMD_DIFF_8_DELETED_LINES; PR41_HEAD_OLD_DRAFT_BLOB_PUBLIC; COMMITS_f9b8fc3_b8a6ac2_942069e_CONTAIN_FULL_OLD_TEXT_AND_DIFF; ORDINARY_COMMITS_CANNOT_PURGE_HISTORY",
+    "p0_layer1_applied": "CURRENT_TREE_REDACTED; OLD_DRAFT_BACKUP_AND_FULL_DIFF_ATTACHMENTS_REMOVED; THREE_REPORTS_AND_STATE_REDACTED; NO_FORCE_PUSH_NO_REWRITE_NO_PR_DELETION",
+    "ch15_hanzi_after_remediation": 2847,
+    "ch16_hanzi_after_remediation": 2877,
+    "volume02_total_hanzi_after_remediation": 79268
+  },
+  "pr43_layer1_synchronization_20261110": {
+    "status": "AUTHOR_AUTHORIZED_NONFORCE_MERGE_PR43_LOCAL_CHECKS_PASS; REMOTE_VERIFICATION_PENDING",
+    "author_authorization": "可以; context explicitly limits to PR43 ordinary merge sync without force, history rewrite, PR base modification, repository visibility change, or main merge",
+    "repository": "LYL-Z/the-memory-reading-notes",
+    "public_repository_remains_public": true,
+    "pr": 43,
+    "pr_url": "https://github.com/LYL-Z/the-memory-reading-notes/pull/43",
+    "head_branch": "docs/michael-damaige-language-study-20261110",
+    "base_branch_unchanged": "hy4/volume02-ch15-ch16-independent-review-20261110",
+    "docs_parent_sha_at_merging": "4a7d06ee44060c0a9ce55e92ef6aa12e2e0ff1ae",
+    "pr42_layer1_parent_sha": "253a72f0007293f2a81c68562b7c1f64b94e46b7",
+    "merge_strategy": "ORDINARY_TWO_PARENT_MERGE_WITHOUT_FORCE_AND_WITH_AUTHOR_EXPLICIT_CONSENT",
+    "first_volume_r50_changed": false,
+    "source_vault_changed": false,
+    "manuscript_changes": "PR42_LAYER1_ONLY_NO_NEW_STORY_EDITS_BY_PR43",
+    "chapter15_hanzi_after_pr42_layer1": 2847,
+    "chapter16_hanzi_after_pr42_layer1": 2877,
+    "volume02_001_to_016_hanzi_after_pr42_layer1": 79268,
+    "docs_study_preserved": "editorial/style-and-influences/2026-11-10-michael-damaige-language-research-and-application.md",
+    "public_current_tree_old_backup_and_diff": "ABSENT_LOCAL_MERGED_TREE_CHECKED; REMOTE_POST_UPDATE_MUST_RECHECK",
+    "local_checks": [
+      "PR42_CH15_CH16_BLOB_SHAS_EQUAL_MERGE_RESULTS",
+      "CH15_2847_CH16_2877_VOLUME02_79268_OFFICIAL_HANZI",
+      "R50_VERIFIER_PASS_18_CHAPTERS_136693_HANZI",
+      "CURRENT_TREE_TWO_SENSITIVE_ATTACHMENTS_ABSENT",
+      "JSON_VALID_AND_GIT_DIFF_CHECK_PASS"
+    ],
+    "p0_status": "P0_BLOCKED_AWAIT_AUTHOR_AUTHORIZATION_FOR_LAYER2_HISTORY_EXPOSURE",
+    "historical_objects_not_purged": true,
+    "allow_stack_ch17": false,
+    "main_merge_allowed": false,
+    "next": "VERIFY_LOCAL_MERGE; ORDINARY_FAST_FORWARD_UPDATE_PR43; VERIFY_REMOTE_TREE_AND_PR43_BASE; KEEP_P0_OPEN"
+  },
+  "hy4_pr42_remediation_20261110": {
+    "status": "EDITORIAL_PARTIAL_PUBLICATION_BLOCKED; P0_BLOCKED_AWAIT_AUTHOR_AUTHORIZATION",
+    "parent_pr": 42,
+    "parent_sha_at_start": "631b7a3276651542e5be0b42c7866a2b9b7ecf19",
+    "author_decision": "KEEP_DRAFT_MANUSCRIPTS_IN_PUBLIC_REPO; NO_PRIVATE_MIGRATION",
+    "risk_register_commit": "03a73c5",
+    "risk_register_path": "editorial/volume02/reviews/hy4-pr42-p0-risk-register-and-remediation.md",
+    "remediation_report_path": "editorial/volume02/reviews/hy4-pr42-final-remediation-report.md",
+    "p0_layer1": [
+      "DELETE_CURRENT_TREE_OLD_DRAFT_BACKUP",
+      "DELETE_CURRENT_TREE_FULL_DIFF_ATTACHMENT",
+      "REDACT_THREE_REPORTS_AND_PR_BODY",
+      "REDACT_STATE",
+      "REVOKE_LEGACY_DRAFT_STRUCTURE_BASIS",
+      "DELETE_REDACTION_SCRIPTS_CONTAINING_VERBATIM_OLD_TEXT"
+    ],
+    "p1_fact_fixes": [
+      "CH15_BAMBOO_CUP_FORMAL_PERFORMANCE_NOT_RECORDING",
+      "CH16_2013_OLYMPIC_PARK_INFANT_IDENTITY_CONFIRMED_NOT_DOWNGRADED",
+      "CH16_2012_NOV_RETURN_TRIP_SEPARATED_FROM_STUDIO_PORTRAIT"
+    ],
+    "cross_volume_dedup": [
+      "DELETE_THIRD_RETELLING_OF_RIVERBANK_TAPE_MEASURE(002/009)",
+      "DELETE_GRANDMOTHER_HOUSE_REBUILD_REPEAT(004:57)",
+      "DELETE_FARM_CHORES_AND_FOOD_LIST_REPEAT(004:9/67/69)",
+      "DELETE_XINJIANG_CAUSAL_CHAIN_REPEAT(009:69-73)",
+      "DELETE_TEMPLATE_INTRO_AND_TWO_SELF_AWARENESS_VERDICTS"
+    ],
+    "ch15_hanzi_before": 2850,
+    "ch15_hanzi_after": 2847,
+    "ch16_hanzi_before": 3296,
+    "ch16_hanzi_after": 2877,
+    "volume02_total_before": 79690,
+    "volume02_total_after": 79268,
+    "human_independent_cold_readers": 0,
+    "third_party_rights_review_pending": true,
+    "main_merge_allowed": false,
+    "ch17_stack_allowed": false,
+    "destructive_operations_executed": false,
+    "next": "AWAIT_AUTHOR_AUTHORIZATION_FOR_LAYER2_HISTORY_CLEANUP; DO_NOT_STACK_CH17",
+    "checks": [
+      "hanzi_count.py 79268",
+      "git diff --check PASS",
+      "python -m json.tool state/progress.json PASS",
+      "verify_volume01_round50_final_chatgpt.py PASS (18 chapters / 136693 hanzi / human_cold_readers 0)"
+    ],
+    "p0_layer1_verified": {
+      "current_tree_blocklist_hits": 0,
+      "pr42_two_point_diff_016_deleted_lines": 7,
+      "two_attachments_removed_from_two_point_diff": true,
+      "history_objects_still_public": true
+    },
+    "final_verdict": "PR42_LITERARILY_WORTH_KEEPING_AS_CANDIDATE=YES; SAFE_TO_STACK_CH17=NO; P0_BLOCKED_AWAIT_AUTHOR_AUTHORIZATION"
   }
 }
