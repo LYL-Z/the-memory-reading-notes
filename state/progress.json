@@ -1420,5 +1420,27 @@
     "validation": "OFFICIAL_HANZI_82412; JSON_VALID; GIT_DIFF_CHECK_PASS; R50_VERIFIER_PASS_18_136693_HUMAN_0",
     "remote_branch": "draft/volume02-ch16-final-ch17-garbage-bin-20261110",
     "next": "PUBLIC_DRAFT_PR_AND_HY4_INDEPENDENT_ACTUAL_REVIEW; DO_NOT_MERGE_MAIN; DO_NOT_CLAIM_P0_HISTORY_CLEARED"
+  },
+  "hy4_ch17_final_two_fixes_20261110": {
+    "status": "CH17_ACCEPT_FINAL_STAGE_CLOSED; CH16_ACCEPT_UNTOUCHED",
+    "parent_pr": 47,
+    "parent_head_at_start": "8add67379548482fa35f1ce1e8e5e9d50ead451e",
+    "branch": "hy4/ch16-final-ch17-garbage-bin-review-20261110",
+    "fixes": [
+      "F1_EXECUTION_PRESUMPTION_REMOVED: '那个把垃圾倒掉的人/被清出去' -> '那句吩咐有没有人应、垃圾有没有立刻被清出去，我都记不得了' (ledger §1-5 & B2: executor/execution/immediacy all UNKNOWN)",
+      "F2_GRAMMAR_AND_COUNT: '这位后来会...当面争论。那几回争辩' -> '后来在班里同他公开争辩过。直到现在，我仍不觉得自己当时一定理亏' (ledger §2: 有过公开争辩, no count)"
+    ],
+    "ch17_hanzi_before": 2952,
+    "ch17_hanzi_after": 2936,
+    "volume02_total_after": 82232,
+    "manuscript_other_than_017_modified": false,
+    "volume01_round50_modified": false,
+    "source_vault_modified": false,
+    "history_rewrite_or_force_push": false,
+    "main_merge": false,
+    "ch18_started": false,
+    "ch18_material_advice": "B2 GATED: junior-high comments verbatim+time must be verified from originals before any quote; separate from ch008 primary-school ledger; roommate-view sources are author oral (ledger §2); teacher-evaluation boundary applies; reread 011/008 to add only one new layer",
+    "p0_status": "P0_BLOCKED_AWAIT_AUTHOR_AUTHORIZATION (HISTORY_EXPOSURE_OPEN unchanged)",
+    "next": "CH17_STAGE_CLOSED; CH18_AWAIT_AUTHOR_MATERIALS_AND_VERIFIED_COMMENTS; NO_MAIN_MERGE"
   }
 }
