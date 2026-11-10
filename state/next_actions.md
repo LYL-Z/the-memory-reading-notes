@@ -6,7 +6,7 @@
 - **写作长期准则**：[2026-11-08协议补充](../editorial/style-and-influences/2026-11-08-author-voice-anti-template-and-evidence-protocol.md)：借鉴真诚、柔韧、承认复杂与平视交流，不复制真人特定表达与五句金句架构，不把成人成熟看法强加给2022少年；保留刘佑林的野心、好胜、虚荣、幽默和矛盾。每轮HY4审稿任务书核验此项。
 - **公开≠解除隐私红线**：已有公开候审的旧原稿备份／机器diff可能残留正文已删去的私密信息，**P0仍OPEN**。必须另行只读盘点，未获授权不得改写历史、删PR、改仓库可见性或搬运私密原件；不要将“当前正文删除”当成“GitHub历史已清除”。
 - **章节状态不变**：015 = 2850、016 = 3296、第二部001—016合计79690官方汉字（沿用PR #42已核数值，本轮未重数）；作者／真人读者、第三人权益与出版审阅均未完成。此轮只交独立公开Draft文档分支，不开启新的正文润色。
-- **本轮GitHub同步**：分支docs/michael-damaige-language-study-20261110，叠加PR #42；独立Draft PR创建后补齐远端PR号和HEAD。未成功不宣称同步。
+- **本轮GitHub已同步**：[公开Draft PR #43](https://github.com/LYL-Z/the-memory-reading-notes/pull/43)，分支docs/michael-damaige-language-study-20261110，base=PR #42分支hy4/volume02-ch15-ch16-independent-review-20261110@631b7a3，远端首次HEAD bae3af8111b6a5f480b3a677ce3555af14c00972；GitHub创建响应OPEN/Draft、4文件、158行增＋1行删，**不改正文**；未合并main。
 
 ---
 

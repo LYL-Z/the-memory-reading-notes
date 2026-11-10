@@ -1180,7 +1180,7 @@
     "next": "PR41_OPEN_DRAFT_STACKED_ON_PR40; AUTHOR_VERIFY_RESTAURANT_PRIVACY_AND_ONE_REAL_NEWYEAR_EPISODE; HY4_COLD_REVIEW_OR_KEEP_R1; NO_MAIN_MERGE"
   },
   "author_style_michael_damaige_public_draft_20261110": {
-    "status": "AUTHOR_STYLE_PREFERENCE_DOCUMENTED_PUBLIC_DRAFT_CONTINUES_RESEARCH_COMPLETE_REVIEW_PENDING",
+    "status": "AUTHOR_STYLE_PREFERENCE_DOCUMENTED_IN_PUBLIC_DRAFT_PR43_REVIEW_PENDING",
     "author_directive_date": "2026-11-10",
     "author_preference": "STRONGLY_LIKES_MICHAEL_DAMAIGE_SINCERE_NUANCED_LANGUAGE",
     "user_submitted_screenshot": "FIVE_FRAMES_RELATIONSHIP_INDEPENDENCE_SPACE_EXPERIENCE_VALUE_CHOICE; ORIGINAL_IMAGE_NOT_COPIED_TO_PUBLIC_REPO",
@@ -1200,13 +1200,16 @@
     "upstream_draft_pr": 42,
     "upstream_sha_at_research": "631b7a3276651542e5be0b42c7866a2b9b7ecf19",
     "docs_branch": "docs/michael-damaige-language-study-20261110",
-    "docs_pr": null,
-    "docs_remote_head": null,
+    "docs_pr": 43,
+    "docs_pr_url": "https://github.com/LYL-Z/the-memory-reading-notes/pull/43",
+    "docs_pr_base_branch": "hy4/volume02-ch15-ch16-independent-review-20261110",
+    "docs_remote_initial_head": "bae3af8111b6a5f480b3a677ce3555af14c00972",
+    "docs_pr_state": "OPEN_DRAFT_4_FILES_NOT_MERGED",
     "public_history_sensitive_material_gate": "P0_OPEN_SEPARATE_READ_ONLY_AUDIT_REQUIRED; NO_HISTORY_REWRITE_OR_VISIBILITY_CHANGE_AUTHORIZED",
     "human_independent_cold_readers": 0,
     "author_review_pending": true,
     "main_merge_allowed": false,
-    "next": "CREATE_STACKED_DOCS_ONLY_DRAFT_PR; AUDIT_P0_HISTORICAL_EXPOSURE_SEPARATELY; APPLY_STYLE_GUIDE_TO_FUTURE_WRITING_WITH_HY4_REVIEW"
+    "next": "PR43_OPEN_DRAFT_STACKED_ON_PR42; AUDIT_P0_HISTORICAL_EXPOSURE_SEPARATELY; APPLY_STYLE_GUIDE_TO_FUTURE_WRITING_WITH_HY4_REVIEW"
   },
   "hy4_volume02_ch15_ch16_independent_review_20261110": {
     "status": "HY4_INDEPENDENT_COLD_READ_FACT_AUDIT_AB_VERDICTS_AND_ACTUAL_REVISIONS_DELIVERED",
