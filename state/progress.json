@@ -1270,7 +1270,7 @@
     "volume02_total_hanzi_after_remediation": 79268
   },
   "pr43_layer1_synchronization_20261110": {
-    "status": "AUTHOR_AUTHORIZED_NONFORCE_MERGE_PR43_LOCAL_CHECKS_PASS; REMOTE_VERIFICATION_PENDING",
+    "status": "PR43_LAYER1_CURRENT_TREE_SYNCED_REMOTE_VERIFIED; HISTORICAL_P0_STILL_BLOCKED",
     "author_authorization": "可以; context explicitly limits to PR43 ordinary merge sync without force, history rewrite, PR base modification, repository visibility change, or main merge",
     "repository": "LYL-Z/the-memory-reading-notes",
     "public_repository_remains_public": true,
@@ -1280,6 +1280,9 @@
     "base_branch_unchanged": "hy4/volume02-ch15-ch16-independent-review-20261110",
     "docs_parent_sha_at_merging": "4a7d06ee44060c0a9ce55e92ef6aa12e2e0ff1ae",
     "pr42_layer1_parent_sha": "253a72f0007293f2a81c68562b7c1f64b94e46b7",
+    "merge_remote_commit": "e7f01c275d9e9c2fc1f8e18332c71f2965611e00",
+    "merge_remote_tree_sha": "4e3911dfcb9395ce68904c7b69bdbb74b9bc6b09",
+    "github_compare_pr42_to_pr43": "AHEAD_4_BEHIND_0_DOCS_ONLY_FOUR_FILES",
     "merge_strategy": "ORDINARY_TWO_PARENT_MERGE_WITHOUT_FORCE_AND_WITH_AUTHOR_EXPLICIT_CONSENT",
     "first_volume_r50_changed": false,
     "source_vault_changed": false,
@@ -1288,7 +1291,7 @@
     "chapter16_hanzi_after_pr42_layer1": 2877,
     "volume02_001_to_016_hanzi_after_pr42_layer1": 79268,
     "docs_study_preserved": "editorial/style-and-influences/2026-11-10-michael-damaige-language-research-and-application.md",
-    "public_current_tree_old_backup_and_diff": "ABSENT_LOCAL_MERGED_TREE_CHECKED; REMOTE_POST_UPDATE_MUST_RECHECK",
+    "public_current_tree_old_backup_and_diff": "ABSENT_IN_REMOTE_MERGE_TREE_VERIFIED_BY_IDENTICAL_LOCAL_TREE_AND_GITHUB_COMPARE",
     "local_checks": [
       "PR42_CH15_CH16_BLOB_SHAS_EQUAL_MERGE_RESULTS",
       "CH15_2847_CH16_2877_VOLUME02_79268_OFFICIAL_HANZI",
@@ -1300,7 +1303,7 @@
     "historical_objects_not_purged": true,
     "allow_stack_ch17": false,
     "main_merge_allowed": false,
-    "next": "VERIFY_LOCAL_MERGE; ORDINARY_FAST_FORWARD_UPDATE_PR43; VERIFY_REMOTE_TREE_AND_PR43_BASE; KEEP_P0_OPEN"
+    "next": "PR43_LAYER1_SYNC_DONE; REMAIN_PUBLIC_DRAFT; KEEP_P0_HISTORY_BLOCKED; NO_CH17_WITHOUT_SEPARATE_AUTHORIZATION"
   },
   "hy4_pr42_remediation_20261110": {
     "status": "EDITORIAL_PARTIAL_PUBLICATION_BLOCKED; P0_BLOCKED_AWAIT_AUTHOR_AUTHORIZATION",
