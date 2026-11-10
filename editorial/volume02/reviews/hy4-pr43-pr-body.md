@@ -50,6 +50,6 @@
 
 ## 校验
 
-`hanzi_count.py` 79,268（015 2,847／016 2,877，**本轮正文零改动**）；`git diff --check` PASS；`json.tool state/progress.json` PASS；R50 验证器 **PASS**（18 章／136,693／human 0）。当前树阻断词表零命中；两份应删附件在本分支不存在。
+`hanzi_count.py` 79,268（015 2,847／016 2,877，**本轮正文零改动**）；`git diff --check` PASS；`json.tool state/progress.json` PASS；R50 验证器 **PASS**（18 章／136,693／human_cold_readers 0）。当前树阻断词表零命中；两份应删附件在本分支不存在。
 
 **未执行**：强制推送、历史重写、删除 PR／仓库文件、改变仓库可见性、合并 main、把同步推进到 PR #43 分支、叠加第 17 章。工具 PASS 不等于真人文学审阅或出版验收。

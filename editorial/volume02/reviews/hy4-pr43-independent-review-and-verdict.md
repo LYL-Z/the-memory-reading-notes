@@ -139,7 +139,7 @@
 
 - 独立分支 `hy4/pr43-independent-review-20261110`，从 PR #43 HEAD `4a7d06e` 出发，普通合并 PR #42 HEAD `253a72f` 解决冲突；**不碰 PR #43 分支**。
 - 修订：`2026-11-10-michael-damaige-language-research-and-application.md`（11 处）、`2026-11-08-author-voice-anti-template-and-evidence-protocol.md`（2 处）、`state/next_actions.md`（冲突解决 + 补登记）。
-- 校验：`hanzi_count.py`／`git diff --check`／`json.tool state/progress.json`／R50 验证器；见提交记录。**正文零改动**（本轮未生成或修改任何 `manuscript/` 文件）。
+- 校验：`hanzi_count.py` 79,268（015 2,847／016 2,877，**本轮正文零改动**）；`git diff --check` PASS；`json.tool state/progress.json` PASS；R50 验证器 **PASS**（18 章／136,693／human_cold_readers 0）。**正文零改动**（本轮未生成或修改任何 `manuscript/` 文件）。
 - 当前树阻断词表零命中；两份应删附件在本分支不存在。
 - **未执行**：强制推送、历史重写、删除 PR、删除仓库文件、改变仓库可见性、合并 main、把同步推进到 PR #43 分支、叠加第 17 章。
 
