@@ -1,4 +1,18 @@
-# 2026-11-10｜PR #42 定点复审与隐私阻断整改（**最新现行入口**）
+# 2026-11-10｜PR #43 文风研究与PR #42层1同步（最新现行入口）
+
+> **作者2026-11-10直接授权**：《时间的复数人称》候审稿继续留在公开GitHub仓库和Draft PR；作者特别喜欢全网／YouTube同名Michael大麦哥的语言，上传五帧关于感情、空间、关系价值与独立选择的截图，要求联网研究、持久记录与GitHub同步。文风研究最初基于PR #42旧head 631b7a3；之后HY4层1整改将PR #42更新至253a72f。作者本轮明确许可对PR #43做**普通合并同步**，不force、不历史重写、不删PR、不改变base或仓库可见性，仍不合并main。
+
+- **完整研究**：[2026-11-10 Michael大麦哥一手来源／截图结构／小说转译／审稿清单](../editorial/style-and-influences/2026-11-10-michael-damaige-language-research-and-application.md)。直接在YouTube找到[本人频道](https://www.youtube.com/@michaelsuen5327)与[36分30秒爱情长视频](https://www.youtube.com/watch?v=9HbSgFZsfRc)，另核[B站同题](https://www.bilibili.com/video/BV1MsnG6TEf3/)与小宇宙原作者EP01／EP32。**页面＋用户截图已核，完整视听／逐句音频没有执行**；截图原图不上传公开仓。
+- **写作长期准则**：[2026-11-08协议补充](../editorial/style-and-influences/2026-11-08-author-voice-anti-template-and-evidence-protocol.md)：借鉴真诚、柔韧、承认复杂与平视交流，不复制真人特定表达与五句金句架构，不把成人成熟看法强加给2022少年；保留刘佑林的野心、好胜、虚荣、幽默和矛盾。每轮HY4审稿任务书核验此项。
+- **公开≠解除隐私红线**：已有公开候审的旧原稿备份／机器diff可能残留正文已删去的私密信息，**P0仍OPEN**。必须另行只读盘点，未获授权不得改写历史、删PR、改仓库可见性或搬运私密原件；不要将“当前正文删除”当成“GitHub历史已清除”。
+- **最新正文口径**：015 = 2847、016 = 2877、第二部001—016合计79268官方汉字（来自HY4 PR #42层1整改，合并后必须再次运行官方脚本确认）；PR #43只继承这一版修复，**没有另外润色正文**。作者／真人读者、第三人权益与出版审阅均未完成。
+- **本轮GitHub状态**：[公开Draft PR #43](https://github.com/LYL-Z/the-memory-reading-notes/pull/43)，分支docs/michael-damaige-language-study-20261110，base始终为PR #42分支hy4/volume02-ch15-ch16-independent-review-20261110。最初PR #43仅有4个文档文件变更，head 4a7d06e；HY4随后更新PR #42至253a72f，造成#43落后且在当前树重现两个已移除附件。现以作者授权普通merge修复，**必须以本轮远端核验的新head和两点diff为最终准据，不把早期创建快照当现状**。
+- **安全状态**：本轮仅解决PR #43当前树的层1落后与旧附件重复暴露；PR #41原稿blob、PR #42/43共同祖先中的历史和平台缓存仍需另行授权处置，P0维持BLOCKED，**禁止**据此解冻第17章。
+- **PR #43 普通合并已核实成功**：远端合并提交e7f01c275d9e9c2fc1f8e18332c71f2965611e00，两个父提交为PR #43旧head 4a7d06e及PR #42整改head 253a72f；提交树4e3911dfcb9395ce68904c7b69bdbb74b9bc6b09与本地逐字一致，GitHub对比PR #42为ahead 4／behind 0，**只剩4份文档差异**。旧稿全文备份与完整补丁当前树不存在；015/016与PR #42 blob完全相同；官方计数79,268，R50 PASS。未force、未rebase、未改PR base、未合并main。**此项仅是层1当前树修复，不代表历史清理或第17章启动许可**。
+
+---
+
+# 2026-11-10｜PR #42 定点复审与隐私阻断整改（历史入口，整改结果仍有效）
 
 > **状态：`EDITORIAL_PARTIAL · PUBLICATION_BLOCKED`；`P0_BLOCKED_AWAIT_AUTHOR_AUTHORIZATION`。** 作者已明确「希望候审稿继续保存在公开仓库」，本方案不转私有、不删仓库、不关 PR。本轮只做普通提交、可恢复的层 1 整改；**未执行任何强制推送、历史重写、base 变更或 PR 删除**，PR #40／#41／#42 依赖链原样保留，main 未合并。
 >
@@ -16,7 +30,7 @@
 
 ---
 
-# 2026-11-10｜HY4 第15—16章独立审稿与实改（现行入口）
+# 2026-11-10｜HY4 第15—16章独立审稿与实改（历史入口）
 
 > **本轮交付 PR**：[Draft PR #42](https://github.com/LYL-Z/the-memory-reading-notes/pull/42)（`OPEN/Draft/MERGEABLE/CLEAN`，17 文件，base `draft/volume02-ch16-newyear-road-20261110` @ `7d0efef`，head `b8a6ac2`，未合并）。R50 验证器 **PASS**（18 章／136,693／链非递减／017 与 018 受保护／human_cold_readers 0）。
 >
