@@ -1125,7 +1125,12 @@
     "human_independent_cold_readers": 0,
     "author_review_pending": true,
     "main_merge_allowed": false,
-    "github_draft_pr": null,
-    "next": "PUBLISH_STACKED_DRAFT_ON_PR40; AUTHOR_VERIFY_RESTAURANT_PRIVACY_AND_ONE_REAL_NEWYEAR_EPISODE; HY4_COLD_REVIEW_OR_KEEP_R1; NO_MAIN_MERGE"
+    "github_draft_pr": 41,
+    "github_draft_pr_url": "https://github.com/LYL-Z/the-memory-reading-notes/pull/41",
+    "github_remote_first_commit": "942069eb4c142709d0918e4c4bf53b5c6d8eaac5",
+    "github_remote_first_tree_sha": "5d6b64be7e654c520ff7df734e023d17d76cbe6b",
+    "github_pr_base_checked": "draft/volume02-ch15-final-evidence-edit-20261110",
+    "github_pr_state": "OPEN_DRAFT_NOT_MERGED; MERGEABILITY_NOT_ASSERTED",
+    "next": "PR41_OPEN_DRAFT_STACKED_ON_PR40; AUTHOR_VERIFY_RESTAURANT_PRIVACY_AND_ONE_REAL_NEWYEAR_EPISODE; HY4_COLD_REVIEW_OR_KEEP_R1; NO_MAIN_MERGE"
   }
 }
