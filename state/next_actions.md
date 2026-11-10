@@ -1,4 +1,18 @@
-# 2026-11-10｜Michael大麦哥研究 PR #43 × HY4 PR #44 定点整合（最新入口）
+# 2026-11-10｜第16章本阶段终轮＋第17章《垃圾桶》R1（最新入口）
+
+> **作者最新直接指示**：「这一轮一次性弄好，并进行你的本阶段最后一次第16章精修，我们得立马进入第17章的创作了，我们要保持高质量，但是要高效率」。因此**第17章写作许可已更新**，以下历史章节里「NO_CH17」只描述当时旧门槛，不能再当本轮作者选择。作者仍选择候审稿留在**公开**GitHub，但从未明确授权**层2历史重写／force push／清除PR历史／删仓库／合并main**；既有历史暴露P0继续为 `OPEN`。新正文经当前树脱敏审核后提交独立Draft PR，并不宣称旧历史已清除。
+
+- **父版**：HY4已独立接受[PR #45](https://github.com/LYL-Z/the-memory-reading-notes/pull/45)的文风证据整合（不再重复 Docs 纠错），本轮核实最新 head `1602e768`、树 `037d8ae`，已继承PR #42层1。
+- **第16章**：只修一个有证跨地点风险和同一句重复；`016.md` **2,877→2,905（+28）**，相册与亲属主线、末句不动；这是本阶段终轮，不再开无限次润色。
+- **第17章**：[《垃圾桶》](../manuscript/volume-02/017.md) **R1新稿3,116官方汉字**。从2023年高二G2205新教室较靠后座位、阳松从后方入内请人倒垃圾、约十多分钟后自我介绍出发；谁倒了垃圾、老师逐字原话、具体座号皆未知，没有补造。保留后来数学教师与班主任的双重面目、作者曾公开争论的事实，不提前使用第19章董佳好背影、第21章425、更晚的恋爱方程组玩笑。
+- **第二部累计**：001—016 **79,296**，001—017 **82,412**；第一部R50十八章 **136,693**（不可动）。第17章相比历史章均偏短，原因在于本章首日可证行动不足，**不靠无证具体场面填满字数**。需HY4真实冷读并核中段自审/旧章重复是否拖慢节奏，不能自评顶级水准。
+- **报告**：[本轮事实六栏、十维审稿及隐私边界](../editorial/volume02/reviews/2026-11-10-ch16-final-pass-ch17-garbage-bin-r1-evidence-and-literary-audit.md)；[交 HY4 正式版独立全文审稿＋实际改稿提示词](../editorial/volume02/prompts/2026-11-10-HY4-ch16-final-ch17-independent-review-and-actual-revision.md)。HY4 尚未执行本轮第17章的冷读／实际精修。
+- **安全闸门**：`CURRENT_TREE_REMEDIATED` **≠** `HISTORICAL_EXPOSURE_CLOSED`，不得将GitHub当前树词表零命中写成历史P0清零。真人陌生读者／亲属权益／主线合并资格未通过。
+- **GitHub交付已完成**：[公开Draft PR #46](https://github.com/LYL-Z/the-memory-reading-notes/pull/46)，分支 `draft/volume02-ch16-final-ch17-garbage-bin-20261110`，base=PR #45最新 `1602e768`，初次远端提交 `84947955b49b29d623817b1bc4cff5e4c606cd5c`；GitHub比较 `ahead=1 / behind=0`，初次六文件 +222/−4，前十五章与第一部零改。JSON／diff check／R50验收实跑PASS；GitHub最初返回 `mergeable=false` 可能尚在计算，**不据此宣称已经可合并**，且本阶段一律保留Draft。
+
+---
+
+# 2026-11-10｜Michael大麦哥研究 PR #43 × HY4 PR #44 定点整合（历史入口）
 
 > **作者已同意**：保留HY4 [PR #44](https://github.com/LYL-Z/the-memory-reading-notes/pull/44)作为独立审稿记录，以最新[PR #43](https://github.com/LYL-Z/the-memory-reading-notes/pull/43)（实时HEAD `d382b06`、`OPEN/Draft`、已继承PR #42层1）为基线，只吸收核证成立的来源、年龄、标题、文学规则纠错；改正PR #44对PR #43的**过期风险判断**，另开独立**公开Draft PR**，小说正文零改。独立整合证据与HY4后续审阅任务书见[定点整合账](../editorial/style-and-influences/2026-11-10-pr43-pr44-targeted-evidence-reconciliation.md)。
 
