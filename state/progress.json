@@ -1276,6 +1276,19 @@
     "main_merge_allowed": false,
     "ch17_stack_allowed": false,
     "destructive_operations_executed": false,
-    "next": "AWAIT_AUTHOR_AUTHORIZATION_FOR_LAYER2_HISTORY_CLEANUP; DO_NOT_STACK_CH17"
+    "next": "AWAIT_AUTHOR_AUTHORIZATION_FOR_LAYER2_HISTORY_CLEANUP; DO_NOT_STACK_CH17",
+    "checks": [
+      "hanzi_count.py 79268",
+      "git diff --check PASS",
+      "python -m json.tool state/progress.json PASS",
+      "verify_volume01_round50_final_chatgpt.py PASS (18 chapters / 136693 hanzi / human_cold_readers 0)"
+    ],
+    "p0_layer1_verified": {
+      "current_tree_blocklist_hits": 0,
+      "pr42_two_point_diff_016_deleted_lines": 7,
+      "two_attachments_removed_from_two_point_diff": true,
+      "history_objects_still_public": true
+    },
+    "final_verdict": "PR42_LITERARILY_WORTH_KEEPING_AS_CANDIDATE=YES; SAFE_TO_STACK_CH17=NO; P0_BLOCKED_AWAIT_AUTHOR_AUTHORIZATION"
   }
 }
