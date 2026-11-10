@@ -8,7 +8,7 @@
 - **第二部累计**：001—016 **79,296**，001—017 **82,412**；第一部R50十八章 **136,693**（不可动）。第17章相比历史章均偏短，原因在于本章首日可证行动不足，**不靠无证具体场面填满字数**。需HY4真实冷读并核中段自审/旧章重复是否拖慢节奏，不能自评顶级水准。
 - **报告**：[本轮事实六栏、十维审稿及隐私边界](../editorial/volume02/reviews/2026-11-10-ch16-final-pass-ch17-garbage-bin-r1-evidence-and-literary-audit.md)；[交 HY4 正式版独立全文审稿＋实际改稿提示词](../editorial/volume02/prompts/2026-11-10-HY4-ch16-final-ch17-independent-review-and-actual-revision.md)。HY4 尚未执行本轮第17章的冷读／实际精修。
 - **安全闸门**：`CURRENT_TREE_REMEDIATED` **≠** `HISTORICAL_EXPOSURE_CLOSED`，不得将GitHub当前树词表零命中写成历史P0清零。真人陌生读者／亲属权益／主线合并资格未通过。
-- **GitHub交付状态**：独立候审分支 `draft/volume02-ch16-final-ch17-garbage-bin-20261110`，从PR #45最新HEAD分出、只改两章与报告／提示词／状态；**远端PR编号、head与差异以创建后实时回填为准**。
+- **GitHub交付已完成**：[公开Draft PR #46](https://github.com/LYL-Z/the-memory-reading-notes/pull/46)，分支 `draft/volume02-ch16-final-ch17-garbage-bin-20261110`，base=PR #45最新 `1602e768`，初次远端提交 `84947955b49b29d623817b1bc4cff5e4c606cd5c`；GitHub比较 `ahead=1 / behind=0`，初次六文件 +222/−4，前十五章与第一部零改。JSON／diff check／R50验收实跑PASS；GitHub最初返回 `mergeable=false` 可能尚在计算，**不据此宣称已经可合并**，且本阶段一律保留Draft。
 
 ---
 

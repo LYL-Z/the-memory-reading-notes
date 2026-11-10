@@ -1413,8 +1413,11 @@
     "history_exposure_p0": "OPEN_PRIOR_PR_HISTORY_AND_DIFF; NO_FORCE_OR_REWRITE_IN_THIS_ROUND",
     "author_and_third_party_review_pending": true,
     "main_merge_authorized": false,
-    "draft_pr_number": null,
-    "draft_pr_url": null,
+    "draft_pr_number": 46,
+    "draft_pr_url": "https://github.com/LYL-Z/the-memory-reading-notes/pull/46",
+    "first_remote_commit": "84947955b49b29d623817b1bc4cff5e4c606cd5c",
+    "github_comparison": "AHEAD_1_BEHIND_0; SIX_FILES; MANUSCRIPT_001_015_UNCHANGED; BASE_PR45_1602e768",
+    "validation": "OFFICIAL_HANZI_82412; JSON_VALID; GIT_DIFF_CHECK_PASS; R50_VERIFIER_PASS_18_136693_HUMAN_0",
     "remote_branch": "draft/volume02-ch16-final-ch17-garbage-bin-20261110",
     "next": "PUBLIC_DRAFT_PR_AND_HY4_INDEPENDENT_ACTUAL_REVIEW; DO_NOT_MERGE_MAIN; DO_NOT_CLAIM_P0_HISTORY_CLEARED"
   }
