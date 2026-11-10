@@ -1358,5 +1358,35 @@
       "history_objects_still_public": true
     },
     "final_verdict": "PR42_LITERARILY_WORTH_KEEPING_AS_CANDIDATE=YES; SAFE_TO_STACK_CH17=NO; P0_BLOCKED_AWAIT_AUTHOR_AUTHORIZATION"
+  },
+  "michael_style_pr43_pr44_reconciliation_20261110": {
+    "status": "AUTHOR_AUTHORIZED_DOCS_ONLY_TARGETED_RECONCILIATION",
+    "author_authorization": "可以; explicit six-item proposal: preserve HY4 PR44, use latest PR43, absorb verified corrections, remove stale PR43 risk claims, new public Draft, zero manuscript changes, no layer2 or ch17",
+    "repo": "LYL-Z/the-memory-reading-notes",
+    "independent_hy4_review_pr": 44,
+    "independent_hy4_review_head_at_verification": "451b95d966d6c818c81dabe79de21dbb487d876a",
+    "source_docs_pr": 43,
+    "source_docs_pr_head_at_verification": "d382b06d1a3d81bce6910a3b4d87692a5c975047",
+    "source_docs_pr_base": "hy4/volume02-ch15-ch16-independent-review-20261110",
+    "source_docs_pr_current_tree_layer1": "SYNCED_WITH_PR42_253a72f_BY_NONFORCE_MERGE; OLD_BACKUP_AND_FULL_DIFF_CURRENT_TREE_ABSENT",
+    "target_branch": "draft/michael-damaige-pr43-pr44-evidence-reconciliation-20261110",
+    "target_pr": 45,
+    "target_pr_url": "https://github.com/LYL-Z/the-memory-reading-notes/pull/45",
+    "target_pr_initial_head": "945f82e2929ce39f9b483072fe9832e745b8d828",
+    "target_pr_base_branch": "docs/michael-damaige-language-study-20261110",
+    "target_pr_status": "OPEN_DRAFT_MERGEABLE_VERIFIED; AHEAD_1_BEHIND_0; FIVE_DOCS_ONLY; MANUSCRIPT_ZERO_DIFF",
+    "source_reconciliation": "DOUYIN_AND_BILIBILI_SAME_DATE_SAME_MINUTE_NO_UNIQUE_FIRST_PROOF; CREATOR_YOUTUBE_FIRST_PARTY_NOT_FIRST_POST; EARLIER_YOUTUBE_PLAYER_36M30_OBSERVED_HY4_SESSION_COULD_NOT_REPRODUCE; DOUYIN_BILI_DESCRIPTIONS_VERIFIED; EP01_SELF_REPORTS_STARTING_PODCAST_AT_40; EP32_ALTERNATE_VIDEO_TITLE; USER_DID_DIRECTLY_QUOTE_ALL_NETWORK_YOUTUBE_SAME_NAME",
+    "author_age_correction": "2023_JAN_15; 2023_NOV_16; 2022_HIGH_ONE_DISTINCT_FROM_2023_HIGH_TWO_RESHUFFLE; FORMER_2022_16_FALSE",
+    "research_path": "editorial/style-and-influences/2026-11-10-michael-damaige-language-research-and-application.md",
+    "reconciliation_report_path": "editorial/style-and-influences/2026-11-10-pr43-pr44-targeted-evidence-reconciliation.md",
+    "canonical_style_protocol": "editorial/style-and-influences/2026-11-08-author-voice-anti-template-and-evidence-protocol.md",
+    "manuscript_changed": false,
+    "source_vault_modified": false,
+    "volume01_round50_modified": false,
+    "publication_safety": "CURRENT_TREE_REMEDIATED; HISTORY_EXPOSURE_OPEN; P0_BLOCKED_AWAIT_AUTHOR_AUTHORIZATION",
+    "layer2_history_rewrite_authorized": false,
+    "ch17_start_authorized": false,
+    "main_merge_authorized": false,
+    "next": "OPEN_AND_VERIFY_PUBLIC_DOCS_ONLY_DRAFT_FROM_LATEST_PR43; DO_NOT_MERGE_PR44_WHOLE; P0_HISTORY_OPEN; NO_CH17"
   }
 }

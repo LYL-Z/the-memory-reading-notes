@@ -1,4 +1,15 @@
-# 2026-11-10｜PR #43 文风研究与PR #42层1同步（最新现行入口）
+# 2026-11-10｜Michael大麦哥研究 PR #43 × HY4 PR #44 定点整合（最新入口）
+
+> **作者已同意**：保留HY4 [PR #44](https://github.com/LYL-Z/the-memory-reading-notes/pull/44)作为独立审稿记录，以最新[PR #43](https://github.com/LYL-Z/the-memory-reading-notes/pull/43)（实时HEAD `d382b06`、`OPEN/Draft`、已继承PR #42层1）为基线，只吸收核证成立的来源、年龄、标题、文学规则纠错；改正PR #44对PR #43的**过期风险判断**，另开独立**公开Draft PR**，小说正文零改。独立整合证据与HY4后续审阅任务书见[定点整合账](../editorial/style-and-influences/2026-11-10-pr43-pr44-targeted-evidence-reconciliation.md)。
+
+- **来源判定**：抖音创作者发布页2026-10-19 07:00、B站作者投稿同日07:00:00；同日时刻不能证明抖音唯一最早。YouTube本人发布是第一方，不等于最早发布。首次研究会话曾直接看到YouTube播放器约36:30，HY4单独会话未看到，此为**核验范围不同**；六项主题另由B站／抖音页面可核。EP01作者自述40岁开始播客，EP32简介使用另一题名；不把播客替代题名强加为平台发布页标题。用户确实亲自说过喜欢「全网＋油管同名：Michael大麦哥」的语言，同时该短语也属于平台推广文案，分开归因。
+- **年龄纠错**：旧「2022年十六岁」错误；现行第二部016明确2023正月15岁、015记2023十一月16岁生日；2022高一与2023高二分班不可混写。外部成年口吻不能强安给少年；保留真实人物的不体面和独立行动，不把语言偏好加工成金句模板。
+- **安全双层**：`CURRENT_TREE_REMEDIATED`＝PR #43现行树已通过普通合并继承PR #42层1；PR #44对其「仍4a7d06e、仍有附件」的描述仅是**更早时点**的记录。`HISTORY_EXPOSURE_OPEN`＝PR #41/#42等公共历史、改稿删除行、外部缓存仍存风险，**P0_BLOCKED_AWAIT_AUTHOR_AUTHORIZATION**不变。未授权层2历史整改、不修改PR #44、不改正文、不合并main、**第17章暂不启动**。
+- **远端交付已复核**：[公开Draft PR #45](https://github.com/LYL-Z/the-memory-reading-notes/pull/45) 初次HEAD `945f82e2929ce39f9b483072fe9832e745b8d828`，base=`docs/michael-damaige-language-study-20261110`／PR #43 `d382b06`，`OPEN/Draft/mergeable`。GitHub compare：`ahead=1/behind=0`，**正好五份文档**（研究、协议、定点整合账、两份状态），`manuscript/`零改；后续以远端实时HEAD取代本次静态值。本轮没有把PR #44并入PR #43、没有合并main。
+
+---
+
+# 2026-11-10｜PR #43 文风研究与PR #42层1同步（历史入口）
 
 > **作者2026-11-10直接授权**：《时间的复数人称》候审稿继续留在公开GitHub仓库和Draft PR；作者特别喜欢全网／YouTube同名Michael大麦哥的语言，上传五帧关于感情、空间、关系价值与独立选择的截图，要求联网研究、持久记录与GitHub同步。文风研究最初基于PR #42旧head 631b7a3；之后HY4层1整改将PR #42更新至253a72f。作者本轮明确许可对PR #43做**普通合并同步**，不force、不历史重写、不删PR、不改变base或仓库可见性，仍不合并main。
 
