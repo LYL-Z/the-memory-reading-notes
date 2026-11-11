@@ -1421,6 +1421,27 @@
     "remote_branch": "draft/volume02-ch16-final-ch17-garbage-bin-20261110",
     "next": "PUBLIC_DRAFT_PR_AND_HY4_INDEPENDENT_ACTUAL_REVIEW; DO_NOT_MERGE_MAIN; DO_NOT_CLAIM_P0_HISTORY_CLEARED"
   },
+  "chatgpt_ch17_independent_final_literary_pass_20261111": {
+    "status": "ACCEPT_FINAL_AUTHOR_SIDE; AUTHOR_READ_PENDING",
+    "base_pr": 47,
+    "base_pr_head": "9d70d919d218c3f3479295ed7ca968bb050e7d21",
+    "branch": "chatgpt/ch17-final-literary-pass-20261111",
+    "author_directives": "CREATIVE_WRITING_PRIORITY; PUBLIC_MANUSCRIPT_ALLOWED; LITERARY_EXTRAPOLATION_ALLOWED_WITH_SOURCE_BOUNDARIES; CHATGPT_LEAD_AUTHOR_AND_REVIEWER; HY4_AUXILIARY",
+    "chapter": "manuscript/volume-02/017.md",
+    "ch17_hanzi_before": 2936,
+    "ch17_hanzi_after": 3124,
+    "ch17_net_hanzi": 188,
+    "volume02_001_to_017_hanzi": 82420,
+    "ch16_hanzi_unmodified": 2905,
+    "volume01_r50_hanzi_unmodified": 136693,
+    "core_changes": "INDEPENDENT_LIU_YIFAN_RECALL_OF_CLASS_INTRODUCTIONS; ZHENG_SEN_YANG_SONG_1500M_RECOLLECTION; AUTHOR_GROUP_SEATING_ROSTER; MISMATCHED_RECOLLECTION_VS_PARENT_MEETING_FLOOR_MAP; ENDING_CONTRAST_OF_FORGOTTEN_SELF_INTRODUCTION_VS_OTHERS_RECOGNITION",
+    "factual_constraints": "DAY1_TRASH_EXECUTION_UNKNOWN; FIRST_DAY_TEACHER_QUOTES_UNKNOWN; CLASSROOM_FLOOR_CONFLICT_UNRESOLVED; LIU_YIFAN_SAME_GROUP_VS_AUTHOR_ROSTER_UNRESOLVED; NO_NEW_FIRST_DAY_ACTIONS_ASSERTED",
+    "editorial_report": "editorial/volume02/reviews/2026-11-11-chatgpt-ch17-final-independent-literary-pass.md",
+    "main_merge": false,
+    "source_vault_modified": false,
+    "ch18_started": false,
+    "next": "AUTHOR_READ_CH17_FINAL_CANDIDATE; THEN_CH18_MATERIAL_AND_DRAFT_WORK; NO_FURTHER_CH17_POLISH_WITHOUT_SPECIFIC_NEW_FACT_OR_AUTHOR_FEEDBACK"
+  },
   "hy4_ch17_final_two_fixes_20261110": {
     "status": "CH17_ACCEPT_FINAL_STAGE_CLOSED; CH16_ACCEPT_UNTOUCHED",
     "parent_pr": 47,
