@@ -1492,14 +1492,23 @@
     "next": "CH17_STAGE_CLOSED; CH18_AWAIT_AUTHOR_MATERIALS_AND_VERIFIED_COMMENTS; NO_MAIN_MERGE"
   },
   "chatgpt_volume02_18chapter_literary_overhaul_20261111": {
-    "status": "IN_PROGRESS_R1_EIGHT_CHAPTERS_REBUILT_VOLUME02_TARGET_NOT_MET",
+    "status": "IN_PROGRESS_R2_SEVENTEEN_CHAPTERS_TOUCHED_VOLUME02_TARGET_NOT_MET",
     "author_directives": "CHATGPT_SOLE_AUTHOR_AND_EDITOR_FOR_NOW; HY4_REVIEW_DISCONTINUED; FICTION_PRIORITY_SCENES_AND_NONLINEAR_UNRELIABLE_PERSPECTIVE; TARGET_VOLUME01_18CH_HANZI",
     "parent_pr": 50,
     "parent_head_sha": "0fc6ebe2f5f1cc949444207fc88e1b53f10e2307",
     "branch": "chatgpt/volume02-18chapter-literary-overhaul-r1-20261111",
     "manuscript_modified": [
+      "002.md",
+      "003.md",
+      "004.md",
+      "005.md",
+      "006.md",
+      "007.md",
+      "008.md",
+      "009.md",
       "010.md",
       "011.md",
+      "012.md",
       "013.md",
       "014.md",
       "015.md",
@@ -1508,12 +1517,12 @@
       "018.md"
     ],
     "volume02_start_hanzi": 85994,
-    "volume02_current_hanzi": 92603,
-    "volume02_net_hanzi": 6609,
+    "volume02_current_hanzi": 99018,
+    "volume02_net_hanzi": 13024,
     "volume01_round50_target_hanzi": 136693,
-    "remaining_hanzi_gap": 44090,
+    "remaining_hanzi_gap": 37675,
     "planning_document": "editorial/volume02/2026-11-11-volume02-18chapter-literary-reconstruction-map.md",
     "validation_policy": "NO_FALSE_COMPLETION; CONTINUE_ACTUAL_LITERARY_CREATION_AND_FULL_18_CHAPTER_REVIEW; SOURCE_VAULT_READ_ONLY; VOLUME01_FROZEN; NO_MAIN_MERGE; NO_FORCE_PUSH",
-    "next": "CONTINUE_CH001_TO_CH009_AND_CH012_RECONSTRUCTION; ADDRESS_CH002_CH003_CH005_CH013_OVERLAP; RECOUNT_AND_REVIEW"
+    "next": "CONTINUE_INDEPENDENT_LIVED_SCENES_ESPECIALLY_CH013_TO_CH018; CONTROL_CH002_CH003_CH005_CH013_OVERLAP; GAP_37675_HANZI; NO_FALSE_FINAL"
   }
 }
