@@ -1492,7 +1492,7 @@
     "next": "CH17_STAGE_CLOSED; CH18_AWAIT_AUTHOR_MATERIALS_AND_VERIFIED_COMMENTS; NO_MAIN_MERGE"
   },
   "chatgpt_volume02_18chapter_literary_overhaul_20261111": {
-    "status": "IN_PROGRESS_R4_SEVENTEEN_CHAPTERS_TOUCHED_VOLUME02_TARGET_NOT_MET",
+    "status": "IN_PROGRESS_R5_CH15_CH17_REVISED_VOLUME_TARGET_NOT_MET",
     "author_directives": "CHATGPT_SOLE_AUTHOR_AND_EDITOR_FOR_NOW; HY4_REVIEW_DISCONTINUED; FICTION_PRIORITY_SCENES_AND_NONLINEAR_UNRELIABLE_PERSPECTIVE; TARGET_VOLUME01_18CH_HANZI",
     "parent_pr": 50,
     "parent_head_sha": "0fc6ebe2f5f1cc949444207fc88e1b53f10e2307",
@@ -1517,14 +1517,29 @@
       "018.md"
     ],
     "volume02_start_hanzi": 85994,
-    "volume02_current_hanzi": 104478,
-    "volume02_net_hanzi": 18484,
+    "volume02_current_hanzi": 104288,
+    "volume02_net_hanzi": 18294,
     "volume01_round50_target_hanzi": 136693,
     "remaining_hanzi_gap": 32215,
-    "r4_additional_scene_chapters": ["006.md", "014.md", "016.md", "017.md"],
+    "r4_additional_scene_chapters": [
+      "006.md",
+      "014.md",
+      "016.md",
+      "017.md"
+    ],
     "r4_new_scene_notes": "BIRTHDAY_MOTHER_RETURNS_TOAST; MOTHER_WORK_PHONE_INTERRUPTIONS_AND_MOVIE_NARRATION; ANHUA_SHIYI_BRIDGE_FAMILY_WALK; CONFLICTING_SIX_PERSON_GROUP_MEMORIES_FOUR_NAMES_OVERLAP; COMPOSITE_ACTIONS_NOT_ASSERTED_AS_PHOTOGRAPHIC_FACTS",
     "planning_document": "editorial/volume02/2026-11-11-volume02-18chapter-literary-reconstruction-map.md",
     "validation_policy": "NO_FALSE_COMPLETION; CONTINUE_ACTUAL_LITERARY_CREATION_AND_FULL_18_CHAPTER_REVIEW; SOURCE_VAULT_READ_ONLY; VOLUME01_FROZEN; NO_MAIN_MERGE; NO_FORCE_PUSH",
-    "next": "CONTINUE_INDEPENDENT_LIVED_SCENES_AND_ALL_18_CHAPTER_CROSS_READ; CONTROL_CH002_CH003_CH005_CH013_OVERLAP; GAP_32215_HANZI; NO_FALSE_FINAL"
+    "next": "CONTINUE_INDEPENDENT_LIVED_SCENES_AND_ALL_18_CHAPTER_CROSS_READ; CONTROL_CH002_CH003_CH005_CH013_OVERLAP; GAP_32215_HANZI; NO_FALSE_FINAL",
+    "volume02_remaining_to_volume01": 32405,
+    "r5": {
+      "chapter_015_hanzi": 4036,
+      "chapter_017_hanzi": 5279,
+      "r4_to_r5_delta": -190,
+      "v2_q14_contacts_not_roster": true,
+      "participant_pseudonym_required": true,
+      "public_history_exposure_still_open": true,
+      "stage": "DRAFT_NOT_FINAL"
+    }
   }
 }
