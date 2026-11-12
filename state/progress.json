@@ -1541,5 +1541,19 @@
       "public_history_exposure_still_open": true,
       "stage": "DRAFT_NOT_FINAL"
     }
-  }
+  },
+  "volume02_r6_status": "R6_DELIVERED_WITH_MATERIAL_IMPROVEMENTS_PARTIAL_NOT_VOLUME_COMPLETE",
+  "volume02_r6_pr": 51,
+  "volume02_r6_branch": "chatgpt/volume02-18chapter-literary-overhaul-r1-20261111",
+  "volume02_r6_hanzi_001_018": 112097,
+  "volume02_r6_predecessor_r5_hanzi": 104288,
+  "volume02_r6_net_change_hanzi": 7809,
+  "volume02_r6_volume01_r50_reference_hanzi": 136693,
+  "volume02_r6_hanzi_gap_to_reference": 24596,
+  "volume02_r6_chapters_edited": ["004","005","007","008","009","010","011","012","013","014","015","016","017","018"],
+  "volume02_r6_cold_read_ledger": "editorial/volume02/reviews/2026-11-11-ch01-18-r6-second-cold-read-and-recomposition-map.md",
+  "volume02_r6_hy4_review": "STOPPED_BY_AUTHOR",
+  "volume02_r6_review_gate": "AUTHOR_AND_INDEPENDENT_READ_NOT_COMPLETED",
+  "volume02_r6_source_repository_modified": false,
+  "volume02_r6_main_merged": false
 }
