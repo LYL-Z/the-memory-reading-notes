@@ -1571,5 +1571,11 @@
   "volume02_r7_human_cold_read_completed": false,
   "volume02_r7_ch19_started": false,
   "volume02_r7_source_repository_modified": false,
-  "volume02_r7_main_merged": false
+  "volume02_r7_main_merged": false,
+  "chatgpt_ch19_r2_20261111": {"status":"R2_DELIVERED_AUTHOR_REVIEW_PENDING","chapter":"manuscript/volume-02/019.md","title":"右前方","base_parent_pr":51,"base_parent_sha":"017ef32da134c0292906e0d4ebcb843e7f50a627","branch":"chatgpt/volume02-ch19-right-front-r1-20261111","public_draft_pr":52,"public_draft_pr_url":"https://github.com/LYL-Z/the-memory-reading-notes/pull/52","r1_hanzi":6618,"r2_hanzi":6662,"previous_18_chapter_hanzi":105905,"total_19_chapter_hanzi":112567,"reference_volume01_r50_18chap_hanzi":136693,"source_repo_modified":false,"prior_18_chapters_modified":false,"volume01_r50_modified":false,"main_merged":false,"force_push":false,"reviewer":"CHATGPT_SOLE_WRITER_AND_EDITOR_HY4_STOPPED","author_explicit_go_ahead":true,"reality_boundary":"AUTHOR_RECALL_FIRST_NEW_CLASSROOM_RIGHT_FRONT_DONG_BACK_REMINDER_OF_ZHAO; LATER_SECOND_SEMESTER_SEATING_AND_YOUNG_CRUSH_CLASSROOM_EVENT; DONG_OWN_IMPRESSION_WHEN_NOT_YET_FAMILIAR_NOT_ASSERTED_AS_SAME_FIRST_DAY","literary_composite":"CHINESE_CLASS_REP_COLLECTING_BOOKS_AND_GENERAL_CLASSROOM_PROP_TRANSFER_NO_CERTIFIED_SINGLE_DAY","questionnaire_language_in_novel":false,"draft_only_third_party_preview_pending":true,"R50_verifier_ran_this_turn":false,"human_cold_read":false,"source_editorial_audit":"editorial/volume02/reviews/2026-11-11-ch19-right-front-r1-source-structure-coldread.md","next":"AUTHOR_REVIEW_PR52_CH19; CH20_NOT_STARTED"},
+  "volume02_ch19_authorized": true,
+  "volume02_ch19_current_status": "R2_DELIVERED_AUTHOR_REVIEW_PENDING",
+  "volume02_ch19_r2_hanzi": 6662,
+  "volume02_hanzi_001_019": 112567,
+  "volume02_ch20_started": false
 }
