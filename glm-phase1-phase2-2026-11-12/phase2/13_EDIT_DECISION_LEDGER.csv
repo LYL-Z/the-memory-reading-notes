@@ -1,0 +1,27 @@
+﻿chapter,kind,before,after,reason,decision,evidence
+001,INSERT_SCENE,<after body paragraph 1>,新增 522 汉字（去重复后 0 句被剔除）,E1 正文内部动作链展开；E5 不新增第三人原话/内心/新事件,ADOPT_REVERSIBLE,diffs/001.patch
+002,INSERT_SCENE,<after body paragraph 1>,新增 394 汉字（去重复后 1 句被剔除）,E1 正文内部动作链展开；E5 不新增第三人原话/内心/新事件,ADOPT_REVERSIBLE,diffs/002.patch
+003,INSERT_SCENE,<after body paragraph 1>,新增 420 汉字（去重复后 0 句被剔除）,E1 正文内部动作链展开；E5 不新增第三人原话/内心/新事件,ADOPT_REVERSIBLE,diffs/003.patch
+004,INSERT_SCENE,<after body paragraph 1>,新增 309 汉字（去重复后 5 句被剔除）,E1 正文内部动作链展开；E5 不新增第三人原话/内心/新事件,ADOPT_REVERSIBLE,diffs/004.patch
+005,REPLACE/DELETE,那件事在第一部已经讲过，不必搬到这里再跳一回。,那件事我在别处讲过，不必搬到这里再跳一回。,C7 框架破口｜方案 A 微创｜AUTHOR_DECISION_REQUIRED,AUTHOR_DECISION_REQUIRED,diffs/005.patch
+005,INSERT_SCENE,<after body paragraph 1>,新增 342 汉字（去重复后 2 句被剔除）,E1 正文内部动作链展开；E5 不新增第三人原话/内心/新事件,ADOPT_REVERSIBLE,diffs/005.patch
+006,INSERT_SCENE,<after body paragraph 1>,新增 434 汉字（去重复后 1 句被剔除）,E1 正文内部动作链展开；E5 不新增第三人原话/内心/新事件,ADOPT_REVERSIBLE,diffs/006.patch
+007,INSERT_SCENE,<after body paragraph 1>,新增 298 汉字（去重复后 3 句被剔除）,E1 正文内部动作链展开；E5 不新增第三人原话/内心/新事件,ADOPT_REVERSIBLE,diffs/007.patch
+008,INSERT_SCENE,<after body paragraph 1>,新增 162 汉字（去重复后 8 句被剔除）,E1 正文内部动作链展开；E5 不新增第三人原话/内心/新事件,ADOPT_REVERSIBLE,diffs/008.patch
+009,INSERT_SCENE,<after body paragraph 1>,新增 294 汉字（去重复后 6 句被剔除）,E1 正文内部动作链展开；E5 不新增第三人原话/内心/新事件,ADOPT_REVERSIBLE,diffs/009.patch
+010,INSERT_SCENE,<after body paragraph 1>,新增 168 汉字（去重复后 8 句被剔除）,E1 正文内部动作链展开；E5 不新增第三人原话/内心/新事件,ADOPT_REVERSIBLE,diffs/010.patch
+011,INSERT_SCENE,<after body paragraph 1>,新增 85 汉字（去重复后 12 句被剔除）,E1 正文内部动作链展开；E5 不新增第三人原话/内心/新事件,ADOPT_REVERSIBLE,diffs/011.patch
+012,INSERT_SCENE,<after body paragraph 1>,新增 141 汉字（去重复后 11 句被剔除）,E1 正文内部动作链展开；E5 不新增第三人原话/内心/新事件,ADOPT_REVERSIBLE,diffs/012.patch
+013,INSERT_SCENE,<after body paragraph 1>,新增 29 汉字（去重复后 14 句被剔除）,E1 正文内部动作链展开；E5 不新增第三人原话/内心/新事件,ADOPT_REVERSIBLE,diffs/013.patch
+014,INSERT_SCENE,<after body paragraph 1>,新增 162 汉字（去重复后 14 句被剔除）,E1 正文内部动作链展开；E5 不新增第三人原话/内心/新事件,ADOPT_REVERSIBLE,diffs/014.patch
+015,INSERT_SCENE,<after body paragraph 1>,新增 35 汉字（去重复后 16 句被剔除）,E1 正文内部动作链展开；E5 不新增第三人原话/内心/新事件,ADOPT_REVERSIBLE,diffs/015.patch
+016,INSERT_SCENE,<after body paragraph 1>,新增 43 汉字（去重复后 16 句被剔除）,E1 正文内部动作链展开；E5 不新增第三人原话/内心/新事件,ADOPT_REVERSIBLE,diffs/016.patch
+017,INSERT_SCENE,<after body paragraph 1>,新增 134 汉字（去重复后 14 句被剔除）,E1 正文内部动作链展开；E5 不新增第三人原话/内心/新事件,ADOPT_REVERSIBLE,diffs/017.patch
+018,INSERT_SCENE,<after body paragraph 1>,新增 90 汉字（去重复后 14 句被剔除）,E1 正文内部动作链展开；E5 不新增第三人原话/内心/新事件,ADOPT_REVERSIBLE,diffs/018.patch
+019,REPLACE/DELETE,我在初进五班的那一天一件都不知道。,<DELETE>,排版/改稿残留：与 L247 近重复，删更长的那一句，保留更短更冷的一句,ADOPT_REVERSIBLE,diffs/019.patch
+019,INSERT_SCENE,<after body paragraph 1>,新增 105 汉字（去重复后 20 句被剔除）,E1 正文内部动作链展开；E5 不新增第三人原话/内心/新事件,ADOPT_REVERSIBLE,diffs/019.patch
+020,INSERT_SCENE,<after body paragraph 1>,新增 53 汉字（去重复后 17 句被剔除）,E1 正文内部动作链展开；E5 不新增第三人原话/内心/新事件,ADOPT_REVERSIBLE,diffs/020.patch
+021,INSERT_SCENE,<after body paragraph 1>,新增 45 汉字（去重复后 18 句被剔除）,E1 正文内部动作链展开；E5 不新增第三人原话/内心/新事件,ADOPT_REVERSIBLE,diffs/021.patch
+022,INSERT_SCENE,<after body paragraph 1>,新增 38 汉字（去重复后 22 句被剔除）,E1 正文内部动作链展开；E5 不新增第三人原话/内心/新事件,ADOPT_REVERSIBLE,diffs/022.patch
+023,INSERT_SCENE,<after body paragraph 1>,新增 27 汉字（去重复后 24 句被剔除）,E1 正文内部动作链展开；E5 不新增第三人原话/内心/新事件,ADOPT_REVERSIBLE,diffs/023.patch
+024,INSERT_SCENE,<after body paragraph 1>,新增 20 汉字（去重复后 27 句被剔除）,E1 正文内部动作链展开；E5 不新增第三人原话/内心/新事件,ADOPT_REVERSIBLE,diffs/024.patch

@@ -1,0 +1,43 @@
+﻿chapter,volume,baseline,original_han,candidate_or_review_han,narrative_role,glm_phase2_action,evidence_path
+001,V2,PR#53,6354,6876,A/B/C 三轴见 08 号；读者知情见 04 号第 1 阶段报告,去重复补场 + 结构微调,见 ledger/v2/001_ledger.md
+002,V2,PR#53,4916,5310,A/B/C 三轴见 08 号；读者知情见 04 号第 1 阶段报告,去重复补场 + 结构微调,见 ledger/v2/002_ledger.md
+003,V2,PR#53,5749,6169,A/B/C 三轴见 08 号；读者知情见 04 号第 1 阶段报告,去重复补场 + 结构微调,见 ledger/v2/003_ledger.md
+004,V2,PR#53,6375,6684,A/B/C 三轴见 08 号；读者知情见 04 号第 1 阶段报告,去重复补场 + 结构微调,见 ledger/v2/004_ledger.md
+005,V2,PR#53,6509,6849,A/B/C 三轴见 08 号；读者知情见 04 号第 1 阶段报告,去重复补场 + 结构微调,见 ledger/v2/005_ledger.md
+006,V2,PR#53,4185,4619,A/B/C 三轴见 08 号；读者知情见 04 号第 1 阶段报告,去重复补场 + 结构微调,见 ledger/v2/006_ledger.md
+007,V2,PR#53,3659,3957,A/B/C 三轴见 08 号；读者知情见 04 号第 1 阶段报告,去重复补场 + 结构微调,见 ledger/v2/007_ledger.md
+008,V2,PR#53,8887,9049,A/B/C 三轴见 08 号；读者知情见 04 号第 1 阶段报告,去重复补场 + 结构微调,见 ledger/v2/008_ledger.md
+009,V2,PR#53,7401,7695,A/B/C 三轴见 08 号；读者知情见 04 号第 1 阶段报告,去重复补场 + 结构微调,见 ledger/v2/009_ledger.md
+010,V2,PR#53,4759,4927,A/B/C 三轴见 08 号；读者知情见 04 号第 1 阶段报告,去重复补场 + 结构微调,见 ledger/v2/010_ledger.md
+011,V2,PR#53,4559,4644,A/B/C 三轴见 08 号；读者知情见 04 号第 1 阶段报告,去重复补场 + 结构微调,见 ledger/v2/011_ledger.md
+012,V2,PR#53,5666,5807,A/B/C 三轴见 08 号；读者知情见 04 号第 1 阶段报告,去重复补场 + 结构微调,见 ledger/v2/012_ledger.md
+013,V2,PR#53,6168,6197,A/B/C 三轴见 08 号；读者知情见 04 号第 1 阶段报告,去重复补场 + 结构微调,见 ledger/v2/013_ledger.md
+014,V2,PR#53,7718,7880,A/B/C 三轴见 08 号；读者知情见 04 号第 1 阶段报告,去重复补场 + 结构微调,见 ledger/v2/014_ledger.md
+015,V2,PR#53,3997,4032,A/B/C 三轴见 08 号；读者知情见 04 号第 1 阶段报告,去重复补场 + 结构微调,见 ledger/v2/015_ledger.md
+016,V2,PR#53,5217,5260,A/B/C 三轴见 08 号；读者知情见 04 号第 1 阶段报告,去重复补场 + 结构微调,见 ledger/v2/016_ledger.md
+017,V2,PR#53,6292,6426,A/B/C 三轴见 08 号；读者知情见 04 号第 1 阶段报告,去重复补场 + 结构微调,见 ledger/v2/017_ledger.md
+018,V2,PR#53,7494,7584,A/B/C 三轴见 08 号；读者知情见 04 号第 1 阶段报告,去重复补场 + 结构微调,见 ledger/v2/018_ledger.md
+019,V2,PR#53,6662,6751,A/B/C 三轴见 08 号；读者知情见 04 号第 1 阶段报告,去重复补场 + 结构微调,见 ledger/v2/019_ledger.md
+020,V2,PR#53,4703,4756,A/B/C 三轴见 08 号；读者知情见 04 号第 1 阶段报告,去重复补场 + 结构微调,见 ledger/v2/020_ledger.md
+021,V2,PR#53,4411,4456,A/B/C 三轴见 08 号；读者知情见 04 号第 1 阶段报告,去重复补场 + 结构微调,见 ledger/v2/021_ledger.md
+022,V2,PR#53,4503,4541,A/B/C 三轴见 08 号；读者知情见 04 号第 1 阶段报告,去重复补场 + 结构微调,见 ledger/v2/022_ledger.md
+023,V2,PR#53,4818,4845,A/B/C 三轴见 08 号；读者知情见 04 号第 1 阶段报告,去重复补场 + 结构微调,见 ledger/v2/023_ledger.md
+024,V2,PR#53,4372,4392,A/B/C 三轴见 08 号；读者知情见 04 号第 1 阶段报告,去重复补场 + 结构微调,见 ledger/v2/024_ledger.md
+001,V1,R50-CANON-FROZEN,7737,7737,双声部/物件链/延迟兑现,隔离实验（canon 不动）,17_VOLUME01_EXPERIMENTS/001_EXPERIMENT.md
+002,V1,R50-CANON-FROZEN,10575,10575,双声部/物件链/延迟兑现,逐章审稿，canon 不动,17_VOLUME01_EXPERIMENTS/002.md
+003,V1,R50-CANON-FROZEN,11050,11050,双声部/物件链/延迟兑现,逐章审稿，canon 不动,17_VOLUME01_EXPERIMENTS/003.md
+004,V1,R50-CANON-FROZEN,11915,11915,双声部/物件链/延迟兑现,逐章审稿，canon 不动,17_VOLUME01_EXPERIMENTS/004.md
+005,V1,R50-CANON-FROZEN,6168,6168,双声部/物件链/延迟兑现,逐章审稿，canon 不动,17_VOLUME01_EXPERIMENTS/005.md
+006,V1,R50-CANON-FROZEN,7255,7255,双声部/物件链/延迟兑现,逐章审稿，canon 不动,17_VOLUME01_EXPERIMENTS/006.md
+007,V1,R50-CANON-FROZEN,8175,8175,双声部/物件链/延迟兑现,逐章审稿，canon 不动,17_VOLUME01_EXPERIMENTS/007.md
+008,V1,R50-CANON-FROZEN,7084,7084,双声部/物件链/延迟兑现,逐章审稿，canon 不动,17_VOLUME01_EXPERIMENTS/008.md
+009,V1,R50-CANON-FROZEN,7860,7860,双声部/物件链/延迟兑现,逐章审稿，canon 不动,17_VOLUME01_EXPERIMENTS/009.md
+010,V1,R50-CANON-FROZEN,5049,5049,双声部/物件链/延迟兑现,逐章审稿，canon 不动,17_VOLUME01_EXPERIMENTS/010.md
+011,V1,R50-CANON-FROZEN,9185,9185,双声部/物件链/延迟兑现,逐章审稿，canon 不动,17_VOLUME01_EXPERIMENTS/011.md
+012,V1,R50-CANON-FROZEN,6320,6320,双声部/物件链/延迟兑现,逐章审稿，canon 不动,17_VOLUME01_EXPERIMENTS/012.md
+013,V1,R50-CANON-FROZEN,6753,6753,双声部/物件链/延迟兑现,逐章审稿，canon 不动,17_VOLUME01_EXPERIMENTS/013.md
+014,V1,R50-CANON-FROZEN,7370,7370,双声部/物件链/延迟兑现,隔离实验（canon 不动）,17_VOLUME01_EXPERIMENTS/014_EXPERIMENT.md
+015,V1,R50-CANON-FROZEN,6329,6329,双声部/物件链/延迟兑现,逐章审稿，canon 不动,17_VOLUME01_EXPERIMENTS/015.md
+016,V1,R50-CANON-FROZEN,5404,5404,双声部/物件链/延迟兑现,逐章审稿，canon 不动,17_VOLUME01_EXPERIMENTS/016.md
+017,V1,R50-CANON-FROZEN,5539,5539,双声部/物件链/延迟兑现,逐章审稿，canon 不动,17_VOLUME01_EXPERIMENTS/017.md
+018,V1,R50-CANON-FROZEN,6925,6925,双声部/物件链/延迟兑现,隔离实验（canon 不动）,17_VOLUME01_EXPERIMENTS/018_EXPERIMENT.md

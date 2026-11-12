@@ -1,0 +1,25 @@
+﻿chapter,scene_id,source_level,capacity,new_han,dedup_dropped,E1_E6,decision
+001,SCENE-001,DOCUMENTED_INTERNAL_ACTION_CHAIN,HIGH,522,0,E1 源=PR53 本章正文；E2 动作/阻力=该章已写动作链；E3 独特性=章内补场；E4 声口=叙述者当时动作与不确定；E5 伦理=不涉第三人内心/原话；E6 损失=可能压慢该章节奏，可整段回滚,ADOPT_REVERSIBLE
+002,SCENE-002,DOCUMENTED_INTERNAL_ACTION_CHAIN,MEDIUM,394,1,E1 源=PR53 本章正文；E2 动作/阻力=该章已写动作链；E3 独特性=章内补场；E4 声口=叙述者当时动作与不确定；E5 伦理=不涉第三人内心/原话；E6 损失=可能压慢该章节奏，可整段回滚,ADOPT_REVERSIBLE
+003,SCENE-003,DOCUMENTED_INTERNAL_ACTION_CHAIN,HIGH,420,0,E1 源=PR53 本章正文；E2 动作/阻力=该章已写动作链；E3 独特性=章内补场；E4 声口=叙述者当时动作与不确定；E5 伦理=不涉第三人内心/原话；E6 损失=可能压慢该章节奏，可整段回滚,ADOPT_REVERSIBLE
+004,SCENE-004,DOCUMENTED_INTERNAL_ACTION_CHAIN,MEDIUM,309,5,E1 源=PR53 本章正文；E2 动作/阻力=该章已写动作链；E3 独特性=章内补场；E4 声口=叙述者当时动作与不确定；E5 伦理=不涉第三人内心/原话；E6 损失=可能压慢该章节奏，可整段回滚,ADOPT_REVERSIBLE
+005,SCENE-005,DOCUMENTED_INTERNAL_ACTION_CHAIN,MEDIUM,342,2,E1 源=PR53 本章正文；E2 动作/阻力=该章已写动作链；E3 独特性=章内补场；E4 声口=叙述者当时动作与不确定；E5 伦理=不涉第三人内心/原话；E6 损失=可能压慢该章节奏，可整段回滚,ADOPT_REVERSIBLE
+006,SCENE-006,DOCUMENTED_INTERNAL_ACTION_CHAIN,HIGH,434,1,E1 源=PR53 本章正文；E2 动作/阻力=该章已写动作链；E3 独特性=章内补场；E4 声口=叙述者当时动作与不确定；E5 伦理=不涉第三人内心/原话；E6 损失=可能压慢该章节奏，可整段回滚,ADOPT_REVERSIBLE
+007,SCENE-007,DOCUMENTED_INTERNAL_ACTION_CHAIN,MEDIUM,298,3,E1 源=PR53 本章正文；E2 动作/阻力=该章已写动作链；E3 独特性=章内补场；E4 声口=叙述者当时动作与不确定；E5 伦理=不涉第三人内心/原话；E6 损失=可能压慢该章节奏，可整段回滚,ADOPT_REVERSIBLE
+008,SCENE-008,DOCUMENTED_INTERNAL_ACTION_CHAIN,MEDIUM,162,8,E1 源=PR53 本章正文；E2 动作/阻力=该章已写动作链；E3 独特性=章内补场；E4 声口=叙述者当时动作与不确定；E5 伦理=不涉第三人内心/原话；E6 损失=可能压慢该章节奏，可整段回滚,ADOPT_REVERSIBLE
+009,SCENE-009,DOCUMENTED_INTERNAL_ACTION_CHAIN,MEDIUM,294,6,E1 源=PR53 本章正文；E2 动作/阻力=该章已写动作链；E3 独特性=章内补场；E4 声口=叙述者当时动作与不确定；E5 伦理=不涉第三人内心/原话；E6 损失=可能压慢该章节奏，可整段回滚,ADOPT_REVERSIBLE
+010,SCENE-010,DOCUMENTED_INTERNAL_ACTION_CHAIN,MEDIUM,168,8,E1 源=PR53 本章正文；E2 动作/阻力=该章已写动作链；E3 独特性=章内补场；E4 声口=叙述者当时动作与不确定；E5 伦理=不涉第三人内心/原话；E6 损失=可能压慢该章节奏，可整段回滚,ADOPT_REVERSIBLE
+011,SCENE-011,DOCUMENTED_INTERNAL_ACTION_CHAIN,LOW,85,12,E1 源=PR53 本章正文；E2 动作/阻力=该章已写动作链；E3 独特性=章内补场；E4 声口=叙述者当时动作与不确定；E5 伦理=不涉第三人内心/原话；E6 损失=可能压慢该章节奏，可整段回滚,ADOPT_REVERSIBLE
+012,SCENE-012,DOCUMENTED_INTERNAL_ACTION_CHAIN,LOW,141,11,E1 源=PR53 本章正文；E2 动作/阻力=该章已写动作链；E3 独特性=章内补场；E4 声口=叙述者当时动作与不确定；E5 伦理=不涉第三人内心/原话；E6 损失=可能压慢该章节奏，可整段回滚,ADOPT_REVERSIBLE
+013,SCENE-013,DOCUMENTED_INTERNAL_ACTION_CHAIN,LOW,29,14,E1 源=PR53 本章正文；E2 动作/阻力=该章已写动作链；E3 独特性=章内补场；E4 声口=叙述者当时动作与不确定；E5 伦理=不涉第三人内心/原话；E6 损失=可能压慢该章节奏，可整段回滚,ADOPT_REVERSIBLE
+014,SCENE-014,DOCUMENTED_INTERNAL_ACTION_CHAIN,MEDIUM,162,14,E1 源=PR53 本章正文；E2 动作/阻力=该章已写动作链；E3 独特性=章内补场；E4 声口=叙述者当时动作与不确定；E5 伦理=不涉第三人内心/原话；E6 损失=可能压慢该章节奏，可整段回滚,ADOPT_REVERSIBLE
+015,SCENE-015,DOCUMENTED_INTERNAL_ACTION_CHAIN,LOW,35,16,E1 源=PR53 本章正文；E2 动作/阻力=该章已写动作链；E3 独特性=章内补场；E4 声口=叙述者当时动作与不确定；E5 伦理=不涉第三人内心/原话；E6 损失=可能压慢该章节奏，可整段回滚,ADOPT_REVERSIBLE
+016,SCENE-016,DOCUMENTED_INTERNAL_ACTION_CHAIN,LOW,43,16,E1 源=PR53 本章正文；E2 动作/阻力=该章已写动作链；E3 独特性=章内补场；E4 声口=叙述者当时动作与不确定；E5 伦理=不涉第三人内心/原话；E6 损失=可能压慢该章节奏，可整段回滚,ADOPT_REVERSIBLE
+017,SCENE-017,DOCUMENTED_INTERNAL_ACTION_CHAIN,LOW,134,14,E1 源=PR53 本章正文；E2 动作/阻力=该章已写动作链；E3 独特性=章内补场；E4 声口=叙述者当时动作与不确定；E5 伦理=不涉第三人内心/原话；E6 损失=可能压慢该章节奏，可整段回滚,ADOPT_REVERSIBLE
+018,SCENE-018,DOCUMENTED_INTERNAL_ACTION_CHAIN,LOW,90,14,E1 源=PR53 本章正文；E2 动作/阻力=该章已写动作链；E3 独特性=章内补场；E4 声口=叙述者当时动作与不确定；E5 伦理=不涉第三人内心/原话；E6 损失=可能压慢该章节奏，可整段回滚,ADOPT_REVERSIBLE
+019,SCENE-019,DOCUMENTED_INTERNAL_ACTION_CHAIN,LOW,105,20,E1 源=PR53 本章正文；E2 动作/阻力=该章已写动作链；E3 独特性=章内补场；E4 声口=叙述者当时动作与不确定；E5 伦理=不涉第三人内心/原话；E6 损失=可能压慢该章节奏，可整段回滚,ADOPT_REVERSIBLE
+020,SCENE-020,DOCUMENTED_INTERNAL_ACTION_CHAIN,LOW,53,17,E1 源=PR53 本章正文；E2 动作/阻力=该章已写动作链；E3 独特性=章内补场；E4 声口=叙述者当时动作与不确定；E5 伦理=不涉第三人内心/原话；E6 损失=可能压慢该章节奏，可整段回滚,ADOPT_REVERSIBLE
+021,SCENE-021,DOCUMENTED_INTERNAL_ACTION_CHAIN,LOW,45,18,E1 源=PR53 本章正文；E2 动作/阻力=该章已写动作链；E3 独特性=章内补场；E4 声口=叙述者当时动作与不确定；E5 伦理=不涉第三人内心/原话；E6 损失=可能压慢该章节奏，可整段回滚,ADOPT_REVERSIBLE
+022,SCENE-022,DOCUMENTED_INTERNAL_ACTION_CHAIN,LOW,38,22,E1 源=PR53 本章正文；E2 动作/阻力=该章已写动作链；E3 独特性=章内补场；E4 声口=叙述者当时动作与不确定；E5 伦理=不涉第三人内心/原话；E6 损失=可能压慢该章节奏，可整段回滚,ADOPT_REVERSIBLE
+023,SCENE-023,DOCUMENTED_INTERNAL_ACTION_CHAIN,LOW,27,24,E1 源=PR53 本章正文；E2 动作/阻力=该章已写动作链；E3 独特性=章内补场；E4 声口=叙述者当时动作与不确定；E5 伦理=不涉第三人内心/原话；E6 损失=可能压慢该章节奏，可整段回滚,ADOPT_REVERSIBLE
+024,SCENE-024,DOCUMENTED_INTERNAL_ACTION_CHAIN,LOW,20,27,E1 源=PR53 本章正文；E2 动作/阻力=该章已写动作链；E3 独特性=章内补场；E4 声口=叙述者当时动作与不确定；E5 伦理=不涉第三人内心/原话；E6 损失=可能压慢该章节奏，可整段回滚,ADOPT_REVERSIBLE
