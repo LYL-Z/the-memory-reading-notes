@@ -375,7 +375,7 @@
     "report": "editorial/volume04/2026-11-13-r1-sixchapter-literary-audit.md",
     "draft_pr": 62
   },
-  "volume04_current_handoff": "state/2026-11-13-volume04-r4-handoff.md",
+  "volume04_current_handoff": "state/2026-11-13-volume04-r5-handoff.md",
   "volume04_r2_batch": {
     "date": "2026-11-13",
     "chapters_written": [
@@ -446,5 +446,72 @@
     "ledger": "editorial/volume04/2026-11-13-r4-full18-hanzi-comparison.tsv",
     "report": "editorial/volume04/2026-11-13-r4-full18-structural-revision-audit.md",
     "handoff": "state/2026-11-13-volume04-r4-handoff.md"
+  },
+  "volume04_r5_revision": {
+    "date": "2026-11-13",
+    "branch": "creative/volume04-opening-continuous-20261113",
+    "pr": 62,
+    "status": "DRAFT_R5_THIRD_INDEPENDENT_DEEP_REVIEW_NOT_FINAL_NOT_MERGED",
+    "chapter_count": 18,
+    "prior_r4_hanzi": 68036,
+    "r5_hanzi": 70417,
+    "net_gain": 2381,
+    "changed_chapters": [
+      "004",
+      "007",
+      "008",
+      "009",
+      "010",
+      "011",
+      "014",
+      "017",
+      "018"
+    ],
+    "unchanged_chapters": [
+      "001",
+      "002",
+      "003",
+      "005",
+      "006",
+      "012",
+      "013",
+      "015",
+      "016"
+    ],
+    "chapter_counts": {
+      "001": 4785,
+      "002": 4053,
+      "003": 4147,
+      "004": 4637,
+      "005": 3937,
+      "006": 3132,
+      "007": 4323,
+      "008": 4474,
+      "009": 3968,
+      "010": 2107,
+      "011": 2817,
+      "012": 3708,
+      "013": 3972,
+      "014": 3671,
+      "015": 4045,
+      "016": 3616,
+      "017": 3322,
+      "018": 5703
+    },
+    "material_source": "the-memory 2026-09-06 Zhu Xueliang Q21 Q23 Q27 Q31 Q35 Q39 Q53 Q10 Q11 Q52",
+    "unresolved": [
+      "heavy dependency on single survey",
+      "ch010 independent chapter",
+      "II-022 name and birthday overlap",
+      "real-person publication review",
+      "human blind reads 0"
+    ],
+    "main_unchanged": true,
+    "source_unchanged": true,
+    "human_blind_readers": 0,
+    "ledger": "editorial/volume04/2026-11-13-r5-full18-hanzi-comparison.tsv",
+    "report": "editorial/volume04/2026-11-13-r5-third-deep-editorial-review.md",
+    "revelation_map": "editorial/volume04/2026-11-13-r5-reader-revelation-map.md",
+    "handoff": "state/2026-11-13-volume04-r5-handoff.md"
   }
 }

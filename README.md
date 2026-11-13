@@ -1,4 +1,4 @@
-> **第四部R4全卷结构精修（2026-11-13）**：在[Draft PR#62](https://github.com/LYL-Z/the-memory-reading-notes/pull/62)已修改001—018全部18章，官方汉字**56,599→68,036（净增11,437）**。这属于结构性修订候审稿，**未文学冻结、未合并main**；前三部main58章435,800字不变，全书含未合并IV暂计76章503,836字。[R4字数对照](editorial/volume04/2026-11-13-r4-full18-hanzi-comparison.tsv) · [R4全卷审稿](editorial/volume04/2026-11-13-r4-full18-structural-revision-audit.md) · [跨对话记忆](state/2026-11-13-volume04-r4-handoff.md)。
+> **第四部R5第三轮独立深度审稿/精修（2026-11-13）**：在[Draft PR#62](https://github.com/LYL-Z/the-memory-reading-notes/pull/62)正式提交对9章的定点重构，第四部18章**68,036→70,417官方汉字（净增2,381）**，主动删重复有计账。仍是**候审稿、未文学冻结、未合并main**；前三部main58章435,800字不变，含未合并IV的条件性76章总量506,217字。[R5字数账](editorial/volume04/2026-11-13-r5-full18-hanzi-comparison.tsv) · [R5深审](editorial/volume04/2026-11-13-r5-third-deep-editorial-review.md) · [读者知情图](editorial/volume04/2026-11-13-r5-reader-revelation-map.md) · [项目记忆](state/2026-11-13-volume04-r5-handoff.md)。
 
 ---
 
