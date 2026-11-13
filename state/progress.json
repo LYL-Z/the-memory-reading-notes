@@ -67,7 +67,7 @@
   "structural_pilots": "work/round46-structure-pilots/",
   "round47_ledger": "editorial/volume01-round47-sol-editing-ledger.md",
   "round48_ledger": "editorial/volume01-round48-kimi-editing-ledger.md",
-  "next_stage": "VOLUME02_CH01_CH05_EDITORIAL_REVISION_AUTHOR_REVIEW_PENDING_NO_R51",
+  "next_stage": "VOLUME_01_02_FINAL_PHASE_CLOSED_EXCEPTION_ONLY_REVISION",
   "prior_full_continuous_read_complete": true,
   "current_round_new_full_continuous_read": true,
   "round47_report": "editorial/volume01-round47-sol-literary-revision-and-acceptance.md",
@@ -158,7 +158,11 @@
   "claude_three_conversations_archived": "editorial/claude-three-conversations-verbatim-2026-11-03.md",
   "volume01_editorial_frozen_no_r51": true,
   "volume01_publication_ready": false,
-  "volume01_publication_limitations": ["human_cold_readers_0", "independent_privacy_and_real_persons_rights_review_pending", "some_scene_details_are_literary_reconstructions"],
+  "volume01_publication_limitations": [
+    "human_cold_readers_0",
+    "independent_privacy_and_real_persons_rights_review_pending",
+    "some_scene_details_are_literary_reconstructions"
+  ],
   "main_merge_status": "MERGED_TO_MAIN",
   "main_merge_pr": 19,
   "main_merge_commit": "6d05774115981c0457f9dba9a92e7afbeca93ecc",
@@ -174,7 +178,13 @@
       "manuscript/volume-02/004.md",
       "manuscript/volume-02/005.md"
     ],
-    "chapter_hanzi": [6221, 5820, 8836, 6180, 6520],
+    "chapter_hanzi": [
+      6221,
+      5820,
+      8836,
+      6180,
+      6520
+    ],
     "five_chapter_hanzi_before": 30296,
     "five_chapter_hanzi_after": 33577,
     "five_chapter_hanzi_net": 3281,
@@ -206,10 +216,29 @@
   },
   "volume02_20261108_focalization_repetition_revision": {
     "status": "DRAFT_EDITORIAL_REPAIR_AUTHOR_REVIEW_PENDING",
-    "scope": ["manuscript/volume-02/002.md", "manuscript/volume-02/003.md", "manuscript/volume-02/005.md"],
-    "chapters_unchanged": ["manuscript/volume-02/001.md", "manuscript/volume-02/004.md"],
-    "chapter_hanzi_before": [6221, 5820, 8836, 6180, 6520],
-    "chapter_hanzi_after": [6221, 6072, 8734, 6180, 6221],
+    "scope": [
+      "manuscript/volume-02/002.md",
+      "manuscript/volume-02/003.md",
+      "manuscript/volume-02/005.md"
+    ],
+    "chapters_unchanged": [
+      "manuscript/volume-02/001.md",
+      "manuscript/volume-02/004.md"
+    ],
+    "chapter_hanzi_before": [
+      6221,
+      5820,
+      8836,
+      6180,
+      6520
+    ],
+    "chapter_hanzi_after": [
+      6221,
+      6072,
+      8734,
+      6180,
+      6221
+    ],
     "total_hanzi_before": 33577,
     "total_hanzi_after": 33428,
     "net_hanzi": -149,
@@ -229,9 +258,21 @@
   },
   "volume02_20261108_ch01_ch05_final_phase_acceptance": {
     "status": "EDITORIAL_PHASE_CLOSED_AUTHOR_MAIN_MERGE_AUTHORIZED",
-    "current_reading_order": ["一个人的客厅", "二班", "后门", "三餐", "借来的床"],
+    "current_reading_order": [
+      "一个人的客厅",
+      "二班",
+      "后门",
+      "三餐",
+      "借来的床"
+    ],
     "chapter_count": 5,
-    "chapter_hanzi": [6221, 6072, 8262, 6180, 6221],
+    "chapter_hanzi": [
+      6221,
+      6072,
+      8262,
+      6180,
+      6221
+    ],
     "five_chapter_hanzi_total": 32956,
     "previous_total": 33428,
     "final_pass_net_hanzi": -472,
@@ -253,5 +294,31 @@
     "source_vault_unchanged": true,
     "audit": "editorial/volume02/reviews/2026-11-08-ch01-ch05-final-continuous-read-main-merge-acceptance.md",
     "next": "VERIFY_PR22_MERGE_STATUS_THEN_START_SEPARATE_VOLUME02_CH06_SOURCE_GATE"
+  },
+  "volume02_20261112_gpt6_final_integration": {
+    "date": "2026-11-12",
+    "stage": "AUTHOR_SIDE_FINAL_LITERARY_INTEGRATION",
+    "branch": "editorial/gpt6-final-volumes-01-02-integration-20261112",
+    "pr_number": 54,
+    "pr_url": "https://github.com/LYL-Z/the-memory-reading-notes/pull/54",
+    "github_main_merge_sha": "CHECK_PR_REALTIME",
+    "volume01_r50_frozen": true,
+    "volume01_chapters": 18,
+    "volume01_hanzi": 136693,
+    "volume02_chapters": 24,
+    "volume02_hanzi": 163628,
+    "volume02_baseline_hanzi": 135374,
+    "net_hanzi": 28254,
+    "growth_percentage": 20.87,
+    "combined_chapters": 42,
+    "combined_hanzi": 300321,
+    "primary_prose_source": "DeepSeek V4.1-Flash phase2 24-chapter candidate",
+    "cross_review": "GLM 5.3 phase2",
+    "integrator": "GPT-6",
+    "rewrite_policy": "LITERARY_RECONSTRUCTION_ALLOWED_WITHOUT_MAJOR_FACT_CONTRADICTIONS",
+    "source_vault_modified": false,
+    "human_blind_readers": 0,
+    "audit": "editorial/2026-11-12-gpt6-final-42chapter-merge-audit.md",
+    "chapter_ledger": "editorial/2026-11-12-gpt6-24ch-integration-ledger.csv"
   }
 }
