@@ -1,3 +1,7 @@
+> **第四部创作候审（2026-11-13）**：第四部《叫我名字的人》连续初稿001—006已进入 `creative/volume04-opening-continuous-20261113`，共**21154官方汉字**；主线仍保留前三部58章435,800汉字，没有合并未终审的新稿。见[第四部卷纲](outline/volume-04.md)、[R1独立文学审稿](editorial/volume04/2026-11-13-r1-sixchapter-literary-audit.md)、[项目记忆](state/2026-11-13-volume04-opening-handoff.md)。本卷18章为PR#56候选，不等于剩余12章已完成。
+
+---
+
 > **2026-11-13 第三部R3已合并main（PR#60）**：《家里的另一种时间》16章、**135479官方汉字**，相对R2净增1575；与已冻结第一部R50（18章136693）和第二部B2（24章163628）连读为**58章、435800官方汉字**。创作遵守最新“允许文学化重构，但不违背重要事实与人物特征”作者裁决；本阶段R3常规文学精修已收口。详情：[R3文学终审与主线验收](editorial/volume03/2026-11-13-r3-final-review-and-merge-acceptance.md) · [逐章字数账](editorial/volume03/gpt6-round3-final-counts-20261113.tsv) · [作者新裁决](editorial/author-decisions/2026-11-13-reconstruction-and-literary-authority.md)。历史Draft PR#57—59不得在整合后重复合并；已通过[PR #60](https://github.com/LYL-Z/the-memory-reading-notes/pull/60)于2026-11-13合并`main`，squash SHA `a66263785d271b1e832c4e2b4f31cd6df9910020`。**真人独立冷读仍为0，公开/出版第三人权益风险需单独核验。**
 
 ---

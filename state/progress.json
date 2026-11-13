@@ -347,5 +347,26 @@
     "volume_01_02_03_hanzi": 435800
   },
   "newest_author_ruling": "editorial/author-decisions/2026-11-13-reconstruction-and-literary-authority.md",
-  "cross_conversation_memory": "state/2026-11-13-volume03-r3-project-memory.md"
+  "cross_conversation_memory": "state/2026-11-13-volume03-r3-project-memory.md",
+  "volume04_opening_r1": {
+    "date": "2026-11-13",
+    "branch": "creative/volume04-opening-continuous-20261113",
+    "source_main_sha": "2338cb0ab0a05fc28abd04338da3a78423d960e2",
+    "chapters_written": 6,
+    "chapters_working_plan": 18,
+    "hanzi": 21154,
+    "chapter_counts": {
+      "001": 4074,
+      "002": 3380,
+      "003": 3531,
+      "004": 3550,
+      "005": 3475,
+      "006": 3144
+    },
+    "state": "DRAFT_R1_FIRST_SIX_WRITTEN_NOT_MERGED",
+    "independent_human_readers": 0,
+    "source_repository_mutated": false,
+    "report": "editorial/volume04/2026-11-13-r1-sixchapter-literary-audit.md"
+  },
+  "volume04_current_handoff": "state/2026-11-13-volume04-opening-handoff.md"
 }
