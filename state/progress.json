@@ -375,7 +375,7 @@
     "report": "editorial/volume04/2026-11-13-r1-sixchapter-literary-audit.md",
     "draft_pr": 62
   },
-  "volume04_current_handoff": "state/2026-11-13-volume04-r5-handoff.md",
+  "volume04_current_handoff": "state/2026-11-13-volume04-r6-handoff.md",
   "volume04_r2_batch": {
     "date": "2026-11-13",
     "chapters_written": [
@@ -513,5 +513,78 @@
     "report": "editorial/volume04/2026-11-13-r5-third-deep-editorial-review.md",
     "revelation_map": "editorial/volume04/2026-11-13-r5-reader-revelation-map.md",
     "handoff": "state/2026-11-13-volume04-r5-handoff.md"
+  },
+  "volume04_r6_revision": {
+    "date": "2026-11-13",
+    "branch": "creative/volume04-opening-continuous-20261113",
+    "pr": 62,
+    "status": "DRAFT_R6_STRUCTURAL_DEDUP_COMPLETED_NOT_FROZEN_NOT_MERGED",
+    "chapters": 18,
+    "previous_r5_hanzi": 70417,
+    "r6_hanzi": 71002,
+    "net_gain": 585,
+    "chapters_changed": [
+      "005",
+      "006",
+      "012",
+      "013",
+      "015"
+    ],
+    "unchanged_chapters": [
+      "001",
+      "002",
+      "003",
+      "004",
+      "007",
+      "008",
+      "009",
+      "010",
+      "011",
+      "014",
+      "016",
+      "017",
+      "018"
+    ],
+    "chapter_counts": {
+      "001": 4785,
+      "002": 4053,
+      "003": 4147,
+      "004": 4637,
+      "005": 3219,
+      "006": 2919,
+      "007": 4323,
+      "008": 4474,
+      "009": 3968,
+      "010": 2107,
+      "011": 2817,
+      "012": 3581,
+      "013": 4711,
+      "014": 3671,
+      "015": 4949,
+      "016": 3616,
+      "017": 3322,
+      "018": 5703
+    },
+    "highlights": [
+      "move redundant school visit from ch005 into ch015",
+      "repair ch006 time-continuous meal",
+      "condense ch012 2 similar essays; verified Li Wenjing 2021-01-25 poetry question",
+      "ch013 anonymous early-departure friction at birthday",
+      "ch015 mother's school visits and less laundry redundancy"
+    ],
+    "open_issues": [
+      "ch010/ch011 thin",
+      "R5 Zhu Q 2026 voice too prevalent",
+      "II-022/IV-007/008/013 overlap",
+      "real third party publication rights",
+      "human cold readers 0"
+    ],
+    "human_cold_readers": 0,
+    "prior_volumes_main_unchanged": true,
+    "source_memory_repo_unchanged": true,
+    "ledger": "editorial/volume04/2026-11-13-r6-full18-hanzi-comparison.tsv",
+    "audit": "editorial/volume04/2026-11-13-r6-structural-refinement-audit.md",
+    "hy4": "editorial/volume04/2026-11-13-r6-hy4-independent-review-brief.md",
+    "handoff": "state/2026-11-13-volume04-r6-handoff.md"
   }
 }

@@ -1,4 +1,4 @@
-> **第四部R5第三轮独立深度审稿/精修（2026-11-13）**：在[Draft PR#62](https://github.com/LYL-Z/the-memory-reading-notes/pull/62)正式提交对9章的定点重构，第四部18章**68,036→70,417官方汉字（净增2,381）**，主动删重复有计账。仍是**候审稿、未文学冻结、未合并main**；前三部main58章435,800字不变，含未合并IV的条件性76章总量506,217字。[R5字数账](editorial/volume04/2026-11-13-r5-full18-hanzi-comparison.tsv) · [R5深审](editorial/volume04/2026-11-13-r5-third-deep-editorial-review.md) · [读者知情图](editorial/volume04/2026-11-13-r5-reader-revelation-map.md) · [项目记忆](state/2026-11-13-volume04-r5-handoff.md)。
+> **第四部R6全卷节制与章节去重（2026-11-13）**：承接第三轮R5，在[Draft PR#62](https://github.com/LYL-Z/the-memory-reading-notes/pull/62)实改005、006、012、013、015五章，正文全卷**70,417→71,002官方汉字（净增585）**。005与015分离寝室／家长周日探望，006修正送餐盘顺序，012精修李文静2021评语及课堂场景，013补匿名朋友离席矛盾；**未文学冻结、未合并main**。前三部main58章435,800不变，含候审IV共76章506,802（非main正式总量）。[R6详细审稿](editorial/volume04/2026-11-13-r6-structural-refinement-audit.md) · [R6字数账](editorial/volume04/2026-11-13-r6-full18-hanzi-comparison.tsv) · [HY4独立审稿任务](editorial/volume04/2026-11-13-r6-hy4-independent-review-brief.md) · [GitHub项目记忆](state/2026-11-13-volume04-r6-handoff.md)。
 
 ---
 
