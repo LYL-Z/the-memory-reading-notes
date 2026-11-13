@@ -5,7 +5,7 @@
 - 第一部 R50：18章136,693官方汉字，完全保留。
 - 第二部 B2：24章163,628官方汉字，较PR#53原稿135,374净增28,254（+20.87%），已吸收DeepSeek的完整扩写主体并进行GPT-6定点文学与连续性修复。
 - 两部42章合计300,321官方汉字，正式正文只以 manuscript/volume-01 和 manuscript/volume-02 为准。
-- 两模型所有候选及审稿继续保留独立分支；不要将它们再次叠加扩写。整合入口：PR #54（https://github.com/LYL-Z/the-memory-reading-notes/pull/54），实际是否已合并main必须查询GitHub。
+- 两模型所有候选及审稿继续保留独立分支；不要将它们再次叠加扩写。整合入口：PR #54（https://github.com/LYL-Z/the-memory-reading-notes/pull/54），已于2026-11-12合并main，squash SHA 70fc987d0831c34d62993b813e7854b37a427b06。
 - 终轮审稿和文学化证据账：editorial/2026-11-12-gpt6-final-42chapter-merge-audit.md。字数账：editorial/2026-11-12-gpt6-24ch-integration-ledger.csv。
 - 允许文学复合，但不能把后造动作作为当年的原始史料回写至Obsidian；真实人物公开许可、旧Git提交对象与外部缓存风险不因作者决定公开而自动结案。
 - 真人读者验证0，不能自称世界级文学认证。未来只因新证据、严重逻辑错误、人物权益或作者明确例外更正而改稿；不再无限通用精修。

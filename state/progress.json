@@ -163,7 +163,7 @@
     "independent_privacy_and_real_persons_rights_review_pending",
     "some_scene_details_are_literary_reconstructions"
   ],
-  "main_merge_status": "MERGED_TO_MAIN",
+  "main_merge_status": "FINAL_TWO_VOLUME_INTEGRATION_PR54_MERGED",
   "main_merge_pr": 19,
   "main_merge_commit": "6d05774115981c0457f9dba9a92e7afbeca93ecc",
   "main_merge_date": "2026-11-04",
@@ -301,7 +301,7 @@
     "branch": "editorial/gpt6-final-volumes-01-02-integration-20261112",
     "pr_number": 54,
     "pr_url": "https://github.com/LYL-Z/the-memory-reading-notes/pull/54",
-    "github_main_merge_sha": "CHECK_PR_REALTIME",
+    "github_main_merge_sha": "70fc987d0831c34d62993b813e7854b37a427b06",
     "volume01_r50_frozen": true,
     "volume01_chapters": 18,
     "volume01_hanzi": 136693,
@@ -319,6 +319,8 @@
     "source_vault_modified": false,
     "human_blind_readers": 0,
     "audit": "editorial/2026-11-12-gpt6-final-42chapter-merge-audit.md",
-    "chapter_ledger": "editorial/2026-11-12-gpt6-24ch-integration-ledger.csv"
+    "chapter_ledger": "editorial/2026-11-12-gpt6-24ch-integration-ledger.csv",
+    "main_merge_status": "MERGED_VERIFIED",
+    "main_merge_date": "2026-11-12"
   }
 }
