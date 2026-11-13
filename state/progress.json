@@ -352,21 +352,43 @@
     "date": "2026-11-13",
     "branch": "creative/volume04-opening-continuous-20261113",
     "source_main_sha": "2338cb0ab0a05fc28abd04338da3a78423d960e2",
-    "chapters_written": 6,
+    "chapters_written": 12,
     "chapters_working_plan": 18,
-    "hanzi": 21154,
+    "hanzi": 38164,
     "chapter_counts": {
       "001": 4074,
       "002": 3380,
       "003": 3531,
       "004": 3550,
       "005": 3475,
-      "006": 3144
+      "006": 3144,
+      "007": 3425,
+      "008": 2905,
+      "009": 2583,
+      "010": 2358,
+      "011": 2739,
+      "012": 3000
     },
-    "state": "DRAFT_R1_FIRST_SIX_WRITTEN_NOT_MERGED",
+    "state": "DRAFT_R2_CH001_012_WRITTEN_NOT_MERGED",
     "independent_human_readers": 0,
     "source_repository_mutated": false,
-    "report": "editorial/volume04/2026-11-13-r1-sixchapter-literary-audit.md"
+    "report": "editorial/volume04/2026-11-13-r1-sixchapter-literary-audit.md",
+    "draft_pr": 62
   },
-  "volume04_current_handoff": "state/2026-11-13-volume04-opening-handoff.md"
+  "volume04_current_handoff": "state/2026-11-13-volume04-continuation-handoff.md",
+  "volume04_r2_batch": {
+    "date": "2026-11-13",
+    "chapters_written": [
+      "007",
+      "008",
+      "009",
+      "010",
+      "011",
+      "012"
+    ],
+    "new_hanzi": 17010,
+    "total_hanzi": 38164,
+    "human_blind_readers": 0,
+    "main_untouched": true
+  }
 }

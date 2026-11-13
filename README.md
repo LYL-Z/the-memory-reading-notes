@@ -1,4 +1,4 @@
-> **第四部创作候审（2026-11-13）**：第四部《叫我名字的人》连续初稿001—006已进入 `creative/volume04-opening-continuous-20261113`，共**21154官方汉字**；主线仍保留前三部58章435,800汉字，没有合并未终审的新稿。见[第四部卷纲](outline/volume-04.md)、[R1独立文学审稿](editorial/volume04/2026-11-13-r1-sixchapter-literary-audit.md)、[项目记忆](state/2026-11-13-volume04-opening-handoff.md)。本卷18章为PR#56候选，不等于剩余12章已完成。
+> **第四部R2候审续写（2026-11-13）**：第四部《叫我名字的人》001—012共**38,164官方汉字**，本轮007—012新增17,010字；在[Draft PR#62](https://github.com/LYL-Z/the-memory-reading-notes/pull/62)保留，013—018尚未创作。前三部main58章435800字不变。[逐章字数](editorial/volume04/2026-11-13-r2-full12-hanzi-counts.tsv) · [R2审稿](editorial/volume04/2026-11-13-r2-ch007-012-literary-review.md) · [最新交接](state/2026-11-13-volume04-continuation-handoff.md)。
 
 ---
 
