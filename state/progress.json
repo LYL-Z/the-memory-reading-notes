@@ -322,5 +322,21 @@
     "chapter_ledger": "editorial/2026-11-12-gpt6-24ch-integration-ledger.csv",
     "main_merge_status": "MERGED_VERIFIED",
     "main_merge_date": "2026-11-12"
-  }
+  },
+  "volume03_final_r3": {
+    "date": "2026-11-13",
+    "branch": "editorial/volume03-final-r3-20261113",
+    "base_r2_sha": "ecef2a87e27e5c82bfda2825ceb6d5c499a46b75",
+    "chapter_count": 16,
+    "r2_hanzi": 133904,
+    "r3_hanzi": 135479,
+    "delta_hanzi": 1575,
+    "all_16_non_decreasing": true,
+    "stage": "R3_LITERARY_FINAL_CANDIDATE_READY_FOR_MAIN_PR",
+    "human_blind_readers": 0,
+    "source_repository_modified": false,
+    "documentation": "editorial/volume03/2026-11-13-r3-final-review-and-merge-acceptance.md"
+  },
+  "newest_author_ruling": "editorial/author-decisions/2026-11-13-reconstruction-and-literary-authority.md",
+  "cross_conversation_memory": "state/2026-11-13-volume03-r3-project-memory.md"
 }

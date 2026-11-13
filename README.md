@@ -1,3 +1,6 @@
+> **2026-11-13 第三部R3最终整合候选（独立分支候审/后续主线版）**：《家里的另一种时间》16章、**135479官方汉字**，相对R2净增1575；与已冻结第一部R50（18章136693）和第二部B2（24章163628）连读为**58章、435800官方汉字**。创作遵守最新“允许文学化重构，但不违背重要事实与人物特征”作者裁决；本阶段R3常规文学精修已收口。详情：[R3文学终审与主线验收](editorial/volume03/2026-11-13-r3-final-review-and-merge-acceptance.md) · [逐章字数账](editorial/volume03/gpt6-round3-final-counts-20261113.tsv) · [作者新裁决](editorial/author-decisions/2026-11-13-reconstruction-and-literary-authority.md)。历史Draft PR#57—59不得在整合后重复合并；是否进入main以GitHub实时PR状态为准。**真人独立冷读仍为0，公开/出版第三人权益风险需单独核验。**
+
+---
 > **2026-11-12 最新正文入口（GPT-6终轮整合 / PR #54）**：第一部《现在有人回头》18章R50、136,693官方汉字，正文逐字不改；第二部《名单上的人》24章、163,628官方汉字（DeepSeek扩写主体、GLM独立审查、GPT-6定点修复）；合计**42章，300,321官方汉字**。已做本阶段作者侧常规文学精修收口，仍有真人冷读0和第三人公开边界。完整结果参阅[终轮编校与来源账](editorial/2026-11-12-gpt6-final-42chapter-merge-audit.md)、[逐章字数账](editorial/2026-11-12-gpt6-24ch-integration-ledger.csv)、[主线整合PR #54](https://github.com/LYL-Z/the-memory-reading-notes/pull/54)。2026-11-08及更早入口均为历史记录，PR #54已于2026-11-12合并main，squash SHA 70fc987d0831c34d62993b813e7854b37a427b06。
 
 ---
