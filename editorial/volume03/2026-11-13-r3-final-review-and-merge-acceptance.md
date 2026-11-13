@@ -56,3 +56,11 @@
 - 主线整合时只保留第一部、第二部和本第三部各一套正文，避免PR#57/#58/#59依序重复合并。
 - 作者明确要求每次对话及时同步GitHub。详见 `editorial/author-decisions/2026-11-13-reconstruction-and-literary-authority.md` 与 `state/2026-11-13-volume03-r3-project-memory.md`。
 - 下一部的金海初中生活应先查原库1907人物和同时期事件，避免将III的毕业与去长沙行程重新写一遍。
+
+## 六、GitHub主线合并最终回执（2026-11-13）
+
+- [主线整合PR #60](https://github.com/LYL-Z/the-memory-reading-notes/pull/60)已于2026-11-13合并，GitHub回应`merged=true`，squash SHA：`a66263785d271b1e832c4e2b4f31cd6df9910020`。
+- 重新读取 `main` ref 得到相同SHA，并取回`manuscript/volume-03/016.md`和`editorial/volume03/gpt6-round3-final-counts-20261113.tsv`，确认在主线上可访问。
+- R3审核后第三部16章135,479字；第一、二部未经新修改。三部58章435,800字。
+- 上游草稿PR#57/#58/#59已留评论说明由#60整合并关闭，历史提交保持可追溯。
+- `the-memory`源库没有写入行为，第三人权益、公开出版和真人冷读仍为独立未完成事项。
