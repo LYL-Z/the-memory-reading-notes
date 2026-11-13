@@ -375,7 +375,7 @@
     "report": "editorial/volume04/2026-11-13-r1-sixchapter-literary-audit.md",
     "draft_pr": 62
   },
-  "volume04_current_handoff": "state/2026-11-13-volume04-continuation-handoff.md",
+  "volume04_current_handoff": "state/2026-11-13-volume04-full18-handoff.md",
   "volume04_r2_batch": {
     "date": "2026-11-13",
     "chapters_written": [
@@ -390,5 +390,23 @@
     "total_hanzi": 38164,
     "human_blind_readers": 0,
     "main_untouched": true
+  },
+  "volume04_full_draft": {
+    "date": "2026-11-13",
+    "branch": "creative/volume04-opening-continuous-20261113",
+    "pr": 62,
+    "chapters_written": 18,
+    "hanzi": 56599,
+    "new_chapters_013_018_hanzi": 18435,
+    "status": "DRAFT_COMPLETE_18_CHAPTERS_NOT_FINAL_NOT_MERGED",
+    "real_human_readers": 0,
+    "estimated_planned_hanzi": 140000,
+    "gap_to_plan": 83401,
+    "source_repository_modified": false,
+    "main_three_volumes_hanzi": 435800,
+    "conditional_four_volumes_total_hanzi": 492399,
+    "hanzi_ledger": "editorial/volume04/2026-11-13-r3-full18-hanzi-counts.tsv",
+    "review": "editorial/volume04/2026-11-13-r3-full18-literary-continuity-audit.md",
+    "handoff": "state/2026-11-13-volume04-full18-handoff.md"
   }
 }
