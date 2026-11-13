@@ -1,3 +1,5 @@
+> **HISTORICAL / SUPERSEDED — 2026-11-12.** 作者随后否决了“高中继续占III/IV、AI式问卷正文、过度压缩”的方向。本文件仅作为旧R1/R2审稿史料保存；**第三部现行新开篇是 `manuscript/volume-03/001.md`《第一厨神》；七部新工作方案是 `editorial/longform-architecture/2026-11-12-seven-part-prehigh-rebalance-proposal.md`；不得以旧文件内容覆盖现行稿。**
+
 > **R2修订（较新的现行版本）**：已进行文学冷读、分组时间线复核和结构改写。当前正文以 `manuscript/volume-03/001.md` 的本分支最新提交为准；详细审查见 `editorial/volume03/2026-11-12-ch01-r2-literary-coldread-and-seven-part-rebalance.md`。下方所有“6572汉字”、“第一阶段自检”和旧的第一次分组描述仅为R1历史记录，**不得覆盖R2**。第三部卷名、全书容量仍待作者裁决。
 
 # 第三部《换座之后》第一章｜创作记录（作者侧候审）

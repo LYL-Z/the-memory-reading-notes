@@ -1,3 +1,5 @@
+> **HISTORICAL / SUPERSEDED — 2026-11-12.** 作者随后否决了“高中继续占III/IV、AI式问卷正文、过度压缩”的方向。本文件仅作为旧R1/R2审稿史料保存；**第三部现行新开篇是 `manuscript/volume-03/001.md`《第一厨神》；七部新工作方案是 `editorial/longform-architecture/2026-11-12-seven-part-prehigh-rebalance-proposal.md`；不得以旧文件内容覆盖现行稿。**
+
 # 第三部第一章《有人看过来》R2｜文学冷读、场景可信度与全书重平衡（2026-11-12）
 
 > 状态：DRAFT_R2_AUTHOR_REVIEW_PENDING。第一、二部42章完全不变。R2不是陌生真人冷读，也不是全书结构最终拍板。

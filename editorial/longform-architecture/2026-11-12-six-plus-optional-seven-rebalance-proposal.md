@@ -1,3 +1,5 @@
+> **HISTORICAL / SUPERSEDED — 2026-11-12.** 作者随后否决了“高中继续占III/IV、AI式问卷正文、过度压缩”的方向。本文件仅作为旧R1/R2审稿史料保存；**第三部现行新开篇是 `manuscript/volume-03/001.md`《第一厨神》；七部新工作方案是 `editorial/longform-architecture/2026-11-12-seven-part-prehigh-rebalance-proposal.md`；不得以旧文件内容覆盖现行稿。**
+
 # 《时间的复数人称》六部现实＋可选第七部｜篇幅与时代分配再平衡提案
 
 > 编制于2026-11-12。**EDITORIAL_PROPOSAL / NOT_CANON / PENDING_AUTHOR_DECISION**。不是对2026-11-08七部审美总谱的覆盖，也不是作者确认的最终章表。用于避免“第一、二、三、四部都在同一间高中教室”的全书结构性偏斜。
