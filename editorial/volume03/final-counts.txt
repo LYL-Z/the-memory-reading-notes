@@ -1,4 +1,4 @@
-﻿8442	D:\The Memory\AI-Literary-Overhaul-Phase3\DeepSeek-V4.1-Flash\repo\manuscript\volume-03\001.md
+8442	D:\The Memory\AI-Literary-Overhaul-Phase3\DeepSeek-V4.1-Flash\repo\manuscript\volume-03\001.md
 7539	D:\The Memory\AI-Literary-Overhaul-Phase3\DeepSeek-V4.1-Flash\repo\manuscript\volume-03\002.md
 9084	D:\The Memory\AI-Literary-Overhaul-Phase3\DeepSeek-V4.1-Flash\repo\manuscript\volume-03\003.md
 8285	D:\The Memory\AI-Literary-Overhaul-Phase3\DeepSeek-V4.1-Flash\repo\manuscript\volume-03\004.md
@@ -11,7 +11,7 @@
 7005	D:\The Memory\AI-Literary-Overhaul-Phase3\DeepSeek-V4.1-Flash\repo\manuscript\volume-03\011.md
 7056	D:\The Memory\AI-Literary-Overhaul-Phase3\DeepSeek-V4.1-Flash\repo\manuscript\volume-03\012.md
 7161	D:\The Memory\AI-Literary-Overhaul-Phase3\DeepSeek-V4.1-Flash\repo\manuscript\volume-03\013.md
-7509	D:\The Memory\AI-Literary-Overhaul-Phase3\DeepSeek-V4.1-Flash\repo\manuscript\volume-03\014.md
+7462	D:\The Memory\AI-Literary-Overhaul-Phase3\DeepSeek-V4.1-Flash\repo\manuscript\volume-03\014.md
 8958	D:\The Memory\AI-Literary-Overhaul-Phase3\DeepSeek-V4.1-Flash\repo\manuscript\volume-03\015.md
 8266	D:\The Memory\AI-Literary-Overhaul-Phase3\DeepSeek-V4.1-Flash\repo\manuscript\volume-03\016.md
-126582	TOTAL
+126535	TOTAL
