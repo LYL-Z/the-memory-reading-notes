@@ -1,0 +1,79 @@
+{
+  "phase": "volume03-drafting",
+  "branch": "creative/volume03-deepseek-v41flash-continuous-20261112",
+  "baseline": {
+    "main": "367624fb616e798013460e2b41bb30af04a4f22b",
+    "pr56": "c9b1e3494251676732f09c430bd9d217836fd9fd",
+    "fact": "ef33c98d63b88283e840f5414db154eb9118c4e4"
+  },
+  "volume": "III 家里的另一种时间",
+  "chapters": {
+    "001": {
+      "status": "pending",
+      "official_han": 0
+    },
+    "002": {
+      "status": "pending",
+      "official_han": 0
+    },
+    "003": {
+      "status": "pending",
+      "official_han": 0
+    },
+    "004": {
+      "status": "pending",
+      "official_han": 0
+    },
+    "005": {
+      "status": "pending",
+      "official_han": 0
+    },
+    "006": {
+      "status": "pending",
+      "official_han": 0
+    },
+    "007": {
+      "status": "pending",
+      "official_han": 0
+    },
+    "008": {
+      "status": "pending",
+      "official_han": 0
+    },
+    "009": {
+      "status": "pending",
+      "official_han": 0
+    },
+    "010": {
+      "status": "pending",
+      "official_han": 0
+    },
+    "011": {
+      "status": "pending",
+      "official_han": 0
+    },
+    "012": {
+      "status": "pending",
+      "official_han": 0
+    },
+    "013": {
+      "status": "pending",
+      "official_han": 0
+    },
+    "014": {
+      "status": "pending",
+      "official_han": 0
+    },
+    "015": {
+      "status": "pending",
+      "official_han": 0
+    },
+    "016": {
+      "status": "pending",
+      "official_han": 0
+    }
+  },
+  "target_total_han": "120000-160000",
+  "next": "batch drafting 001-016; then R1/R2 full-read and revision; then fact/continuity; then Draft PR",
+  "updated": "2026-11-12T21:30:00-08:00"
+}
