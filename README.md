@@ -1,4 +1,4 @@
-> **第四部《叫我名字的人》001—018完整初稿已在Draft PR#62（2026-11-13）**：全卷18章**56,599官方汉字**，本轮新增013—018六章18,435字；完整首稿**不等于文学定稿**，尚需跨章去重/结构性扩写、真人冷读与第三人审查。前三部main 58章435,800字未改；若把候审第四部纳入，全书76章492,399字，但此数**并非main正式体量**。[完整计数](editorial/volume04/2026-11-13-r3-full18-hanzi-counts.tsv) · [全卷审稿](editorial/volume04/2026-11-13-r3-full18-literary-continuity-audit.md) · [项目记忆](state/2026-11-13-volume04-full18-handoff.md)。
+> **第四部R4全卷结构精修（2026-11-13）**：在[Draft PR#62](https://github.com/LYL-Z/the-memory-reading-notes/pull/62)已修改001—018全部18章，官方汉字**56,599→68,036（净增11,437）**。这属于结构性修订候审稿，**未文学冻结、未合并main**；前三部main58章435,800字不变，全书含未合并IV暂计76章503,836字。[R4字数对照](editorial/volume04/2026-11-13-r4-full18-hanzi-comparison.tsv) · [R4全卷审稿](editorial/volume04/2026-11-13-r4-full18-structural-revision-audit.md) · [跨对话记忆](state/2026-11-13-volume04-r4-handoff.md)。
 
 ---
 

@@ -375,7 +375,7 @@
     "report": "editorial/volume04/2026-11-13-r1-sixchapter-literary-audit.md",
     "draft_pr": 62
   },
-  "volume04_current_handoff": "state/2026-11-13-volume04-full18-handoff.md",
+  "volume04_current_handoff": "state/2026-11-13-volume04-r4-handoff.md",
   "volume04_r2_batch": {
     "date": "2026-11-13",
     "chapters_written": [
@@ -408,5 +408,43 @@
     "hanzi_ledger": "editorial/volume04/2026-11-13-r3-full18-hanzi-counts.tsv",
     "review": "editorial/volume04/2026-11-13-r3-full18-literary-continuity-audit.md",
     "handoff": "state/2026-11-13-volume04-full18-handoff.md"
+  },
+  "volume04_r4_revision": {
+    "date": "2026-11-13",
+    "branch": "creative/volume04-opening-continuous-20261113",
+    "pr": 62,
+    "status": "DRAFT_R4_FULL18_SUBSTANTIVELY_REVISED_NOT_MERGED_NOT_FROZEN",
+    "chapter_count": 18,
+    "r3_hanzi": 56599,
+    "r4_hanzi": 68036,
+    "net_gain": 11437,
+    "chapters_changed": 18,
+    "chapter_counts": {
+      "001": 4785,
+      "002": 4053,
+      "003": 4147,
+      "004": 4081,
+      "005": 3937,
+      "006": 3132,
+      "007": 3863,
+      "008": 3623,
+      "009": 3564,
+      "010": 2074,
+      "011": 3764,
+      "012": 3708,
+      "013": 3972,
+      "014": 3477,
+      "015": 4045,
+      "016": 3616,
+      "017": 3175,
+      "018": 5020
+    },
+    "unresolved": "010 independent status, cross volume II-022 overlap, third party publication, human reading",
+    "human_readers": 0,
+    "main_unchanged": true,
+    "source_unchanged": true,
+    "ledger": "editorial/volume04/2026-11-13-r4-full18-hanzi-comparison.tsv",
+    "report": "editorial/volume04/2026-11-13-r4-full18-structural-revision-audit.md",
+    "handoff": "state/2026-11-13-volume04-r4-handoff.md"
   }
 }
