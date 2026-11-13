@@ -1,79 +1,82 @@
 {
-  "phase": "volume03-drafting",
+  "phase": "volume03-internal-review",
   "branch": "creative/volume03-deepseek-v41flash-continuous-20261112",
   "baseline": {
-    "main": "367624fb616e798013460e2b41bb30af04a4f22b",
-    "pr56": "c9b1e3494251676732f09c430bd9d217836fd9fd",
-    "fact": "ef33c98d63b88283e840f5414db154eb9118c4e4"
+    "main": "367624fb",
+    "pr56": "c9b1e349",
+    "fact": "ef33c98d"
   },
-  "volume": "III 家里的另一种时间",
   "chapters": {
     "001": {
-      "status": "pending",
-      "official_han": 0
+      "status": "drafted_revised",
+      "official_han": 8442
     },
     "002": {
-      "status": "pending",
-      "official_han": 0
+      "status": "drafted_revised",
+      "official_han": 7539
     },
     "003": {
-      "status": "pending",
-      "official_han": 0
+      "status": "drafted_revised",
+      "official_han": 9084
     },
     "004": {
-      "status": "pending",
-      "official_han": 0
+      "status": "drafted_revised",
+      "official_han": 8285
     },
     "005": {
-      "status": "pending",
-      "official_han": 0
+      "status": "drafted_revised",
+      "official_han": 7860
     },
     "006": {
-      "status": "pending",
-      "official_han": 0
+      "status": "drafted_revised",
+      "official_han": 7655
     },
     "007": {
-      "status": "pending",
-      "official_han": 0
+      "status": "drafted_revised",
+      "official_han": 8298
     },
     "008": {
-      "status": "pending",
-      "official_han": 0
+      "status": "drafted_revised",
+      "official_han": 8094
     },
     "009": {
-      "status": "pending",
-      "official_han": 0
+      "status": "drafted_revised",
+      "official_han": 7749
     },
     "010": {
-      "status": "pending",
-      "official_han": 0
+      "status": "drafted_revised",
+      "official_han": 8090
     },
     "011": {
-      "status": "pending",
-      "official_han": 0
+      "status": "drafted_revised",
+      "official_han": 6943
     },
     "012": {
-      "status": "pending",
-      "official_han": 0
+      "status": "drafted_revised",
+      "official_han": 7063
     },
     "013": {
-      "status": "pending",
-      "official_han": 0
+      "status": "drafted_revised",
+      "official_han": 7307
     },
     "014": {
-      "status": "pending",
-      "official_han": 0
+      "status": "drafted_revised",
+      "official_han": 7509
     },
     "015": {
-      "status": "pending",
-      "official_han": 0
+      "status": "drafted_revised",
+      "official_han": 8958
     },
     "016": {
-      "status": "pending",
-      "official_han": 0
+      "status": "drafted_revised",
+      "official_han": 8266
+    },
+    "TOTAL": {
+      "status": "drafted_revised",
+      "official_han": 127142
     }
   },
-  "target_total_han": "120000-160000",
-  "next": "batch drafting 001-016; then R1/R2 full-read and revision; then fact/continuity; then Draft PR",
-  "updated": "2026-11-12T21:30:00-08:00"
+  "total_han": 127142,
+  "next": "final consistency check, push branch, open Draft PR for GPT-6",
+  "updated": "2026-11-12T22:30:00-08:00"
 }
