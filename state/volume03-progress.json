@@ -1,0 +1,82 @@
+{
+  "phase": "volume03-internal-review",
+  "branch": "creative/volume03-deepseek-v41flash-continuous-20261112",
+  "baseline": {
+    "main": "367624fb",
+    "pr56": "c9b1e349",
+    "fact": "ef33c98d"
+  },
+  "chapters": {
+    "001": {
+      "status": "drafted_revised",
+      "official_han": 8442
+    },
+    "002": {
+      "status": "drafted_revised",
+      "official_han": 7539
+    },
+    "003": {
+      "status": "drafted_revised",
+      "official_han": 9084
+    },
+    "004": {
+      "status": "drafted_revised",
+      "official_han": 8285
+    },
+    "005": {
+      "status": "drafted_revised",
+      "official_han": 7860
+    },
+    "006": {
+      "status": "drafted_revised",
+      "official_han": 7655
+    },
+    "007": {
+      "status": "drafted_revised",
+      "official_han": 8298
+    },
+    "008": {
+      "status": "drafted_revised",
+      "official_han": 8094
+    },
+    "009": {
+      "status": "drafted_revised",
+      "official_han": 7749
+    },
+    "010": {
+      "status": "drafted_revised",
+      "official_han": 8090
+    },
+    "011": {
+      "status": "drafted_revised",
+      "official_han": 6943
+    },
+    "012": {
+      "status": "drafted_revised",
+      "official_han": 7063
+    },
+    "013": {
+      "status": "drafted_revised",
+      "official_han": 7307
+    },
+    "014": {
+      "status": "drafted_revised",
+      "official_han": 7509
+    },
+    "015": {
+      "status": "drafted_revised",
+      "official_han": 8958
+    },
+    "016": {
+      "status": "drafted_revised",
+      "official_han": 8266
+    },
+    "TOTAL": {
+      "status": "drafted_revised",
+      "official_han": 127142
+    }
+  },
+  "total_han": 127142,
+  "next": "final consistency check, push branch, open Draft PR for GPT-6",
+  "updated": "2026-11-12T22:30:00-08:00"
+}
