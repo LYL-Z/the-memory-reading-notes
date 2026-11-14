@@ -1,3 +1,7 @@
+> **第五部《换座之后》R3已连续创作至七章（2026-11-13）**：[Draft PR#63](https://github.com/LYL-Z/the-memory-reading-notes/pull/63) 真实提交001—007共**17,056官方汉字**；R1五章10,402→R2五章11,961(+1,559)→R3七章17,056(+5,095；新两章5,250、旧五章主动净删155)。新增006《食堂后门》2023高二开学G2202值日观察，007《四二六的晚上》明确回跳/前跳至高二下新室友入住426。公众化名与第三人隐私边界保留，不合并main；前四部main76章507,125字和the-memory/master事实仓未修改。[R3审稿](editorial/volume05/2026-11-13-r3-sevenchapter-literary-audit.md) · [R1/R2/R3逐章账](editorial/volume05/2026-11-13-r3-full7-chapter-comparison.tsv) · [HY4独立审稿任务](editorial/volume05/2026-11-13-r3-hy4-independent-review-brief.md) · [项目记忆](state/2026-11-13-volume05-r3-handoff.md)。**尚未全卷完稿，也未经陌生真人冷读**。
+
+---
+
 > **第四部R7已正式合并main（2026-11-13）**：[PR#62](https://github.com/LYL-Z/the-memory-reading-notes/pull/62) 已由GitHub返回`merged=true`，Merge Commit `1b3840e93a3bf590834e2a4e669df7ae1ae8c5fe`；main实际取回18章、核实**71,325 CJK汉字**，前3部58章435,800未改，**四部76章507,125汉字**。R3—R7完整审稿修订链保留在Git历史。[R7终审](editorial/volume04/2026-11-13-r7-final-review-main-merge-acceptance.md) · [R7字数账](editorial/volume04/2026-11-13-r7-final18-hanzi-comparison.tsv) · [已验证项目记忆](state/2026-11-13-volume04-r7-final-main-handoff.md)。这是作者要求的主支工作稿整合，**不等于真人独立冷读、第三人全部出版权益确认或文学水平认证**。
 
 ---

@@ -643,5 +643,59 @@
     "main_cumulative_hanzi": 507125,
     "main_prior_three_unchanged": true,
     "external_publication_permissions_status": "OPEN"
+  },
+  "volume05_started": true,
+  "volume05_status": "V05_R3_SEVEN_CHAPTERS_DRAFT_NOT_MERGED_NOT_FROZEN",
+  "volume05_current_handoff": "state/2026-11-13-volume05-r3-handoff.md",
+  "volume05_r3_revision": {
+    "date": "2026-11-13",
+    "branch": "creative/volume05-opening-r1-20261113",
+    "pr": 63,
+    "status": "DRAFT_R3_SEVEN_CHAPTERS_EDITORIAL_REVIEW_AND_TWO_NEW_CHAPTERS",
+    "latest_main_first_four_commit": "12ac7ee9342b93a9cbf091095562b205321237b7",
+    "source_vault_master": "ef33c98d63b88283e840f5414db154eb9118c4e4",
+    "r1_chapters": 5,
+    "r1_hanzi": 10402,
+    "r2_chapters": 5,
+    "r2_hanzi": 11961,
+    "r2_net": 1559,
+    "r3_chapters": 7,
+    "r3_hanzi": 17056,
+    "r3_new_chapters": [
+      "006",
+      "007"
+    ],
+    "r3_new_chapter_hanzi": 5250,
+    "r3_old_five_net": -155,
+    "r3_net_vs_r2": 5095,
+    "chapter_counts": {
+      "001": 2787,
+      "002": 1947,
+      "003": 2670,
+      "004": 2181,
+      "005": 2221,
+      "006": 2686,
+      "007": 2564
+    },
+    "chapters_in_main": 0,
+    "first_four_chapters_in_main": 76,
+    "first_four_hanzi_in_main": 507125,
+    "prior_main_unchanged": true,
+    "source_vault_unchanged": true,
+    "current_status": "DRAFT_NOT_LITERARILY_FROZEN",
+    "source_complete_read_claim": false,
+    "human_cold_readers": 0,
+    "boundaries": [
+      "six-person group conflicting witness versions",
+      "pseudo alias 阿澈 and no public identity mapping",
+      "426 new dorm resident requests prepublication review",
+      "ch006 G2202 duty only not author duty",
+      "ch007 grade2 spring not grade2 fall",
+      "fictional school conversations not source records"
+    ],
+    "ledger": "editorial/volume05/2026-11-13-r3-full7-chapter-comparison.tsv",
+    "audit": "editorial/volume05/2026-11-13-r3-sevenchapter-literary-audit.md",
+    "hy4": "editorial/volume05/2026-11-13-r3-hy4-independent-review-brief.md",
+    "handoff": "state/2026-11-13-volume05-r3-handoff.md"
   }
 }
