@@ -1,3 +1,11 @@
+# 全卷精修｜第一部十八章已判定｜2026-11-14
+
+- 分支 `creative/grok47-phase1-full-volumes`。第一部状态表：`editorial/phase1-full/volume-01-status.md`。十五章 RETAINED，004 与 007 TARGETED_REVISED。
+- 第二部已改 005、014。下一章：`manuscript/volume-02/001.md`。014 的见面不要再写一遍。
+- 第三部、第四部未开始。十二组对照现有四组。
+
+---
+
 # 全卷精修进行中｜2026-11-14｜未完成
 
 - 分支 `creative/grok47-phase1-full-volumes`，起点 main `12ac7ee`。只改了第一部 004（+434）和第二部 005（+194）。其余 74 章未改，也未标 RETAINED。
