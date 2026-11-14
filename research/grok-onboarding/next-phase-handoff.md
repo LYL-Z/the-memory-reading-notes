@@ -14,9 +14,7 @@
 
 知识库已全文读：四份根导航、`时间线索引.md`、八份用户订正、父亲、母亲、父系祖母（谭双秋）、鹅羊池地景页、赵问竹、董佳好、刘弈帆、朱学良、曾子沣、宋俊豪、王麒皓。写作体系全文读过：创作总纲、2026-08-28 长篇规格、法律与伦理边界、开头与结尾。部分读：写作体系索引、记叙顺序、不可靠叙述。其余约 37 份技法、风格和外部知识页未逐份读完。图片原件未打开；地景页里已有对照片的文字描述，那不等于 VISUAL_INSPECTED。月华街 PDF 仍是 LFS 指针。
 
-历史审稿对照在 `review-round-comparison.md`。已全文读：第四部 R1–R7；第三部 r0–r4、r1b、r3b、r4b、gpt6 两轮及复合账；第二部 `volume02/reviews/` 十份；第一部 round32–36、44 终审短页、45 通读、47 验收、48 与 49 的 ChatGPT 复盘、50 的四份收口页。未全文读：第一部 round37–43、各轮长修改账和 Kimi 冷读、2026-11-01 分章审计、round24。判断不因审稿改写。
-
-写作体系仍未全文读完：修辞手法大全、学科谱系、读物人物选编、优美语句汇编、作家作品参考谱系、名篇精读、当代长篇三份分册、李道新转写。
+历史审稿对照在 `review-round-comparison.md`。新读完：第一部 round37–42，round43 三份，round44 长修改账，round49 Kimi 冷读，round50 手术账，round24，第一章对抗审。写作体系最后十份已全文读完，G3 改为 PASS。仍未全文读：`round43-five-ai/` 五份分审，round45–48 的长账和 Kimi 施工书，round49 其余结构页，round50 任务书与阅读卡，2026-11-01 分章审计。判断不因审稿改写。七问答案不改；第七问的未读项改为这些审稿和图片原件。
 
 历史审稿只读了三份终轮的开头：`editorial/volume01-round50-kimi-final-review.md`、`editorial/volume03/2026-11-13-r3-final-review-and-merge-acceptance.md`、`editorial/volume04/2026-11-13-r7-final-review-main-merge-acceptance.md`。其余轮次、事实卡和五模型对读仍未读。读它们之前已经形成的判断写在 `volumes-01-to-04-reading.md` 的全书版里。
 
