@@ -1,3 +1,43 @@
+# 全卷精修｜四部候选已齐｜2026-11-14
+
+- 分支 `creative/grok47-phase1-full-volumes`。全书约 526,626。总表 `editorial/phase1-full/76-status.md`。
+- 十二组对照、连读、台账、待核定与公开风险都在 `editorial/phase1-full/`。
+- 未合并。不是 R51。下一刀若有，先核定麓山录取是一晚还是两晚。
+
+---
+
+# 全卷精修｜第二部已判定，第三部停在 002｜2026-11-14
+
+- HEAD 以本分支最新提交为准。第二部二十一章 TARGETED_REVISED，015、017、019 RETAINED。表在 `editorial/phase1-full/volume-02-status.md`。
+- 第三部已改 001、007。下一章 `manuscript/volume-03/002.md`。第四部未动。十二组对照未齐。跨卷报告未写。
+- 全书约 519,364。第一部不再回头。
+
+---
+
+# 全卷精修｜第一部已重审｜2026-11-14
+
+- HEAD 以本分支最新提交为准。第一部：十一章 TARGETED_REVISED，七章 RETAINED（008、009、011、012、014、015、017），理由在 `editorial/phase1-full/volume-01-status.md`。
+- 全书约 510,614。下一章 `manuscript/volume-02/001.md`。
+- 014 的编辑口吻已改成叙述者的记忆边界。
+
+---
+
+# 全卷精修｜第一部十八章已判定｜2026-11-14
+
+- 分支 `creative/grok47-phase1-full-volumes`。第一部状态表：`editorial/phase1-full/volume-01-status.md`。十五章 RETAINED，004 与 007 TARGETED_REVISED。
+- 第二部已改 005、014。下一章：`manuscript/volume-02/001.md`。014 的见面不要再写一遍。
+- 第三部、第四部未开始。十二组对照现有四组。
+
+---
+
+# 全卷精修进行中｜2026-11-14｜未完成
+
+- 分支 `creative/grok47-phase1-full-volumes`，起点 main `12ac7ee`。只改了第一部 004（+434）和第二部 005（+194）。其余 74 章未改，也未标 RETAINED。
+- 下一章：`manuscript/volume-01/001.md`。先把第一部其余 17 章读完再判定，不要从第二部 006 接着跳。
+- 账：`editorial/phase1-full/`。
+
+---
+
 # 已完成：第四部《叫我名字的人》R7合并主支并双重验证｜2026-11-13
 
 - [PR#62](https://github.com/LYL-Z/the-memory-reading-notes/pull/62) GitHub实际报告`merged=true`，merge commit **`1b3840e93a3bf590834e2a4e669df7ae1ae8c5fe`**，main分支已验证指向该提交（随后将追加本次状态确认提交）。
