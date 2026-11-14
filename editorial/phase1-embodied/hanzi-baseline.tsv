@@ -1,5 +1,5 @@
 path	baseline	after	delta	status
-manuscript/volume-01/001.md	7737	7737	0	UNCHANGED
+manuscript/volume-01/001.md	7737	7759	22	TRIAL_D
 manuscript/volume-01/002.md	10575	10575	0	UNCHANGED
 manuscript/volume-01/003.md	11050	11050	0	UNCHANGED
 manuscript/volume-01/004.md	11915	11915	0	UNCHANGED
@@ -14,7 +14,7 @@ manuscript/volume-01/012.md	6320	6320	0	UNCHANGED
 manuscript/volume-01/013.md	6753	6753	0	UNCHANGED
 manuscript/volume-01/014.md	7370	7370	0	UNCHANGED
 manuscript/volume-01/015.md	6329	6329	0	UNCHANGED
-manuscript/volume-01/016.md	5404	5589	185	TRIAL
+manuscript/volume-01/016.md	5404	5406	2	TRIAL_A_REWORK
 manuscript/volume-01/017.md	5539	5539	0	UNCHANGED
 manuscript/volume-01/018.md	6925	6925	0	UNCHANGED
 manuscript/volume-02/001.md	7102	7102	0	UNCHANGED
@@ -44,7 +44,7 @@ manuscript/volume-02/024.md	5464	5464	0	UNCHANGED
 manuscript/volume-03/001.md	8588	8588	0	UNCHANGED
 manuscript/volume-03/002.md	7777	7777	0	UNCHANGED
 manuscript/volume-03/003.md	9461	9461	0	UNCHANGED
-manuscript/volume-03/004.md	8762	9062	300	TRIAL
+manuscript/volume-03/004.md	8762	9213	451	TRIAL_B_REWORK
 manuscript/volume-03/005.md	8589	8589	0	UNCHANGED
 manuscript/volume-03/006.md	7946	7946	0	UNCHANGED
 manuscript/volume-03/007.md	9120	9120	0	UNCHANGED
@@ -67,7 +67,7 @@ manuscript/volume-04/007.md	4043	4043	0	UNCHANGED
 manuscript/volume-04/008.md	3824	3824	0	UNCHANGED
 manuscript/volume-04/009.md	3968	3968	0	UNCHANGED
 manuscript/volume-04/010.md	2099	2099	0	UNCHANGED
-manuscript/volume-04/011.md	3448	3649	201	TRIAL
+manuscript/volume-04/011.md	3448	3450	2	TRIAL_C_REWORK
 manuscript/volume-04/012.md	3581	3581	0	UNCHANGED
 manuscript/volume-04/013.md	4711	4711	0	UNCHANGED
 manuscript/volume-04/014.md	3658	3658	0	UNCHANGED

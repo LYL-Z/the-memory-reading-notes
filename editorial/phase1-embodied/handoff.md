@@ -1,9 +1,20 @@
 # 交接
 
-Phase 1 只做了第一、二阶段。七十六章连续修订没有开始。
+作者裁决 D 之后的返修停在这里。七十六章连续修订没有开始。
 
-分支：`creative/grok47-embodied-literary-revision`，从 main `12ac7ee` 切开。PR #64 未改。the-memory 未写。重构没有回写知识库。
+分支：`creative/grok47-embodied-literary-revision`。Draft PR #65。从 main `12ac7ee` 切开。PR #64 未改。the-memory 未写。重构没有回写知识库。不是第 51 轮。R50 冻结仍在。
 
-已改正文只有三章：第一部 016、第三部 004、第四部 011。逐章对照在 `hanzi-baseline.tsv`。试稿说明在 `trial-ledger.md`。候选在 `scene-candidates.md`。
+改正文四章，都高于冻结基线：
 
-下一轮若作者接受方向，再按候选往下做。若不接受某一组，只回退该章，不要用同义句把字数补回去。第一部仍不称为第 51 轮。
+| 组 | 章 | 基线 | 返修后 | 增减 |
+| --- | --- | --- | --- | --- |
+| D | 第一部 001《左边的位置》 | 7737 | 7759 | +22 |
+| A | 第一部 016《小红帽》 | 5404 | 5406 | +2 |
+| B | 第三部 004《走上六楼》 | 8762 | 9213 | +451 |
+| C | 第四部 011《寝室被扣分》 | 3448 | 3450 | +2 |
+
+全书 507,125 → 507,602。字数用 `scripts/hanzi_count.py`。没有挪章、拆章、改脚本。
+
+说明在 `trial-ledger.md`。与 main 的 diff 在 `trial-rework.diff`。逐章表在 `hanzi-baseline.tsv`。
+
+下一轮只在作者验收某一组之后再动。不接受的组整章回退，不用同义句补字。

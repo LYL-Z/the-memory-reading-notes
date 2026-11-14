@@ -1,4 +1,8 @@
 {
+  "phase1_embodied_status": "AUTHOR_RULING_D_REWORK_AWAITING_ACCEPTANCE",
+  "phase1_branch": "creative/grok47-embodied-literary-revision",
+  "phase1_pr": 65,
+  "phase1_note": "不是第51轮。R50冻结仍在。四组试稿待作者验收，不进入七十六章。全书汉字507602，基线507125。",
   "project": "时间的复数人称",
   "volume_01_title": "现在有人回头",
   "active_branch": "main",
