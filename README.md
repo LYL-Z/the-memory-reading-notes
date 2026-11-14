@@ -1,3 +1,7 @@
+> **第四部R7最终阶段主支整合候选（2026-11-13）**：18章**71,325 CJK汉字**，相对R6 71,002净增323；6章实改、12章本轮保留；[PR#62](https://github.com/LYL-Z/the-memory-reading-notes/pull/62)按作者明确要求进入合并流程，**以GitHub实际merge=true为主支合入准据**。前3部main基线58章435,800字不改，四部条件性合计76章507,125字。第三方正式出版审阅、人类陌生读者冷读仍未完成，不冒称“世界级/零AI感”验证。[R7审稿](editorial/volume04/2026-11-13-r7-final-review-main-merge-acceptance.md) · [R7逐章计数](editorial/volume04/2026-11-13-r7-final18-hanzi-comparison.tsv) · [项目记忆](state/2026-11-13-volume04-r7-final-main-handoff.md)。
+
+---
+
 > **2026-11-13 第三部R3已合并main（PR#60）**：《家里的另一种时间》16章、**135479官方汉字**，相对R2净增1575；与已冻结第一部R50（18章136693）和第二部B2（24章163628）连读为**58章、435800官方汉字**。创作遵守最新“允许文学化重构，但不违背重要事实与人物特征”作者裁决；本阶段R3常规文学精修已收口。详情：[R3文学终审与主线验收](editorial/volume03/2026-11-13-r3-final-review-and-merge-acceptance.md) · [逐章字数账](editorial/volume03/gpt6-round3-final-counts-20261113.tsv) · [作者新裁决](editorial/author-decisions/2026-11-13-reconstruction-and-literary-authority.md)。历史Draft PR#57—59不得在整合后重复合并；已通过[PR #60](https://github.com/LYL-Z/the-memory-reading-notes/pull/60)于2026-11-13合并`main`，squash SHA `a66263785d271b1e832c4e2b4f31cd6df9910020`。**真人独立冷读仍为0，公开/出版第三人权益风险需单独核验。**
 
 ---

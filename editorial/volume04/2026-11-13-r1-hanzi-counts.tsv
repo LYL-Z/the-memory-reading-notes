@@ -1,0 +1,11 @@
+# 第四部R1连续开篇001—006｜按scripts/hanzi_count.py等效规则计数
+# 日期2026-11-13；只计Markdown正文CJK汉字，不含标题/编辑材料；main前三部不变
+章号	章题	官方汉字
+001	第一厨神	4074
+002	面试之前	3380
+003	一九〇七	3531
+004	第三名	3550
+005	八个人一间屋	3475
+006	营养餐	3144
+TOTAL	六章	21154
+GUARD: CHAPTERS_001_TO_006=PASS; CHAPTERS_007_TO_018=NOT_WRITTEN; MAIN_UNCHANGED=YES
