@@ -643,5 +643,23 @@
     "main_cumulative_hanzi": 507125,
     "main_prior_three_unchanged": true,
     "external_publication_permissions_status": "OPEN"
+  },
+  "phase1_batch1": {
+    "status": "DRAFT_CANDIDATE_NOT_ACCEPTED",
+    "not_r51": true,
+    "branch": "creative/grok47-phase1-batch1",
+    "base_main": "12ac7ee9342b93a9cbf091095562b205321237b7",
+    "the_memory_master": "ef33c98d63b88283e840f5414db154eb9118c4e4",
+    "pr64_head": "4bce1a6b6a3ec728fd0da1dd573470807ab63503",
+    "pr65_head": "d77e19a46fb5763de3709a973e379203c9697dac",
+    "chapters": [
+      "manuscript/volume-01/004.md",
+      "manuscript/volume-02/005.md",
+      "manuscript/volume-03/001.md",
+      "manuscript/volume-04/004.md",
+      "manuscript/volume-04/007.md"
+    ],
+    "hanzi_book": "507125 -> 508180",
+    "ledger": "editorial/phase1-batch1/"
   }
 }
