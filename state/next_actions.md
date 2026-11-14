@@ -1,3 +1,11 @@
+# 全卷精修｜第二部已判定，第三部停在 002｜2026-11-14
+
+- HEAD 以本分支最新提交为准。第二部二十一章 TARGETED_REVISED，015、017、019 RETAINED。表在 `editorial/phase1-full/volume-02-status.md`。
+- 第三部已改 001、007。下一章 `manuscript/volume-03/002.md`。第四部未动。十二组对照未齐。跨卷报告未写。
+- 全书约 519,364。第一部不再回头。
+
+---
+
 # 全卷精修｜第一部已重审｜2026-11-14
 
 - HEAD 以本分支最新提交为准。第一部：十一章 TARGETED_REVISED，七章 RETAINED（008、009、011、012、014、015、017），理由在 `editorial/phase1-full/volume-01-status.md`。
