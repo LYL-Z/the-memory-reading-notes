@@ -5,7 +5,7 @@
   "kind": "selected_six_volume_working_manuscript",
   "current_branch_target": "main",
   "integration_branch": "integration/six-volume-canon-20261114",
-  "integration_status": "CANDIDATE_VERIFIED_PENDING_MAIN_MERGE",
+  "integration_status": "INTEGRATED_IN_MAIN_VERIFIED",
   "original_main_backup_branch": "archive/main-pre-six-volume-20261114",
   "previous_main_sha": "12ac7ee9342b93a9cbf091095562b205321237b7",
   "source_repository": {
@@ -104,7 +104,7 @@
   "status_gates": {
     "text_inventory": "PASS",
     "source_sha_selected": "PASS",
-    "main_merged": "PENDING",
+    "main_merged": "PASS",
     "literary_cross_volume_cold_read": "PARTIAL",
     "publication_third_party_rights": "OPEN",
     "human_blind_readers": 0,
@@ -125,5 +125,12 @@
     "agents": "editorial/archive/AGENTS-pre-integration-20261114.md"
   },
   "current_editorial": "editorial/six-volume-integration/2026-11-14-editorial-verdict.md",
-  "current_next_actions": "state/next_actions.md"
+  "current_next_actions": "state/next_actions.md",
+  "main_merge_pr": 77,
+  "main_merge_pr_url": "https://github.com/LYL-Z/the-memory-reading-notes/pull/77",
+  "main_merge_commit_sha": "2ba6be83bbde5717b4ef516927a92c090b4df6ce",
+  "main_merge_verified_at": "2026-11-14T16:37:28Z",
+  "main_merge_integrity_run": "https://github.com/LYL-Z/the-memory-reading-notes/actions/runs/43616624507",
+  "current_branch": "main",
+  "current_count_status": "115/115 VERIFIED_ON_MAIN_AT_MERGE_COMMIT"
 }

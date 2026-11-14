@@ -74,3 +74,4 @@ pr	state	draft	merged_at	head_ref	head_sha	base_ref	main_integration_status	url
 74	open	true		creative/five-volume-r3-reviewer-revision-20261114	c61def56f55823fe1782461382d1d5e288c5dc0c	creative/five-volume-r3-integrated-candidate-20261114	ANCESTOR_IN_PR76	https://github.com/LYL-Z/the-memory-reading-notes/pull/74
 75	open	true		creative/five-volume-r3-deep-vol01-20261114	77698f6390b8a7504ea8a22d860ccd17384390e5	creative/five-volume-r3-reviewer-revision-20261114	ANCESTOR_IN_PR76	https://github.com/LYL-Z/the-memory-reading-notes/pull/75
 76	open	true		creative/five-volume-r3-batch2-20261114	eff78c949e13578234d4bac386d918fa1245a9d3	creative/five-volume-r3-deep-vol01-20261114	SELECTED_I-V_FINAL	https://github.com/LYL-Z/the-memory-reading-notes/pull/76
+77	closed	false	2026-11-14T16:37:28Z	integration/six-volume-canon-20261114	d2e8bce71df12efcb181a5e4b7833dddfbe93007	main	MERGED_MAIN_AUTHORITATIVE_SIX_VOLUME	https://github.com/LYL-Z/the-memory-reading-notes/pull/77
