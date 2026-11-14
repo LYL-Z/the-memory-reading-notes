@@ -8,7 +8,7 @@
 
 | 状态 | 范围 |
 |---|---|
-| 全文已读 | AGENTS.md；五份创作技能；`editorial/character_tiers.md`；`editorial/author-decisions/2026-11-13-reconstruction-and-literary-authority.md`；`editorial/people_seed.md`；`scripts/hanzi_count.py`；PR #56 第六部章表及前后约束段；PR #63 `outline/volume-05.md` |
+| 全文已读 | AGENTS.md；五份创作技能；`editorial/character_tiers.md`；`editorial/author-decisions/2026-11-13-reconstruction-and-literary-authority.md`；`editorial/people_seed.md`；`scripts/hanzi_count.py`；PR #56 第六部章表及前后约束段；PR #63 `outline/volume-05.md`；2026-11-14 上传的逐字问卷答复 |
 | 部分已读 | `state/progress.json`（前段与第四部收口）；`state/next_actions.md`（顶部与检索命中）；`editorial/clocks.md`（前部，后部历史轮次跳读）；`manuscript/volume-04/018.md` 开头；第五部 010、011 开头，013 开头与结尾，019 开头与结尾 |
 | 仅看目录 | `manuscript/volume-01` 至 `volume-03` 文件名；`editorial/volume02` 至 `volume04` 多数审稿文件；PR #67、#68 的正文差异 |
 | 未读 | 前四部大多数章节全文；第五部 001–009、012、014–018 全文；`editorial/style-and-influences/` 下大麦哥研究档案全文 |
