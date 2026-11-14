@@ -1,3 +1,11 @@
+# 全卷精修进行中｜2026-11-14｜未完成
+
+- 分支 `creative/grok47-phase1-full-volumes`，起点 main `12ac7ee`。只改了第一部 004（+434）和第二部 005（+194）。其余 74 章未改，也未标 RETAINED。
+- 下一章：`manuscript/volume-01/001.md`。先把第一部其余 17 章读完再判定，不要从第二部 006 接着跳。
+- 账：`editorial/phase1-full/`。
+
+---
+
 # 已完成：第四部《叫我名字的人》R7合并主支并双重验证｜2026-11-13
 
 - [PR#62](https://github.com/LYL-Z/the-memory-reading-notes/pull/62) GitHub实际报告`merged=true`，merge commit **`1b3840e93a3bf590834e2a4e669df7ae1ae8c5fe`**，main分支已验证指向该提交（随后将追加本次状态确认提交）。
