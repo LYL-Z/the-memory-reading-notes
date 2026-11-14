@@ -1,47 +1,53 @@
-> **第四部R7已正式合并main（2026-11-13）**：[PR#62](https://github.com/LYL-Z/the-memory-reading-notes/pull/62) 已由GitHub返回`merged=true`，Merge Commit `1b3840e93a3bf590834e2a4e669df7ae1ae8c5fe`；main实际取回18章、核实**71,325 CJK汉字**，前3部58章435,800未改，**四部76章507,125汉字**。R3—R7完整审稿修订链保留在Git历史。[R7终审](editorial/volume04/2026-11-13-r7-final-review-main-merge-acceptance.md) · [R7字数账](editorial/volume04/2026-11-13-r7-final18-hanzi-comparison.tsv) · [已验证项目记忆](state/2026-11-13-volume04-r7-final-main-handoff.md)。这是作者要求的主支工作稿整合，**不等于真人独立冷读、第三人全部出版权益确认或文学水平认证**。
+# 《时间的复数人称》
 
----
+> **六部统一正文入口｜2026-11-14。** 这是一部依据真实生活、人物回忆与独立文学重构创作的非线性自传体长篇小说。整合的是**工作主线正文**，不意味着出版许可、文学定稿、世界级水准认证或已完成真正陌生读者盲读。此前“四部76章”的README、旧R50/R7阶段说明已移入历史档案，**不再是当前项目状态**。
 
-> **2026-11-13 第三部R3已合并main（PR#60）**：《家里的另一种时间》16章、**135479官方汉字**，相对R2净增1575；与已冻结第一部R50（18章136693）和第二部B2（24章163628）连读为**58章、435800官方汉字**。创作遵守最新“允许文学化重构，但不违背重要事实与人物特征”作者裁决；本阶段R3常规文学精修已收口。详情：[R3文学终审与主线验收](editorial/volume03/2026-11-13-r3-final-review-and-merge-acceptance.md) · [逐章字数账](editorial/volume03/gpt6-round3-final-counts-20261113.tsv) · [作者新裁决](editorial/author-decisions/2026-11-13-reconstruction-and-literary-authority.md)。历史Draft PR#57—59不得在整合后重复合并；已通过[PR #60](https://github.com/LYL-Z/the-memory-reading-notes/pull/60)于2026-11-13合并`main`，squash SHA `a66263785d271b1e832c4e2b4f31cd6df9910020`。**真人独立冷读仍为0，公开/出版第三人权益风险需单独核验。**
+## 现行六部：115章，732,799官方汉字
 
----
-> **2026-11-12 最新正文入口（GPT-6终轮整合 / PR #54）**：第一部《现在有人回头》18章R50、136,693官方汉字，正文逐字不改；第二部《名单上的人》24章、163,628官方汉字（DeepSeek扩写主体、GLM独立审查、GPT-6定点修复）；合计**42章，300,321官方汉字**。已做本阶段作者侧常规文学精修收口，仍有真人冷读0和第三人公开边界。完整结果参阅[终轮编校与来源账](editorial/2026-11-12-gpt6-final-42chapter-merge-audit.md)、[逐章字数账](editorial/2026-11-12-gpt6-24ch-integration-ledger.csv)、[主线整合PR #54](https://github.com/LYL-Z/the-memory-reading-notes/pull/54)。2026-11-08及更早入口均为历史记录，PR #54已于2026-11-12合并main，squash SHA 70fc987d0831c34d62993b813e7854b37a427b06。
+| 卷 | 书名 | 章节 | `scripts/hanzi_count.py` 同口径汉字 |
+|---|---|---:|---:|
+| Ⅰ | [现在有人回头](manuscript/volume-01/) | 18 | 138,952 |
+| Ⅱ | [名单上的人](manuscript/volume-02/) | 24 | 172,099 |
+| Ⅲ | [家里的另一种时间](manuscript/volume-03/) | 16 | 140,227 |
+| Ⅳ | [叫我名字的人](manuscript/volume-04/) | 18 | 74,236 |
+| Ⅴ | [换座之后](manuscript/volume-05/) | 19 | 80,985 |
+| Ⅵ | [未写完的纸](manuscript/volume-06/) | 20 | 126,300 |
+| **总计** | | **115** | **732,799** |
 
----
-> **2026-11-08当前项目入口**：第一部《现在有人回头》**R50 / 18章 / 136,693官方汉字**，常规文学冻结；第二部《名单上的人》采用**B2五章阅读序**，已完成本阶段最后一次连续精修，`001—005` **32,956官方汉字**。作者批准现有04《三餐》的家庭内容公开，授权将该五章与创作档案经核验后并入`main`；没有启动第06章或重新开放第一部R51。[五章最终连续审稿及作者授权](editorial/volume02/reviews/2026-11-08-ch01-ch05-final-continuous-read-main-merge-acceptance.md) · [B2后续24章秩序](editorial/volume02/2026-11-08-b2-first-24chapter-reading-order-v2.md) · [最新进度](state/progress.json) · [后续行动](state/next_actions.md)。**真人独立冷读仍为0；主线合并不代表出版许可或第三方资料的公开授权。**
+**精确到单章的来源与哈希**：[章级选稿总账](editorial/six-volume-integration/2026-11-14-chapter-canon.tsv) · [逐章计数](editorial/six-volume-integration/2026-11-14-verified-counts.md)。可在检出的仓库根目录执行：
 
-> **历史R50第一部最终候选（2026-11-04）**。正文[001—018](manuscript/volume-01/)共 **136,693 个官方汉字**；第50轮是第一部最后一次常规精修，无R51。ChatGPT最后同轮审稿在 Kimi R50 的013／017修订和016保留基础上，仅额外修复017纸张动作的连续性（+5汉字）。[十项文学终审与局限](editorial/volume01-round50-chatgpt-final-ten-dimension-audit-2026-11-04.md) · [长期创作记忆及第二部交接](editorial/volume01-final-canon-and-volume02-handoff-2026-11-04.md) · [第二部首章准备包](editorial/volume02-after-r50-first-chapter-brief.md) · [终版验证器](scripts/verify_volume01_round50_final_chatgpt.py)。**目前真实人类冷读0；不是出版级或文学巅峰认证。**
+```bash
+python scripts/verify_six_volume_integrated.py
+```
 
-> 下方R47、R44—46及第35轮段落是**保留的历史记载，不代表现行正文数量、轮次或工作状态**。继续写作从第二部开始；详细最新状态以[state/progress.json](state/progress.json)为准。
+核验逻辑会检查 **115章、六卷统计、所选候选Git blob SHA、章节序号、冲突标记**，不对文学效果作机械评分。
 
-> **历史留档：第一部R47候选（2026-11-03）**。十八章136633正文汉字，比a4f512e净增159，十五章有实质修改。见[文学精修与验收](editorial/volume01-round47-sol-literary-revision-and-acceptance.md)、[修改账](editorial/volume01-round47-sol-editing-ledger.md)、[后续创作交接](editorial/handoff-to-chatgpt-literary-craft-round47-sol.md)。本候选当时在独立分支editorial/volume01-round47-sol-20261103，尚未文学冻结；以下旧轮次数字与状态只按其历史版本理解。
+### 各AI候选稿如何选进主线？
 
-# R44—46 Sol独立修订审阅中
+- **第一至五部**：采用相互承接的 PR [#73](https://github.com/LYL-Z/the-memory-reading-notes/pull/73) → [#74](https://github.com/LYL-Z/the-memory-reading-notes/pull/74) → [#75](https://github.com/LYL-Z/the-memory-reading-notes/pull/75) → [#76](https://github.com/LYL-Z/the-memory-reading-notes/pull/76) 的最终HEAD。第一至四部素材和文字由 Grok Phase1/#67 为本轮候选基础，第五部由#63及GPT-6 #68叠入，之后依据#71独立对抗审稿进行了回退、去同质化及作者事实订正。
+- **第六部**：以 Grok [#69](https://github.com/LYL-Z/the-memory-reading-notes/pull/69) 的R4完整20章为底，章节 **010/016/020** 改用 GPT-6 [#72](https://github.com/LYL-Z/the-memory-reading-notes/pull/72) R5.2已过原章篇幅下限的文学修订。其余5章的R5删重试版因为低于作者篇幅闸门，并**未**覆盖R4。文学缺陷继续列为待改进项。
+- 历史稿**不混合叠字**；同一章节保留一个当前读者正文，另一个有价值的实验留在原Draft/历史账。完整 **PR #1—#76取舍总账**：[列表](editorial/six-volume-integration/2026-11-14-branch-disposition.tsv) · [说明](editorial/six-volume-integration/2026-11-14-branch-disposition.md)。
 
-第一部当前分支正文18章、136474汉字，较续接前136404净增70；整卷只增不减。R45编辑连续通读已做，R46局部试版未采用，main未覆盖，尚未文学冻结，真人试读0。先读[state/progress.json](state/progress.json)、[R46修改与试稿](editorial/volume01-round46-sol-editing-ledger.md)、[作者总量约束](editorial/author-addendum-2026-11-03-total-length.md)、[R45通读结论](editorial/volume01-round45-sol-continuous-read.md)、[R45修改账](editorial/volume01-round45-sol-editing-ledger.md)、[本轮修改记录](editorial/volume01-round44-sol-editing-ledger.md)、[技法手册](editorial/literary-craft-playbook-for-volume-02.md)及[交接书](editorial/handoff-to-chatgpt-literary-craft-round44-sol.md)。
+**必须订正**：PR#76 报告把前五部写成606,031，但本次以确切HEAD取回95章逐篇重计为**606,499**（差+468）。统一新账使用实测值，不复制旧报告数字。
 
-以下为既有项目介绍，历史数字以现行状态为准。
+## 先读哪些设计与标准
 
----
+1. [当前文学编辑结论与缺陷](editorial/six-volume-integration/2026-11-14-editorial-verdict.md)；[非线性三钟与读者知情](editorial/six-volume-integration/2026-11-14-three-clocks-and-canon.md)。
+2. [作者最新文学重构授权](editorial/author-decisions/2026-11-13-reconstruction-and-literary-authority.md)：普通对话、空间、动作和不同日子的复合可以艺术重构；已确认事实和真实人物重大私密事件不可因此被推翻。
+3. [六部当前发表与隐私风险](editorial/six-volume-integration/2026-11-14-publication-gates.md)；[作者新裁定与仍未解决的分歧](editorial/six-volume-integration/2026-11-14-author-rulings.md)。
+4. [Grok Phase0 阅读档案](research/grok-onboarding/)（**历史76章基线**，并非115章的最新阅读证明）；[五部独立对抗审稿](editorial/five-volume-r3-independent-20261114/)；[第五部历史审稿](editorial/volume05/)；[第六部历史审稿](editorial/volume06/)。
+5. [最新机器进度](state/progress.json)、[后续任务](state/next_actions.md)及[本轮选稿台账](editorial/six-volume-integration/2026-11-14-chapter-canon.tsv)。
 
-# NovelStudio_Grok47 ·《时间的复数人称》
+## 艺术判断
 
-这是刘佑林的自传体长篇小说独立创作/审稿仓库。原 Obsidian 知识库 `LYL-Z/the-memory` 用于事实与生活素材核对，本创作仓库承载正文、人物时间账与逐轮编辑记录；不把此前AI留下的旧草稿作为定稿依据。
+核心不是给六卷铺同样的“事情发生—我后来明白”结构，而是让同一人处在**自己当时的经验、不同他人的记忆、回望者的选择性叙述、读者后得到的信息**之间，显现不一致但可信的多个面向。
 
-## 当前正文
+可以借鉴诺兰的读者信息调度、石黑一雄和普鲁斯特记忆联想的时间组织、其他作家的情感节制与关系发展；不能强制每章倒叙，也不应复制当代个人创作者可辨认的标志性口吻。Michael 大麦哥的旧研究只当作一般叙事技法的参考，不是影音史料核验通过证书。小说不是论文：**不频繁插入“问卷里写道”、精确日历及证据条款**；但后台必须能分辨已确认事实、回忆、文学重构和假设世界。
 
-- **第一部《现在有人回头》：20章，134,303汉字**（2026-11-02第35轮）。
-- 正文：[`manuscript/volume-01/`](manuscript/volume-01/) 的001—020章。
-- 最新目录与章法：[`outline/volume-01.md`](outline/volume-01.md) 开头“第三十五轮现行目录”。
-- 当轮综合文学审读：[`editorial/volume01-round35-comprehensive-review-2026-11-02.md`](editorial/volume01-round35-comprehensive-review-2026-11-02.md)。
-- 前序对话承接、作者口述与十点追问：[`editorial/round35-author-handoff-and-standards-2026-11-02.md`](editorial/round35-author-handoff-and-standards-2026-11-02.md)。
-- 最新状态与待办：[`state/progress.json`](state/progress.json)、[`state/next_actions.md`](state/next_actions.md)。
-- 时钟与限知叙事：[`editorial/clocks.md`](editorial/clocks.md)。
+本项目尚有跨卷模板句与人物声口趋同风险，第四、第五部相对较薄，第六部仍有重复性加厚段落；真实第三方的署名、私密问卷及家庭过目权尚需逐项处理。**真人陌生读者完整独立冷读：0**。这些状态不能被“已经更新main”覆盖。
 
-**第一部只是阶段性成稿，仍可改章、拆分、迁移和扩展，尚未文学冻结。** 作者规定第一部总正文字数不得低于第34轮134,078汉字基数；单章可适度压缩。当前19→20章，是从《525》提炼出独立《竹林杯》并将旧17—19顺移到18—20；这不是“完成了原24项承诺”的宣告。
+## 双仓边界及归档
 
-## 长期原则
+事实源为 [the-memory](https://github.com/LYL-Z/the-memory)，`master@ef33c98d63b88283e840f5414db154eb9118c4e4`，**永久只读**；创作仓本身负责正文、叙事设计和版本账。两仓均很大，列出所有文件不等于全部全文读完；当次读取范围必须附阅读凭据。
 
-人物真实体验与知识库尽量互证，同时保留小说所需要的时间重排和必要文学想象。涉及赵问竹、他人转述、时间未证的事件，严格区分当时亲历、后来得知、文学复合三层，不将沉默或笑声当作对他人内心的证据。创作判断按作者十项文学追问循环审读。作品的目标是兼有文学深度、情感真实、人物独立性与阅读张力的长篇；不靠章数或字数宣称文学成就。
-
-历史盘点与报告保留在 `editorial/`，旧成果不会因新章重编而抹去。仓库当前公开，作者表示作品完成后拟调整为私人仓库。
+旧README全文保存在 [历史README](editorial/archive/README-pre-integration-20261114.md)，旧项目状态保存在 [历史状态](state/archive/progress-pre-integration-20261114.json)、[旧行动表](state/archive/next-actions-pre-integration-20261114.md)，不可再作为现稿依据。拟议中的七部、八部结构依然是设计候选，不因本次六部上主线而自动变成事实、正式卷名或未来创作指令。
