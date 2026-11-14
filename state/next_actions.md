@@ -1,3 +1,12 @@
+# 进行中：第六部《未写完的纸》R1｜2026-11-14
+
+- 分支 `creative/grok47-volume06-continuous-r1-r3`，从 main `12ac7ee` 新建。Draft，不合并。第五部 PR #63 / #68 与八部曲 PR #56 只作阅读参考。
+- 已有正文 001–006，合计 14,787 官方汉字。007–020 还没有正文。R2、R3 未开始。
+- 续接点：007《校长信箱》。交接见 `state/volume06-handoff.md`。
+- 事实库 the-memory `ef33c98` 只读。个人总分、住址、教师病情不进公开正文。
+
+---
+
 # 已完成：第四部《叫我名字的人》R7合并主支并双重验证｜2026-11-13
 
 - [PR#62](https://github.com/LYL-Z/the-memory-reading-notes/pull/62) GitHub实际报告`merged=true`，merge commit **`1b3840e93a3bf590834e2a4e669df7ae1ae8c5fe`**，main分支已验证指向该提交（随后将追加本次状态确认提交）。
