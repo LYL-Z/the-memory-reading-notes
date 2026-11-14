@@ -1,3 +1,7 @@
+> **第五部《换座之后》R6十九章整卷增厚与去重（2026-11-13）**：工作分支`creative/volume05-opening-r1-20261113`／[Draft PR#63](https://github.com/LYL-Z/the-memory-reading-notes/pull/63)已有**19章79,883官方CJK汉字**，R5 76,204→R6 **净增3,679**；五章真实修订：002+1,684（数学严密条件与帮助他人的实际成本）、003+1,217（讲题与背英语争用走廊）、004+1,356（小组六人各自的午饭路线）、015−37（移除人物比较与重复笔记本回忆）、019−541（删同趟旅行与迪士尼“好像见赵”反复复述）。[R6文学报告](editorial/volume05/2026-11-13-r6-structural-expansion-audit.md) · [19章逐章字数](editorial/volume05/2026-11-13-r6-full19-hanzi-comparison.tsv) · [HY4独立审稿](editorial/volume05/2026-11-13-r6-hy4-independent-review.md) · [最新项目记忆](state/2026-11-13-volume05-r6-handoff.md)。前四部main76章507,125字与事实仓`the-memory/master`未动；第五部仍Draft、未经真人冷读与第三人出版核阅，**不得将候审五部合计587,008误写为main总字数**。
+
+---
+
 > **第四部R7已正式合并main（2026-11-13）**：[PR#62](https://github.com/LYL-Z/the-memory-reading-notes/pull/62) 已由GitHub返回`merged=true`，Merge Commit `1b3840e93a3bf590834e2a4e669df7ae1ae8c5fe`；main实际取回18章、核实**71,325 CJK汉字**，前3部58章435,800未改，**四部76章507,125汉字**。R3—R7完整审稿修订链保留在Git历史。[R7终审](editorial/volume04/2026-11-13-r7-final-review-main-merge-acceptance.md) · [R7字数账](editorial/volume04/2026-11-13-r7-final18-hanzi-comparison.tsv) · [已验证项目记忆](state/2026-11-13-volume04-r7-final-main-handoff.md)。这是作者要求的主支工作稿整合，**不等于真人独立冷读、第三人全部出版权益确认或文学水平认证**。
 
 ---
