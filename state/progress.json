@@ -375,7 +375,7 @@
     "report": "editorial/volume04/2026-11-13-r1-sixchapter-literary-audit.md",
     "draft_pr": 62
   },
-  "volume04_current_handoff": "state/2026-11-13-volume04-r6-handoff.md",
+  "volume04_current_handoff": "state/2026-11-13-volume04-r7-final-main-handoff.md",
   "volume04_r2_batch": {
     "date": "2026-11-13",
     "chapters_written": [
@@ -586,5 +586,53 @@
     "audit": "editorial/volume04/2026-11-13-r6-structural-refinement-audit.md",
     "hy4": "editorial/volume04/2026-11-13-r6-hy4-independent-review-brief.md",
     "handoff": "state/2026-11-13-volume04-r6-handoff.md"
+  },
+  "volume04_r7_revision": {
+    "date": "2026-11-13",
+    "pr": 62,
+    "branch": "creative/volume04-opening-continuous-20261113",
+    "merge_intent": "author explicitly requested main integration",
+    "status": "R7_FINAL_MAIN_INTEGRATION_CANDIDATE_NOT_YET_VERIFIED_MERGED",
+    "chapter_count": 18,
+    "prior_r6_hanzi": 71002,
+    "r7_hanzi": 71325,
+    "net_gain": 323,
+    "changed_chapters": [
+      "007",
+      "008",
+      "010",
+      "011",
+      "014",
+      "018"
+    ],
+    "unchanged_chapter_count": 12,
+    "chapter_counts": {
+      "001": 4785,
+      "002": 4053,
+      "003": 4147,
+      "004": 4637,
+      "005": 3219,
+      "006": 2919,
+      "007": 4043,
+      "008": 3824,
+      "009": 3968,
+      "010": 2099,
+      "011": 3448,
+      "012": 3581,
+      "013": 4711,
+      "014": 3658,
+      "015": 4949,
+      "016": 3616,
+      "017": 3322,
+      "018": 6346
+    },
+    "main_first_three_hanzi": 435800,
+    "total_if_merged": 507125,
+    "static_checks": "PASS: 18 chapters, one heading each, no conflict markers/duplicate paragraphs",
+    "human_cold_readers": 0,
+    "third_party_publication_review": "OPEN; Q4/Q5 Zhu",
+    "report": "editorial/volume04/2026-11-13-r7-final-review-main-merge-acceptance.md",
+    "ledger": "editorial/volume04/2026-11-13-r7-final18-hanzi-comparison.tsv",
+    "handoff": "state/2026-11-13-volume04-r7-final-main-handoff.md"
   }
 }
