@@ -1,0 +1,22 @@
+name: Six-volume manuscript integrity
+on:
+  push:
+    branches: [main, "integration/six-volume-canon-20261114"]
+  pull_request:
+    paths:
+      - "manuscript/**"
+      - "editorial/six-volume-integration/2026-11-14-chapter-canon.tsv"
+      - "scripts/verify_six_volume_integrated.py"
+      - ".github/workflows/six-volume-integrity.yml"
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Verify six-volume selected manuscript, provenance and word counts
+        run: python scripts/verify_six_volume_integrated.py
