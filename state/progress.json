@@ -643,5 +643,28 @@
     "main_cumulative_hanzi": 507125,
     "main_prior_three_unchanged": true,
     "external_publication_permissions_status": "OPEN"
+  },
+  "volume06_r1_in_progress": {
+    "date": "2026-11-14",
+    "branch": "creative/grok47-volume06-continuous-r1-r3",
+    "base_main_sha": "12ac7ee9342b93a9cbf091095562b205321237b7",
+    "title": "未写完的纸",
+    "chapters_written": "001-020",
+    "round": "R4_ALL_CHAPTERS_OVER_6000_VOLUME_UNDER_130000",
+    "r4_hanzi": 126088,
+    "r4_floor_met_per_chapter": true,
+    "r4_volume_target_130000_met": false,
+    "r1_sha": "38b030e9f5056c2d36f4b63e69d95df642a1cccb",
+    "r1_hanzi": 41723,
+    "r2_sha": "510e6876c9a9c6895e6276a4ce19909a4df7c9f1",
+    "r2_hanzi": 43758,
+    "r3_hanzi": 43916,
+    "r2": true,
+    "r3": true,
+    "source_memory_sha": "ef33c98d63b88283e840f5414db154eb9118c4e4",
+    "source_memory_modified": false,
+    "volume05_merged": false,
+    "handoff": "state/volume06-handoff.md",
+    "human_cold_readers": 0
   }
 }

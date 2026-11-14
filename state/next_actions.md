@@ -1,3 +1,20 @@
+# 第六部 R4 二十章已过 6000，全卷未到 13 万｜2026-11-14
+
+- 分支 `creative/grok47-volume06-continuous-r1-r3`，PR #69 Draft，不合并。官方计数全卷 **126088**。二十章都不少于 6000。13–14 万的目标没有达到。
+- 001 仍是 6001，002 是 6004，003 是 6009。016 是 6134，017 是 6181。下一刀先看这些章里的水句，只加现场。
+- 口述事实已进 006–020。未裁决的仍是：83 与十二月奖状是否同一次、425 与 426、典礼日期、楼层。母亲要先看家里的段落。对照见 `editorial/volume06/chapter-comparison.tsv` 与 `editorial/volume06/r4-thickening-report.md`。
+
+---
+
+# 第六部《未写完的纸》R3 候审｜2026-11-14
+
+- 分支 `creative/grok47-volume06-continuous-r1-r3`。20 章都有正文。R1 `38b030e` 41,723 字；R2 `510e687` 43,758 字；R3 43,916 字。Draft，不合并。
+- 不是终稿，不是世界级验收。真人冷读 0。母亲要先看家里的段落。83 的分母、楼层、信箱原信、四百米成绩仍未核。
+- 交接：`state/volume06-handoff.md`。对照：`editorial/volume06/chapter-comparison.tsv`。
+- 事实库 the-memory `ef33c98` 只读。个人总分不进正文。
+
+---
+
 # 已完成：第四部《叫我名字的人》R7合并主支并双重验证｜2026-11-13
 
 - [PR#62](https://github.com/LYL-Z/the-memory-reading-notes/pull/62) GitHub实际报告`merged=true`，merge commit **`1b3840e93a3bf590834e2a4e669df7ae1ae8c5fe`**，main分支已验证指向该提交（随后将追加本次状态确认提交）。
