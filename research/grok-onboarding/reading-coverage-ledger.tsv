@@ -515,9 +515,9 @@ the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	Excalidraw/Drawing 2026-08-3
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	Excalidraw/Drawing 2026-08-10 15.39.38.excalidraw.md	markdown	574	METADATA_ONLY	inventory-only						
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	Excalidraw/Excalidraw索引.md	markdown	1383	METADATA_ONLY	inventory-only						
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	Excalidraw/The Memory-全库知识网络总图.excalidraw.md	markdown	56781	METADATA_ONLY	inventory-only						
-the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/长篇创作规格-2026-08-28-颜子杰建议与用户确认.md	markdown	7243	EXCLUDED_WITH_REASON	not-read						AGENTS.md 规定旧稿与写作体系不作为本书依据；任务书允许作历史比较。本轮只列入清单，未读正文。
+the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/长篇创作规格-2026-08-28-颜子杰建议与用户确认.md	markdown	7243	FULL_READ	full-prose	research/grok-onboarding/character-dynamics.md					全文。时间顺序主线与84万属于该规格，低于人物页。
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/写作体系索引.md	markdown	12453	PARTIAL_READ	partial-prose	research/grok-onboarding/reading-coverage.md					读至约第80行/119行。事实与人物页优先于技法。44份技法正文未逐份读完。
-the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/创作总纲-百万字散文式自传小说.md	markdown	9524	EXCLUDED_WITH_REASON	not-read						AGENTS.md 规定旧稿与写作体系不作为本书依据；任务书允许作历史比较。本轮只列入清单，未读正文。
+the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/创作总纲-百万字散文式自传小说.md	markdown	9524	FULL_READ	full-prose	research/grok-onboarding/character-dynamics.md					全文。事实优先；章末不用感悟总结。管百万长文，不是现行四部的目录。
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/外部知识/读物人物选编-2026-08-29.md	markdown	24049	EXCLUDED_WITH_REASON	not-read						AGENTS.md 规定旧稿与写作体系不作为本书依据；任务书允许作历史比较。本轮只列入清单，未读正文。
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/外部知识/学科谱系与思想坐标-2026-08-29.md	markdown	13790	EXCLUDED_WITH_REASON	not-read						AGENTS.md 规定旧稿与写作体系不作为本书依据；任务书允许作历史比较。本轮只列入清单，未读正文。
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/外部知识/知识结构与阅读谱系-2026-08-29.md	markdown	11229	EXCLUDED_WITH_REASON	not-read						AGENTS.md 规定旧稿与写作体系不作为本书依据；任务书允许作历史比较。本轮只列入清单，未读正文。
@@ -533,13 +533,13 @@ the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/风格参考/�
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/风格参考/当代长篇/早春晴朗-全篇技法拆解-2026-09-07.md	markdown	10527	EXCLUDED_WITH_REASON	not-read						AGENTS.md 规定旧稿与写作体系不作为本书依据；任务书允许作历史比较。本轮只列入清单，未读正文。
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/风格参考/当代长篇/野狗骨头-全篇技法拆解-2026-09-07.md	markdown	11390	EXCLUDED_WITH_REASON	not-read						AGENTS.md 规定旧稿与写作体系不作为本书依据；任务书允许作历史比较。本轮只列入清单，未读正文。
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/风格参考/当代长篇/飞到我心上-全篇技法拆解-2026-09-07.md	markdown	9209	EXCLUDED_WITH_REASON	not-read						AGENTS.md 规定旧稿与写作体系不作为本书依据；任务书允许作历史比较。本轮只列入清单，未读正文。
-the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/技法库/记叙顺序与时间结构.md	markdown	9264	EXCLUDED_WITH_REASON	not-read						AGENTS.md 规定旧稿与写作体系不作为本书依据；任务书允许作历史比较。本轮只列入清单，未读正文。
-the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/技法库/开头与结尾.md	markdown	5607	EXCLUDED_WITH_REASON	not-read						AGENTS.md 规定旧稿与写作体系不作为本书依据；任务书允许作历史比较。本轮只列入清单，未读正文。
+the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/技法库/记叙顺序与时间结构.md	markdown	9264	PARTIAL_READ	partial-prose	research/grok-onboarding/reading-coverage.md					读至约第80行。讲述顺序不等于发生顺序。后半未读完。
+the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/技法库/开头与结尾.md	markdown	5607	FULL_READ	full-prose	research/grok-onboarding/character-dynamics.md					全文。禁止总结式、升华式收尾。与读正文前的批评同向。
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/技法库/叙事结构与语言工具.md	markdown	6281	EXCLUDED_WITH_REASON	not-read						AGENTS.md 规定旧稿与写作体系不作为本书依据；任务书允许作历史比较。本轮只列入清单，未读正文。
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/技法库/文体技法-小说.md	markdown	7027	EXCLUDED_WITH_REASON	not-read						AGENTS.md 规定旧稿与写作体系不作为本书依据；任务书允许作历史比较。本轮只列入清单，未读正文。
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/技法库/叙事视角与叙述方式.md	markdown	9536	EXCLUDED_WITH_REASON	not-read						AGENTS.md 规定旧稿与写作体系不作为本书依据；任务书允许作历史比较。本轮只列入清单，未读正文。
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/技法库/文体技法-诗词韵文.md	markdown	6787	EXCLUDED_WITH_REASON	not-read						AGENTS.md 规定旧稿与写作体系不作为本书依据；任务书允许作历史比较。本轮只列入清单，未读正文。
-the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/技法库/不可靠叙述.md	markdown	16092	EXCLUDED_WITH_REASON	not-read						AGENTS.md 规定旧稿与写作体系不作为本书依据；任务书允许作历史比较。本轮只列入清单，未读正文。
+the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/技法库/不可靠叙述.md	markdown	16092	PARTIAL_READ	partial-prose	research/grok-onboarding/reading-coverage.md					读至约第70行。限知可用，电影双结局不可用于已确认事件。后半未读完。
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/技法库/修改与润色方法.md	markdown	5968	EXCLUDED_WITH_REASON	not-read						AGENTS.md 规定旧稿与写作体系不作为本书依据；任务书允许作历史比较。本轮只列入清单，未读正文。
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/技法库/句子节奏与声音.md	markdown	5166	EXCLUDED_WITH_REASON	not-read						AGENTS.md 规定旧稿与写作体系不作为本书依据；任务书允许作历史比较。本轮只列入清单，未读正文。
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/技法库/群像与配角调度.md	markdown	5714	EXCLUDED_WITH_REASON	not-read						AGENTS.md 规定旧稿与写作体系不作为本书依据；任务书允许作历史比较。本轮只列入清单，未读正文。
@@ -554,7 +554,7 @@ the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/技法库/双�
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/技法库/描写手法大全.md	markdown	8156	EXCLUDED_WITH_REASON	not-read						AGENTS.md 规定旧稿与写作体系不作为本书依据；任务书允许作历史比较。本轮只列入清单，未读正文。
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/技法库/表达方式与表现手法.md	markdown	8697	EXCLUDED_WITH_REASON	not-read						AGENTS.md 规定旧稿与写作体系不作为本书依据；任务书允许作历史比较。本轮只列入清单，未读正文。
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/技法库/修辞手法大全.md	markdown	8621	EXCLUDED_WITH_REASON	not-read						AGENTS.md 规定旧稿与写作体系不作为本书依据；任务书允许作历史比较。本轮只列入清单，未读正文。
-the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/技法库/非虚构自传的法律与伦理边界.md	markdown	8222	EXCLUDED_WITH_REASON	not-read						AGENTS.md 规定旧稿与写作体系不作为本书依据；任务书允许作历史比较。本轮只列入清单，未读正文。
+the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/技法库/非虚构自传的法律与伦理边界.md	markdown	8222	FULL_READ	full-prose	research/grok-onboarding/character-dynamics.md					全文。真实挡不住隐私；合成人物不用于事实层。
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/技法库/潜台词与未说出口的情感-实操卡.md	markdown	2513	EXCLUDED_WITH_REASON	not-read						AGENTS.md 规定旧稿与写作体系不作为本书依据；任务书允许作历史比较。本轮只列入清单，未读正文。
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/技法库/场景与概述-节奏控制.md	markdown	5432	EXCLUDED_WITH_REASON	not-read						AGENTS.md 规定旧稿与写作体系不作为本书依据；任务书允许作历史比较。本轮只列入清单，未读正文。
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/技法库/物件叙事-让物替人说话.md	markdown	2983	EXCLUDED_WITH_REASON	not-read						AGENTS.md 规定旧稿与写作体系不作为本书依据；任务书允许作历史比较。本轮只列入清单，未读正文。
@@ -572,7 +572,7 @@ the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	高中/2025届/人物/学生
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	高中/2025届/人物/学生/张达.md	markdown	1421	METADATA_ONLY	inventory-only						
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	高中/2025届/人物/学生/胡睿涵.md	markdown	1448	METADATA_ONLY	inventory-only						
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	高中/2025届/人物/学生/颜子杰.md	markdown	14461	METADATA_ONLY	inventory-only						
-the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	高中/2025届/人物/学生/刘弈帆.md	markdown	18808	METADATA_ONLY	inventory-only						
+the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	高中/2025届/人物/学生/刘弈帆.md	markdown	18808	FULL_READ	full-prose	research/grok-onboarding/character-dynamics.md					全文。挚友是单方命名；高二上小组与六人名单不对齐。
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	高中/2025届/人物/学生/李亦然.md	markdown	1158	METADATA_ONLY	inventory-only						
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	高中/2025届/人物/学生/李晓婧.md	markdown	2002	METADATA_ONLY	inventory-only						
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	高中/2025届/人物/学生/匡逸宸.md	markdown	1382	METADATA_ONLY	inventory-only						
@@ -596,7 +596,7 @@ the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	高中/2025届/人物/学生
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	高中/2025届/人物/学生/尹晶馨.md	markdown	1672	METADATA_ONLY	inventory-only						
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	高中/2025届/人物/学生/李茹冰.md	markdown	1421	METADATA_ONLY	inventory-only						
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	高中/2025届/人物/学生/傅则立.md	markdown	957	METADATA_ONLY	inventory-only						
-the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	高中/2025届/人物/学生/董佳好.md	markdown	36985	METADATA_ONLY	inventory-only						
+the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	高中/2025届/人物/学生/董佳好.md	markdown	36985	FULL_READ	full-prose	research/grok-onboarding/character-dynamics.md					全文。很好的朋友不是恋爱；分组记忆与正文并列。
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	高中/2025届/人物/学生/上官青雨.md	markdown	1489	METADATA_ONLY	inventory-only						
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	高中/2025届/人物/学生/苏渝斐.md	markdown	1920	METADATA_ONLY	inventory-only						
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	高中/2025届/人物/学生/陈亭妤.md	markdown	3051	METADATA_ONLY	inventory-only						
@@ -605,7 +605,7 @@ the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	高中/2025届/人物/学生
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	高中/2025届/人物/学生/卞俊豪.md	markdown	1778	METADATA_ONLY	inventory-only						
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	高中/2025届/人物/学生/钟康明.md	markdown	3417	METADATA_ONLY	inventory-only						
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	高中/2025届/人物/学生/刘思岐.md	markdown	1457	METADATA_ONLY	inventory-only						
-the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	高中/2025届/人物/学生/宋俊豪.md	markdown	15748	METADATA_ONLY	inventory-only						
+the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	高中/2025届/人物/学生/宋俊豪.md	markdown	15748	FULL_READ	full-prose	research/grok-onboarding/character-dynamics.md					全文。423到426，床1与床5；刘一帆与刘弈帆不静默合并。
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	高中/2025届/人物/学生/王麒睿.md	markdown	18338	METADATA_ONLY	inventory-only						
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	高中/2025届/人物/学生/彭栩怡.md	markdown	1766	METADATA_ONLY	inventory-only						
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	高中/2025届/人物/学生/邓紫昂.md	markdown	1421	METADATA_ONLY	inventory-only						
@@ -758,7 +758,7 @@ the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	高中/G2204/G2204班人物�
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	高中/G2204/G2204至2025届毕业班同名记录衔接索引.md	markdown	8269	METADATA_ONLY	inventory-only						
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	高中/G2204/G2204高一入学、分组与寝室时间线.md	markdown	6940	METADATA_ONLY	inventory-only						
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	高中/G2204/人物/同学/戴胡楠.md	markdown	1261	METADATA_ONLY	inventory-only						
-the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	高中/G2204/人物/同学/王麒皓.md	markdown	2228	METADATA_ONLY	inventory-only						
+the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	高中/G2204/人物/同学/王麒皓.md	markdown	2228	FULL_READ	full-prose	research/grok-onboarding/character-dynamics.md					全文。525同寝；床位说法与正文并列。
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	高中/G2204/人物/同学/杨怀特.md	markdown	1261	METADATA_ONLY	inventory-only						
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	高中/G2204/人物/同学/汪智文.md	markdown	3950	METADATA_ONLY	inventory-only						
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	高中/G2204/人物/同学/颜承骏.md	markdown	1261	METADATA_ONLY	inventory-only						
@@ -780,7 +780,7 @@ the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	高中/G2204/人物/同学/�
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	高中/G2204/人物/同学/刘轩宏.md	markdown	1807	METADATA_ONLY	inventory-only						
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	高中/G2204/人物/同学/黄凡萌.md	markdown	1261	METADATA_ONLY	inventory-only						
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	高中/G2204/人物/同学/吴学鹏.md	markdown	1261	METADATA_ONLY	inventory-only						
-the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	高中/G2204/人物/同学/赵问竹.md	markdown	17872	METADATA_ONLY	inventory-only						
+the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	高中/G2204/人物/同学/赵问竹.md	markdown	17872	FULL_READ	full-prose	research/grok-onboarding/character-dynamics.md					全文。关系事实分用户确认层与她的原话；不自动升恋爱名称。
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	高中/G2204/人物/同学/黄禹锡.md	markdown	1261	METADATA_ONLY	inventory-only						
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	高中/G2204/人物/同学/邓宇轩.md	markdown	1261	METADATA_ONLY	inventory-only						
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	高中/G2204/人物/同学/邓靖霖.md	markdown	1110	METADATA_ONLY	inventory-only						
@@ -1156,7 +1156,7 @@ the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	百万长文写作/章稿/�
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	家庭/家庭敏感资料处理规则.md	markdown	4636	METADATA_ONLY	inventory-only						
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	家庭/家庭资料索引.md	markdown	3602	METADATA_ONLY	inventory-only						
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	家庭/人物/表姐（小姑之女）.md	markdown	2297	METADATA_ONLY	inventory-only						
-the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	家庭/人物/父亲.md	markdown	24665	PARTIAL_READ	partial-prose	research/grok-onboarding/reading-coverage.md					读新疆、回城、鹅洋池、上海并置、评价层约第160–199行/268行。未读全文。
+the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	家庭/人物/父亲.md	markdown	24665	FULL_READ	full-prose	research/grok-onboarding/character-dynamics.md					全文。1985原话与正文不完全同向；2016-10回城。
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	家庭/人物/表兄（大姑之子）.md	markdown	1991	METADATA_ONLY	inventory-only						
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	家庭/人物/洋洋（杨朝辉之女）.md	markdown	3275	METADATA_ONLY	inventory-only						
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	家庭/人物/姑父（父亲的二姐夫）.md	markdown	1684	METADATA_ONLY	inventory-only						
@@ -1171,8 +1171,8 @@ the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	家庭/人物/戴教练.md	m
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	家庭/人物/外婆（母系）.md	markdown	2656	METADATA_ONLY	inventory-only						
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	家庭/人物/兼祧祖父（肇雄）.md	markdown	2727	METADATA_ONLY	inventory-only						
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	家庭/人物/父亲的叔叔.md	markdown	1457	METADATA_ONLY	inventory-only						
-the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	家庭/人物/母亲.md	markdown	27406	PARTIAL_READ	partial-prose	research/grok-onboarding/reading-coverage.md					读出生当天、少女、命名、幼儿园与作文自述约第130–229行/273行。未读全文。
-the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	家庭/人物/父系祖母.md	markdown	8402	METADATA_ONLY	inventory-only						
+the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	家庭/人物/母亲.md	markdown	27406	FULL_READ	full-prose	research/grok-onboarding/character-dynamics.md					全文。出生说法、作文、伞、金海饭桌、李久其。
+the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	家庭/人物/父系祖母.md	markdown	8402	FULL_READ	full-prose	research/grok-onboarding/character-dynamics.md					全文。谭双秋。取名与三餐、回乡时间。
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	家庭/人物/杨铨.md	markdown	9855	METADATA_ONLY	inventory-only						
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	家庭/人物/父系祖父.md	markdown	3319	METADATA_ONLY	inventory-only						
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	家庭/人物/莫莫阿姨（杨铨之母）.md	markdown	2666	METADATA_ONLY	inventory-only						
@@ -1209,7 +1209,7 @@ the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	大学/四川大学/强基�
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	大学/四川大学/强基班/人物/同学/王卓斌.md	markdown	3231	METADATA_ONLY	inventory-only						
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	大学/四川大学/强基班/人物/同学/赵文邦.md	markdown	11866	METADATA_ONLY	inventory-only						
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	大学/四川大学/强基班/人物/同学/李腾岳.md	markdown	1441	METADATA_ONLY	inventory-only						
-the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	大学/四川大学/强基班/人物/同学/曾子沣.md	markdown	17208	METADATA_ONLY	inventory-only						
+the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	大学/四川大学/强基班/人物/同学/曾子沣.md	markdown	17208	FULL_READ	full-prose	research/grok-onboarding/character-dynamics.md					全文。室友；QQ名颜子杰不是麓山颜子杰。
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	大学/四川大学/强基班/人物/同学/张可文.md	markdown	2036	METADATA_ONLY	inventory-only						
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	大学/四川大学/强基班/人物/同学/刘桓彬.md	markdown	3890	METADATA_ONLY	inventory-only						
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	大学/四川大学/强基班/人物/同学/朱臣熙.md	markdown	1700	METADATA_ONLY	inventory-only						
@@ -1244,7 +1244,7 @@ the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	大学/浙江大学/竺可�
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	初中/初中阶段人物与素材索引.md	markdown	2345	METADATA_ONLY	inventory-only						
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	初中/2022届/金海中学2022届1907班-毕业名录.md	markdown	5694	METADATA_ONLY	inventory-only						
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	初中/2022届/人物/学生/彭议乐（第二排）.md	markdown	3019	METADATA_ONLY	inventory-only						
-the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	初中/2022届/人物/学生/朱学良.md	markdown	8488	METADATA_ONLY	inventory-only						
+the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	初中/2022届/人物/学生/朱学良.md	markdown	8488	FULL_READ	full-prose	research/grok-onboarding/character-dynamics.md					全文。名册第二排，自述第三排；情爱传闻不转写。
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	初中/2022届/人物/学生/邹鸿霖.md	markdown	3139	METADATA_ONLY	inventory-only						
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	初中/2022届/人物/学生/李悦铭.md	markdown	3051	METADATA_ONLY	inventory-only						
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	初中/2022届/人物/学生/孙思玥.md	markdown	4788	METADATA_ONLY	inventory-only						
@@ -1335,7 +1335,7 @@ the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	背景资料/地方背景/�
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	背景资料/地方背景/成都地方背景.md	markdown	5150	METADATA_ONLY	inventory-only						
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	背景资料/地方背景/上海与沪浙沿线地方背景.md	markdown	5667	METADATA_ONLY	inventory-only						
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	背景资料/地方背景/益阳与安化地方背景.md	markdown	5030	METADATA_ONLY	inventory-only						
-the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	背景资料/地方背景/刘佑林益阳家-秀水俪园与鹅羊池.md	markdown	19292	PARTIAL_READ	partial-prose	research/grok-onboarding/reading-coverage.md					读广场名称与沿革约第125–164行/252行。公共地名作鹅羊池。未读全文。
+the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	背景资料/地方背景/刘佑林益阳家-秀水俪园与鹅羊池.md	markdown	19292	FULL_READ	full-prose	research/grok-onboarding/character-dynamics.md					全文。公共地名鹅羊池。门牌不抄进公开报告。原图未打开。
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	背景资料/地方背景/新加坡地方背景.md	markdown	6387	METADATA_ONLY	inventory-only						
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	背景资料/地方背景/杭州地方背景.md	markdown	5052	METADATA_ONLY	inventory-only						
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	背景资料/地方背景/西安地方背景.md	markdown	5548	METADATA_ONLY	inventory-only						
