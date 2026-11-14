@@ -1,3 +1,11 @@
+# 停在这里：Phase 1 裁决 D 的四组返修，等作者验收｜2026-11-14
+
+- 分支 `creative/grok47-embodied-literary-revision`，Draft PR #65。不合并 main。不改 PR #64。不写 the-memory。不是第 51 轮。
+- 四章都高于冻结基线：001《左边的位置》7737→7759（D）；016《小红帽》5404→5406（A）；004《走上六楼》8762→9213（B）；011《寝室被扣分》3448→3450（C）。全书 507125→507602。
+- 作者未验收前，不把这四组扩到七十六章。账在 `editorial/phase1-embodied/trial-ledger.md`。
+
+---
+
 # 已完成：第四部《叫我名字的人》R7合并主支并双重验证｜2026-11-13
 
 - [PR#62](https://github.com/LYL-Z/the-memory-reading-notes/pull/62) GitHub实际报告`merged=true`，merge commit **`1b3840e93a3bf590834e2a4e669df7ae1ae8c5fe`**，main分支已验证指向该提交（随后将追加本次状态确认提交）。
