@@ -1,9 +1,9 @@
-# 进行中：第六部《未写完的纸》R1｜2026-11-14
+# 第六部《未写完的纸》R3 候审｜2026-11-14
 
-- 分支 `creative/grok47-volume06-continuous-r1-r3`，从 main `12ac7ee` 新建。Draft，不合并。第五部 PR #63 / #68 与八部曲 PR #56 只作阅读参考。
-- 已有正文 001–006，合计 14,787 官方汉字。007–020 还没有正文。R2、R3 未开始。
-- 续接点：007《校长信箱》。交接见 `state/volume06-handoff.md`。
-- 事实库 the-memory `ef33c98` 只读。个人总分、住址、教师病情不进公开正文。
+- 分支 `creative/grok47-volume06-continuous-r1-r3`。20 章都有正文。R1 `38b030e` 41,723 字；R2 `510e687` 43,758 字；R3 43,916 字。Draft，不合并。
+- 不是终稿，不是世界级验收。真人冷读 0。母亲要先看家里的段落。83 的分母、楼层、信箱原信、四百米成绩仍未核。
+- 交接：`state/volume06-handoff.md`。对照：`editorial/volume06/chapter-comparison.tsv`。
+- 事实库 the-memory `ef33c98` 只读。个人总分不进正文。
 
 ---
 

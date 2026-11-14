@@ -1,21 +1,22 @@
-chapter	title	r1	r2	r3	note
-001	换了一层楼	3376			R1 baseline before literary revision
-002	第一张试卷	2557			R1 baseline before literary revision
-003	不止一位老师	2830			R1 baseline before literary revision
-004	喜欢却并不稳定的一科	2163			R1 baseline before literary revision
-005	第一名是哪一回	2088			R1 baseline before literary revision
-006	八十三	1773			R1 baseline before literary revision
-007	校长信箱	1580			R1 baseline before literary revision
-008	有人笑了	1773			R1 baseline before literary revision
-009	有人在门外做饭	1754			R1 baseline before literary revision
-010	宋俊豪的卷子	1737			R1 baseline before literary revision
-011	九班来的朋友	1788			R1 baseline before literary revision
-012	礼物还没送出去	1891			R1 baseline before literary revision
-013	二班门口	2379			R1 baseline before literary revision
-014	四百米	2112			R1 baseline before literary revision
-015	倒数第二次模拟	1863			R1 baseline before literary revision
-016	南开与四川	1755			R1 baseline before literary revision
-017	把教室搬过去	1764			R1 baseline before literary revision
-018	没考完的夜里	1719			R1 baseline before literary revision
-019	最后一张答卷	2217			R1 baseline before literary revision
-020	那以后还要见面	2604			R1 baseline before literary revision
+chapter	title	r1	r2	r3	r3_minus_r1	note
+001	换了一层楼	3376	3376	3448	72	R3增补场面
+002	第一张试卷	2557	2557	2557	0	R2与R3均保留R1正文
+003	不止一位老师	2830	2830	2805	-25	R3删事后说明或比喻
+004	喜欢却并不稳定的一科	2163	2510	2510	347	R2已改，R3保留
+005	第一名是哪一回	2088	2088	2088	0	R2与R3均保留R1正文
+006	八十三	1773	1944	1944	171	R2已改，R3保留
+007	校长信箱	1580	1791	1791	211	R2已改，R3保留
+008	有人笑了	1773	1773	1729	-44	R3删事后说明或比喻
+009	有人在门外做饭	1754	2014	2014	260	R2已改，R3保留
+010	宋俊豪的卷子	1737	1953	1953	216	R2已改，R3保留
+011	九班来的朋友	1788	1788	1848	60	R3增补场面
+012	礼物还没送出去	1891	2214	2214	323	R2已改，R3保留
+013	二班门口	2379	2379	2389	10	R3增补场面
+014	四百米	2112	2210	2210	98	R2已改，R3保留
+015	倒数第二次模拟	1863	1957	1957	94	R2已改，R3保留
+016	南开与四川	1755	1886	1886	131	R2加车票；R3改掉对照句，字数相同
+017	把教室搬过去	1764	1955	1955	191	R2已改，R3保留
+018	没考完的夜里	1719	1743	1743	24	R2已改，R3保留
+019	最后一张答卷	2217	2217	2302	85	R3增补场面
+020	那以后还要见面	2604	2573	2573	-31	R2已改，R3保留
+TOTAL		41723	43758	43916	2193	R1 sha 38b030e; R2 sha 510e687
