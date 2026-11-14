@@ -411,21 +411,21 @@ the-memory-reading-notes	12ac7ee9342b93a9cbf091095562b205321237b7	editorial/roun
 the-memory-reading-notes	12ac7ee9342b93a9cbf091095562b205321237b7	editorial/round44-sol/stage1-changes.json	json	27222	METADATA_ONLY	inventory-only						历史编辑/审稿材料。按任务书第十八节，先读正文再读旧审稿。本轮多数未读。
 the-memory-reading-notes	12ac7ee9342b93a9cbf091095562b205321237b7	editorial/round44-sol/stage2-more-changes.json	json	27712	METADATA_ONLY	inventory-only						历史编辑/审稿材料。按任务书第十八节，先读正文再读旧审稿。本轮多数未读。
 the-memory-reading-notes	12ac7ee9342b93a9cbf091095562b205321237b7	editorial/volume04/2026-11-13-r6-full18-hanzi-comparison.tsv	other	982	METADATA_ONLY	inventory-only						历史编辑/审稿材料。按任务书第十八节，先读正文再读旧审稿。本轮多数未读。
-the-memory-reading-notes	12ac7ee9342b93a9cbf091095562b205321237b7	editorial/volume04/2026-11-13-r1-sixchapter-literary-audit.md	markdown	6418	METADATA_ONLY	inventory-only						历史编辑/审稿材料。按任务书第十八节，先读正文再读旧审稿。本轮多数未读。
-the-memory-reading-notes	12ac7ee9342b93a9cbf091095562b205321237b7	editorial/volume04/2026-11-13-r6-structural-refinement-audit.md	markdown	11595	METADATA_ONLY	inventory-only						历史编辑/审稿材料。按任务书第十八节，先读正文再读旧审稿。本轮多数未读。
+the-memory-reading-notes	12ac7ee9342b93a9cbf091095562b205321237b7	editorial/volume04/2026-11-13-r1-sixchapter-literary-audit.md	markdown	6418	FULL_READ	full-prose	research/grok-onboarding/review-round-comparison.md					全文。对照见 review-round-comparison.md。
+the-memory-reading-notes	12ac7ee9342b93a9cbf091095562b205321237b7	editorial/volume04/2026-11-13-r6-structural-refinement-audit.md	markdown	11595	FULL_READ	full-prose	research/grok-onboarding/review-round-comparison.md					全文。
 the-memory-reading-notes	12ac7ee9342b93a9cbf091095562b205321237b7	editorial/volume04/2026-11-13-r1-hanzi-counts.tsv	other	445	METADATA_ONLY	inventory-only						历史编辑/审稿材料。按任务书第十八节，先读正文再读旧审稿。本轮多数未读。
-the-memory-reading-notes	12ac7ee9342b93a9cbf091095562b205321237b7	editorial/volume04/2026-11-13-r7-final-review-main-merge-acceptance.md	markdown	8909	PARTIAL_READ	partial-prose	research/grok-onboarding/reading-coverage.md					读前约60行。426与歌名未知、毕业照日期待核，与读审稿前的判断一致，不新造。
-the-memory-reading-notes	12ac7ee9342b93a9cbf091095562b205321237b7	editorial/volume04/2026-11-13-r4-full18-structural-revision-audit.md	markdown	7148	METADATA_ONLY	inventory-only						历史编辑/审稿材料。按任务书第十八节，先读正文再读旧审稿。本轮多数未读。
+the-memory-reading-notes	12ac7ee9342b93a9cbf091095562b205321237b7	editorial/volume04/2026-11-13-r7-final-review-main-merge-acceptance.md	markdown	8909	FULL_READ	full-prose	research/grok-onboarding/review-round-comparison.md					全文。此前只读开头，本轮按43行计为全文。
+the-memory-reading-notes	12ac7ee9342b93a9cbf091095562b205321237b7	editorial/volume04/2026-11-13-r4-full18-structural-revision-audit.md	markdown	7148	FULL_READ	full-prose	research/grok-onboarding/review-round-comparison.md					全文。
 the-memory-reading-notes	12ac7ee9342b93a9cbf091095562b205321237b7	editorial/volume04/2026-11-13-r7-final18-hanzi-comparison.tsv	other	1100	METADATA_ONLY	inventory-only						历史编辑/审稿材料。按任务书第十八节，先读正文再读旧审稿。本轮多数未读。
-the-memory-reading-notes	12ac7ee9342b93a9cbf091095562b205321237b7	editorial/volume04/2026-11-13-r3-full18-literary-continuity-audit.md	markdown	10283	METADATA_ONLY	inventory-only						历史编辑/审稿材料。按任务书第十八节，先读正文再读旧审稿。本轮多数未读。
-the-memory-reading-notes	12ac7ee9342b93a9cbf091095562b205321237b7	editorial/volume04/2026-11-13-r6-hy4-independent-review-brief.md	markdown	3592	METADATA_ONLY	inventory-only						历史编辑/审稿材料。按任务书第十八节，先读正文再读旧审稿。本轮多数未读。
+the-memory-reading-notes	12ac7ee9342b93a9cbf091095562b205321237b7	editorial/volume04/2026-11-13-r3-full18-literary-continuity-audit.md	markdown	10283	FULL_READ	full-prose	research/grok-onboarding/review-round-comparison.md					全文。
+the-memory-reading-notes	12ac7ee9342b93a9cbf091095562b205321237b7	editorial/volume04/2026-11-13-r6-hy4-independent-review-brief.md	markdown	3592	FULL_READ	full-prose	research/grok-onboarding/review-round-comparison.md					全文。这是任务书，不是独立审稿结论。
 the-memory-reading-notes	12ac7ee9342b93a9cbf091095562b205321237b7	editorial/volume04/2026-11-13-r4-full18-hanzi-comparison.tsv	other	977	METADATA_ONLY	inventory-only						历史编辑/审稿材料。按任务书第十八节，先读正文再读旧审稿。本轮多数未读。
 the-memory-reading-notes	12ac7ee9342b93a9cbf091095562b205321237b7	editorial/volume04/2026-11-13-r3-full18-hanzi-counts.tsv	other	858	METADATA_ONLY	inventory-only						历史编辑/审稿材料。按任务书第十八节，先读正文再读旧审稿。本轮多数未读。
 the-memory-reading-notes	12ac7ee9342b93a9cbf091095562b205321237b7	editorial/volume04/2026-11-13-r2-full12-hanzi-counts.tsv	other	533	METADATA_ONLY	inventory-only						历史编辑/审稿材料。按任务书第十八节，先读正文再读旧审稿。本轮多数未读。
 the-memory-reading-notes	12ac7ee9342b93a9cbf091095562b205321237b7	editorial/volume04/2026-11-13-r5-full18-hanzi-comparison.tsv	other	1083	METADATA_ONLY	inventory-only						历史编辑/审稿材料。按任务书第十八节，先读正文再读旧审稿。本轮多数未读。
-the-memory-reading-notes	12ac7ee9342b93a9cbf091095562b205321237b7	editorial/volume04/2026-11-13-r2-ch007-012-literary-review.md	markdown	3877	METADATA_ONLY	inventory-only						历史编辑/审稿材料。按任务书第十八节，先读正文再读旧审稿。本轮多数未读。
-the-memory-reading-notes	12ac7ee9342b93a9cbf091095562b205321237b7	editorial/volume04/2026-11-13-r5-third-deep-editorial-review.md	markdown	9080	METADATA_ONLY	inventory-only						历史编辑/审稿材料。按任务书第十八节，先读正文再读旧审稿。本轮多数未读。
-the-memory-reading-notes	12ac7ee9342b93a9cbf091095562b205321237b7	editorial/volume04/2026-11-13-r5-reader-revelation-map.md	markdown	4765	METADATA_ONLY	inventory-only						历史编辑/审稿材料。按任务书第十八节，先读正文再读旧审稿。本轮多数未读。
+the-memory-reading-notes	12ac7ee9342b93a9cbf091095562b205321237b7	editorial/volume04/2026-11-13-r2-ch007-012-literary-review.md	markdown	3877	FULL_READ	full-prose	research/grok-onboarding/review-round-comparison.md					全文。
+the-memory-reading-notes	12ac7ee9342b93a9cbf091095562b205321237b7	editorial/volume04/2026-11-13-r5-third-deep-editorial-review.md	markdown	9080	FULL_READ	full-prose	research/grok-onboarding/review-round-comparison.md					全文。
+the-memory-reading-notes	12ac7ee9342b93a9cbf091095562b205321237b7	editorial/volume04/2026-11-13-r5-reader-revelation-map.md	markdown	4765	FULL_READ	full-prose	research/grok-onboarding/review-round-comparison.md					全文。
 the-memory-reading-notes	12ac7ee9342b93a9cbf091095562b205321237b7	editorial/round50-kimi/voice-and-fairness-audit.md	markdown	6560	METADATA_ONLY	inventory-only						历史编辑/审稿材料。按任务书第十八节，先读正文再读旧审稿。本轮多数未读。
 the-memory-reading-notes	12ac7ee9342b93a9cbf091095562b205321237b7	editorial/round50-kimi/clues-and-payoffs.md	markdown	3993	METADATA_ONLY	inventory-only						历史编辑/审稿材料。按任务书第十八节，先读正文再读旧审稿。本轮多数未读。
 the-memory-reading-notes	12ac7ee9342b93a9cbf091095562b205321237b7	editorial/round50-kimi/manuscript-diff-from-r49-chatgpt.patch	other	4519	METADATA_ONLY	inventory-only						历史编辑/审稿材料。按任务书第十八节，先读正文再读旧审稿。本轮多数未读。
@@ -516,49 +516,49 @@ the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	Excalidraw/Drawing 2026-08-1
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	Excalidraw/Excalidraw索引.md	markdown	1383	METADATA_ONLY	inventory-only						
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	Excalidraw/The Memory-全库知识网络总图.excalidraw.md	markdown	56781	METADATA_ONLY	inventory-only						
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/长篇创作规格-2026-08-28-颜子杰建议与用户确认.md	markdown	7243	FULL_READ	full-prose	research/grok-onboarding/character-dynamics.md					全文。时间顺序主线与84万属于该规格，低于人物页。
-the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/写作体系索引.md	markdown	12453	PARTIAL_READ	partial-prose	research/grok-onboarding/reading-coverage.md					读至约第80行/119行。事实与人物页优先于技法。44份技法正文未逐份读完。
+the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/写作体系索引.md	markdown	12453	FULL_READ	full-prose	research/grok-onboarding/reading-coverage.md					全文。事实层、解释层、表达层分开；结尾不得强行讲道理。
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/创作总纲-百万字散文式自传小说.md	markdown	9524	FULL_READ	full-prose	research/grok-onboarding/character-dynamics.md					全文。事实优先；章末不用感悟总结。管百万长文，不是现行四部的目录。
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/外部知识/读物人物选编-2026-08-29.md	markdown	24049	EXCLUDED_WITH_REASON	not-read						AGENTS.md 规定旧稿与写作体系不作为本书依据；任务书允许作历史比较。本轮只列入清单，未读正文。
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/外部知识/学科谱系与思想坐标-2026-08-29.md	markdown	13790	EXCLUDED_WITH_REASON	not-read						AGENTS.md 规定旧稿与写作体系不作为本书依据；任务书允许作历史比较。本轮只列入清单，未读正文。
-the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/外部知识/知识结构与阅读谱系-2026-08-29.md	markdown	11229	EXCLUDED_WITH_REASON	not-read						AGENTS.md 规定旧稿与写作体系不作为本书依据；任务书允许作历史比较。本轮只列入清单，未读正文。
-the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/外部知识/把学习写进自传-技法-2026-08-29.md	markdown	11261	EXCLUDED_WITH_REASON	not-read						AGENTS.md 规定旧稿与写作体系不作为本书依据；任务书允许作历史比较。本轮只列入清单，未读正文。
-the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/语料库/句法与意象索引-2026-09-06.md	markdown	3763	EXCLUDED_WITH_REASON	not-read						AGENTS.md 规定旧稿与写作体系不作为本书依据；任务书允许作历史比较。本轮只列入清单，未读正文。
+the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/外部知识/知识结构与阅读谱系-2026-08-29.md	markdown	11229	FULL_READ	full-prose	research/grok-onboarding/reading-coverage.md					全文。书架索引；原图未打开。
+the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/外部知识/把学习写进自传-技法-2026-08-29.md	markdown	11261	FULL_READ	full-prose	research/grok-onboarding/reading-coverage.md					全文。不评书评处境；不得伪造阅读情境。
+the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/语料库/句法与意象索引-2026-09-06.md	markdown	3763	FULL_READ	full-prose	research/grok-onboarding/reading-coverage.md					全文。只提炼方法，禁止搬句。
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/语料库/优美语句与意象素材-用户汇编.md	markdown	7719	EXCLUDED_WITH_REASON	not-read						AGENTS.md 规定旧稿与写作体系不作为本书依据；任务书允许作历史比较。本轮只列入清单，未读正文。
-the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/风格参考/作家精读卡补遗-2026-09-06.md	markdown	3779	EXCLUDED_WITH_REASON	not-read						AGENTS.md 规定旧稿与写作体系不作为本书依据；任务书允许作历史比较。本轮只列入清单，未读正文。
+the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/风格参考/作家精读卡补遗-2026-09-06.md	markdown	3779	FULL_READ	full-prose	research/grok-onboarding/reading-coverage.md					全文。史铁生、沈从文、王鼎钧只学结构，不仿腔。
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/风格参考/李道新-奥德赛不可靠叙述讲解-全文转写.md	markdown	19142	EXCLUDED_WITH_REASON	not-read						AGENTS.md 规定旧稿与写作体系不作为本书依据；任务书允许作历史比较。本轮只列入清单，未读正文。
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/风格参考/作家作品参考谱系.md	markdown	16364	EXCLUDED_WITH_REASON	not-read						AGENTS.md 规定旧稿与写作体系不作为本书依据；任务书允许作历史比较。本轮只列入清单，未读正文。
-the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/风格参考/长篇自传与散文技法拆解-2026-08-28.md	markdown	10426	EXCLUDED_WITH_REASON	not-read						AGENTS.md 规定旧稿与写作体系不作为本书依据；任务书允许作历史比较。本轮只列入清单，未读正文。
+the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/风格参考/长篇自传与散文技法拆解-2026-08-28.md	markdown	10426	FULL_READ	full-prose	research/grok-onboarding/reading-coverage.md					全文。67号书目只迁移高层方法。
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/风格参考/名篇全篇精读卡片-2026-08-29.md	markdown	32342	EXCLUDED_WITH_REASON	not-read						AGENTS.md 规定旧稿与写作体系不作为本书依据；任务书允许作历史比较。本轮只列入清单，未读正文。
-the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/风格参考/当代长篇/三部当代都市长篇共性与可迁移技法-2026-09-07.md	markdown	9215	EXCLUDED_WITH_REASON	not-read						AGENTS.md 规定旧稿与写作体系不作为本书依据；任务书允许作历史比较。本轮只列入清单，未读正文。
+the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/风格参考/当代长篇/三部当代都市长篇共性与可迁移技法-2026-09-07.md	markdown	9215	FULL_READ	full-prose	research/grok-onboarding/reading-coverage.md					全文。该页自承三部原著未逐章精读。学技不学腔。
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/风格参考/当代长篇/早春晴朗-全篇技法拆解-2026-09-07.md	markdown	10527	EXCLUDED_WITH_REASON	not-read						AGENTS.md 规定旧稿与写作体系不作为本书依据；任务书允许作历史比较。本轮只列入清单，未读正文。
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/风格参考/当代长篇/野狗骨头-全篇技法拆解-2026-09-07.md	markdown	11390	EXCLUDED_WITH_REASON	not-read						AGENTS.md 规定旧稿与写作体系不作为本书依据；任务书允许作历史比较。本轮只列入清单，未读正文。
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/风格参考/当代长篇/飞到我心上-全篇技法拆解-2026-09-07.md	markdown	9209	EXCLUDED_WITH_REASON	not-read						AGENTS.md 规定旧稿与写作体系不作为本书依据；任务书允许作历史比较。本轮只列入清单，未读正文。
-the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/技法库/记叙顺序与时间结构.md	markdown	9264	PARTIAL_READ	partial-prose	research/grok-onboarding/reading-coverage.md					读至约第80行。讲述顺序不等于发生顺序。后半未读完。
+the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/技法库/记叙顺序与时间结构.md	markdown	9264	FULL_READ	full-prose	research/grok-onboarding/reading-coverage.md					全文。讲述顺序可以打乱，知识库时间线不动；留白不留事实。
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/技法库/开头与结尾.md	markdown	5607	FULL_READ	full-prose	research/grok-onboarding/character-dynamics.md					全文。禁止总结式、升华式收尾。与读正文前的批评同向。
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/技法库/叙事结构与语言工具.md	markdown	6281	EXCLUDED_WITH_REASON	not-read						AGENTS.md 规定旧稿与写作体系不作为本书依据；任务书允许作历史比较。本轮只列入清单，未读正文。
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/技法库/文体技法-小说.md	markdown	7027	EXCLUDED_WITH_REASON	not-read						AGENTS.md 规定旧稿与写作体系不作为本书依据；任务书允许作历史比较。本轮只列入清单，未读正文。
-the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/技法库/叙事视角与叙述方式.md	markdown	9536	EXCLUDED_WITH_REASON	not-read						AGENTS.md 规定旧稿与写作体系不作为本书依据；任务书允许作历史比较。本轮只列入清单，未读正文。
+the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/技法库/叙事视角与叙述方式.md	markdown	9536	FULL_READ	full-prose	research/grok-onboarding/reading-coverage.md					全文。成年回望默认；替想不得写成对方已确认的内心。
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/技法库/文体技法-诗词韵文.md	markdown	6787	EXCLUDED_WITH_REASON	not-read						AGENTS.md 规定旧稿与写作体系不作为本书依据；任务书允许作历史比较。本轮只列入清单，未读正文。
-the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/技法库/不可靠叙述.md	markdown	16092	PARTIAL_READ	partial-prose	research/grok-onboarding/reading-coverage.md					读至约第70行。限知可用，电影双结局不可用于已确认事件。后半未读完。
-the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/技法库/修改与润色方法.md	markdown	5968	EXCLUDED_WITH_REASON	not-read						AGENTS.md 规定旧稿与写作体系不作为本书依据；任务书允许作历史比较。本轮只列入清单，未读正文。
-the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/技法库/句子节奏与声音.md	markdown	5166	EXCLUDED_WITH_REASON	not-read						AGENTS.md 规定旧稿与写作体系不作为本书依据；任务书允许作历史比较。本轮只列入清单，未读正文。
-the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/技法库/群像与配角调度.md	markdown	5714	EXCLUDED_WITH_REASON	not-read						AGENTS.md 规定旧稿与写作体系不作为本书依据；任务书允许作历史比较。本轮只列入清单，未读正文。
-the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/技法库/时代与物质细节.md	markdown	6291	EXCLUDED_WITH_REASON	not-read						AGENTS.md 规定旧稿与写作体系不作为本书依据；任务书允许作历史比较。本轮只列入清单，未读正文。
-the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/技法库/情感节制与反煽情.md	markdown	6706	EXCLUDED_WITH_REASON	not-read						AGENTS.md 规定旧稿与写作体系不作为本书依据；任务书允许作历史比较。本轮只列入清单，未读正文。
+the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/技法库/不可靠叙述.md	markdown	16092	FULL_READ	full-prose	research/grok-onboarding/reading-coverage.md					全文。亲历可错，回望不得对证据撒谎；已确认事件不做电影双结局。
+the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/技法库/修改与润色方法.md	markdown	5968	FULL_READ	full-prose	research/grok-onboarding/reading-coverage.md					全文。润色不得加未发生的对白、天气。
+the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/技法库/句子节奏与声音.md	markdown	5166	FULL_READ	full-prose	research/grok-onboarding/reading-coverage.md					全文。节奏不为文采牺牲时序。
+the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/技法库/群像与配角调度.md	markdown	5714	FULL_READ	full-prose	research/grok-onboarding/reading-coverage.md					全文。名录不证明关系；同组不是亲密。
+the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/技法库/时代与物质细节.md	markdown	6291	FULL_READ	full-prose	research/grok-onboarding/reading-coverage.md					全文。未出现的年代物不得凭印象补。
+the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/技法库/情感节制与反煽情.md	markdown	6706	FULL_READ	full-prose	research/grok-onboarding/reading-coverage.md					全文。感情交给细节；删请求理解的句子。
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/技法库/对话与人物语言写作.md	markdown	7846	EXCLUDED_WITH_REASON	not-read						AGENTS.md 规定旧稿与写作体系不作为本书依据；任务书允许作历史比较。本轮只列入清单，未读正文。
-the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/技法库/文体技法-散文与非虚构自传.md	markdown	9348	EXCLUDED_WITH_REASON	not-read						AGENTS.md 规定旧稿与写作体系不作为本书依据；任务书允许作历史比较。本轮只列入清单，未读正文。
-the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/技法库/技法库总索引.md	markdown	12768	EXCLUDED_WITH_REASON	not-read						AGENTS.md 规定旧稿与写作体系不作为本书依据；任务书允许作历史比较。本轮只列入清单，未读正文。
-the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/技法库/文学性·爽文性·细节性·准确性.md	markdown	9058	EXCLUDED_WITH_REASON	not-read						AGENTS.md 规定旧稿与写作体系不作为本书依据；任务书允许作历史比较。本轮只列入清单，未读正文。
-the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/技法库/长篇结构与写作方案.md	markdown	9071	EXCLUDED_WITH_REASON	not-read						AGENTS.md 规定旧稿与写作体系不作为本书依据；任务书允许作历史比较。本轮只列入清单，未读正文。
-the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/技法库/双声部切换-实操卡.md	markdown	3009	EXCLUDED_WITH_REASON	not-read						AGENTS.md 规定旧稿与写作体系不作为本书依据；任务书允许作历史比较。本轮只列入清单，未读正文。
+the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/技法库/文体技法-散文与非虚构自传.md	markdown	9348	FULL_READ	full-prose	research/grok-onboarding/reading-coverage.md					全文。情感真实不能篡改事实。
+the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/技法库/技法库总索引.md	markdown	12768	FULL_READ	full-prose	research/grok-onboarding/reading-coverage.md					全文。技法只在表达层；事实、隐私、人物页优先。
+the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/技法库/文学性·爽文性·细节性·准确性.md	markdown	9058	FULL_READ	full-prose	research/grok-onboarding/reading-coverage.md					全文。准确优先；不借打脸和主角光环。
+the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/技法库/长篇结构与写作方案.md	markdown	9071	FULL_READ	full-prose	research/grok-onboarding/reading-coverage.md					全文。结构用来发现转折，不编转折。五卷是工作抽屉。
+the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/技法库/双声部切换-实操卡.md	markdown	3009	FULL_READ	full-prose	research/grok-onboarding/reading-coverage.md					全文。禁中途升格；后来/多年后有次数上限，属百万长文施工。
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/技法库/描写手法大全.md	markdown	8156	EXCLUDED_WITH_REASON	not-read						AGENTS.md 规定旧稿与写作体系不作为本书依据；任务书允许作历史比较。本轮只列入清单，未读正文。
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/技法库/表达方式与表现手法.md	markdown	8697	EXCLUDED_WITH_REASON	not-read						AGENTS.md 规定旧稿与写作体系不作为本书依据；任务书允许作历史比较。本轮只列入清单，未读正文。
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/技法库/修辞手法大全.md	markdown	8621	EXCLUDED_WITH_REASON	not-read						AGENTS.md 规定旧稿与写作体系不作为本书依据；任务书允许作历史比较。本轮只列入清单，未读正文。
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/技法库/非虚构自传的法律与伦理边界.md	markdown	8222	FULL_READ	full-prose	research/grok-onboarding/character-dynamics.md					全文。真实挡不住隐私；合成人物不用于事实层。
-the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/技法库/潜台词与未说出口的情感-实操卡.md	markdown	2513	EXCLUDED_WITH_REASON	not-read						AGENTS.md 规定旧稿与写作体系不作为本书依据；任务书允许作历史比较。本轮只列入清单，未读正文。
-the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/技法库/场景与概述-节奏控制.md	markdown	5432	EXCLUDED_WITH_REASON	not-read						AGENTS.md 规定旧稿与写作体系不作为本书依据；任务书允许作历史比较。本轮只列入清单，未读正文。
-the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/技法库/物件叙事-让物替人说话.md	markdown	2983	EXCLUDED_WITH_REASON	not-read						AGENTS.md 规定旧稿与写作体系不作为本书依据；任务书允许作历史比较。本轮只列入清单，未读正文。
-the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/技法库/方言与声音质感-实操卡.md	markdown	3002	EXCLUDED_WITH_REASON	not-read						AGENTS.md 规定旧稿与写作体系不作为本书依据；任务书允许作历史比较。本轮只列入清单，未读正文。
+the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/技法库/潜台词与未说出口的情感-实操卡.md	markdown	2513	FULL_READ	full-prose	research/grok-onboarding/reading-coverage.md					全文。赵问竹替想不能写成她的告白。
+the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/技法库/场景与概述-节奏控制.md	markdown	5432	FULL_READ	full-prose	research/grok-onboarding/reading-coverage.md					全文。不得用场景填记忆空白。
+the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/技法库/物件叙事-让物替人说话.md	markdown	2983	FULL_READ	full-prose	research/grok-onboarding/reading-coverage.md					全文。物不解释自己；别人的物不抢用。
+the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	写作体系/技法库/方言与声音质感-实操卡.md	markdown	3002	FULL_READ	full-prose	research/grok-onboarding/reading-coverage.md					全文。口癖必须来自语料，不得发明。
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	高中/高中阶段人物与素材索引.md	markdown	4882	METADATA_ONLY	inventory-only						
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	高中/2025届/G2205班-任课教师与更替.md	markdown	6115	METADATA_ONLY	inventory-only						
 the-memory	ef33c98d63b88283e840f5414db154eb9118c4e4	高中/2025届/学校管理层时间线.md	markdown	2180	METADATA_ONLY	inventory-only						
