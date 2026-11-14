@@ -1,3 +1,11 @@
+# 全卷精修｜四部候选已齐｜2026-11-14
+
+- 分支 `creative/grok47-phase1-full-volumes`。全书约 526,626。总表 `editorial/phase1-full/76-status.md`。
+- 十二组对照、连读、台账、待核定与公开风险都在 `editorial/phase1-full/`。
+- 未合并。不是 R51。下一刀若有，先核定麓山录取是一晚还是两晚。
+
+---
+
 # 全卷精修｜第二部已判定，第三部停在 002｜2026-11-14
 
 - HEAD 以本分支最新提交为准。第二部二十一章 TARGETED_REVISED，015、017、019 RETAINED。表在 `editorial/phase1-full/volume-02-status.md`。
