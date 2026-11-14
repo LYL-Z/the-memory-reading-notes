@@ -1,4 +1,4 @@
-> **第四部R7最终阶段主支整合候选（2026-11-13）**：18章**71,325 CJK汉字**，相对R6 71,002净增323；6章实改、12章本轮保留；[PR#62](https://github.com/LYL-Z/the-memory-reading-notes/pull/62)按作者明确要求进入合并流程，**以GitHub实际merge=true为主支合入准据**。前3部main基线58章435,800字不改，四部条件性合计76章507,125字。第三方正式出版审阅、人类陌生读者冷读仍未完成，不冒称“世界级/零AI感”验证。[R7审稿](editorial/volume04/2026-11-13-r7-final-review-main-merge-acceptance.md) · [R7逐章计数](editorial/volume04/2026-11-13-r7-final18-hanzi-comparison.tsv) · [项目记忆](state/2026-11-13-volume04-r7-final-main-handoff.md)。
+> **第四部R7已正式合并main（2026-11-13）**：[PR#62](https://github.com/LYL-Z/the-memory-reading-notes/pull/62) 已由GitHub返回`merged=true`，Merge Commit `1b3840e93a3bf590834e2a4e669df7ae1ae8c5fe`；main实际取回18章、核实**71,325 CJK汉字**，前3部58章435,800未改，**四部76章507,125汉字**。R3—R7完整审稿修订链保留在Git历史。[R7终审](editorial/volume04/2026-11-13-r7-final-review-main-merge-acceptance.md) · [R7字数账](editorial/volume04/2026-11-13-r7-final18-hanzi-comparison.tsv) · [已验证项目记忆](state/2026-11-13-volume04-r7-final-main-handoff.md)。这是作者要求的主支工作稿整合，**不等于真人独立冷读、第三人全部出版权益确认或文学水平认证**。
 
 ---
 

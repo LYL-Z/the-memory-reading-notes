@@ -1,6 +1,6 @@
 # 第四部《叫我名字的人》｜连续创作工作卷纲
 
-> **R7作者要求的最终阶段整合候选（2026-11-13）**：第四部18章**71,325官方CJK汉字**，R6为71,002，净增323；6章正文实改。PR#62进入待合并状态，是否已合并以GitHub状态为准。合并后旧R1—R6及其账本留在历史中，[R7终轮审稿](../editorial/volume04/2026-11-13-r7-final-review-main-merge-acceptance.md)与[字数账](../editorial/volume04/2026-11-13-r7-final18-hanzi-comparison.tsv)为正式版本依据。
+> **R7第四部主支工作定稿（2026-11-13）**：已在[PR#62](https://github.com/LYL-Z/the-memory-reading-notes/pull/62)合并main；GitHub验证merge commit `1b3840e93a3bf590834e2a4e669df7ae1ae8c5fe`，远端main已逐章核实18章**71,325 CJK汉字**；全书第一—四部76章**507,125**。本阶段写作版本冻结为R7，不再保留与之竞争的第四部终稿；正式出版前的人物权益审阅、陌生人冷读与跨五—八部结构呼应仍属后续长期门槛。[终轮审稿](../editorial/volume04/2026-11-13-r7-final-review-main-merge-acceptance.md)。
 
 ## R7最后阶段结构性改动（2026-11-13；优先于下方历史R6及以前）
 

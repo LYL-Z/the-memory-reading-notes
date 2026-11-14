@@ -1,3 +1,14 @@
+# 已完成：第四部《叫我名字的人》R7合并主支并双重验证｜2026-11-13
+
+- [PR#62](https://github.com/LYL-Z/the-memory-reading-notes/pull/62) GitHub实际报告`merged=true`，merge commit **`1b3840e93a3bf590834e2a4e669df7ae1ae8c5fe`**，main分支已验证指向该提交（随后将追加本次状态确认提交）。
+- 18个`manuscript/volume-04/001—018.md`在**main实际逐章读回**：**71,325官方CJK汉字**；18个顶级标题均存在，无冲突标记。第一至三部正文diff=0，已有58章435,800；现在main共76章507,125。
+- [R7逐章字数](../editorial/volume04/2026-11-13-r7-final18-hanzi-comparison.tsv)、[R7最后一次审稿](../editorial/volume04/2026-11-13-r7-final-review-main-merge-acceptance.md)、[跨对话记忆](2026-11-13-volume04-r7-final-main-handoff.md)及R1—R6归档全部合入main，保留完整提交历史（Merge Commit，未Squash）。
+- 项目版本由`R7_FINAL_MAIN_INTEGRATION_CANDIDATE`更新为**`VOLUME04_R7_MERGED_MAIN_EDITORIAL_CLOSED`**。含义仅限作者授权的Git主支工作定稿；不等于作者正式出版发售、第三人权利已全部核阅或文学获得人类独立评价。
+- 原`LYL-Z/the-memory`事实仓`master`保留`ef33c98d63b88283e840f5414db154eb9118c4e4`，未经写入。朱学良问卷Q4个人情爱不写、Q5希望先看涉及本人稿；出版传播前需独立处理。真正陌生读者完整冷读=0，未声称全量逐字读完两个大仓。
+- 下一阶段仅围绕后续分卷的跨卷回声与人物关系做创作，若要对第四部再修改须有具体新的事实/文学缺陷，不因追求“世界级”标签循环无条件精修。
+
+---
+
 # 第四部R7最终阶段主支合并候选｜2026-11-13
 
 - 版本：18章**71,325官方汉字**（R6 71,002，+323）；修改007、008、010、011、014、018六章。R7文件：`editorial/volume04/2026-11-13-r7-final18-hanzi-comparison.tsv`、`editorial/volume04/2026-11-13-r7-final-review-main-merge-acceptance.md`。
