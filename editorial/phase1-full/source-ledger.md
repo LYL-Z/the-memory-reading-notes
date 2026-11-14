@@ -24,3 +24,16 @@
 - SOURCE_SUPPORTED：8 月 27 日报到；28 日语文和选科；29 日数学和英语；王麒皓、蒋明、阳隽豪在；床位自己记不清；手机晚自习前交。
 - LITERARY_RECONSTRUCTION：夜里背书卡在一个虚词、卷子上那个词不在空里、英语第一句没听见、29 日晚上猜班。虚词没有原始记录，只表示「没准备好」的一次复合。
 - 删去的童年怕黑不记为新事实。第三部 003 仍保有那些句子。
+
+## 本轮第一部新增场（文学复合，不进正文）
+
+- 001 楼梯上「拍的是笔记」：LITERARY_RECONSTRUCTION。未给前排女生姓名。
+- 002 当晚划掉前半段、对门外说睡了：LITERARY_RECONSTRUCTION。家书之夜不在此章。
+- 003 唱歌的那夜与次日倒粥：唱的歌名、分开、师大附中沿原稿。对白与倒粥为 LITERARY_RECONSTRUCTION。不写对方内心，不引歌词。
+- 005 晚自习眼睛红、楼下分开：LITERARY_RECONSTRUCTION。
+- 006 益阳南、额头、六楼三楼停留、温度计：楼无电梯沿第三部圣经。这一趟车和体温计是复合，不是某次病历。
+- 010 次日早到、黑板已擦：LITERARY_RECONSTRUCTION。不解释零。
+- 013 值班老师夹纸路过：不具名，不写入人物页。LITERARY_RECONSTRUCTION。
+- 016 次日早读跟丢第一句：LITERARY_RECONSTRUCTION。
+- 018 回寝室只说「还行」：LITERARY_RECONSTRUCTION。四个字不在 525 里说第二遍。
+

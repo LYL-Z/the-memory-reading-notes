@@ -2,20 +2,20 @@
 
 分支 `creative/grok47-phase1-full-volumes`。起点 main `12ac7ee9342b93a9cbf091095562b205321237b7`。the-memory `ef33c98d63b88283e840f5414db154eb9118c4e4` 只读。不是 R51。不合并。
 
+全书相对冻结基线 507,125 → 510,614（+3,489）。逐章没有低于基线。
+
 ## 第一部
 
-十八章都有状态，见 `volume-01-status.md`。十五章 RETAINED：场已经在，不再贴短段。004、007 为 TARGETED_REVISED。没有 FULL_REVISED，没有 BLOCKED。
+十八章状态见 `volume-01-status.md`。十一章 TARGETED_REVISED，七章 RETAINED。RETAINED 各写了考虑过的具体场，以及写了会损害哪一条已有结构。没有 FULL_REVISED，没有 BLOCKED。
 
 ## 第二部
 
-已改：005（删掉与第三部重复的怕黑，补考试两天）、014（长沙第一次见面从三句扩成一个下午；正文写明面、雪、车站是叙述者补的）。
+已改 005、014。014 已去掉「是我补的」这种编辑口吻，改成母亲笑说「就这些」，雪和面她说不上来。
 
 未动：001–004、006–013、015–024。
 
 ## 下一章
 
-`manuscript/volume-02/001.md`。读到 014 时不要再扩一次见面。第三部、第四部未开始。
+`manuscript/volume-02/001.md`。
 
-## 还没有的
-
-十二组对照目前四组（004、005、007、014），见 `comparisons.md`。跨卷连读报告还不能写：第三部、第四部没动，第二部大部分没动。
+十二组对照尚未齐。已改各章的场与理由在 `volume-01-status.md` 和 `comparisons.md`。

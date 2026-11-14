@@ -1,3 +1,11 @@
+# 全卷精修｜第一部已重审｜2026-11-14
+
+- HEAD 以本分支最新提交为准。第一部：十一章 TARGETED_REVISED，七章 RETAINED（008、009、011、012、014、015、017），理由在 `editorial/phase1-full/volume-01-status.md`。
+- 全书约 510,614。下一章 `manuscript/volume-02/001.md`。
+- 014 的编辑口吻已改成叙述者的记忆边界。
+
+---
+
 # 全卷精修｜第一部十八章已判定｜2026-11-14
 
 - 分支 `creative/grok47-phase1-full-volumes`。第一部状态表：`editorial/phase1-full/volume-01-status.md`。十五章 RETAINED，004 与 007 TARGETED_REVISED。
