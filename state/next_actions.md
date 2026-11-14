@@ -1,3 +1,12 @@
+# Phase 1 批次一候选，未验收｜2026-11-14
+
+- 分支 `creative/grok47-phase1-batch1`，从 main `12ac7ee9342b93a9cbf091095562b205321237b7` 拉出。不合并 main。不是第一部 R51。
+- 改了五章正文：第一部 004、第二部 005、第三部 001、第四部 004、第四部 007。全书汉字 507,125 → 508,180。第四部两章净变化为 0，只是场面替换了说明。
+- 账在 `editorial/phase1-batch1/`。PR #64、#65 未改。the-memory 未写。
+- 下一手若继续，先看第三部 001 那种「用一个小时换掉道德总结」能不能站住，不要把第四部这种打平字数的改法铺开。
+
+---
+
 # 已完成：第四部《叫我名字的人》R7合并主支并双重验证｜2026-11-13
 
 - [PR#62](https://github.com/LYL-Z/the-memory-reading-notes/pull/62) GitHub实际报告`merged=true`，merge commit **`1b3840e93a3bf590834e2a4e669df7ae1ae8c5fe`**，main分支已验证指向该提交（随后将追加本次状态确认提交）。
