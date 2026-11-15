@@ -13,7 +13,7 @@
 | 产出 | 文件 | 可信度 |
 |---|---|---|
 | 全量文件清单（1,931 条，15 字段） | `01_repository-inventory.tsv` | **可复算** |
-| 逐文件阅读台账 | `02_full-reading-ledger.tsv` | **证据推导**（31 FULL / 116 STRUCTURED / 1,784 UNREAD）；FULL 由 `read-records/read-records.tsv` 反推 |
+| 逐文件阅读台账 | `02_full-reading-ledger.tsv` | **证据推导**（33 FULL / 114 STRUCTURED / 1,784 UNREAD）；FULL 由 `read-records/read-records.tsv` 反推 |
 | 135 章结构图谱 | `06_seven-volumes-chapter-atlas.tsv` | **可复算**（标题／字数／对话／探针） |
 | 创作标准整合 | `03_complete-writing-standards.md` | 基于 10 份规范全文阅读；**部分整合** |
 | 非线性与不可靠叙述图 | `09_nonlinear-narrative-and-unreliable-memory-map.md` | 结构层可靠，文本层不足 |
@@ -23,7 +23,7 @@
 
 **未完成的（不要以为已有）**
 
-- **115 章**正文未读（第一部 17/18 未读、第二部 18/24 未读、第三至六部 73 章全未读、第七部 7/20 未读）。135 − 20 = 115。
+- **113 章**正文未读（第一部 17/18、第二部 16/24、第三至六部 73 章全未读、第七部 7/20）。135 − 22 = 113。
 - 173 个人物页未读
 - 294 张图片未看
 - 素材→章节双向映射只做了 1 个人物

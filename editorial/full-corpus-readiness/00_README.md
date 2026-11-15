@@ -8,7 +8,7 @@
 
 ## 一句话现状
 
-**仓库盘点 PASS；正文完整阅读 20/135 章（14.8%，按字 13.4%）；原始资料 1/174 人物页；下一阶段大规模审稿 NOT READY。**
+**仓库盘点 PASS；正文完整阅读 22/135 章（16.3%，按字 15.4%）；原始资料 1/174 人物页；下一阶段大规模审稿 NOT READY。**
 
 不要用本目录的任何文件宣称"两仓已读透"。
 
@@ -33,7 +33,7 @@
 | # | 文件 | 状态 | 说明 |
 |---|---|---|---|
 | 01 | `01_repository-inventory.tsv` | **完整** | 1,931 文件 / 15 字段 / 含 git blob SHA |
-| 02 | `02_full-reading-ledger.tsv` | **如实·证据推导** | 31 FULL_TEXT ／ 116 STRUCTURED_ONLY ／ 1,784 UNREAD；FULL 由 `read-records/` 反推，非手写声明 |
+| 02 | `02_full-reading-ledger.tsv` | **如实·证据推导** | 33 FULL_TEXT ／ 114 STRUCTURED_ONLY ／ 1,784 UNREAD；FULL 由 `read-records/` 反推，非手写声明 |
 | 03 | `03_complete-writing-standards.md` | **部分整合** | 基于 10 份规范全文；单列 6 项待裁决冲突 |
 | 04 | `04_author-facts-and-life-timeline.md` | **骨架** | 主干时间线可用；中段（2023-08–2026-04）只有骨架 |
 | 04a | `04a_manuscript-time-anchors.tsv` | **完整** | 135 章中 25 章含显式年／月日 |
