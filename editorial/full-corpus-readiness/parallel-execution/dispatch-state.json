@@ -1,21 +1,10 @@
 {
  "round": 1,
  "dispatched": 12,
- "completed": 0,
- "verified": 0,
- "agents": [
-  "agent-01",
-  "agent-02",
-  "agent-03",
-  "agent-04",
-  "agent-05",
-  "agent-06",
-  "agent-07",
-  "agent-08",
-  "agent-09",
-  "agent-10",
-  "agent-11",
-  "agent-12"
- ],
- "note": "12 real subagents spawned concurrently; independent contexts"
+ "verified": 11,
+ "retry": 1,
+ "failed": 0,
+ "chapters_read": 62,
+ "coverage_pct": 38.8,
+ "note": "round1 closed; agent-05 retry pending"
 }
