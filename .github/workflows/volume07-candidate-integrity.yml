@@ -1,0 +1,22 @@
+name: Volume VII candidate integrity
+on:
+  pull_request:
+    paths:
+      - "manuscript/volume-07/**"
+      - "editorial/volume07/2026-11-14-r3-chapter-ledger.tsv"
+      - "scripts/verify_volume07_candidate.py"
+      - ".github/workflows/volume07-candidate-integrity.yml"
+  push:
+    branches:
+      - "creative/volume07-gpt6-continuous-r1-r3-20261114"
+permissions:
+  contents: read
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python scripts/verify_volume07_candidate.py
