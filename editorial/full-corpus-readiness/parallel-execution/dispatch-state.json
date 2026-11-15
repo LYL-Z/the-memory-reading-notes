@@ -1,23 +1,16 @@
 {
  "round": 2,
  "dispatched": 20,
- "verified": 14,
- "failed_quota": 10,
- "chapters_read": 119,
+ "verified": 28,
+ "chapters_read": 127,
  "chapters_total": 135,
- "chapter_pct": 88.1,
- "hanzi_pct": 82.3,
+ "chapter_pct": 94.1,
+ "hanzi_pct": 87.6,
  "unread": {
   "V1": [
    "009",
    "010",
    "011"
-  ],
-  "V4": [
-   "015",
-   "016",
-   "017",
-   "018"
   ],
   "V5": [
    "005",
@@ -25,27 +18,15 @@
    "007",
    "008",
    "009"
-  ],
-  "V6": [
-   "017",
-   "018",
-   "019",
-   "020"
   ]
  },
- "unread_count": 16,
- "failed_tasks": [
+ "unread_count": 8,
+ "pending_tasks": [
   "T013",
-  "T014",
-  "T015",
-  "T018",
-  "T021",
   "T022",
-  "T023",
-  "T028",
   "T031",
   "T032"
  ],
- "blocker": "subagent quota exhausted (429) — cannot spawn; main agent still functional",
+ "correction": "10 个 429 通知中多数实际已交付（agent-18/21/23/28），以 read-records 为准",
  "note": "subagents do not persist after session"
 }

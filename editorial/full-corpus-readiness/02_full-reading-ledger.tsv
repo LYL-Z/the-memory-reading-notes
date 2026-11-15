@@ -1340,10 +1340,10 @@ B/reading-notes	manuscript/volume-04/011.md	799a97df	FULL_TEXT	subagent Read	ful
 B/reading-notes	manuscript/volume-04/012.md	799a97df	FULL_TEXT	subagent Read	full text (3582 hanzi)	agent-20 deep read		done	P1_CANON_TEXT	editorial/full-corpus-readiness/parallel-execution/agents/agent-20/T020-deep-read.md
 B/reading-notes	manuscript/volume-04/013.md	799a97df	FULL_TEXT	subagent Read	full text (4715 hanzi)	agent-20 deep read		done	P1_CANON_TEXT	editorial/full-corpus-readiness/parallel-execution/agents/agent-20/T020-deep-read.md
 B/reading-notes	manuscript/volume-04/014.md	799a97df	FULL_TEXT	subagent Read	full text (3803 hanzi)	agent-20 deep read		done	P1_CANON_TEXT	editorial/full-corpus-readiness/parallel-execution/agents/agent-20/T020-deep-read.md
-B/reading-notes	manuscript/volume-04/015.md	main@799a97df	STRUCTURED_ONLY	scripted_metrics	metadata+metrics only	title/hanzi/paragraph/dialogue/probe extraction; body not read		full_read_required	P1_CANON_TEXT	
-B/reading-notes	manuscript/volume-04/016.md	main@799a97df	STRUCTURED_ONLY	scripted_metrics	metadata+metrics only	title/hanzi/paragraph/dialogue/probe extraction; body not read		full_read_required	P1_CANON_TEXT	
-B/reading-notes	manuscript/volume-04/017.md	main@799a97df	STRUCTURED_ONLY	scripted_metrics	metadata+metrics only	title/hanzi/paragraph/dialogue/probe extraction; body not read		full_read_required	P1_CANON_TEXT	
-B/reading-notes	manuscript/volume-04/018.md	main@799a97df	STRUCTURED_ONLY	scripted_metrics	metadata+metrics only	title/hanzi/paragraph/dialogue/probe extraction; body not read		full_read_required	P1_CANON_TEXT	
+B/reading-notes	manuscript/volume-04/015.md	799a97df	FULL_TEXT	subagent Read	full text (4949 hanzi)	agent-21 deep read		done	P1_CANON_TEXT	editorial/full-corpus-readiness/parallel-execution/agents/agent-21/T021-deep-read.md
+B/reading-notes	manuscript/volume-04/016.md	799a97df	FULL_TEXT	subagent Read	full text (3616 hanzi)	agent-21 deep read		done	P1_CANON_TEXT	editorial/full-corpus-readiness/parallel-execution/agents/agent-21/T021-deep-read.md
+B/reading-notes	manuscript/volume-04/017.md	799a97df	FULL_TEXT	subagent Read	full text (3322 hanzi)	agent-21 deep read		done	P1_CANON_TEXT	editorial/full-corpus-readiness/parallel-execution/agents/agent-21/T021-deep-read.md
+B/reading-notes	manuscript/volume-04/018.md	799a97df	FULL_TEXT	subagent Read	full text (6595 hanzi)	agent-21 deep read		done	P1_CANON_TEXT	editorial/full-corpus-readiness/parallel-execution/agents/agent-21/T021-deep-read.md
 B/reading-notes	manuscript/volume-05/001.md	799a97df	FULL_TEXT	subagent Read	full text (3982 hanzi)	agent-09 deep read		done	P1_CANON_TEXT	editorial/full-corpus-readiness/parallel-execution/agents/agent-09/T009-deep-read.md
 B/reading-notes	manuscript/volume-05/002.md	799a97df	FULL_TEXT	subagent Read	full text (3534 hanzi)	agent-09 deep read		done	P1_CANON_TEXT	editorial/full-corpus-readiness/parallel-execution/agents/agent-09/T009-deep-read.md
 B/reading-notes	manuscript/volume-05/003.md	799a97df	FULL_TEXT	subagent Read	full text (3871 hanzi)	agent-09 deep read		done	P1_CANON_TEXT	editorial/full-corpus-readiness/parallel-execution/agents/agent-09/T009-deep-read.md
@@ -1379,10 +1379,10 @@ B/reading-notes	manuscript/volume-06/013.md	799a97df	FULL_TEXT	subagent Read	ful
 B/reading-notes	manuscript/volume-06/014.md	799a97df	FULL_TEXT	subagent Read	full text (6288 hanzi)	agent-27 deep read		done	P1_CANON_TEXT	editorial/full-corpus-readiness/parallel-execution/agents/agent-27/T027-deep-read.md
 B/reading-notes	manuscript/volume-06/015.md	799a97df	FULL_TEXT	subagent Read	full text (6375 hanzi)	agent-27 deep read		done	P1_CANON_TEXT	editorial/full-corpus-readiness/parallel-execution/agents/agent-27/T027-deep-read.md
 B/reading-notes	manuscript/volume-06/016.md	799a97df	FULL_TEXT	subagent Read	full text (6210 hanzi)	agent-27 deep read		done	P1_CANON_TEXT	editorial/full-corpus-readiness/parallel-execution/agents/agent-27/T027-deep-read.md
-B/reading-notes	manuscript/volume-06/017.md	main@799a97df	STRUCTURED_ONLY	scripted_metrics	metadata+metrics only	title/hanzi/paragraph/dialogue/probe extraction; body not read		full_read_required	P1_CANON_TEXT	
-B/reading-notes	manuscript/volume-06/018.md	main@799a97df	STRUCTURED_ONLY	scripted_metrics	metadata+metrics only	title/hanzi/paragraph/dialogue/probe extraction; body not read		full_read_required	P1_CANON_TEXT	
-B/reading-notes	manuscript/volume-06/019.md	main@799a97df	STRUCTURED_ONLY	scripted_metrics	metadata+metrics only	title/hanzi/paragraph/dialogue/probe extraction; body not read		full_read_required	P1_CANON_TEXT	
-B/reading-notes	manuscript/volume-06/020.md	main@799a97df	STRUCTURED_ONLY	scripted_metrics	metadata+metrics only	title/hanzi/paragraph/dialogue/probe extraction; body not read		full_read_required	P1_CANON_TEXT	
+B/reading-notes	manuscript/volume-06/017.md	799a97df	FULL_TEXT	subagent Read	full text (6181 hanzi)	agent-28 deep read		done	P1_CANON_TEXT	editorial/full-corpus-readiness/parallel-execution/agents/agent-28/T028-deep-read.md
+B/reading-notes	manuscript/volume-06/018.md	799a97df	FULL_TEXT	subagent Read	full text (6280 hanzi)	agent-28 deep read		done	P1_CANON_TEXT	editorial/full-corpus-readiness/parallel-execution/agents/agent-28/T028-deep-read.md
+B/reading-notes	manuscript/volume-06/019.md	799a97df	FULL_TEXT	subagent Read	full text (6213 hanzi)	agent-28 deep read		done	P1_CANON_TEXT	editorial/full-corpus-readiness/parallel-execution/agents/agent-28/T028-deep-read.md
+B/reading-notes	manuscript/volume-06/020.md	799a97df	FULL_TEXT	subagent Read	full text (6681 hanzi)	agent-28 deep read		done	P1_CANON_TEXT	editorial/full-corpus-readiness/parallel-execution/agents/agent-28/T028-deep-read.md
 B/reading-notes	outline/volume-01.md	main@799a97df	UNREAD		0%			round2	P1_STANDARD	
 B/reading-notes	outline/volume-03.md	main@799a97df	UNREAD		0%			round2	P1_STANDARD	
 B/reading-notes	outline/volume-04.md	main@799a97df	UNREAD		0%			round2	P1_STANDARD	
