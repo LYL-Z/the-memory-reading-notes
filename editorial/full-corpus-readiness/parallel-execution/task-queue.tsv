@@ -27,7 +27,7 @@ T025	agent-25	NOVEL_TEXT	V6-005;V6-006;V6-007;V6-008	round2 dispatch	B/reading-n
 T026	agent-26	NOVEL_TEXT	V6-009;V6-010;V6-011;V6-012	round2 dispatch	B/reading-notes	799a97df	CLAIMED	2026-11-15T12:15:00Z		parallel-execution/agents/agent-26/T026-deep-read.md			
 T027	agent-27	NOVEL_TEXT	V6-013;V6-014;V6-015;V6-016	round2 dispatch	B/reading-notes	799a97df	CLAIMED	2026-11-15T12:15:00Z		parallel-execution/agents/agent-27/T027-deep-read.md			
 T028	agent-28	NOVEL_TEXT	V6-017;V6-018;V6-019;V6-020	round2 dispatch	B/reading-notes	799a97df	CLAIMED	2026-11-15T12:15:00Z		parallel-execution/agents/agent-28/T028-deep-read.md			
-T029	agent-29	NOVEL_TEXT	V7-017;V7-018;V7-019	round2 dispatch	B/reading-notes	73e8220	CLAIMED	2026-11-15T12:15:00Z		parallel-execution/agents/agent-29/T029-deep-read.md			
+T029	agent-29	NOVEL_TEXT	V7-017;V7-018;V7-019	round2 dispatch	B/reading-notes	73e8220	VERIFIED	2026-11-15T12:15:00Z	V7-017;V7-018;V7-019	parallel-execution/agents/agent-29/T029-deep-read.md	PASS		
 T030	agent-30	FACT_OR_QC	PERSON_PAGES x12	round2 dispatch	B/reading-notes	n/a	CLAIMED	2026-11-15T12:15:00Z		parallel-execution/agents/agent-30/T030-deep-read.md			
 T031	agent-31	FACT_OR_QC	CONFLICT_REVERIFY x8	round2 dispatch	B/reading-notes	n/a	CLAIMED	2026-11-15T12:15:00Z		parallel-execution/agents/agent-31/T031-deep-read.md			
 T032	agent-32	FACT_OR_QC	CONTENT_QC x5	round2 dispatch	B/reading-notes	n/a	CLAIMED	2026-11-15T12:15:00Z		parallel-execution/agents/agent-32/T032-deep-read.md			

@@ -1,9 +1,11 @@
 {
  "round": 2,
  "dispatched": 20,
- "verified": 12,
- "chapters_read": 66,
- "coverage_pct": 43.9,
+ "verified": 13,
+ "chapters_read": 69,
+ "chapters_total": 135,
+ "coverage_pct": 51.1,
+ "hanzi_pct": 45.8,
  "in_flight": [
   "T013",
   "T014",
@@ -21,10 +23,10 @@
   "T026",
   "T027",
   "T028",
-  "T029",
   "T030",
   "T031",
   "T032"
  ],
- "note": "17 novel-text agents + 3 fact/QC agents running"
+ "vol7": "20/20 COMPLETE",
+ "note": "19 agents still running at session end; subagents do NOT persist after session"
 }

@@ -1617,9 +1617,9 @@ B/reading-notes	manuscript/volume-07/013.md	PR#84@73e8220	FULL_TEXT	Read	all 312
 B/reading-notes	manuscript/volume-07/014.md	PR#84@73e8220	FULL_TEXT	Read	all 388 lines	V7 full text		done	P1_CANON_TEXT	11/05
 B/reading-notes	manuscript/volume-07/015.md	PR#84@73e8220	FULL_TEXT	Read	all 304 lines	V7 full text		done	P1_CANON_TEXT	11/05
 B/reading-notes	manuscript/volume-07/016.md	73e8220	FULL_TEXT	subagent Read	full text (4507 hanzi)	agent-11 deep read		done	P1_CANON_TEXT	editorial/full-corpus-readiness/parallel-execution/agents/agent-11/T011-deep-read.md
-B/reading-notes	manuscript/volume-07/017.md	PR#84@73e82209	STRUCTURED_ONLY	scripted_metrics	metadata+metrics only	title/hanzi/paragraph/dialogue/probe extraction; body not read		full_read_required	P1_CANON_TEXT	
-B/reading-notes	manuscript/volume-07/018.md	PR#84@73e82209	STRUCTURED_ONLY	scripted_metrics	metadata+metrics only	title/hanzi/paragraph/dialogue/probe extraction; body not read		full_read_required	P1_CANON_TEXT	
-B/reading-notes	manuscript/volume-07/019.md	PR#84@73e82209	STRUCTURED_ONLY	scripted_metrics	metadata+metrics only	title/hanzi/paragraph/dialogue/probe extraction; body not read		full_read_required	P1_CANON_TEXT	
+B/reading-notes	manuscript/volume-07/017.md	73e8220	FULL_TEXT	subagent Read	full text (4923 hanzi)	agent-29 deep read		done	P1_CANON_TEXT	editorial/full-corpus-readiness/parallel-execution/agents/agent-29/T029-deep-read.md
+B/reading-notes	manuscript/volume-07/018.md	73e8220	FULL_TEXT	subagent Read	full text (5312 hanzi)	agent-29 deep read		done	P1_CANON_TEXT	editorial/full-corpus-readiness/parallel-execution/agents/agent-29/T029-deep-read.md
+B/reading-notes	manuscript/volume-07/019.md	73e8220	FULL_TEXT	subagent Read	full text (5481 hanzi)	agent-29 deep read		done	P1_CANON_TEXT	editorial/full-corpus-readiness/parallel-execution/agents/agent-29/T029-deep-read.md
 B/reading-notes	manuscript/volume-07/020.md	PR#84@73e8220	FULL_TEXT	Read	all 288 lines	V7 full text		done	P1_CANON_TEXT	11/05
 B/reading-notes	manuscript/volume-07/README.md	PR#84@73e82209	STRUCTURED_ONLY	scripted_metrics	metadata+metrics only	title/hanzi/paragraph/dialogue/probe extraction; body not read		full_read_required	P1_CANON_TEXT	
 B/reading-notes	outline/volume-07.md	PR#84@73e82209	UNREAD		0%			round2	P1_STANDARD	
