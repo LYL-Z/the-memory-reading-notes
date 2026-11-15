@@ -126,7 +126,7 @@ note        = merged-by-A02-from-T037[/T038/T030]
 | 文件 | 动作 |
 |---|---|
 | `read-records/read-records.tsv` | 146 → 215 行（69 新增 + 1 行 artifact 追加） |
-| `read-records/read-records.tsv.bak-T042` | 改动前原样备份 |
+| `parallel-execution/agents/A02/read-records.tsv.bak-T042` | 改动前原样备份（146 行；放在 A02 目录而非 read-records/，避免污染该目录扫描） |
 | `parallel-execution/agents/A02/T042_merge.py` | 合并脚本（幂等、可重跑） |
 | `parallel-execution/agents/A02/T042-ledger-merge.md` | 本报告 |
 

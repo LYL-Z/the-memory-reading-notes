@@ -56,8 +56,10 @@ def main():
         art = ";".join(AG[t][2] for t in tasks)
         note = "merged-by-A02-from-" + "/".join(tasks)
         if p in have:
+            # 幂等：以 segments 是否已含该代理名为准（新增行的 artifact 是路径，不可再拼数字）
             r = have[p]
-            add = [AG[t][0] for t in tasks if AG[t][0] not in r["artifact"].split("/")]
+            segs = [s for s in r["segments"].split(";") if s]
+            add = [AG[t][0] for t in tasks if AG[t][1] not in segs and AG[t][0] not in r["artifact"].split("/")]
             if add:
                 r["artifact"] = r["artifact"] + "/" + "/".join(add)
                 appended_art.append((p, r["artifact"]))
