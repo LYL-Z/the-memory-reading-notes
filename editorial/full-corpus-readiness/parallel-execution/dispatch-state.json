@@ -1,10 +1,30 @@
 {
- "round": 1,
- "dispatched": 12,
+ "round": 2,
+ "dispatched": 20,
  "verified": 12,
- "retry": 0,
- "failed": 0,
  "chapters_read": 66,
  "coverage_pct": 43.9,
- "note": "round1 closed: 12/12 verified"
+ "in_flight": [
+  "T013",
+  "T014",
+  "T015",
+  "T016",
+  "T017",
+  "T018",
+  "T019",
+  "T020",
+  "T021",
+  "T022",
+  "T023",
+  "T024",
+  "T025",
+  "T026",
+  "T027",
+  "T028",
+  "T029",
+  "T030",
+  "T031",
+  "T032"
+ ],
+ "note": "17 novel-text agents + 3 fact/QC agents running"
 }
