@@ -1,6 +1,8 @@
 name: Volume VII candidate integrity
 on:
   pull_request:
+    branches:
+      - "creative/volume07-gpt6-continuous-r1-r3-20261114"
     paths:
       - "manuscript/volume-07/**"
       - "editorial/volume07/2026-11-14-r3-chapter-ledger.tsv"
