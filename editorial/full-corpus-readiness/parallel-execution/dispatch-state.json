@@ -1,32 +1,23 @@
 {
  "round": 2,
  "dispatched": 20,
- "verified": 13,
- "chapters_read": 69,
+ "verified": 21,
+ "chapters_read": 95,
  "chapters_total": 135,
- "coverage_pct": 51.1,
- "hanzi_pct": 45.8,
- "in_flight": [
+ "chapter_pct": 70.4,
+ "hanzi_pct": 62.4,
+ "pending": [
   "T013",
   "T014",
-  "T015",
-  "T016",
   "T017",
   "T018",
-  "T019",
-  "T020",
   "T021",
   "T022",
   "T023",
-  "T024",
   "T025",
-  "T026",
-  "T027",
   "T028",
-  "T030",
   "T031",
   "T032"
  ],
- "vol7": "20/20 COMPLETE",
- "note": "19 agents still running at session end; subagents do NOT persist after session"
+ "note": "session ending; subagents do not persist after session"
 }
