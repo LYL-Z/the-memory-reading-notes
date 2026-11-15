@@ -1,0 +1,20 @@
+id	severity	chapter	risk_or_question	r9_response	status	source_or_followup
+F01	CRITICAL	016	2026-07-19 departure written as same-day arrival	restore 19 departure and 20 arrival; remove false time shift	RESOLVED	the-memory/高中/素材/个人回忆/新加坡之行-2026.md
+F02	HIGH	editorial	R8 ledger says DOB 2007-11-05	record correct 2007-11-03; preserve R8 archival file	RESOLVED_IN_R9	author explicit identity; correct future timelines
+F03	HIGH	010	script error alleged to cause 88 sub-score	keep verified 88 but remove unverified causal claim	RESOLVED	the-memory/大学/四川大学/强基班/刘佑林学业档案.md
+F04	HIGH	017	conflation of speed-density curve with capacity max	define q(rho)=rho v(rho) and maximum flow	RESOLVED	traffic-flow fundamental diagram and model assumptions
+F05	CRITICAL	020	fictitious identifiable peer loses 40+ records	remove entire adverse event; protagonist handles own failed testing	RESOLVED	R8 literary reconstruction ledger; no factual support
+F06	HIGH	020	save passes tests and then same test inexplicably fails	distinguish local persistence success from export/cross-device missing	RESOLVED	chapter internal technical causal check
+F07	MEDIUM	018	next-day trip/tour result after Jul24 defense creates scheduling risk	remove unsupported exact time anchors	RESOLVED_WITH_UNCERTAINTY	the-memory/高中/素材/个人回忆/新加坡之行-2026.md
+L01	MEDIUM	011	repetitive instructive paragraphs on gaming freedom and authenticity	replace with loss of coordination physical fatigue peer refusal	REVISED	R8→R9 diff
+L02	MEDIUM	012	lesson-style explanations of AI and physics	replace with tracked changes of numerical parameters and classwork struggle	REVISED	R8→R9 diff
+L03	MEDIUM	014	the same hair/physical-boundary scene narrated twice	remove duplicate; preserve unreciprocated desire	REVISED	R8→R9 diff
+L04	MEDIUM	015	meta lecture that photos are evidence/film is fiction	move into actual photo annotation doubt	REVISED	R8→R9 diff
+L05	MEDIUM	019	title New Friends disconnected from math modelling focus	retitle Before the Competition and tighten repeat	REVISED	R8→R9 diff
+P01	HIGH	013	real father's potentially invented personal dialogue	source-check and consider less identifiable phrasing before publication	PENDING	the-memory family notes and author verification
+P02	HIGH	018	admonishment attributed to Liu Huanbin; R8 report mistakenly names Zhang Tianze	reconcile manuscript and real person speech; do not treat as verbatim	PENDING	R8 ch018 and R8 handoff mismatch
+P03	HIGH	014-015	Zhao Wenzhu real identifiable person and private intentions	retain narrator-only desire; no reciprocation invented; privacy review still needed	PENDING	Xi'an confirmed source and author-publication review
+S01	HIGH	001;VI020	admission and parents' paperwork repeated across volumes	needs complete comparative cold read; distinct dramatic functions not fully established	PENDING	manuscript/volume-06/020.md vs volume-07/001.md
+S02	HIGH	014-015;I-VI	whole-book Zhao narrative may over-repeat narrator's speculation	requires complete six-volume continuity read	PENDING	six-volume three clocks document and manuscripts
+S03	HIGH	all	complete reading of both repos and 20-chapter human blind read not done	full file-level audit and 115 chapters still needed	PENDING	R8 repo audit and R9 honest coverage
+G01	BLOCKER	merge	user conditional merge only after no open issues	leave main untouched; use independent Draft PR	BLOCKED	R9 independent gate review
