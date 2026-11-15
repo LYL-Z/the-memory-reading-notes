@@ -1,13 +1,43 @@
 {
  "round": 2,
  "dispatched": 20,
- "verified": 24,
- "chapters_read": 103,
+ "verified": 14,
+ "failed_quota": 10,
+ "chapters_read": 119,
  "chapters_total": 135,
- "chapter_pct": 76.3,
- "hanzi_pct": 68.7,
- "pending": [
+ "chapter_pct": 88.1,
+ "hanzi_pct": 82.3,
+ "unread": {
+  "V1": [
+   "009",
+   "010",
+   "011"
+  ],
+  "V4": [
+   "015",
+   "016",
+   "017",
+   "018"
+  ],
+  "V5": [
+   "005",
+   "006",
+   "007",
+   "008",
+   "009"
+  ],
+  "V6": [
+   "017",
+   "018",
+   "019",
+   "020"
+  ]
+ },
+ "unread_count": 16,
+ "failed_tasks": [
   "T013",
+  "T014",
+  "T015",
   "T018",
   "T021",
   "T022",
@@ -16,12 +46,6 @@
   "T031",
   "T032"
  ],
- "unread_by_vol": {
-  "V1": "13-18",
-  "V3": "009-012,013-014",
-  "V4": "015-018",
-  "V5": "010-014,015-019",
-  "V6": "017-020"
- },
- "note": "session limit reached; 5 agents incomplete"
+ "blocker": "subagent quota exhausted (429) — cannot spawn; main agent still functional",
+ "note": "subagents do not persist after session"
 }
