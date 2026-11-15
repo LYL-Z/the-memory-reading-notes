@@ -1,10 +1,10 @@
 {
  "round": 1,
  "dispatched": 12,
- "verified": 11,
- "retry": 1,
+ "verified": 12,
+ "retry": 0,
  "failed": 0,
- "chapters_read": 62,
- "coverage_pct": 38.8,
- "note": "round1 closed; agent-05 retry pending"
+ "chapters_read": 66,
+ "coverage_pct": 43.9,
+ "note": "round1 closed: 12/12 verified"
 }

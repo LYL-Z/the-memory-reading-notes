@@ -1268,10 +1268,10 @@ B/reading-notes	editorial/阅读仍未完成-2026-10-31.md	main@799a97df	UNREAD	
 B/reading-notes	evidence/chapter-001.md	main@799a97df	UNREAD		0%			round2	P3_WORKING	
 B/reading-notes	evidence/chapter-002.md	main@799a97df	UNREAD		0%			round2	P3_WORKING	
 B/reading-notes	evidence/chapter-003.md	main@799a97df	UNREAD		0%			round2	P3_WORKING	
-B/reading-notes	manuscript/volume-01/001.md	main@799a97df	STRUCTURED_ONLY	scripted_metrics	metadata+metrics only	title/hanzi/paragraph/dialogue/probe extraction; body not read		full_read_required	P1_CANON_TEXT	
-B/reading-notes	manuscript/volume-01/002.md	main@799a97df	STRUCTURED_ONLY	scripted_metrics	metadata+metrics only	title/hanzi/paragraph/dialogue/probe extraction; body not read		full_read_required	P1_CANON_TEXT	
-B/reading-notes	manuscript/volume-01/003.md	main@799a97df	STRUCTURED_ONLY	scripted_metrics	metadata+metrics only	title/hanzi/paragraph/dialogue/probe extraction; body not read		full_read_required	P1_CANON_TEXT	
-B/reading-notes	manuscript/volume-01/004.md	main@799a97df	STRUCTURED_ONLY	scripted_metrics	metadata+metrics only	title/hanzi/paragraph/dialogue/probe extraction; body not read		full_read_required	P1_CANON_TEXT	
+B/reading-notes	manuscript/volume-01/001.md	799a97df	FULL_TEXT	subagent Read	full text (7783 hanzi)	agent-05 deep read		done	P1_CANON_TEXT	editorial/full-corpus-readiness/parallel-execution/agents/agent-05/T005-deep-read.md
+B/reading-notes	manuscript/volume-01/002.md	799a97df	FULL_TEXT	subagent Read	full text (10709 hanzi)	agent-05 deep read		done	P1_CANON_TEXT	editorial/full-corpus-readiness/parallel-execution/agents/agent-05/T005-deep-read.md
+B/reading-notes	manuscript/volume-01/003.md	799a97df	FULL_TEXT	subagent Read	full text (11361 hanzi)	agent-05 deep read		done	P1_CANON_TEXT	editorial/full-corpus-readiness/parallel-execution/agents/agent-05/T005-deep-read.md
+B/reading-notes	manuscript/volume-01/004.md	799a97df	FULL_TEXT	subagent Read	full text (11925 hanzi)	agent-05 deep read		done	P1_CANON_TEXT	editorial/full-corpus-readiness/parallel-execution/agents/agent-05/T005-deep-read.md
 B/reading-notes	manuscript/volume-01/005.md	799a97df	FULL_TEXT	subagent Read	full text (6403 hanzi)	agent-06 deep read		done	P1_CANON_TEXT	editorial/full-corpus-readiness/parallel-execution/agents/agent-06/T006-deep-read.md
 B/reading-notes	manuscript/volume-01/006.md	799a97df	FULL_TEXT	subagent Read	full text (7635 hanzi)	agent-06 deep read		done	P1_CANON_TEXT	editorial/full-corpus-readiness/parallel-execution/agents/agent-06/T006-deep-read.md
 B/reading-notes	manuscript/volume-01/007.md	799a97df	FULL_TEXT	subagent Read	full text (8644 hanzi)	agent-06 deep read		done	P1_CANON_TEXT	editorial/full-corpus-readiness/parallel-execution/agents/agent-06/T006-deep-read.md
