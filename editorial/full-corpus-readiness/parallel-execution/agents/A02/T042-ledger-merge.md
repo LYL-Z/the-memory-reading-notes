@@ -73,6 +73,8 @@ note        = merged-by-A02-from-T037[/T038/T030]
 
 > **未做的事**：没有跑 `_tools/build_ledger.py`，因为它会重写 `02_full-reading-ledger.tsv`——超出本任务写权限。该脚本按 `relative_path` join，下次运行会自动把 70 份反推为 `FULL_TEXT`，无需手工改动。
 
+**反推链空跑验证（未写盘）**：以 `01_repository-inventory.tsv`（1,931 行）对 215 条记录做 join——215 条**全部命中**清单表路径（A 70 / B 145），**0 条死记录**；按 `build_ledger.py` 同一逻辑推得 `FULL_TEXT 215 / STRUCTURED_ONLY 1 / UNREAD 1,715`（其中 manuscript 剩 1 份无阅读记录，属既有状态，非本轮引入）。
+
 ---
 
 ## 4. 「报告声称读过、但档案里查无实质记录」的条目（重要发现）

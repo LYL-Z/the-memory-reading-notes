@@ -3,8 +3,8 @@ task_id: T049
 agent: A09
 repos: 事实仓 D:/The Memory/The Memory（只读，未写入）
 files_read_full: 36
-files_read_partial: 1
-hanzi_read: 58,691（含部分 2,886 中的前 70 行，未单列）
+files_read_partial: 1（母亲 V1 问卷，仅前 70 行）
+hanzi_read: 55,805（36 份全文，hanzi_count.py 口径）；另部分阅读约 300 字未计入
 date: 2026-11-15
 status: COMPLETED_UNVERIFIED
 ---
@@ -14,6 +14,8 @@ status: COMPLETED_UNVERIFIED
 ## 0. 实际读了多少份
 
 **实际读 36 份全文 + 1 份仅读卷首（母亲 V1 问卷前 70 行，为核对授权条款，正文其余部分经母亲页逐条摘录交叉，未计入数目）。**
+
+**汉字合计：36 份全文 = 55,805 字**（`scripts/hanzi_count.py` 口径，排除 frontmatter／标题／代码块）。另计 1 份部分阅读约 300 字，未入合计。
 
 摸底范围与命中数：
 
