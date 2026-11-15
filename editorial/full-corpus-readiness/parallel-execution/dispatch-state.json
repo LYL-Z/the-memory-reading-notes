@@ -1,32 +1,16 @@
 {
- "round": 2,
- "dispatched": 20,
- "verified": 28,
- "chapters_read": 127,
+ "milestone": 1,
+ "status": "ACHIEVED",
+ "chapters_read": 135,
  "chapters_total": 135,
- "chapter_pct": 94.1,
- "hanzi_pct": 87.6,
- "unread": {
-  "V1": [
-   "009",
-   "010",
-   "011"
-  ],
-  "V5": [
-   "005",
-   "006",
-   "007",
-   "008",
-   "009"
-  ]
- },
- "unread_count": 8,
- "pending_tasks": [
-  "T013",
-  "T022",
+ "chapter_pct": 100.0,
+ "hanzi": 766577,
+ "hanzi_pct": 92.8,
+ "read_records": 146,
+ "verified_tasks": 30,
+ "in_flight": [
   "T031",
   "T032"
  ],
- "correction": "10 个 429 通知中多数实际已交付（agent-18/21/23/28），以 read-records 为准",
- "note": "subagents do not persist after session"
+ "note": "135/135 chapters read; content QC and 8-item reverify still running"
 }
