@@ -1,0 +1,29 @@
+name: Volume VII R6 source and prose-integrity
+on:
+  push:
+    branches:
+      - "creative/volume07-gpt6-literary-r6-20261115"
+  pull_request:
+    branches:
+      - "creative/volume07-gpt6-post-deepseek-r5-20261115"
+    paths:
+      - "manuscript/volume-07/**"
+      - "editorial/volume07/gpt6-r6/r6-chapter-verified.tsv"
+      - "scripts/verify_volume07_r6.py"
+      - ".github/workflows/volume07-r6-integrity.yml"
+permissions:
+  contents: read
+jobs:
+  verify-r6:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: R6 immutable R5 comparison, Hanzi and duplicate scan
+        run: python scripts/verify_volume07_r6.py
+      - name: Main six volumes unchanged in descendant
+        run: python scripts/verify_six_volume_integrated.py
