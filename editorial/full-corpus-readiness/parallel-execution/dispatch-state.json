@@ -1,13 +1,35 @@
 {
- "session_final": true,
- "milestone_1": "ACHIEVED - 135/135 chapters",
- "chapters_read": 135,
- "chapters_total": 135,
- "hanzi": 766577,
- "hanzi_pct": 92.8,
- "read_records": 146,
+ "round": 4,
+ "baseline": "25bc638",
+ "chapters": {
+  "registered": 135,
+  "total": 135,
+  "registered_pct": 100.0,
+  "integrity_verified": "PENDING_A01",
+  "semantic_qc": "3/6 pass, 3/6 reworked"
+ },
+ "ledger_records": 146,
  "contradictions": 159,
- "tasks_verified": [
+ "nontext": {
+  "private_246": "BLOCKED_PERMISSION",
+  "public_49": "UNREAD->A13"
+ },
+ "agents_launched": [
+  "A01",
+  "A02",
+  "A03",
+  "A04",
+  "A05",
+  "A06",
+  "A07",
+  "A08",
+  "A09",
+  "A10",
+  "A11",
+  "A12",
+  "A13"
+ ],
+ "artifacts_arrived": [
   "T001",
   "T002",
   "T003",
@@ -43,16 +65,8 @@
   "T037",
   "T038",
   "T039",
-  "T040"
+  "T040",
+  "T047"
  ],
- "stage_B": "33 files / 23 persons / 72,769 hanzi (T037)",
- "stage_C": "34 files / 73,590 hanzi (T038), 48 BLOCKED_PRIVATE",
- "stage_D": "34 specs / 21 rulings / 28 open judgments (T039)",
- "rework": "19 items done (T040)",
- "still_open": {
-  "stage_B_remaining": "~150 person pages",
-  "stage_E": "images BLOCKED",
-  "executable_now": "10 breaker-frames uncleaned / 59 'not X but Y' / 35 'Ache' / 3 fact-repo unrevised"
- },
- "note": "session ending; subagents do not persist"
+ "note": "session limit; subagents do not persist after session"
 }
