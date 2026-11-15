@@ -76,7 +76,8 @@
 
 - 本目录只放**本轮基线**，不覆盖 `editorial/` 下既有审稿成果。
 - 历史审稿（`editorial/round*`、`editorial/volume0*`、`editorial/fact_cards/`）仍按原 commit 解读，**不得当作当前状态**。
-- 生成脚本在工作树外（`D:/The Memory/tmp/full-corpus-readiness/_work/`），未纳入 git；如需复算请按文件名重建。
+- `_tools/` 内为生成脚本与 PR 状态快照，可复算 `01`／`02`／`06` 与 PR 清单；用法见 `_tools/README.md`。
+- 中间产物（文件路径清单、章节骨架 JSON）未入库：路径已完整收在 `01_repository-inventory.tsv` 中，重复入库无增益。
 
 ---
 
