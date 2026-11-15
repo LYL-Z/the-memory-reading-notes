@@ -1,0 +1,55 @@
+name: Volume VII R4 integrity
+
+# Why a second workflow instead of editing verify_volume07_candidate.py:
+# that script is a strict snapshot verifier for the R3 candidate (PR #78). It
+# pins each chapter's count and blob SHA to the R3 ledger, so it MUST fail on any
+# branch that legitimately rewrites the chapters. Overwriting it would destroy
+# the only proof of what R3 actually was. This workflow verifies R4 invariants
+# instead: 20/20 chapters present, every chapter >= its own R3 baseline, and the
+# volume total inside the commissioned 75,000-90,000 window. All numbers are
+# recomputed from git objects, so no static constant can be "kept green".
+
+on:
+  pull_request:
+    paths:
+      - "manuscript/volume-07/**"
+      - "scripts/verify_volume07_r4.py"
+      - ".github/workflows/volume07-r4-integrity.yml"
+  push:
+    branches:
+      - "creative/volume07-deepseek-v41flash-r4-20261114"
+permissions:
+  contents: read
+jobs:
+  verify-r4:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Recompute R4 vs frozen R3
+        run: python scripts/verify_volume07_r4.py HEAD c73734e17ce9336abca60959b1f15a9cf1b7d44d
+      - name: Cross-chapter duplicate sweep
+        run: |
+          python - <<'PY'
+          import collections, glob, io, re, sys
+          HAN = re.compile(r"[\u3400-\u4dbf\u4e00-\u9fff]")
+          body = {}
+          for path in sorted(glob.glob("manuscript/volume-07/0*.md")):
+              text = io.open(path, encoding="utf-8").read()
+              text = re.sub(r"(?m)^#{1,6}[ \t].*$", "", text)
+              body[path[-6:-3]] = "".join(HAN.findall(text))
+          hits = collections.defaultdict(set)
+          for ch, s in body.items():
+              for i in range(len(s) - 12):
+                  hits[s[i:i + 12]].add(ch)
+          dup = {g: v for g, v in hits.items() if len(v) > 1}
+          print(f"cross-chapter 12-gram collisions: {len(dup)}")
+          for g, v in list(dup.items())[:10]:
+              print(" ", sorted(v), g)
+          if dup:
+              sys.exit("duplicate sentence fragments across chapters")
+          PY
