@@ -11,10 +11,15 @@ L02	MEDIUM	012	lesson-style explanations of AI and physics	replace with tracked 
 L03	MEDIUM	014	the same hair/physical-boundary scene narrated twice	remove duplicate; preserve unreciprocated desire	REVISED	R8→R9 diff
 L04	MEDIUM	015	meta lecture that photos are evidence/film is fiction	move into actual photo annotation doubt	REVISED	R8→R9 diff
 L05	MEDIUM	019	title New Friends disconnected from math modelling focus	retitle Before the Competition and tighten repeat	REVISED	R8→R9 diff
+L06	MEDIUM	004	chopsticks fetched and handed over twice in adjacent paragraphs	consolidate into one coherent action and cut penitential paragraph	REVISED	R8→R9 diff
+L07	MEDIUM	005	repeated explanations of units and lost timetable time	replace re-teaching with concrete physics and daily-life scenes	REVISED	R8→R9 diff
+L08	MEDIUM	007	the same dinner ends twice and next outing restarts in same day	correct dinner chronology and next outing anchor	REVISED	R8→R9 diff
+L09	MEDIUM	008	narrator explicitly tells reader dialogue sounds like lesson	replace with director sending actual shooting schedule	REVISED	R8→R9 diff
+L10	HIGH	009	fixed camera inaccurately tracks actor; explicit questionnaire-like construction	clarify stationary camera; integrate sourced remarks as memory	REVISED	R8→R9 diff
 P01	HIGH	013	real father's potentially invented personal dialogue	source-check and consider less identifiable phrasing before publication	PENDING	the-memory family notes and author verification
 P02	HIGH	018	admonishment attributed to Liu Huanbin; R8 report mistakenly names Zhang Tianze	reconcile manuscript and real person speech; do not treat as verbatim	PENDING	R8 ch018 and R8 handoff mismatch
 P03	HIGH	014-015	Zhao Wenzhu real identifiable person and private intentions	retain narrator-only desire; no reciprocation invented; privacy review still needed	PENDING	Xi'an confirmed source and author-publication review
 S01	HIGH	001;VI020	admission and parents' paperwork repeated across volumes	needs complete comparative cold read; distinct dramatic functions not fully established	PENDING	manuscript/volume-06/020.md vs volume-07/001.md
 S02	HIGH	014-015;I-VI	whole-book Zhao narrative may over-repeat narrator's speculation	requires complete six-volume continuity read	PENDING	six-volume three clocks document and manuscripts
-S03	HIGH	all	complete reading of both repos and 20-chapter human blind read not done	full file-level audit and 115 chapters still needed	PENDING	R8 repo audit and R9 honest coverage
+S03	HIGH	all	complete reading of both repos, 115 prior chapters and human blind read not done	R9 20/20 manuscript chapters reviewed; complete 2-repo audit and 115 prior chapters still needed	PARTIAL	R8 repo audit and R9 verified full chapter review
 G01	BLOCKER	merge	user conditional merge only after no open issues	leave main untouched; use independent Draft PR	BLOCKED	R9 independent gate review
