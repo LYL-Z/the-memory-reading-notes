@@ -8,7 +8,7 @@
 
 ## 一句话现状
 
-**仓库盘点 PASS；正文完整阅读 15/135 章（11.1%）；原始资料 1/174 人物页；下一阶段大规模审稿 NOT READY。**
+**仓库盘点 PASS；正文完整阅读 20/135 章（14.8%，按字 13.4%）；原始资料 1/174 人物页；下一阶段大规模审稿 NOT READY。**
 
 不要用本目录的任何文件宣称"两仓已读透"。
 
@@ -18,8 +18,9 @@
 
 | 对象 | 版本 |
 |---|---|
-| 一至六部正文 | `the-memory-reading-notes` `main@799a97df7b72d5f8bfcc57868fef9815427e97de`，115 章，官方 732,799 CJK |
-| 第七部正文 | `PR#84@73e8220`（R9 Draft），20 章，93,375 CJK |
+| 一至六部正文 | `the-memory-reading-notes` `main@799a97df7b72d5f8bfcc57868fef9815427e97de`，115 章，**732,799**（官方 `scripts/hanzi_count.py` 口径） |
+| 第七部正文 | `PR#84@73e8220`（R9 Draft），20 章，**93,102**（同一官方口径） |
+| 七部合计 | 135 章，**825,901**（官方口径）。其他口径读数见 `12_...final-gate.md` 口径表 |
 | 事实源库 | `the-memory` `master@ef33c98d63b88283e840f5414db154eb9118c4e4`（永久只读） |
 | PR#84 与 main 在六部上的差异 | **零**（仅新增 volume-07 与 editorial/volume07） |
 
@@ -32,7 +33,7 @@
 | # | 文件 | 状态 | 说明 |
 |---|---|---|---|
 | 01 | `01_repository-inventory.tsv` | **完整** | 1,931 文件 / 15 字段 / 含 git blob SHA |
-| 02 | `02_full-reading-ledger.tsv` | **如实** | 25 FULL_TEXT ／ 122 STRUCTURED_ONLY ／ 1,784 UNREAD |
+| 02 | `02_full-reading-ledger.tsv` | **如实·证据推导** | 31 FULL_TEXT ／ 116 STRUCTURED_ONLY ／ 1,784 UNREAD；FULL 由 `read-records/` 反推，非手写声明 |
 | 03 | `03_complete-writing-standards.md` | **部分整合** | 基于 10 份规范全文；单列 6 项待裁决冲突 |
 | 04 | `04_author-facts-and-life-timeline.md` | **骨架** | 主干时间线可用；中段（2023-08–2026-04）只有骨架 |
 | 04a | `04a_manuscript-time-anchors.tsv` | **完整** | 135 章中 25 章含显式年／月日 |
@@ -42,10 +43,13 @@
 | 07 | `07_corpus-to-manuscript-coverage.tsv` | **骨架** | 19 条，仅赵问竹线较全；其余待补 |
 | 08 | `08_manuscript-to-corpus-traceability.tsv` | **部分** | 已读 15 章的 50 条追溯 |
 | 09 | `09_nonlinear-narrative-and-unreliable-memory-map.md` | **部分** | 结构层可靠；文本层不足 |
-| 10 | `10_contradictions-and-fact-boundaries.tsv` | **完整** | 113 条（99 沿用 + 14 新增） |
+| 10 | `10_contradictions-and-fact-boundaries.tsv` | **完整** | 115 条（99 沿用 + 16 新增，id 100–115） |
 | 11 | `11_seven-volumes-literary-audit-preparation.md` | **假设级** | 六项可复算诊断 + 十项优先修改 |
 | 12 | `12_full-corpus-reading-final-gate.md` | **完整** | 七项 PASS/PARTIAL/BLOCKED + 订正记录 |
 | 13 | `13_NEXT_ROUND_HANDOFF.md` | **完整** | 下一轮可直接执行 |
+| 14 | `14_audit-corrections-round2.md` | **完整** | 第二轮修正：统计口径统一、三项旧推论撤销／降级、三项暂定裁决 |
+| 15 | `15_volume02-deep-read-batch1.md` | **完整** | 第二部 001–006 逐章 16 维精读档案 |
+| 16 | `read-records/read-records.tsv` | **证据链** | 每份全文阅读的版本／范围／工具／产物；`FULL_TEXT` 由此反推 |
 
 ---
 
@@ -65,7 +69,7 @@
 ## 三项待作者裁决（不裁决就无法开始精修）
 
 1. **对话体例**：A 统一无引号 ／ B 统一引号 ／ C 定规则分场景（建议 C）。
-2. **第七部性质**：正式第七部 ／ 附卷候选（`README.md` 现称"设计候选"，但已有 93,375 字）。
+2. **第七部性质**：**已由作者 2026-11-15 第二轮指令暂定**——按「正式第七部创作范围」纳入全书结构审查，但 R9 仍为独立候选，不自动合并 PR #84。
 3. **赵问竹「她也曾喜欢过他」是否进入正文**：A 全书保持未知 ／ B 第七部有限揭示。
 
 详见 `13_NEXT_ROUND_HANDOFF.md` 第三节。

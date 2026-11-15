@@ -1,0 +1,32 @@
+file	repo	version	read_range	tool	segments	artifact	read_at	note
+AGENTS.md	B/reading-notes	main@799a97df	all 14 lines	Read/Bash	1	13/14/03/09/11	2026-11-15 round1	governing rules
+README.md	B/reading-notes	main@799a97df	all 56 lines	Read/Bash	1	13/14/03/09/11	2026-11-15 round1	six-volume entry
+editorial/author-decisions/2026-11-13-reconstruction-and-literary-authority.md	B/reading-notes	main@799a97df	all 27 lines	Read/Bash	1	13/14/03/09/11	2026-11-15 round1	author authority
+editorial/contradictions.md	B/reading-notes	main@799a97df	all 361 lines	Read/Bash	1	13/14/03/09/11	2026-11-15 round1	360 lines, read in 2 segments 1-200/200-360
+editorial/longform-architecture/2026-11-07-six-plus-one-author-realignment.md	B/reading-notes	main@799a97df	all 85 lines	Read/Bash	1	13/14/03/09/11	2026-11-15 round1	6+1 architecture
+editorial/longform-architecture/2026-11-08-seven-part-aesthetic-motif-and-music-map.md	B/reading-notes	main@799a97df	all 87 lines	Read/Bash	1	13/14/03/09/11	2026-11-15 round1	7-part aesthetic score
+editorial/six-volume-integration/2026-11-14-author-rulings.md	B/reading-notes	main@799a97df	all 38 lines	Read/Bash	1	13/14/03/09/11	2026-11-15 round1	author rulings
+editorial/six-volume-integration/2026-11-14-editorial-verdict.md	B/reading-notes	main@799a97df	all 43 lines	Read/Bash	1	13/14/03/09/11	2026-11-15 round1	literary verdict
+editorial/six-volume-integration/2026-11-14-publication-gates.md	B/reading-notes	main@799a97df	all 29 lines	Read/Bash	1	13/14/03/09/11	2026-11-15 round1	rights gates
+editorial/six-volume-integration/2026-11-14-three-clocks-and-canon.md	B/reading-notes	main@799a97df	all 43 lines	Read/Bash	1	13/14/03/09/11	2026-11-15 round1	three clocks
+manuscript/volume-01/018.md	B/reading-notes	main@799a97df	all 320 lines	Read/Bash	1	13/14/03/09/11	2026-11-15 round1	V1 finale
+高中/G2204/人物/同学/赵问竹.md	A/the-memory	master@ef33c98d	all 195 lines	Read	1	13/14/03	2026-11-15 round1	core person page, 195 lines
+manuscript/volume-07/001.md	B/reading-notes	PR#84@73e8220	all 198 lines	Read	1	11/05	2026-11-15 round1	V7 full text
+manuscript/volume-07/002.md	B/reading-notes	PR#84@73e8220	all 265 lines	Read	1	11/05	2026-11-15 round1	V7 full text
+manuscript/volume-07/003.md	B/reading-notes	PR#84@73e8220	all 361 lines	Read	1	11/05	2026-11-15 round1	V7 full text
+manuscript/volume-07/004.md	B/reading-notes	PR#84@73e8220	all 264 lines	Read	1	11/05	2026-11-15 round1	V7 full text
+manuscript/volume-07/005.md	B/reading-notes	PR#84@73e8220	all 269 lines	Read	1	11/05	2026-11-15 round1	V7 full text
+manuscript/volume-07/006.md	B/reading-notes	PR#84@73e8220	all 234 lines	Read	1	11/05	2026-11-15 round1	V7 full text
+manuscript/volume-07/007.md	B/reading-notes	PR#84@73e8220	all 292 lines	Read	1	11/05	2026-11-15 round1	V7 full text
+manuscript/volume-07/008.md	B/reading-notes	PR#84@73e8220	all 257 lines	Read	1	11/05	2026-11-15 round1	V7 full text
+manuscript/volume-07/009.md	B/reading-notes	PR#84@73e8220	all 205 lines	Read	1	11/05	2026-11-15 round1	V7 full text
+manuscript/volume-07/013.md	B/reading-notes	PR#84@73e8220	all 312 lines	Read	1	11/05	2026-11-15 round1	V7 full text
+manuscript/volume-07/014.md	B/reading-notes	PR#84@73e8220	all 388 lines	Read	1	11/05	2026-11-15 round1	V7 full text
+manuscript/volume-07/015.md	B/reading-notes	PR#84@73e8220	all 304 lines	Read	1	11/05	2026-11-15 round1	V7 full text
+manuscript/volume-07/020.md	B/reading-notes	PR#84@73e8220	all 288 lines	Read	1	11/05	2026-11-15 round1	V7 full text
+manuscript/volume-02/001.md	B/reading-notes	main@799a97df	all 206 lines	Read	1	15_volume02-deep-read-batch1.md	2026-11-15 round2	V2 batch1 full text
+manuscript/volume-02/002.md	B/reading-notes	main@799a97df	all 186 lines	Read	1	15_volume02-deep-read-batch1.md	2026-11-15 round2	V2 batch1 full text
+manuscript/volume-02/003.md	B/reading-notes	main@799a97df	all 180 lines	Read	1	15_volume02-deep-read-batch1.md	2026-11-15 round2	V2 batch1 full text
+manuscript/volume-02/004.md	B/reading-notes	main@799a97df	all 198 lines	Read	1	15_volume02-deep-read-batch1.md	2026-11-15 round2	V2 batch1 full text
+manuscript/volume-02/005.md	B/reading-notes	main@799a97df	all 187 lines	Read	1	15_volume02-deep-read-batch1.md	2026-11-15 round2	V2 batch1 full text
+manuscript/volume-02/006.md	B/reading-notes	main@799a97df	all 151 lines	Read	1	15_volume02-deep-read-batch1.md	2026-11-15 round2	V2 batch1 full text
