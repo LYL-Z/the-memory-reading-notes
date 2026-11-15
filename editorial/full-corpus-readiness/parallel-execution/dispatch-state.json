@@ -1,23 +1,27 @@
 {
  "round": 2,
  "dispatched": 20,
- "verified": 21,
- "chapters_read": 95,
+ "verified": 24,
+ "chapters_read": 103,
  "chapters_total": 135,
- "chapter_pct": 70.4,
- "hanzi_pct": 62.4,
+ "chapter_pct": 76.3,
+ "hanzi_pct": 68.7,
  "pending": [
   "T013",
-  "T014",
-  "T017",
   "T018",
   "T021",
   "T022",
   "T023",
-  "T025",
   "T028",
   "T031",
   "T032"
  ],
- "note": "session ending; subagents do not persist after session"
+ "unread_by_vol": {
+  "V1": "13-18",
+  "V3": "009-012,013-014",
+  "V4": "015-018",
+  "V5": "010-014,015-019",
+  "V6": "017-020"
+ },
+ "note": "session limit reached; 5 agents incomplete"
 }
