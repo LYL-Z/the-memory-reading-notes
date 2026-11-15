@@ -1,0 +1,24 @@
+name: Volume VII R5 integrity
+on:
+  pull_request:
+    branches: ["creative/volume07-deepseek-v41flash-r4-20261114"]
+    paths:
+      - "manuscript/volume-07/**"
+      - "editorial/volume07/gpt6-r5/r5-chapter-verified.tsv"
+      - "scripts/verify_volume07_r5.py"
+      - ".github/workflows/volume07-r5-integrity.yml"
+  push:
+    branches: ["creative/volume07-gpt6-post-deepseek-r5-20261115"]
+permissions:
+  contents: read
+jobs:
+  verify-r5:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python scripts/verify_volume07_r5.py
