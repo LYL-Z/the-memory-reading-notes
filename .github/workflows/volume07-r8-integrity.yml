@@ -1,0 +1,29 @@
+name: Volume VII R8 integrity
+
+# R8 is built on R7 (93,041 CJK), so the R4 workflow's 75k-90k window is invalid here
+# and the R3 snapshot verifier would fail by design. This workflow checks R8 invariants
+# against the frozen R7 commit instead, recomputed from git objects.
+
+on:
+  pull_request:
+    paths:
+      - "manuscript/volume-07/**"
+      - "scripts/verify_volume07_r8.py"
+      - ".github/workflows/volume07-r8-integrity.yml"
+  push:
+    branches:
+      - "creative/volume07-deepseek-v41-flash-r8"
+permissions:
+  contents: read
+jobs:
+  verify-r8:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Recompute R8 against frozen R7
+        run: python scripts/verify_volume07_r8.py HEAD fac27db5cb5793ec3c87d012caef4264f7784f37
