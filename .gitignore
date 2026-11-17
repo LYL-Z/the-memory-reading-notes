@@ -8,3 +8,9 @@ tools/**/package-lock.json
 editorial/ai_draft_paths.txt
 editorial/external_legacy_hashes.txt
 evidence/
+
+# 第七部分析工具与中间产物：正文已单独纳入跟踪，这些不入仓
+work/m09/*.py
+work/m09/corpus.txt
+work/m09/rows.md
+

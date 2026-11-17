@@ -1,0 +1,260 @@
+id	category	priority	status	needs_ruling	item
+1	FAMILY_FACT	P1	OPEN		出生地
+2	RELATION_AMBIGUITY	P1	OPEN		高二上六人组，四套说法
+3	RELATION_AMBIGUITY	P1	OPEN		RIO 与寝室饮酒发生在哪一学期
+4	RELATION_AMBIGUITY	P1	OPEN		高一末关系变淡的「一系列事情」
+5	EVENT_TIMELINE	P1	OPEN		新加坡出发日
+6	EDITORIAL_PROCESS	PROCESS	OPEN		叙述的「现在」是不是十九岁
+7	EDITORIAL_PROCESS	PROCESS	OPEN		字数
+8	EDITORIAL_PROCESS	PROCESS	OPEN		正文里的推测标记
+9	FAMILY_FACT	P1	OPEN		家庭能否写入
+10	FAMILY_FACT	P1	OPEN		杨铨页未提交的修改
+11	EDITORIAL_PROCESS	PROCESS	OPEN		朋友圈里仍未对上原图的事件
+12	EVENT_TIMELINE	P1	OPEN		2024 年上海谁在开车，有没有乌镇
+13	RELATION_AMBIGUITY	P1	OPEN		桃园仪式
+14	OTHER	TRIAGE	OPEN		讲台上的「0」
+15	FAMILY_FACT	P1	OPEN		2024-08-12 父亲生日在哪里过
+16	PERSON_RELATION	P1	OPEN		颜子杰怎么认识的
+17	PERSON_RELATION	P1	OPEN		董佳好的关系命名
+18	PERSON_RELATION	P1	OPEN		孙思玥与 1907 名录
+19	FAMILY_FACT	P1	OPEN		表兄的名字
+20	FAMILY_FACT	P1	OPEN		小姑不是夏乐怡
+21	FAMILY_FACT	P1	OPEN		何沛泽的年份和公园那张婴儿照
+22	FAMILY_FACT	P1	OPEN		外公页还没改的大连
+23	PERSON_RELATION	P1	OPEN		刘弈帆当时的校名
+24	PERSON_RELATION	P1	OPEN		钟康明
+25	OTHER	TRIAGE	OPEN		住在哪里，到哪一年
+26	OTHER	TRIAGE	OPEN		奖状有多少张
+27	FAMILY_FACT	P1	OPEN		夏思成是表弟
+28	FAMILY_FACT	P1	OPEN		父亲的出生日历
+29	FAMILY_FACT	P1	OPEN		聊天里的「妹妹」
+30	OTHER	TRIAGE	OPEN		符雄辉评语的收束
+31	FAMILY_FACT	P1	OPEN		推荐表和族谱对不上的两格
+32	FAMILY_FACT	P1	OPEN		父亲何时回到市区
+33	EDITORIAL_PROCESS	PROCESS	OPEN		朋友圈有多少则
+34	PERSON_RELATION	P1	OPEN		曾子沣的 C 语言和数模
+35	OTHER	TRIAGE	OPEN		09-01 的 girlfriend
+36	OTHER	TRIAGE	OPEN		月华街十二问不署名
+37	EDITORIAL_PROCESS	PROCESS	OPEN		时间主线还没有冻结
+38	EVENT_TIMELINE	P1	OPEN		郭永康不是授课教师
+39	OTHER	TRIAGE	OPEN		《演员自我修养》的译本
+40	EVENT_TIMELINE	P1	OPEN		近纲和热学
+41	OTHER	TRIAGE	OPEN		向睿馨写下的生日
+42	OTHER	TRIAGE	OPEN		向睿馨的两套近况
+43	FAMILY_FACT	P1	OPEN		向睿馨自述里的家庭变动
+44	EVENT_TIMELINE	P1	OPEN		录取通知书的日期
+45	OTHER	TRIAGE	OPEN		xAI 的职位用词
+46	EDITORIAL_PROCESS	PROCESS	OPEN		武功山的数字
+47	OTHER	TRIAGE	OPEN		高一回忆比普通层多出的句子
+48	PERSON_RELATION	P1	OPEN		赵问竹成长页上的学校
+49	OTHER	TRIAGE	OPEN		1907 名单上两个看不清的字
+50	OTHER	TRIAGE	OPEN		两笔 99 元不合并
+51	EVENT_TIMELINE	P1	OPEN		世界杯的对手和奖项
+52	OTHER	TRIAGE	OPEN		O泡果奶只对上一次
+53	OTHER	TRIAGE	OPEN		刘欣妍只对上一则
+54	OTHER	TRIAGE	OPEN		死侍的三个日子
+55	PERSON_RELATION	P1	OPEN		刘逸凡不是刘弈帆
+56	OTHER	TRIAGE	OPEN		小龙虾和 Heisenberg
+57	FAMILY_FACT	P1	OPEN		朋友圈里新点出的亲属称呼
+58	PERSON_RELATION	P1	OPEN		董佳好的班级和分组
+59	OTHER	TRIAGE	OPEN		两部思政片名
+60	OTHER	TRIAGE	OPEN		没有姓名的两名同学，以及两杯奶茶
+61	OTHER	TRIAGE	OPEN		2025-10-17 的假通知
+62	PERSON_RELATION	P1	OPEN		郑森的生日和校名
+63	PERSON_RELATION	P1	OPEN		李博涵的军训传闻
+64	OTHER	TRIAGE	OPEN		阳老师
+65	OTHER	TRIAGE	OPEN		安化那一则的年份
+66	OTHER	TRIAGE	OPEN		2026-08-06 说起的一段短期关系
+67	OTHER	TRIAGE	OPEN		国际周的授课者
+68	PERSON_RELATION	P1	OPEN		郑磊这个名字
+69	OTHER	TRIAGE	OPEN		8 月 4 日的祝福
+70	FAMILY_FACT	P1	OPEN		父亲每月到校，和母亲每月见面
+71	OTHER	TRIAGE	OPEN		一次关上门
+72	OTHER	TRIAGE	OPEN		西安地铁上的争执
+73	OTHER	TRIAGE	OPEN		张xq
+74	EVENT_TIMELINE	P1	OPEN		四大力学和五大物理理论
+75	PERSON_RELATION	P1	OPEN		曾子沣的动态不是中南学籍
+76	PERSON_RELATION	P1	OPEN		赵文邦没有去新加坡
+77	OTHER	TRIAGE	OPEN		家长大会幻灯片上的人数
+78	EVENT_TIMELINE	P1	OPEN		两张电影票被转录对调过
+79	OTHER	TRIAGE	OPEN		通讯录上的两个字形
+80	EVENT_TIMELINE	P1	OPEN		一场考试的页面时间和题名
+81	EVENT_TIMELINE	P1	OPEN		2025-08-29 的车厢铭牌
+82	OTHER	TRIAGE	OPEN		杨振宁那张新闻卡
+83	OTHER	TRIAGE	OPEN		同学空间原图改了几个日子
+84	EDITORIAL_PROCESS	PROCESS	OPEN		台账末段的问卷销账
+85	EVENT_TIMELINE	P1	OPEN		强基班的职务和室友
+86	OTHER	TRIAGE	OPEN		12 月 5 日谁在哪一段
+87	OTHER	TRIAGE	OPEN		群里的挂科播报不是成绩单
+88	EVENT_TIMELINE	P1	OPEN		2022 年 8 月的报到单
+89	EVENT_TIMELINE	P1	OPEN		高一下最后一天的横幅
+90	EVENT_TIMELINE	P1	OPEN		新加坡人数和两张证书的英文
+91	EDITORIAL_PROCESS	PROCESS	OPEN		武功山有两次
+92	EVENT_TIMELINE	P1	OPEN		科三和晚自习
+93	EVENT_TIMELINE	P1	OPEN		力学老师和张帆的科目
+94	EVENT_TIMELINE	P1	OPEN		教室和班号
+95	EVENT_TIMELINE	P1	OPEN		报到、军训和开学典礼
+96	EDITORIAL_PROCESS	PROCESS	OPEN		相册把访学写成自由行，把五天收成三天
+97	OTHER	TRIAGE	OPEN		昵称里的省是不是籍贯
+98	PERSON_RELATION	P1	OPEN		余世杰是同一人
+99	OTHER	TRIAGE	OPEN		几条班级去向
+100	MANUSCRIPT_VS_FACT	P2	OPEN	no	V7-013 时间顺序倒错
+101	MANUSCRIPT_VS_FACT	P2	OPEN	yes	V7-001 通知书到达日与「等了十七天」
+102	AI_HABIT	P3	OPEN	no	V7-005 / V7-008 作者破框元叙述
+103	MANUSCRIPT_VS_FACT	P2	OPEN	yes	V7-009 导演署名顺序
+104	MANUSCRIPT_VS_FACT	P2	OPEN	no	V3-004 父亲回城时间
+105	MANUSCRIPT_VS_FACT	P2	OPEN	no	V7-014 西安五天与相册「三天」
+106	VERSION_META	PROCESS	OPEN	no	第七部 README 字数失同步
+107	STRUCTURE_VS_DESIGN	P1	OPEN	yes	第七部性质与 2026-11-08 设计不符
+108	MANUSCRIPT_VS_FACT	P2	OPEN	no	V7-005 微积分与线性代数教室对调
+109	MANUSCRIPT_VS_FACT	P2	OPEN	no	V7-005 基础英语写作教室 C305 vs C303
+111	MANUSCRIPT_VS_FACT	P2	OPEN	yes	V7-003 军训结束日 9-21 vs 三套说法
+112	MANUSCRIPT_VS_FACT	P2	OPEN	no	V7-003 军训集合时间与通知
+113	FACT_CLOSED_REUSE	PROCESS	OPEN	no	已关闭项被正文重新打开的风险
+114	MANUSCRIPT_VS_FACT	P2	OPEN	yes	V2-001 住宅路径可识别度
+115	MANUSCRIPT_VS_FACT	P2	OPEN	no	V2-002/003 分班名单张贴位置与自习安排
+116	MANUSCRIPT_VS_FACT	P2	OPEN	yes	V2-018 礼物三件套的时间与场所
+117	PERSON_RELATION	P1	OPEN	yes	宋俊豪姓名与「别写情感」授权未落地
+119	MANUSCRIPT_VS_FACT	P2	OPEN	no	V3-003 父亲在场性与第七部013 的时序
+120	LANGUAGE_SEAM	P3	OPEN	no	V3-004「二十元、三十元，这一多」疑方言渗入
+121	MANUSCRIPT_VS_FACT	P2	OPEN	yes	V2-021 RIO 饮酒段的学期归属
+122	EDITING_RESIDUE	P3	OPEN	no	V2-023 并稿残留：鼾声段逐字重复 + 对话段插错位置
+123	STYLE_INCONSISTENCY	P3	OPEN	no	V2-021 寝室号数字体例与全书不一致
+124	MANUSCRIPT_VS_FACT	P2	OPEN	no	V2-024 何睿是否在高二上六人组
+125	MANUSCRIPT_VS_FACT	P2	OPEN	yes	V7-011 改战区落点：澳门 vs 台湾省屏东县
+128	MANUSCRIPT_VS_FACT	P2	OPEN	yes	V4-001 三喻（月亮/火/风）的受喻者被改写
+129	MANUSCRIPT_VS_FACT	P2	OPEN	no	V4-018 仍是「父亲站着口述」的旧版本（与裁定冲突）
+131	TEXT_INTERNAL	P3	OPEN	no	V7-017 PPT 页码职能自相矛盾
+132	TEXT_INTERNAL	P3	OPEN	no	V7-019「开学第一天光学第一节课」时间硬伤
+133	MANUSCRIPT_VS_FACT	P2	OPEN	yes	V7-018 未引证书英文原文，读者会误读为七组第一
+134	STRUCTURE	P1	OPEN	no	V7-016 末合影段位置错置
+135	AI_HABIT	P3	OPEN	no	V5-017 残留作者破框四处（最重）
+136	PERSON_RELATION	P1	OPEN	no	第五部两位女性线索指称割裂，易误读为同一人
+137	SOURCE_DEFECT	P2	OPEN	yes	母亲页「闪光灯事件（事实层）」标题与内容不符
+139	MANUSCRIPT_VS_FACT	P2	OPEN	no	V6-011 王麒皓教室同层/异层矛盾
+140	DATA_CORRECTION	PROCESS	OPEN	no	第四部「章均 4,129 字」不实
+142	TEXT_INTERNAL	P3	OPEN	no	V6-005 序数悖论
+145	EDITING_RESIDUE	P3	OPEN	no	V3-009 未合并草稿：羽毛球段整段写两遍
+146	PERSON_RELATION	P1	OPEN	yes	阿澈＝王麒睿 判定 VERIFIED_CONFLICT（七条独立证据）
+147	TEXT_INTERNAL	P3	OPEN	no	第五部补习班楼层与学期双硬冲突（相隔四章、同一李老师）
+148	TEXT_INTERNAL	P3	OPEN	no	V5-007 全章 12 次「新来的寝室长」、0 次姓名
+149	AI_HABIT	P3	OPEN	no	第五部前段四处作者破框（贯穿体例，非 017 孤例）
+151	AUDIT_CORRECTION	PROCESS	CORRECTED	no	赵问竹：本人第一人称材料少（**非**「没有独立声音」）
+152	SOURCE_DEFECT	P2	OPEN	yes	事实仓 3 处「已入正文但本库自己已判定为误」且未回改
+153	GOVERNANCE	PROCESS	OPEN	yes	「仅登记不建页」与实际存在页冲突，下游照此删节点会删掉有据的人
+155	AUTHORIZATION	P0	OPEN	yes	同一间教室同一条线三套互斥授权指令
+156	AUDIT_CORRECTION	PROCESS	OPEN	no	问卷本身在制造事实：题干预设已写入正文
+158	GOVERNANCE	PROCESS	OPEN	no	「已判未改」是最大执行缺口（可执行清单）
+160	EVIDENCE_DOWNGRADE	P2	OPEN	yes	V7-011 落点证据链降级：屏东县群聊 0 命中，「54个标」是推断非原文
+162	AUDIT_CORRECTION	PROCESS	OPEN	no	「七组个人第一」的三重不成立
+163	EVIDENCE_DOWNGRADE	P2	PENDING_VERIFY	no	「光学周四 5–6 节」的依据来源待核
+164	SOURCE_DEFECT	P2	OPEN	yes	《（部分）》声称的附件目录实测 0 文件
+166	METHODOLOGY	PROCESS	OPEN	yes	题干在批量制造「细节幻觉」：出题者把聊天碎片写成了既成现场
+167	METHODOLOGY	PROCESS	OPEN	yes	越文学化的场景越可能只属于作者一人
+169	AUDIT_CORRECTION	PROCESS	OPEN	yes	相册「日期＝上传日」已在三线全部踩实；旅行是三人结构不是两人
+170	SOURCE_DEFECT	P2	OPEN	yes	正文比事实仓更准：2016 东北两次行程，须回修事实仓而非正文
+172	AUTHORIZATION	P0	OPEN	yes	母亲授权 V1→V2 明显收窄，两句须同时在场
+173	MANUSCRIPT_VS_FACT	P2	OPEN	no	TRANSPORT_GAP：2016-08-21 大连段无出发/返程日期
+174	LITERARY_UNDERUSED	P2	OPEN	no	兼祧祖父与兼祧制度：族谱 F1 级，正文全文 0 次——最干净的缺口
+175	LITERARY_UNDERUSED	P2	OPEN	yes	舅舅何永中：唯一有失败史的家庭成员，正文只写他开车
+176	LITERARY_UNDERUSED	P2	OPEN	yes	亲属系统占人物近半，却只分到一章
+177	METHODOLOGY	PROCESS	OPEN	yes	记忆分叉须分流：只有**真分叉**入不可靠叙述素材库，其余四类不入库
+179	METHODOLOGY	PROCESS	OPEN	no	事实仓页内的「已写入第X章」是规划期残留，不能当作「正文已用」的证据
+180	LITERARY_UNDERUSED	P2	OPEN	yes	马克龙见面会（2025-12-05）全书 0 命中——而它是全库证据链最完整的单一事件
+181	METHODOLOGY	PROCESS	OPEN	yes	事实仓与正文的「时差」是双向的，不能批量「以谁为准」
+183	STATUS	PROCESS	OPEN	no	双向映射首版完成（未全覆盖）
+186	MANUSCRIPT_VS_FACT	P2	OPEN	yes	教师名单两套互斥：「5 班/2 班」混记，不是笔误
+188	SOURCE_DEFECT	P2	OPEN	yes	教师线事实层极薄：23 页教师仅 3 页有场景
+189	MANUSCRIPT_VS_FACT	P2	OPEN	yes	「分 7 组」判 U：只存在于张天泽页单点，事件主档无此数
+192	AUTHORIZATION	P0	OPEN	no	CIISRI 全称订正未回改到人物页
+194	LITERARY_FINDING	P2	OPEN	yes	Ⅱ-019 应改判「**坦白式误认样本**」，不是「最成功的不可靠叙述」
+195	STYLE_INCONSISTENCY	P3	OPEN	yes	第六部存在全书唯一文体断层：顶针链式句占 37.5%
+196	TEXT_INTERNAL	P3	RULED_FIX_PENDING	no	符雄辉代词：**14 处**（原记 10 处，第四部漏记 4 处）
+197	GOVERNANCE	PROCESS	OPEN	yes	两套人物关系图互不引用，52 个 AI 分支无一条标已采纳/已否决
+200	PRODUCTION_GAP	P1	OPEN	no	「静待佳音」产线不一致
+204	MANUSCRIPT_VS_FACT	P2	OPEN	yes	校名两写：校服「湘郡金海」vs 横幅「长沙市雨花区金海中学」
+205	SOURCE_DEFECT	P2	OPEN	no	1907 名单自身矛盾；「02-红色包装袋」文件名不成立
+206	TOOL_LIMITATION	PROCESS	OPEN	no	PDF 只有 LFS 指针，实体 193MB 未渲染
+208	VISUAL_EVIDENCE	TRIAGE	OPEN	yes	录取通知书正文没有「强基」二字（默认升格风险）
+209	EVIDENCE_GAP	P2	OPEN	yes	3 页手写原件全部无署名、无日期，归属只能靠归档
+210	TEXT_INTERNAL	P3	OPEN	yes	正文引「我们周边的作业帮」，原件疑为「团内／圈内」
+212	VISUAL_EVIDENCE	TRIAGE	OPEN	no	毕业合影教师排 12 人确无符雄辉，与人物页吻合
+214	PRODUCTION_GAP	P1	OPEN	no	「已设计未落地」是第三种状态，须单列，否则利用率统计会藏掉产线差异
+215	AUDIT_CORRECTION	PROCESS	OPEN	no	05a「赵问竹 399＝核心重点第一」会误导排序
+218	MANUSCRIPT_VS_FACT	P2	FALSE_ALARM	yes	【已撤回转述层级说】紫云山是双版本装置；真漏删是 `:19`（与 `:163–167` 相似度 88.2%）
+219	SOURCE_DEFECT	P2	OPEN	no	颜子杰 PDF 推送方向写反：分析页与时间线互斥，同一份 PDF
+220	MANUSCRIPT_VS_FACT	P2	OPEN	yes	新加坡访学：**24 名学生**（非 25），出发 7/19 已可判定
+222	STATUS	PROCESS	OPEN	no	人数四处不闭合：禁用「全年级共 X 人」绝对句
+223	REIDENTIFY_RISK	P0	OPEN	yes	称谓碰撞：教师「荟梓」vs 学生「任荟梓」，极易错链
+224	SOURCE_DEFECT	P2	OPEN	yes	出生地矛盾：一处已撤回「长沙」，另一处仍写「出生·长沙」
+225	REIDENTIFY_RISK	P0	OPEN	yes	住址已到门牌级，且与同库规则冲突
+230	TEXT_INTERNAL	P3	OPEN	yes	V2 内部差一天：002 说「返校后第三天」，005 说「二十九日晚上纸还没贴」
+231	AUDIT_CORRECTION	PROCESS	OPEN	no	夏恺宪页仍写「李雨涵」，与生日宴名单裁定的「李宇涵」冲突
+232	REIDENTIFY_RISK	P0	OPEN	yes	两处单独即可现实定位：001 住址「秀水俪园 9 栋」、005 床位表＋通勤路线
+234	CONFLICT	P1	OPEN	yes	访学人数两个代理直接矛盾：24 学生 vs 25 学生
+237	GOVERNANCE	PROCESS	OPEN	yes	关系图谱：**9 人覆盖、28 人无分支**（原「26 人无分支」减法错集合）
+238	SOURCE_DEFECT	P2	OPEN	yes	写作体系 5 处旧规格仍在「生效位置」
+239	STYLE_INCONSISTENCY	P3	OPEN	yes	技法页仍写「不代写他人心理」，与 2026-09-12 新规直接相反
+240	SOURCE_DEFECT	P2	OPEN	yes	「本地私密原件」是幽灵路径：45 个文件引用一个不存在的目录
+241	SOURCE_DEFECT	P2	OPEN	yes	索引 §二 缺席三个顶层目录，而场景 A 第 1 步却指向其中之一
+242	SOURCE_DEFECT	P2	OPEN	yes	`主题线索引` 漏两个最大类：小计 530 vs 实际 828，缺 298
+244	REIDENTIFY_RISK	P0	OPEN	yes	董佳好「对抗」的**位置与次数我记错了**：实际在 `V5-018:281`，共 2 次
+245	AUTHORIZATION	P0	OPEN	yes	两处授权自相矛盾须裁
+246	AUDIT_CORRECTION	PROCESS	OPEN	no	问卷层增量：14 条矛盾表未收的否认，多条是被张冠李戴
+247	SOURCE_DEFECT	P2	OPEN	no	Excalidraw 自检被自己否证
+248	TEXT_INTERNAL	P3	OPEN	no	`V4-012:103` 主语跳脱的成因：四重同构
+249	MANUSCRIPT_VS_FACT	P2	OPEN	yes	`V2-001:15` 住址与事实仓不符：正文「九栋六层」vs 事实仓「一栋3单元605」
+250	MANUSCRIPT_VS_FACT	P2	OPEN	no	`V2-017:17`「两点半到五点半」与官方 14:30–17:25 差 5 分钟
+251	MANUSCRIPT_VS_FACT	P2	OPEN	no	赵问竹评价「热爱祖国」「一鸣惊人」漏引删节标记——`V2-007` 与 `V2-018` 都有
+253	AUTHORIZATION	P0	OPEN	yes	`V1-004`／`V1-009` 两次写出中考精确分 678——**违反私密层约定**
+254	LEGAL_RISK	P0	OPEN	yes	`V1-004:139`「喻翰东家境宽裕」——对真实同学家庭经济的无据断言
+255	REIDENTIFY_RISK	P0	OPEN	yes	`V1-003` 第 5 行完整写出 525 八人逐床床位表（本卷最大发表风险）
+256	SOURCE_DEFECT	P2	OPEN	yes	三处小偏差：黑板／讲台、华为俱乐部面试、微醺RIO
+258	TEXT_INTERNAL	P3	OPEN	yes	**走读与住校冲突**：`刘佑林.md:89`「高二下半走读」vs 021 的高二下夜聊／熄灯／饮酒
+259	AUTHORIZATION	P0	OPEN	yes	`V2-014` 涉母亲三条授权限制——**必须逐段给母亲看**
+260	LEGAL_RISK	P0	OPEN	yes	`V2-013` 那句「亲戚打招呼」**未核前不得公开**
+261	REIDENTIFY_RISK	P0	OPEN	yes	`V2-008` 未成年人真名＋班号＋奖状，须**全部化名**
+262	MANUSCRIPT_VS_FACT	P2	OPEN	yes	`V5-018` 密室：**把主角自己的恐惧整体转给了无名者**（全卷唯一双源材料）
+263	MANUSCRIPT_VS_FACT	P2	OPEN	yes	`V5-007` 耳塞**方向反转**：打呼噜的是宋俊豪，不是刘佑林
+265	STYLE_INCONSISTENCY	P3	OPEN	no	`V5-014` 配角同质化：**四个不同的人说同一句话**
+266	METHODOLOGY	PROCESS	OPEN	no	`V5-015`「晚上十点多」与 `V5-016`「七月十二日」是**伪精确**
+267	STYLE_INCONSISTENCY	P3	OPEN	no	`V5-008:9` 把班级代码「G2204/G2205」写进学生动作——**破框**
+268	MANUSCRIPT_VS_FACT	P2	OPEN	no	`V5-008` 成绩媒介错：正文写「贴出来、走廊挤过去」，实为 19 张系统截图
+271	AUTHORIZATION	P0	OPEN	yes	`V7-013:229` 父亲任职序列写入正文——**③层（公开发表）未覆盖**
+272	AUTHORIZATION	P0	OPEN	yes	`V7-014` 把「她本人同意」写成「她妈转的」——**须把同意还给她**
+273	SOURCE_DEFECT	P2	OPEN	no	事实层两处错：称「刘佑林与赵文邦同为导演」
+274	REIDENTIFY_RISK	P0	OPEN	no	`V7-007:043`「西安八十三中」= 可检索实体＋真名＋双胞胎弟弟
+276	STYLE_INCONSISTENCY	P3	OPEN	no	007/009 的「第七组」与新加坡「第二组／七个组」是两套编号，同卷并存易混
+277	SOURCE_DEFECT	P2	OPEN	yes	**我把 `百万长文写作/` 判成「旧稿禁读」是错的——它自称「现行施工入口」**
+278	SOURCE_DEFECT	P2	OPEN	yes	**两个书名并存**：事实仓《刘佑林的19年回忆录》vs 写作仓《时间的复数人称》
+279	SOURCE_DEFECT	P2	OPEN	yes	`AGENTS.md` 自称「**六部**统一工作规则」，实际是**七部 135 章**
+281	REIDENTIFY_RISK	P0	OPEN	yes	`背景资料/地方背景/刘佑林益阳家-秀水俪园与鹅羊池.md` 含精确住址小区名，标「地方背景」放普通层
+284	STATUS	PROCESS	OPEN	no	旧值「24 名学生」残留 **6 处**，可一次性销账
+285	SOURCE_DEFECT	P2	OPEN	no	`06 atlas` 的 path 列指向**空目录**
+286	LEGAL_RISK	P0	OPEN	yes	`V1-011:259`「我和赵问竹交换过这两问的答案」——**给两个真实学生加考试作弊记录**
+287	SOURCE_DEFECT	P2	OPEN	yes	`V3-008`〈春游那天〉与 `V3-011`〈丢了的五块钱〉**全库零一手素材**
+288	MANUSCRIPT_VS_FACT	P2	OPEN	no	`V3-012` **方向反转**：母亲说「多次被当范文」，叙述者记「只一次」
+289	STYLE_INCONSISTENCY	P3	OPEN	no	`V3-014` 给「明确说不记得小学」的人写了整章跳皮筋／翻花绳对白
+290	STYLE_INCONSISTENCY	P3	OPEN	no	`V3-008` 有 **7 组整段重复**（P0，约可删 1,200–1,500 字）
+291	STATUS	PROCESS	OPEN	no	出生地**四层定案**（M03 独立复核，与 M07 一致）
+292	TEXT_INTERNAL	P3	OPEN	no	`V4-007:7`「他交来的就这**六个字**」——引语实为**七个字**
+294	STYLE_INCONSISTENCY	P3	OPEN	yes	跨卷重复**四组未互引**：V2-022 已写，V4 三章各自扩成整章
+295	STYLE_INCONSISTENCY	P3	OPEN	no	第四部四处文本瑕疵（可逐字验证）
+296	CONFLICT	P1	OPEN	yes	**Ⅱ-019 三方判断分歧**（不选边，如实记录）
+297	STRUCTURE	P1	OPEN	yes	**`V2-014` 与 `V7-014` 是同一趟西安**——同一事件在两个卷里各写一半
+298	STRUCTURE	P1	OPEN	yes	**4 章越出本卷时限**
+299	STRUCTURE	P1	OPEN	yes	**马克龙不是「遗漏」，是「结构改动掉章」**
+301	AUDIT_CORRECTION	PROCESS	OPEN	no	`V3-008` 重复漏登：#145 只登了 V3-009
+302	TEXT_INTERNAL	P3	OPEN	yes	**父亲同章自相矛盾**：`V3-002:35` vs `:53`
+303	LITERARY_FINDING	P2	OPEN	yes	命名母题在**父亲身上是断的**
+311	SOURCE_DEFECT	P2	OPEN	yes	**【基础设施级】事实仓里有一棵旧版影子树，污染所有 grep 判断**
+312	MANUSCRIPT_VS_FACT	P2	OPEN	yes	**引文层：21 条「全文查无」，其中 11 条是把判词放进了引号**
+313	AUDIT_CORRECTION	PROCESS	OPEN	yes	**`V05-001:51` 把最危险的并置章写成了安全的——方向反了**
+314	METHODOLOGY	PROCESS	OPEN	yes	**顶针两套尺子，同一章能出 71.3% 和 43.8%——须裁决唯一口径**
+315	STYLE_INCONSISTENCY	P3	OPEN	yes	引用格式：**87.5% 不可复算**
+317	STRUCTURE	P1	OPEN	yes	**6 月 8 日整日缺失**：一个报物理强基的人，高考物理那天没有一个字
+318	METHODOLOGY	PROCESS	OPEN	no	**「71.3%」是「参与句占比」，不是「顶针率」**
+319	LITERARY_FINDING	P2	OPEN	yes	**顶针双层裁决**：章级是设计，句级是惯性
+320	TEXT_INTERNAL	P3	OPEN	yes	**`V6-020:29` 把父亲「我自己自愿的」写成「当时没得选」**
+321	LEGAL_RISK	P0	OPEN	yes	`V6-013` 两处对真实第三人不利的断言（全卷唯一）
+322	STATUS	PROCESS	OPEN	yes	`V6-018` **局部承担结构功能，整体过度生产**
