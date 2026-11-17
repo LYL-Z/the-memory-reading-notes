@@ -1,0 +1,219 @@
+task_id	priority	ledger_id	category	章	问题	证据出处	修订策略	风险	需作者裁	state
+R001	P1	1	FAMILY_FACT	（未标注）	出生地	editorial/contradictions.md#1				OPEN
+R002	P1	2	RELATION_AMBIGUITY	（未标注）	高二上六人组，四套说法	editorial/contradictions.md#2				OPEN
+R003	P1	3	RELATION_AMBIGUITY	（未标注）	RIO 与寝室饮酒发生在哪一学期	editorial/contradictions.md#3				OPEN
+R004	P1	4	RELATION_AMBIGUITY	（未标注）	高一末关系变淡的「一系列事情」	editorial/contradictions.md#4				OPEN
+R005	P1	5	EVENT_TIMELINE	（未标注）	新加坡出发日	editorial/contradictions.md#5				OPEN
+R006	P1	9	FAMILY_FACT	（未标注）	家庭能否写入	editorial/contradictions.md#9				OPEN
+R007	P1	10	FAMILY_FACT	（未标注）	杨铨页未提交的修改	editorial/contradictions.md#10				OPEN
+R008	P1	12	EVENT_TIMELINE	（未标注）	2024 年上海谁在开车，有没有乌镇	editorial/contradictions.md#12				OPEN
+R009	P1	13	RELATION_AMBIGUITY	（未标注）	桃园仪式	editorial/contradictions.md#13				OPEN
+R010	P2	14	OTHER	（未标注）	讲台上的「0」	editorial/contradictions.md#14				OPEN
+R011	P1	15	FAMILY_FACT	（未标注）	2024-08-12 父亲生日在哪里过	editorial/contradictions.md#15				OPEN
+R012	P1	16	PERSON_RELATION	（未标注）	颜子杰怎么认识的	editorial/contradictions.md#16				OPEN
+R013	P1	17	PERSON_RELATION	（未标注）	董佳好的关系命名	editorial/contradictions.md#17				OPEN
+R014	P1	18	PERSON_RELATION	（未标注）	孙思玥与 1907 名录	editorial/contradictions.md#18				OPEN
+R015	P1	19	FAMILY_FACT	（未标注）	表兄的名字	editorial/contradictions.md#19				OPEN
+R016	P1	20	FAMILY_FACT	（未标注）	小姑不是夏乐怡	editorial/contradictions.md#20				OPEN
+R017	P1	21	FAMILY_FACT	（未标注）	何沛泽的年份和公园那张婴儿照	editorial/contradictions.md#21				OPEN
+R018	P1	22	FAMILY_FACT	（未标注）	外公页还没改的大连	editorial/contradictions.md#22				OPEN
+R019	P1	23	PERSON_RELATION	（未标注）	刘弈帆当时的校名	editorial/contradictions.md#23				OPEN
+R020	P1	24	PERSON_RELATION	（未标注）	钟康明	editorial/contradictions.md#24				OPEN
+R021	P1	25	OTHER	（未标注）	住在哪里，到哪一年	editorial/contradictions.md#25				OPEN
+R022	P2	26	OTHER	（未标注）	奖状有多少张	editorial/contradictions.md#26				OPEN
+R023	P1	27	FAMILY_FACT	（未标注）	夏思成是表弟	editorial/contradictions.md#27				OPEN
+R024	P1	28	FAMILY_FACT	（未标注）	父亲的出生日历	editorial/contradictions.md#28				OPEN
+R025	P1	29	FAMILY_FACT	（未标注）	聊天里的「妹妹」	editorial/contradictions.md#29				OPEN
+R026	P2	30	OTHER	（未标注）	符雄辉评语的收束	editorial/contradictions.md#30				OPEN
+R027	P1	31	FAMILY_FACT	（未标注）	推荐表和族谱对不上的两格	editorial/contradictions.md#31				OPEN
+R028	P1	32	FAMILY_FACT	（未标注）	父亲何时回到市区	editorial/contradictions.md#32				OPEN
+R029	P1	34	PERSON_RELATION	（未标注）	曾子沣的 C 语言和数模	editorial/contradictions.md#34				OPEN
+R030	P2	35	OTHER	（未标注）	09-01 的 girlfriend	editorial/contradictions.md#35				OPEN
+R031	P2	36	OTHER	（未标注）	月华街十二问不署名	editorial/contradictions.md#36				OPEN
+R032	P1	38	EVENT_TIMELINE	（未标注）	郭永康不是授课教师	editorial/contradictions.md#38				OPEN
+R033	P3	39	OTHER	（未标注）	《演员自我修养》的译本	editorial/contradictions.md#39				OPEN
+R034	P1	40	EVENT_TIMELINE	（未标注）	近纲和热学	editorial/contradictions.md#40				OPEN
+R035	P2	41	OTHER	（未标注）	向睿馨写下的生日	editorial/contradictions.md#41				OPEN
+R036	P2	42	OTHER	（未标注）	向睿馨的两套近况	editorial/contradictions.md#42				OPEN
+R037	P1	43	FAMILY_FACT	（未标注）	向睿馨自述里的家庭变动	editorial/contradictions.md#43				OPEN
+R038	P1	44	EVENT_TIMELINE	（未标注）	录取通知书的日期	editorial/contradictions.md#44				OPEN
+R039	P3	45	OTHER	（未标注）	xAI 的职位用词	editorial/contradictions.md#45				OPEN
+R040	P2	47	OTHER	（未标注）	高一回忆比普通层多出的句子	editorial/contradictions.md#47				OPEN
+R041	P1	48	PERSON_RELATION	（未标注）	赵问竹成长页上的学校	editorial/contradictions.md#48				OPEN
+R042	P3	49	OTHER	（未标注）	1907 名单上两个看不清的字	editorial/contradictions.md#49				OPEN
+R043	P2	50	OTHER	（未标注）	两笔 99 元不合并	editorial/contradictions.md#50				OPEN
+R044	P1	51	EVENT_TIMELINE	（未标注）	世界杯的对手和奖项	editorial/contradictions.md#51				OPEN
+R045	P2	52	OTHER	（未标注）	O泡果奶只对上一次	editorial/contradictions.md#52				OPEN
+R046	P2	53	OTHER	（未标注）	刘欣妍只对上一则	editorial/contradictions.md#53				OPEN
+R047	P2	54	OTHER	（未标注）	死侍的三个日子	editorial/contradictions.md#54				OPEN
+R048	P1	55	PERSON_RELATION	（未标注）	刘逸凡不是刘弈帆	editorial/contradictions.md#55				OPEN
+R049	P2	56	OTHER	（未标注）	小龙虾和 Heisenberg	editorial/contradictions.md#56				OPEN
+R050	P1	57	FAMILY_FACT	（未标注）	朋友圈里新点出的亲属称呼	editorial/contradictions.md#57				OPEN
+R051	P1	58	PERSON_RELATION	（未标注）	董佳好的班级和分组	editorial/contradictions.md#58				OPEN
+R052	P2	59	OTHER	（未标注）	两部思政片名	editorial/contradictions.md#59				OPEN
+R053	P2	60	OTHER	（未标注）	没有姓名的两名同学，以及两杯奶茶	editorial/contradictions.md#60				OPEN
+R054	P2	61	OTHER	（未标注）	2025-10-17 的假通知	editorial/contradictions.md#61				OPEN
+R055	P1	62	PERSON_RELATION	（未标注）	郑森的生日和校名	editorial/contradictions.md#62				OPEN
+R056	P1	63	PERSON_RELATION	（未标注）	李博涵的军训传闻	editorial/contradictions.md#63				OPEN
+R057	P2	64	OTHER	（未标注）	阳老师	editorial/contradictions.md#64				OPEN
+R058	P2	65	OTHER	（未标注）	安化那一则的年份	editorial/contradictions.md#65				OPEN
+R059	P2	66	OTHER	（未标注）	2026-08-06 说起的一段短期关系	editorial/contradictions.md#66				OPEN
+R060	P2	67	OTHER	（未标注）	国际周的授课者	editorial/contradictions.md#67				OPEN
+R061	P1	68	PERSON_RELATION	（未标注）	郑磊这个名字	editorial/contradictions.md#68				OPEN
+R062	P2	69	OTHER	（未标注）	8 月 4 日的祝福	editorial/contradictions.md#69				OPEN
+R063	P1	70	FAMILY_FACT	（未标注）	父亲每月到校，和母亲每月见面	editorial/contradictions.md#70				OPEN
+R064	P2	71	OTHER	（未标注）	一次关上门	editorial/contradictions.md#71				OPEN
+R065	P2	72	OTHER	（未标注）	西安地铁上的争执	editorial/contradictions.md#72				OPEN
+R066	P2	73	OTHER	（未标注）	张xq	editorial/contradictions.md#73				OPEN
+R067	P1	74	EVENT_TIMELINE	（未标注）	四大力学和五大物理理论	editorial/contradictions.md#74				OPEN
+R068	P1	75	PERSON_RELATION	（未标注）	曾子沣的动态不是中南学籍	editorial/contradictions.md#75				OPEN
+R069	P1	76	PERSON_RELATION	（未标注）	赵文邦没有去新加坡	editorial/contradictions.md#76				OPEN
+R070	P2	77	OTHER	（未标注）	家长大会幻灯片上的人数	editorial/contradictions.md#77				OPEN
+R071	P1	78	EVENT_TIMELINE	（未标注）	两张电影票被转录对调过	editorial/contradictions.md#78				OPEN
+R072	P3	79	OTHER	（未标注）	通讯录上的两个字形	editorial/contradictions.md#79				OPEN
+R073	P1	80	EVENT_TIMELINE	（未标注）	一场考试的页面时间和题名	editorial/contradictions.md#80				OPEN
+R074	P1	81	EVENT_TIMELINE	（未标注）	2025-08-29 的车厢铭牌	editorial/contradictions.md#81				OPEN
+R075	P2	82	OTHER	（未标注）	杨振宁那张新闻卡	editorial/contradictions.md#82				OPEN
+R076	P2	83	OTHER	（未标注）	同学空间原图改了几个日子	editorial/contradictions.md#83				OPEN
+R077	P1	85	EVENT_TIMELINE	（未标注）	强基班的职务和室友	editorial/contradictions.md#85				OPEN
+R078	P2	86	OTHER	（未标注）	12 月 5 日谁在哪一段	editorial/contradictions.md#86				OPEN
+R079	P2	87	OTHER	（未标注）	群里的挂科播报不是成绩单	editorial/contradictions.md#87				OPEN
+R080	P1	88	EVENT_TIMELINE	（未标注）	2022 年 8 月的报到单	editorial/contradictions.md#88				OPEN
+R081	P1	89	EVENT_TIMELINE	（未标注）	高一下最后一天的横幅	editorial/contradictions.md#89				OPEN
+R082	P1	90	EVENT_TIMELINE	（未标注）	新加坡人数和两张证书的英文	editorial/contradictions.md#90				OPEN
+R083	P1	92	EVENT_TIMELINE	（未标注）	科三和晚自习	editorial/contradictions.md#92				OPEN
+R084	P1	93	EVENT_TIMELINE	（未标注）	力学老师和张帆的科目	editorial/contradictions.md#93				OPEN
+R085	P1	94	EVENT_TIMELINE	（未标注）	教室和班号	editorial/contradictions.md#94				OPEN
+R086	P1	95	EVENT_TIMELINE	（未标注）	报到、军训和开学典礼	editorial/contradictions.md#95				OPEN
+R087	P2	97	OTHER	（未标注）	昵称里的省是不是籍贯	editorial/contradictions.md#97				OPEN
+R088	P1	98	PERSON_RELATION	（未标注）	余世杰是同一人	editorial/contradictions.md#98				OPEN
+R089	P2	99	OTHER	（未标注）	几条班级去向	editorial/contradictions.md#99				OPEN
+R090	P2	100	MANUSCRIPT_VS_FACT	V7-013	V7-013 时间顺序倒错	manuscript/volume-07/013.md	非线性小说中段落顺序≠事件顺序，本身不构成错误。改为待核：该章转场句是否足以标识时间回跳			OPEN
+R091	P2	101	MANUSCRIPT_VS_FACT	V7-001	V7-001 通知书到达日与「等了十七天」	manuscript/volume-07/001.md; editorial/contradictions.md#44	若改动，将牵动第七部首章的时间锚		yes	OPEN
+R092	P3	102	AI_HABIT	V7-005;V7-008	V7-005 / V7-008 作者破框元叙述	manuscript/volume-07/005.md; manuscript/volume-07/008.md	需删改，不改事实			OPEN
+R093	P2	103	MANUSCRIPT_VS_FACT	V7-009	V7-009 导演署名顺序	manuscript/volume-07/009.md; editorial/six-volume-integration/2026-11-14-author-	需核事实；正文写法本身符合裁定		yes	OPEN
+R094	P2	104	MANUSCRIPT_VS_FACT	V3-004	V3-004 父亲回城时间	manuscript/volume-03/004.md; editorial/contradictions.md#32	章内未标年份，读者无法定位；但不影响文学效果，仅为事实层待核			OPEN
+R095	P2	105	MANUSCRIPT_VS_FACT	V7-014	V7-014 西安五天与相册「三天」	manuscript/volume-07/014.md; editorial/contradictions.md#96	正文无需改；事实库侧待订正			OPEN
+R096	P1	107	STRUCTURE_VS_DESIGN	（未标注）	第七部性质与 2026-11-08 设计不符	editorial/longform-architecture/2026-11-08-seven-part-aesthetic-motif-and-music-	决定全书是否还保有非线性外壳		yes	OPEN
+R097	P2	108	MANUSCRIPT_VS_FACT	V7-005	V7-005 微积分与线性代数教室对调	manuscript/volume-07/005.md; editorial/contradictions.md#94	可直接改，不牵动情节			OPEN
+R098	P2	109	MANUSCRIPT_VS_FACT	V7-005	V7-005 基础英语写作教室 C305 vs C303	manuscript/volume-07/005.md; editorial/contradictions.md#94	可直接改			OPEN
+R099	P2	111	MANUSCRIPT_VS_FACT	V7-003	V7-003 军训结束日 9-21 vs 三套说法	manuscript/volume-07/003.md; editorial/contradictions.md#95	正文取了一个未见于任何一套的说法		yes	OPEN
+R100	P2	112	MANUSCRIPT_VS_FACT	V7-003	V7-003 军训集合时间与通知	manuscript/volume-07/003.md	建议保留（不违背任何已核事实）			OPEN
+R101	P2	114	MANUSCRIPT_VS_FACT	V2-001	V2-001 住宅路径可识别度	manuscript/volume-02/001.md; editorial/contradictions.md#25	"若判定越界，需改为泛指（如""小区后门""""那栋楼""）"		yes	OPEN
+R102	P2	115	MANUSCRIPT_VS_FACT	V2-002	V2-002/003 分班名单张贴位置与自习安排	manuscript/volume-02/002.md; manuscript/volume-02/003.md	若为重构，应标 L2；不影响阅读			OPEN
+R103	P2	116	MANUSCRIPT_VS_FACT	V2-018	V2-018 礼物三件套的时间与场所	manuscript/volume-02/018.md; agent-03 T003-deep-read.md	若地点错，整章场景需改写		yes	OPEN
+R104	P1	117	PERSON_RELATION	（未标注）	宋俊豪姓名与「别写情感」授权未落地	agent-12 T012-fact-cards.md; 2026-11-14-publication-gates.md	若未获授权，第六部 010 及相关章需改名或删写		yes	OPEN
+R105	P2	119	MANUSCRIPT_VS_FACT	V3-003	V3-003 父亲在场性与第七部013 的时序	manuscript/volume-03/003.md; manuscript/volume-07/013.md	若第七部写作学前，则与第三部冲突			OPEN
+R106	P3	120	LANGUAGE_SEAM	V3-004	V3-004「二十元、三十元，这一多」疑方言渗入	manuscript/volume-03/004.md; agent-07 T007-deep-read.md	改「一二十块」即可，不牵动情节			OPEN
+R107	P2	121	MANUSCRIPT_VS_FACT	V2-021	V2-021 RIO 饮酒段的学期归属	manuscript/volume-02/021.md; editorial/contradictions.md#3	需裁决采用哪一说；若用高二下，须核实宋俊豪转入 426 的时间		yes	OPEN
+R108	P3	122	EDITING_RESIDUE	V2-023	V2-023 并稿残留：鼾声段逐字重复 + 对话段插错位置	manuscript/volume-02/023.md; agent-04 T004-deep-read.md	可机械修复：删一处鼾声段、挪回对话段			OPEN
+R109	P3	123	STYLE_INCONSISTENCY	V2-021	V2-021 寝室号数字体例与全书不一致	manuscript/volume-02/021.md	按全书规则统一（建议叙述口语用汉字、表格引用用阿拉伯数字）			OPEN
+R110	P2	124	MANUSCRIPT_VS_FACT	V2-024	V2-024 何睿是否在高二上六人组	manuscript/volume-02/024.md; editorial/contradictions.md#2	沿用 #2「不终裁」；正文不得写成唯一版本			OPEN
+R111	P2	125	MANUSCRIPT_VS_FACT	V7-011	V7-011 改战区落点：澳门 vs 台湾省屏东县	manuscript/volume-07/011.md; agent-11 T011-deep-read.md | agent-35 T031 独立复核	只改唐嘉睿那一处，其余五处不动		yes	OPEN
+R112	P2	128	MANUSCRIPT_VS_FACT	V1-002;V4-001	V4-001 三喻（月亮/火/风）的受喻者被改写	manuscript/volume-04/001.md; agent-08 T008-deep-read.md	属文学重构（L1）但改变了事实关系指向，需作者确认		yes	OPEN
+R113	P2	129	MANUSCRIPT_VS_FACT	V1-004;V4-018	V4-018 仍是「父亲站着口述」的旧版本（与裁定冲突）	manuscript/volume-04/018.md:185-201; manuscript/volume-01/004.md:39-45; agent-05	V4-018 需按裁定改写；否则读者会读到两个互斥证词			OPEN
+R114	P3	131	TEXT_INTERNAL	V7-017	V7-017 PPT 页码职能自相矛盾	manuscript/volume-07/017.md; agent-29 T029	必改后段页码对应			OPEN
+R115	P3	132	TEXT_INTERNAL	V7-019	V7-019「开学第一天光学第一节课」时间硬伤	manuscript/volume-07/019.md; agent-29 T029	改为「开学第一周周四」			OPEN
+R116	P2	133	MANUSCRIPT_VS_FACT	V7-018	V7-018 未引证书英文原文，读者会误读为七组第一	manuscript/volume-07/018.md; 2026-11-14-author-rulings.md	"建议证书段补英文原句，或明确写""组内杰出参与者"""		yes	OPEN
+R117	P1	134	STRUCTURE	V7-016	V7-016 末合影段位置错置	manuscript/volume-07/016.md; manuscript/volume-07/018.md; agent-29 T029	调段落位置，不改事实			OPEN
+R118	P3	135	AI_HABIT	V4-010;V5-005;V5-008;V5-017	V5-017 残留作者破框四处（最重）	manuscript/volume-05/017.md; agent-24 T024	必须整段重写 L191–215；其余逐处删改			OPEN
+R119	P1	136	PERSON_RELATION	（未标注）	第五部两位女性线索指称割裂，易误读为同一人	manuscript/volume-05/017.md; manuscript/volume-05/013.md; agent-24 T024	需在某一章让两个指称同时出现，或至少在首次出现时加限定			OPEN
+R120	P2	137	SOURCE_DEFECT	（未标注）	母亲页「闪光灯事件（事实层）」标题与内容不符	家庭/人物/母亲.md; agent-30 T030	写作前必须避开此标题；事实仓待订正		yes	OPEN
+R121	P2	139	MANUSCRIPT_VS_FACT	V6-011	V6-011 王麒皓教室同层/异层矛盾	manuscript/volume-06/011.md; agent-26 T026	需核楼层表后改一处			OPEN
+R122	P3	142	TEXT_INTERNAL	V6-005	V6-005 序数悖论	manuscript/volume-06/005.md; agent-25 T025	改序数或补回溯标记			OPEN
+R123	P3	145	EDITING_RESIDUE	V3-009	V3-009 未合并草稿：羽毛球段整段写两遍	manuscript/volume-03/009.md; agent-17 T017	可机械修复			OPEN
+R124	P1	146	PERSON_RELATION	V2-017	阿澈＝王麒睿 判定 VERIFIED_CONFLICT（七条独立证据）	manuscript/volume-05/005.md:39; manuscript/volume-02/017.md:3; agent-34 T022 | a	若保留化名，须在首次出现处交代，否则读者会认作两人		yes	OPEN
+R125	P3	147	TEXT_INTERNAL	（未标注）	第五部补习班楼层与学期双硬冲突（相隔四章、同一李老师）	manuscript/volume-05/005.md; manuscript/volume-05/010.md; agent-34 T022	两处必改其一，建议保留 010 的说法			OPEN
+R126	P3	148	TEXT_INTERNAL	V2-018;V5-007	V5-007 全章 12 次「新来的寝室长」、0 次姓名	manuscript/volume-05/007.md; agent-34 T022	至少出现一次姓名或明确限定			OPEN
+R127	P3	149	AI_HABIT	（未标注）	第五部前段四处作者破框（贯穿体例，非 017 孤例）	manuscript/volume-05/005.md; 006.md; 008.md; agent-34 T022	第五部需统一清理，不止 017			OPEN
+R128	P2	152	SOURCE_DEFECT	（未标注）	事实仓 3 处「已入正文但本库自己已判定为误」且未回改	agent-37 T037	须回改事实仓并逐处核正文		yes	OPEN
+R129	P0	155	AUTHORIZATION	（未标注）	同一间教室同一条线三套互斥授权指令	agent-37 T037	出版前须逐人过授权表		yes	OPEN
+R130	P2	160	EVIDENCE_DOWNGRADE	V7-011	V7-011 落点证据链降级：屏东县群聊 0 命中，「54个标」是推断非原文	agent-A07 T047; 群聊 2026-07-05/07-06	**维持「仅唐嘉睿一处」的范围不变，且该处也须待原图**；不得据现有材料直接改写		yes	OPEN
+R131	P2	163	EVIDENCE_DOWNGRADE	（未标注）	「光学周四 5–6 节」的依据来源待核	agent-A07 T047	132 条的结论暂不撤回，但依据须补			OPEN
+R132	P2	164	SOURCE_DEFECT	（未标注）	《（部分）》声称的附件目录实测 0 文件	agent-A07 T047	凡引「截图」为据的条目统一降为 F3 并标注		yes	OPEN
+R133	P2	170	SOURCE_DEFECT	V3-015	正文比事实仓更准：2016 东北两次行程，须回修事实仓而非正文	agent-A09 T049	**回修 `外公（母系）.md`**；正文 V3-015 不动（并应作为该判定的依据之一）		yes	OPEN
+R134	P0	172	AUTHORIZATION	（未标注）	母亲授权 V1→V2 明显收窄，两句须同时在场	agent-A09 T049	第三部家庭卷写作前须书面复核		yes	OPEN
+R135	P2	173	MANUSCRIPT_VS_FACT	（未标注）	TRANSPORT_GAP：2016-08-21 大连段无出发/返程日期	agent-A09 T049	补证前该段不得写死日期			OPEN
+R136	P2	174	LITERARY_UNDERUSED	（未标注）	兼祧祖父与兼祧制度：族谱 F1 级，正文全文 0 次——最干净的缺口	agent-A03 T043; 族谱	第三部家族卷最值得开发的一处；不必补证，只须决定是否用			OPEN
+R137	P2	175	LITERARY_UNDERUSED	（未标注）	舅舅何永中：唯一有失败史的家庭成员，正文只写他开车	agent-A03 T043	第三部或第五部可开发；须注意经营细节的 REIDENTIFY_RISK		yes	OPEN
+R138	P2	176	LITERARY_UNDERUSED	V2-016	亲属系统占人物近半，却只分到一章	agent-A03 T043	不必给每人加戏，但须判断「一章收束一整个亲属系统」是否为有意的结构选择		yes	OPEN
+R139	P2	180	LITERARY_UNDERUSED	（未标注）	马克龙见面会（2025-12-05）全书 0 命中——而它是全库证据链最完整的单一事件	agent-A11 T051	第七部结构补强的首选材料；不须补证，只需决定用不用		yes	OPEN
+R140	P2	186	MANUSCRIPT_VS_FACT	（未标注）	教师名单两套互斥：「5 班/2 班」混记，不是笔误	agent-A05 T045	教师场景须逐章核班号		yes	OPEN
+R141	P2	188	SOURCE_DEFECT	（未标注）	教师线事实层极薄：23 页教师仅 3 页有场景	agent-A05 T045	教师群像类章节目前无材料基础，不宜先写		yes	OPEN
+R142	P2	189	MANUSCRIPT_VS_FACT	V7-016	「分 7 组」判 U：只存在于张天泽页单点，事件主档无此数	agent-A06 T046; agent-A07 T047	V7-016~018 涉人数与分组处须标 U，不得当已证事实写		yes	OPEN
+R143	P0	192	AUTHORIZATION	（未标注）	CIISRI 全称订正未回改到人物页	agent-A06 T046	回改两个人物页，删去未经核实的机构全称			OPEN
+R144	P2	194	LITERARY_FINDING	（未标注）	Ⅱ-019 应改判「**坦白式误认样本**」，不是「最成功的不可靠叙述」	agent-A10 T050; 台账修正4	09/11 号文件对该章的定性须改为正面范例		yes	OPEN
+R145	P3	195	STYLE_INCONSISTENCY	V6-018	第六部存在全书唯一文体断层：顶针链式句占 37.5%	agent-A10 T050	第六部文体须统一决策（保留为特色／回改为常规）		yes	OPEN
+R146	P3	196	TEXT_INTERNAL	V2-018;V4-003;V4-004;V4-017	符雄辉代词：**14 处**（原记 10 处，第四部漏记 4 处）	agent-A03 TASK03	待修订轮：**14 处**「他」→「她」			OPEN
+R147	P1	200	PRODUCTION_GAP	（未标注）	「静待佳音」产线不一致	agent-A05 T045	判断是否该入正文			OPEN
+R148	P2	204	MANUSCRIPT_VS_FACT	（未标注）	校名两写：校服「湘郡金海」vs 横幅「长沙市雨花区金海中学」	agent-A13 T053	正文涉校名处须统一或说明		yes	OPEN
+R149	P2	205	SOURCE_DEFECT	（未标注）	1907 名单自身矛盾；「02-红色包装袋」文件名不成立	agent-A13 T053	素材层整理项			OPEN
+R150	P1	208	VISUAL_EVIDENCE	（未标注）	录取通知书正文没有「强基」二字（默认升格风险）	agent-A03 T053; agent-A13 T053	证书类描写一律以原件措辞为上限，不得加码		yes	OPEN
+R151	P2	209	EVIDENCE_GAP	（未标注）	3 页手写原件全部无署名、无日期，归属只能靠归档	agent-A03 T053	引用手稿时须并记「归属依赖归档」		yes	OPEN
+R152	P3	210	TEXT_INTERNAL	（未标注）	正文引「我们周边的作业帮」，原件疑为「团内／圈内」	agent-A03 T053	须作者或原件高清复核后定		yes	OPEN
+R153	P1	214	PRODUCTION_GAP	（未标注）	「已设计未落地」是第三种状态，须单列，否则利用率统计会藏掉产线差异	agent-A03 TASK03 §8	覆盖表增 DESIGNED_NOT_LANDED 状态			OPEN
+R154	P2	218	MANUSCRIPT_VS_FACT	V2-016;V3-002	【已撤回转述层级说】紫云山是双版本装置；真漏删是 `:19`（与 `:163–167` 相似度 88.2%）	V3-002:162; V2-016:39; agent-A05 拦截; agent-A03 T043 §10	不构成冲突；三条真问题分别按 U / L1-L2 / 设计裁决处理		yes	OPEN
+R155	P2	219	SOURCE_DEFECT	（未标注）	颜子杰 PDF 推送方向写反：分析页与时间线互斥，同一份 PDF	agent-B02 T055	分析页须加订正行			OPEN
+R156	P2	220	MANUSCRIPT_VS_FACT	（未标注）	新加坡访学：**24 名学生**（非 25），出发 7/19 已可判定	agent-B02 T055; 朋友圈审计:254	V7 访学章的人数与分组须按 24 学生／7 组订正		yes	OPEN
+R157	P0	223	REIDENTIFY_RISK	（未标注）	称谓碰撞：教师「荟梓」vs 学生「任荟梓」，极易错链	agent-B02 T055	称谓索引须补入荟梓		yes	OPEN
+R158	P2	224	SOURCE_DEFECT	V7-001;V7-003	出生地矛盾：一处已撤回「长沙」，另一处仍写「出生·长沙」	agent-B03 T056	出生地须先内部定案，再核 V7-003 与 V7-001 的表述		yes	OPEN
+R159	P0	225	REIDENTIFY_RISK	（未标注）	住址已到门牌级，且与同库规则冲突	agent-B03 T056	普通层须降级为社区级，门牌留私密层		yes	OPEN
+R160	P3	230	TEXT_INTERNAL	（未标注）	V2 内部差一天：002 说「返校后第三天」，005 说「二十九日晚上纸还没贴」	agent-B05 T058	编辑取舍：002 的「第三天」是否改「第四天」		yes	OPEN
+R161	P0	232	REIDENTIFY_RISK	（未标注）	两处单独即可现实定位：001 住址「秀水俪园 9 栋」、005 床位表＋通勤路线	agent-B05 T058	普通层须降级，床位表与通勤路线留私密层		yes	OPEN
+R162	P1	234	CONFLICT	（未标注）	访学人数两个代理直接矛盾：24 学生 vs 25 学生	agent-B02 T055; agent-B04 T057	须核 27 人构成：是否 2 师＋24 生＋1 领队		yes	OPEN
+R163	P2	238	SOURCE_DEFECT	（未标注）	写作体系 5 处旧规格仍在「生效位置」	agent-B04 T057	写作体系须清理旧规格，否则会污染新稿		yes	OPEN
+R164	P3	239	STYLE_INCONSISTENCY	（未标注）	技法页仍写「不代写他人心理」，与 2026-09-12 新规直接相反	agent-B04 T057	三页技法须同步新规；法律页条文号须核		yes	OPEN
+R165	P2	240	SOURCE_DEFECT	（未标注）	「本地私密原件」是幽灵路径：45 个文件引用一个不存在的目录	agent-B06 T059	统一把 45 处「本地私密原件」改为「私人资料」		yes	OPEN
+R166	P2	241	SOURCE_DEFECT	（未标注）	索引 §二 缺席三个顶层目录，而场景 A 第 1 步却指向其中之一	agent-B06 T059	§二 补三行；或修改场景 A 的指引		yes	OPEN
+R167	P2	242	SOURCE_DEFECT	（未标注）	`主题线索引` 漏两个最大类：小计 530 vs 实际 828，缺 298	agent-B06 T059	主题线索引与分类标签须重算		yes	OPEN
+R168	P0	244	REIDENTIFY_RISK	V5-018	董佳好「对抗」的**位置与次数我记错了**：实际在 `V5-018:281`，共 2 次	agent-B06 T059	正文无需改；问卷停发		yes	OPEN
+R169	P0	245	AUTHORIZATION	（未标注）	两处授权自相矛盾须裁	agent-B06 T059	两处授权须裁定		yes	OPEN
+R170	P2	247	SOURCE_DEFECT	（未标注）	Excalidraw 自检被自己否证	agent-B06 T059	清空画布、补登索引、改总图数字			OPEN
+R171	P3	248	TEXT_INTERNAL	V4-003;V4-012	`V4-012:103` 主语跳脱的成因：四重同构	agent-M04; V4-012:99-107	待修订：103 行后补主语复位句，非换代词			OPEN
+R172	P2	249	MANUSCRIPT_VS_FACT	V1-001;V2-001	`V2-001:15` 住址与事实仓不符：正文「九栋六层」vs 事实仓「一栋3单元605」	agent-M02 T060; id 114/230	①先核「九栋」有无；②公开层降级		yes	OPEN
+R173	P2	250	MANUSCRIPT_VS_FACT	V2-017	`V2-017:17`「两点半到五点半」与官方 14:30–17:25 差 5 分钟	agent-M02 T060	核实是否为同一场次			OPEN
+R174	P2	251	MANUSCRIPT_VS_FACT	V2-007;V2-018	赵问竹评价「热爱祖国」「一鸣惊人」漏引删节标记——`V2-007` 与 `V2-018` 都有	agent-M02 T060	两处均须补删节标记			OPEN
+R175	P0	253	AUTHORIZATION	V1-004;V1-009	`V1-004`／`V1-009` 两次写出中考精确分 678——**违反私密层约定**	agent-M01 T061; 时间线:25	两处精确分须删除或改为非数值表述		yes	OPEN
+R176	P0	254	LEGAL_RISK	V1-004	`V1-004:139`「喻翰东家境宽裕」——对真实同学家庭经济的无据断言	agent-M01 T061	须删或改为不带财产判断的表述		yes	OPEN
+R177	P0	255	REIDENTIFY_RISK	V1-003	`V1-003` 第 5 行完整写出 525 八人逐床床位表（本卷最大发表风险）	agent-M01 T061	床位表移私密层；「女寝相邻」须核		yes	OPEN
+R178	P2	256	SOURCE_DEFECT	（未标注）	三处小偏差：黑板／讲台、华为俱乐部面试、微醺RIO	agent-M01 T061; id 3	三处分别核		yes	OPEN
+R179	P3	258	TEXT_INTERNAL	V2-021	**走读与住校冲突**：`刘佑林.md:89`「高二下半走读」vs 021 的高二下夜聊／熄灯／饮酒	agent-M02; 刘佑林.md:89	须核走读起始时间与 021 场景时段		yes	OPEN
+R180	P0	259	AUTHORIZATION	V2-014	`V2-014` 涉母亲三条授权限制——**必须逐段给母亲看**	agent-M02; 母亲 V2 Q3/Q4/Q5	014/004/016 公开前须给母亲过目		yes	OPEN
+R181	P0	260	LEGAL_RISK	V2-013	`V2-013` 那句「亲戚打招呼」**未核前不得公开**	agent-M02 T060	未核前不得公开		yes	OPEN
+R182	P0	261	REIDENTIFY_RISK	V2-008;V2-018;V2-021	`V2-008` 未成年人真名＋班号＋奖状，须**全部化名**	agent-M02 T060	008 全部化名；018/021 类型化		yes	OPEN
+R183	P2	262	MANUSCRIPT_VS_FACT	V5-018	`V5-018` 密室：**把主角自己的恐惧整体转给了无名者**（全卷唯一双源材料）	agent-M05 T062	三处：主题改「小鬼当家」、补单线、恐惧归位		yes	OPEN
+R184	P2	263	MANUSCRIPT_VS_FACT	V5-007	`V5-007` 耳塞**方向反转**：打呼噜的是宋俊豪，不是刘佑林	agent-M05 T062; #149	方向须反转		yes	OPEN
+R185	P3	265	STYLE_INCONSISTENCY	V5-014	`V5-014` 配角同质化：**四个不同的人说同一句话**	agent-M05 T062	四个配角须分化			OPEN
+R186	P3	267	STYLE_INCONSISTENCY	V5-008	`V5-008:9` 把班级代码「G2204/G2205」写进学生动作——**破框**	agent-M05 T062	改为「四班/五班」			OPEN
+R187	P2	268	MANUSCRIPT_VS_FACT	V5-008	`V5-008` 成绩媒介错：正文写「贴出来、走廊挤过去」，实为 19 张系统截图	agent-M05 T062	须核媒介			OPEN
+R188	P0	271	AUTHORIZATION	V7-013	`V7-013:229` 父亲任职序列写入正文——**③层（公开发表）未覆盖**	agent-M07 T063	任职序列须逐项授权或改为模糊表述		yes	OPEN
+R189	P0	272	AUTHORIZATION	V7-014	`V7-014` 把「她本人同意」写成「她妈转的」——**须把同意还给她**	agent-M07 T063	014 补一句，把同意归位给她本人		yes	OPEN
+R190	P2	273	SOURCE_DEFECT	（未标注）	事实层两处错：称「刘佑林与赵文邦同为导演」	agent-M07 T063	订正 04/13 两处表述；升级 08 的判级			OPEN
+R191	P0	274	REIDENTIFY_RISK	V7-007	`V7-007:043`「西安八十三中」= 可检索实体＋真名＋双胞胎弟弟	agent-M07 T063	降为「西安一所中学」			OPEN
+R192	P3	276	STYLE_INCONSISTENCY	（未标注）	007/009 的「第七组」与新加坡「第二组／七个组」是两套编号，同卷并存易混	agent-M07 T063	后台字段区分			OPEN
+R193	P2	277	SOURCE_DEFECT	（未标注）	**我把 `百万长文写作/` 判成「旧稿禁读」是错的——它自称「现行施工入口」**	agent-M11 T064; 00-索引:3/21	①订正 BATCH-B-STATE 表述；②补读 82 份（只作参考不作正文）		yes	OPEN
+R194	P2	278	SOURCE_DEFECT	（未标注）	**两个书名并存**：事实仓《刘佑林的19年回忆录》vs 写作仓《时间的复数人称》	AGENTS.md:1; 用户订正-2026-09-12	须确认现行书名		yes	OPEN
+R195	P2	279	SOURCE_DEFECT	（未标注）	`AGENTS.md` 自称「**六部**统一工作规则」，实际是**七部 135 章**	AGENTS.md:1	AGENTS.md 须扩展为七部		yes	OPEN
+R196	P0	281	REIDENTIFY_RISK	（未标注）	`背景资料/地方背景/刘佑林益阳家-秀水俪园与鹅羊池.md` 含精确住址小区名，标「地方背景」放普通层	agent-M11 T064	层级须复核		yes	OPEN
+R197	P2	285	SOURCE_DEFECT	（未标注）	`06 atlas` 的 path 列指向**空目录**	agent-M07 T063R	atlas path 列须改或两处并跑			OPEN
+R198	P0	286	LEGAL_RISK	V1-011	`V1-011:259`「我和赵问竹交换过这两问的答案」——**给两个真实学生加考试作弊记录**	agent-M01 T061	须删或虚化		yes	OPEN
+R199	P2	287	SOURCE_DEFECT	V3-008;V3-011	`V3-008`〈春游那天〉与 `V3-011`〈丢了的五块钱〉**全库零一手素材**	agent-M03 T062	两章须补声明或标重构		yes	OPEN
+R200	P2	288	MANUSCRIPT_VS_FACT	V3-012	`V3-012` **方向反转**：母亲说「多次被当范文」，叙述者记「只一次」	agent-M03 T062	须加一处提示，让读者知道是叙述者记少			OPEN
+R201	P3	289	STYLE_INCONSISTENCY	V3-014	`V3-014` 给「明确说不记得小学」的人写了整章跳皮筋／翻花绳对白	agent-M03 T062	该段须标重构或删对白细节			OPEN
+R202	P3	290	STYLE_INCONSISTENCY	V3-008	`V3-008` 有 **7 组整段重复**（P0，约可删 1,200–1,500 字）	agent-M03 T062	按三类重复判据可删			OPEN
+R203	P3	292	TEXT_INTERNAL	V4-007	`V4-007:7`「他交来的就这**六个字**」——引语实为**七个字**	agent-M04 T065	改字数或删表述			OPEN
+R204	P3	294	STYLE_INCONSISTENCY	V1-002;V1-004;V2-022;V3-016;V4-008	跨卷重复**四组未互引**：V2-022 已写，V4 三章各自扩成整章	agent-M04 T065	须加互引或按卷分工删段		yes	OPEN
+R205	P3	295	STYLE_INCONSISTENCY	（未标注）	第四部四处文本瑕疵（可逐字验证）	agent-M04 T065	修订轮一并处理			OPEN
+R206	P1	296	CONFLICT	（未标注）	**Ⅱ-019 三方判断分歧**（不选边，如实记录）	agent-M09; agent-M10; agent-M02	措辞待定：以机制描述替代「最」		yes	OPEN
+R207	P1	297	STRUCTURE	V2-014;V7-014	**`V2-014` 与 `V7-014` 是同一趟西安**——同一事件在两个卷里各写一半	agent-M09 T066	须定主卷；另一卷改回望或删		yes	OPEN
+R208	P1	298	STRUCTURE	V2-012;V2-014;V2-016;V4-013	**4 章越出本卷时限**	agent-M09 T066	四章须核时段归属		yes	OPEN
+R209	P1	299	STRUCTURE	V1-001;V3-010	**马克龙不是「遗漏」，是「结构改动掉章」**	agent-M09 T066	须补章或确认放弃		yes	OPEN
+R210	P3	302	TEXT_INTERNAL	V3-002	**父亲同章自相矛盾**：`V3-002:35` vs `:53`	agent-M08 T067	须裁决哪个为准		yes	OPEN
+R211	P2	303	LITERARY_FINDING	V2-004;V3-002	命名母题在**父亲身上是断的**	agent-M08 T067	须确认父亲无名为设计或遗漏		yes	OPEN
+R212	P2	311	SOURCE_DEFECT	（未标注）	**【基础设施级】事实仓里有一棵旧版影子树，污染所有 grep 判断**	agent-M10 T068; 实测 43 md	须移出或改名；此前所有零命中判断须复核		yes	OPEN
+R213	P2	312	MANUSCRIPT_VS_FACT	（未标注）	**引文层：21 条「全文查无」，其中 11 条是把判词放进了引号**	agent-M10 T068	21 条须去引号或补真实行号		yes	OPEN
+R214	P3	315	STYLE_INCONSISTENCY	（未标注）	引用格式：**87.5% 不可复算**	agent-M10 T068	1448 条须补目录+行号		yes	OPEN
+R215	P1	317	STRUCTURE	（未标注）	**6 月 8 日整日缺失**：一个报物理强基的人，高考物理那天没有一个字	agent-M06 T069	须补章或确认省略意图		yes	OPEN
+R216	P2	319	LITERARY_FINDING	（未标注）	**顶针双层裁决**：章级是设计，句级是惯性	agent-M06 T069	按三档处置，不整卷重写		yes	OPEN
+R217	P3	320	TEXT_INTERNAL	V6-020	**`V6-020:29` 把父亲「我自己自愿的」写成「当时没得选」**	agent-M06 T069	改为叙述者的误听		yes	OPEN
+R218	P0	321	LEGAL_RISK	V6-013	`V6-013` 两处对真实第三人不利的断言（全卷唯一）	agent-M06 T069	两处须改；「没有回礼」改「我没等到」		yes	OPEN
