@@ -33,6 +33,14 @@ ALIAS = {
     '麓山国际作息时间': '高中/素材/个人回忆/麓山国际作息时间-用户提供-2026-09-12.md',
     '母亲QQ相册时间线': '家庭/素材/母亲QQ相册时间线-2011至2026.md',
     '生日宴名单': '家庭/素材/母亲QQ相册-生日宴同学名单-2023-11-11.md',
+    '生日宴页': '家庭/素材/母亲QQ相册-生日宴同学名单-2023-11-11.md',
+    '书信整理': '初中/2022届/素材/家庭书信/2022-01-25写给父母的信-叙事整理.md',
+    '刘佑林口述': '高中/素材/个人回忆/刘佑林口述-选科强基住宿同桌外号-2026-09-12.md',
+    '刘佑林口述-选科强基住宿同桌外号': '高中/素材/个人回忆/刘佑林口述-选科强基住宿同桌外号-2026-09-12.md',
+    '03_...': 'editorial/full-corpus-readiness/03_complete-writing-standards.md',
+    '04_author-facts': 'editorial/full-corpus-readiness/04_author-facts-and-life-timeline.md',
+    '10_contradictions…tsv': 'editorial/full-corpus-readiness/10_contradictions-and-fact-boundaries.tsv',
+    '2022中考…': '初中/2022届/素材/升学/2022中考至麓山国际入学时间线-刘佑林回忆.md',
     '荣誉证书档案': '高中/素材/成长记录/刘佑林高中荣誉证书档案-2022至2025.md',
 }
 
