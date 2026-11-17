@@ -1174,8 +1174,6 @@ editorial/fact_cards/2026-10-31-郑森李博涵逐则.md	B/reading-notes	B-HISTO
 editorial/fact_cards/2026-10-31-高中其余.md	B/reading-notes	B-HISTORICAL	Y	Y	CORPUS_ONLY	0						744			10406		0.0	4	未阅读	无任何阅读记录	
 editorial/fact_cards/2026-10-31-高中同窗.md	B/reading-notes	B-HISTORICAL	Y	Y	CORPUS_ONLY	0						621			14691		0.0	4	未阅读	无任何阅读记录	
 editorial/fact_cards/2026-10-31-高中名录与素材.md	B/reading-notes	B-HISTORICAL	Y	Y	CORPUS_ONLY	0						338			8970		0.0	4	未阅读	无任何阅读记录	
-editorial/final-readiness/F00-stats/DINGZHEN-VERDICT.md	B/reading-notes	B-HISTORICAL	Y	Y	CORPUS_ONLY	0						67			586		0.0	4	未阅读	无任何阅读记录	
-editorial/final-readiness/_SCOPE.md	B/reading-notes	B-HISTORICAL	Y	Y	CORPUS_ONLY	0						32			434		0.0	4	未阅读	无任何阅读记录	
 editorial/five-volume-r3-independent-20261114/00-baseline-and-contract.md	B/reading-notes	B-HISTORICAL	Y	Y	CORPUS_ONLY	0						116			1459		0.0	4	未阅读	无任何阅读记录	
 editorial/five-volume-r3-independent-20261114/01-cold-read-and-structure.md	B/reading-notes	B-HISTORICAL	Y	Y	CORPUS_ONLY	0						179			3039		0.0	4	未阅读	无任何阅读记录	
 editorial/five-volume-r3-independent-20261114/02-verdicts.md	B/reading-notes	B-HISTORICAL	Y	Y	CORPUS_ONLY	0						336			6669		0.0	4	未阅读	无任何阅读记录	
@@ -1700,3 +1698,5 @@ manuscript/volume-07/017.md	B/reading-notes	B-MANUSCRIPT	N	N	RECORDED	1	F01-R007
 manuscript/volume-07/018.md	B/reading-notes	B-MANUSCRIPT	N	N	RECORDED	1	F01-R0079	2026-11-15 parallel round1	subagent Read	73e8220				5312				2	已读但证据仍需补充	记录路径不可解析（manuscript/volume-07 为空，同名文件在 work/m09/volume-07）	agent-29 deep read
 manuscript/volume-07/019.md	B/reading-notes	B-MANUSCRIPT	N	N	RECORDED	1	F01-R0080	2026-11-15 parallel round1	subagent Read	73e8220				5481				2	已读但证据仍需补充	记录路径不可解析（manuscript/volume-07 为空，同名文件在 work/m09/volume-07）	agent-29 deep read
 manuscript/volume-07/020.md	B/reading-notes	B-MANUSCRIPT	N	N	RECORDED	1	F01-R0025	2026-11-15 round1	Read	PR#84@73e8220	287			5252				2	已读但证据仍需补充	记录路径不可解析（manuscript/volume-07 为空，同名文件在 work/m09/volume-07）	逐行读至末行，末行前20字已引；主事件：项目“保存”失效：改名半成品、向同学与父亲承认没做完；隐私：低
+editorial/final-readiness/F00-stats/DINGZHEN-VERDICT.md	B/reading-notes	B-ROUND-OUTPUT	N	Y	CORPUS_ONLY	0						67			586		0.0	5	按明确规则排除	本轮审计产出	
+editorial/final-readiness/_SCOPE.md	B/reading-notes	B-ROUND-OUTPUT	N	Y	CORPUS_ONLY	0						32			434		0.0	5	按明确规则排除	本轮审计产出	
