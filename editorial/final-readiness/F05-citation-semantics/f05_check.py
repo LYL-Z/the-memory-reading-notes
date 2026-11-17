@@ -23,10 +23,17 @@ OUT = WRITE + "/editorial/final-readiness/F05-citation-semantics"
 # 简称 → 事实仓相对路径（只登记能唯一确定的高频简称）
 ALIAS = {
     'G2204时间线': '高中/G2204/G2204高一入学、分组与寝室时间线.md',
+    'G2204高一入学、分组与寝室时间线': '高中/G2204/G2204高一入学、分组与寝室时间线.md',
+    '时间线页': '高中/G2204/G2204高一入学、分组与寝室时间线.md',
     '学业档案': '大学/四川大学/强基班/刘佑林学业档案.md',
-    '毕业名录': '高中/2025届/2025届毕业名录.md',
-    '荣誉证书档案': '高中/2025届/素材/荣誉证书档案.md',
-    '新加坡之行': '高中/素材/个人回忆/新加坡之行-2019.md',
+    '回忆': '高中/素材/个人回忆/刘佑林关于赵问竹的高中回忆-2026-08-12.md',
+    '赵问竹书面评价': '高中/素材/同学回忆/赵问竹关于刘佑林的书面评价.md',
+    '竹林杯': '高中/素材/个人回忆/竹林杯与高一关系变淡-2026-08-28.md',
+    '新加坡之行': '高中/素材/个人回忆/新加坡之行-2026.md',
+    '麓山国际作息时间': '高中/素材/个人回忆/麓山国际作息时间-用户提供-2026-09-12.md',
+    '母亲QQ相册时间线': '家庭/素材/母亲QQ相册时间线-2011至2026.md',
+    '生日宴名单': '家庭/素材/母亲QQ相册-生日宴同学名单-2023-11-11.md',
+    '荣誉证书档案': '高中/素材/成长记录/刘佑林高中荣誉证书档案-2022至2025.md',
 }
 
 QUOTE = re.compile(r'^[）)\]】]?[：:]?[（(]?[「“]([^」”]{2,240})[」”]')
@@ -118,6 +125,58 @@ def match_level(quote, window_text):
     return ('PARTIAL' if cover >= 0.72 else 'ABSENT', miss[0][:40])
 
 
+TEXT_CACHE = None
+
+
+def text_index():
+    global TEXT_CACHE
+    if TEXT_CACHE is None:
+        TEXT_CACHE = []
+        for dp, dn, fs in os.walk(FACT):
+            dn[:] = [d for d in dn if d not in ('.git', '.workbuddy', '私人资料', 'lover-best', 'node_modules')]
+            for fn in fs:
+                if not fn.endswith('.md'):
+                    continue
+                fp = os.path.join(dp, fn)
+                try:
+                    t = open(fp, encoding='utf-8').read()
+                except Exception:
+                    continue
+                TEXT_CACHE.append((fp.replace('\\', '/'), norm(t, True), t.split('\n')))
+    return TEXT_CACHE
+
+
+def locate_by_text(quote):
+    """源不可解析时，用引文最长片段在事实仓里反查真实位置。返回 (path, line, seg)。"""
+    segs = sorted(segments(quote), key=lambda x: -len(norm(x, True)))
+    if not segs:
+        return None
+    seg = norm(segs[0], True)
+    if len(seg) < 6:
+        return None
+    hits = []
+    for fp, nt, lines in text_index():
+        k = nt.find(seg)
+        if k < 0:
+            continue
+        # 计算行号
+        acc = 0
+        ln = 1
+        for i, L in enumerate(lines, 1):
+            if acc + len(norm(L, True)) >= k:
+                ln = i
+                break
+            acc += len(norm(L, True))
+        hits.append((fp, ln, segs[0]))
+    if len(hits) == 1:
+        return hits[0]
+    if hits:
+        # 多命中：优先 高中/家庭/大学 素材页，且路径短的
+        hits.sort(key=lambda x: (len(x[0]), x[0]))
+        return hits[0] + (f'多命中{len(hits)}',)
+    return None
+
+
 def chapter_file(vol, chap):
     p = (f"{WRITE}/manuscript/volume-0{vol}/{chap}.md" if vol <= 6
          else f"{WRITE}/work/m09/volume-07/{chap}.md")
@@ -139,28 +198,50 @@ def main():
         vol, chap = int(mv.group(1)), mv.group(2)
         chapf = chapter_file(vol, chap)
         raw = open(f, encoding='utf-8').read().split('\n')
-        para_path = None      # 本段/本行最近一次完整路径
+        para_path = None      # 本段最近一次完整路径
+        table_first = None    # 当前表格块的首个完整路径（「同」的归属）
+        in_table = False
         for ln, text in enumerate(raw, 1):
-            if not text.strip() or text.lstrip().startswith(('|', '#')):
-                if not text.lstrip().startswith('|'):
-                    para_path = None
+            is_row = text.lstrip().startswith('|')
+            if is_row and not in_table:
+                in_table, table_first = True, None
+            elif not is_row and in_table:
+                in_table, table_first = False, None
+            if not text.strip() or text.lstrip().startswith('#'):
+                para_path = None
+            # 单元格边界（表格行）
+            cuts = [i for i, c in enumerate(text) if c == '|'] if is_row else []
+            cell_first = {}
             for m in TICK.finditer(text):
                 body = m.group(1)
                 sm = SPEC.match(body)
                 if not sm:
                     continue
                 pre, spec = sm.group('pre').strip(), sm.group('spec')
+                # 定位所属单元格
+                ci = sum(1 for c in cuts if c < m.start())
                 kind, src, label = None, None, body
                 if pre.endswith('.md'):
                     kind, src = 'FULL', resolve(pre, idx, bybase)
                     if src:
                         para_path = src
+                        cell_first.setdefault(ci, src)
+                        if table_first is None and is_row:
+                            table_first = src
                 elif pre == '':
-                    before = text[max(0, m.start() - 4):m.start()]
-                    if re.search(r'同\s*$', before) and para_path:
+                    before = text[max(0, m.start() - 6):m.start()]
+                    if re.search(r'同卷\s*$', before):
                         kind, src = 'SAME', para_path
+                    elif re.search(r'同[页]?\s*$', before):
+                        kind = 'SAME'
+                        src = cell_first.get(ci) or table_first or para_path
                     else:
-                        kind, src = 'CHAP', chapf
+                        if is_row:
+                            src = cell_first.get(ci) or para_path
+                            kind = 'CONT' if src else 'CHAP'
+                            src = src or chapf
+                        else:
+                            kind, src = 'CHAP', chapf
                 elif re.match(r'^\d{3}$', pre):
                     kind, src = 'CHAP_REF', chapter_file(vol, pre) or None
                 else:
@@ -169,13 +250,26 @@ def main():
                     src = resolve(a, idx, bybase) if a else None
                     if src:
                         para_path = src
+                        cell_first.setdefault(ci, src)
                 after = text[m.end():]
                 qm = QUOTE.match(after)
                 quote = qm.group(1) if qm else ''
                 rec = dict(ch=base[:-3], ln=ln, cite=label, kind=kind,
                            quote=quote, status='', miss='', src=src or '')
                 if not src:
-                    rec['status'] = 'SRC_UNRESOLVED'
+                    got = locate_by_text(quote) if quote else None
+                    if got:
+                        rec['status'] = 'SRC_INFERRED'
+                        rec['src'] = got[0]
+                        rec['miss'] = f'实见第{got[1]}行'
+                        s2 = open(got[0], encoding='utf-8').read().split('\n')
+                        ns2 = line_nums(spec)
+                        if ns2 and max(ns2) <= len(s2):
+                            lv, ms = match_level(quote, '\n'.join(s2[i-1] for i in ns2 if 1 <= i <= len(s2)))
+                            rec['status'] = 'INFER_' + lv
+                            rec['miss'] = f'实见第{got[1]}行'
+                    else:
+                        rec['status'] = 'SRC_UNRESOLVED'
                     rows.append(rec); continue
                 s = open(src, encoding='utf-8').read().split('\n')
                 ns = line_nums(spec)
@@ -198,7 +292,9 @@ def main():
                 rows.append(rec)
 
     order = {'ABSENT': 0, 'PARTIAL': 1, 'LINE_OFF': 2, 'LINE_OOR': 3, 'SRC_UNRESOLVED': 4,
-             'NORM': 5, 'ELLIPSIS_OK': 6, 'EXACT': 7, 'EMPTY': 8, 'NO_QUOTE': 9}
+             'INFER_ABSENT': 5, 'INFER_PARTIAL': 6, 'INFER_LINE_OFF': 7, 'INFER_NORM': 8,
+             'INFER_ELLIPSIS_OK': 9, 'INFER_EXACT': 10,
+             'NORM': 11, 'ELLIPSIS_OK': 12, 'EXACT': 13, 'EMPTY': 14, 'NO_QUOTE': 15}
     rows.sort(key=lambda r: (order.get(r['status'], 9), r['ch'], r['ln']))
     with open(f"{OUT}/f05_citations_raw.tsv", 'w', encoding='utf-8', newline='') as fh:
         cols = ('ch', 'ln', 'cite', 'kind', 'quote', 'status', 'miss', 'src', 'excerpt')
