@@ -1,1 +1,6 @@
 vol	ch	round	action	orig_hanzi	cand_hanzi	delta	new_scenes	commit
+4	005	QWEN-R1	章级重写	3403	5154	+1751	水房/洗澡排队/周日两小时/查寝/返校夜八种菜	local
+4	011	QWEN-R1	章级重写	3452	4429	+977	班主任提及/分数板/走廊对数/借扫帚/表用过一次	local
+4	015	QWEN-R1	章级重写	4949	5711	+762	初一想家/粉店/水果/返校前夜叠衣	local
+4	017	QWEN-R1	章级重写	3322	4441	+1119	教师排序/自由合影/第二排名单数出六人	local
+4	018	QWEN-R1	章级重写	6595	6713	+118	十二天三天/志愿电话表/装行李三堆	local
