@@ -11,3 +11,7 @@ vol	ch	round	action	orig_hanzi	cand_hanzi	delta	new_scenes	commit
 4	004	QWEN-R1	章级重写	4876	6499	+1623	孙思玥查证/罚站双记忆/英语听写抄二十遍/历史课接话/朱学良大学去向	local
 4	001	QWEN-R1	章级重写	4993	6258	+1265	父亲吃食生意/父母三层反应订正/男人与男人那句/茶道/伯牙子期	local
 4	008	QWEN-R1	章级重写	3968	5126	+1158	中午打球被骂/鞋踩爆方向丢了/德思勤聚餐/班级群与老黑生日	local
+4	002	QWEN-R1	章级重写	4237	6844	+2607		local
+4	010	QWEN-R1	章级重写	2932	3854	+922		local
+4	014	QWEN-R1	章级重写	3900	5279	+1379		local
+4	016	QWEN-R1	章级重写	3616	5045	+1429		local
