@@ -85,17 +85,24 @@ def main():
         ch = r['章']; ln = int(r['行'])
         key = (ch, ln)
         form = r['形态']
-        if key in MANUAL:
+        note_re = re.compile(r'(不得|不写|未|尚无|仅在|须|建议|保留|不另|不概|不改|不收|不把|不入|不补|不据|不用于|精确.*私密|待核|合规|只登记|只作|不能倒推)')
+        if r['源文件'] and ('正式成文/' in r['源文件'] or '百万长文写作/' in r['源文件'] or '长篇创作/' in r['源文件']):
+            v, c3, c4, c5, c6 = 'RELABEL', '不通过', '不忠实', '未判', '未判'
+            adv = '把本书旧稿/草稿当作事实源，属循环引证；须换引事实仓原文（人物页/素材页/问卷）。'
+        elif key in MANUAL:
             v, c3, c4, c5, c6, adv = MANUAL[key]
         elif form == 'LOC_IN_FILE':
             v, c3, c4, c5, c6 = 'RELABEL', '不通过', '忠实', '未判', '未判'
             adv = f'引文属实，行号漂移：实际在同文件第 {r["实见"]} 行，改正行号即可。'
+        elif form == 'LOC_IN_REPO' and note_re.search(r['引文']):
+            v, c3, c4, c5, c6 = 'RELABEL', '不通过', '不适用', '未判', '未判'
+            adv = '引号内是源页/映射的边界按语；即便别处有同字面，也不是该判据的原文。改「按：…」。'
         elif form == 'LOC_IN_REPO':
             v, c3, c4, c5, c6 = 'RELABEL', '不通过', '忠实', '未判', '未判'
             adv = f'引文属实但源文件标错：实际见 `{r["实见"]}`，换源。'
         elif form == 'NOWHERE':
             q = r['引文']
-            if re.search(r'(不得|不写|未|尚无|仅在|须|建议|保留|不另|不概|不改|不收|不把|不入|不补|精确.*私密|待核|合规|不据|不能|只登记|只作)', q):
+            if note_re.search(q):
                 v, c3, c4, c5, c6 = 'RELABEL', '不通过', '不适用', '未判', '未判'
                 adv = '引号内是映射作者/源页的边界按语，不是原文；改「按：…」或去引号。'
             else:
@@ -122,7 +129,7 @@ def main():
         w.writerow(['章', '引用位置', '引用文本', '源文件:行号', '原文摘录',
                     '③逐字', '④忠实', '⑤支持判断', '⑥支持审稿', '裁决', '建议处置'])
         for r in out:
-            w.writerow([r['ch'], f"{r['ch']}:{r['ln']}", r['quote'], f"{r['src']}:{r['cite'].split(':')[-1]}",
+            w.writerow([r['ch'], f"{r['ch']}:{r['ln']}", r['quote'], r['cite'],
                         r['excerpt'], r['c3'], r['c4'], r['c5'], r['c6'], r['verdict'], r['advice']])
     from collections import Counter
     print(Counter(r['verdict'] for r in out), len(out))
