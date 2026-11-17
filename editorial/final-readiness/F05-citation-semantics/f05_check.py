@@ -212,6 +212,7 @@ def main():
             # 单元格边界（表格行）
             cuts = [i for i, c in enumerate(text) if c == '|'] if is_row else []
             cell_first = {}
+            line_first = None
             for m in TICK.finditer(text):
                 body = m.group(1)
                 sm = SPEC.match(body)
@@ -226,13 +227,17 @@ def main():
                     if src:
                         para_path = src
                         cell_first.setdefault(ci, src)
+                        if line_first is None:
+                            line_first = src
                         if table_first is None and is_row:
                             table_first = src
                 elif pre == '':
-                    before = text[max(0, m.start() - 6):m.start()]
-                    if re.search(r'同卷\s*$', before):
+                    before = text[max(0, m.start() - 12):m.start()]
+                    if re.search(r'同卷\s*(?:Q\d+)?\s*[（(]?\s*$', before):
                         kind, src = 'SAME', para_path
-                    elif re.search(r'同[页]?\s*$', before):
+                    elif re.search(r'同(?:文件|页|表|书)\s*(?:Q\s*\d+)?\s*[（(]?\s*$', before):
+                        kind, src = 'SAME', line_first or cell_first.get(ci) or para_path
+                    elif re.search(r'同\s*(?:Q\d+)?\s*[（(]?\s*$', before):
                         kind = 'SAME'
                         src = cell_first.get(ci) or table_first or para_path
                     else:

@@ -85,7 +85,8 @@ V05-019	49	019:107-113	CHAP_REF	我把题目发过去，问他有没有更快的
 V05-019	78	019:111	CHAP_REF	发来一个简短的方向	ABSENT	发来一个简短的方向	D:/The Memory/tmp/reading-notes-review/manuscript/volume-05/019.md	写完后发给他,他说可以.
 V06-001	33	高中/素材/个人回忆/麓山国际作息时间-用户提供-2026-09-12.md:33-35	FULL	7:33 预铃｜7:35-8:05 早读	ABSENT	7:33 预铃｜7:35-8:05 早读	D:/The Memory/The Memory/高中/素材/个人回忆/麓山国际作息时间-用户提供-2026-09-12.md	|7:10-7:35|早餐|14:10-14:50|第五节||7:33|预铃|15:00-15:40|第六节||7:35-8:05|早读|15:40-15:55|眼保健操|
 V06-020	30	家庭/人物/母亲.md:39	FULL	2025年8月9日—10日与刘佑林、宋俊豪及其母亲同游武功山	ABSENT	2025年8月9日—10日与刘佑林、宋俊豪及其母亲同游武功山	D:/The Memory/The Memory/家庭/人物/母亲.md	-2025年8月9日-10日与刘佑林,[[高中/2025届/人物/学生/宋俊豪|宋俊豪]]及其母亲同游武功山(据母亲qq相册订正;此前本页误记为2026年).
-V07-001	25	:22	SAME	7 月 18 日至 19 日 EMS 发货并到达	ABSENT	7 月 18 日至 19 日 EMS 发货并到达	D:/The Memory/The Memory/大学/四川大学/强基班/素材/录取通知书与EMS/川大录取通知书-2025-07-普通层.md	朋友圈已记:2025年7月18日至19日录取通知书ems发货并到达,等了17天.2026-09-12用户交图.
+V07-001	24	:22	SAME	等了 17 天	ABSENT	等了 17 天	D:/The Memory/The Memory/高中/G2204/人物/同学/刘佑林.md	junior_graduation_year:2022届
+V07-001	25	:22	SAME	7 月 18 日至 19 日 EMS 发货并到达	ABSENT	7 月 18 日至 19 日 EMS 发货并到达	D:/The Memory/The Memory/高中/G2204/人物/同学/刘佑林.md	junior_graduation_year:2022届
 V07-002	29	大学/四川大学/强基班/人物/同学/赵文邦.md:6	FULL	群昵称明示山西	ABSENT	群昵称明示山西	D:/The Memory/The Memory/大学/四川大学/强基班/人物/同学/赵文邦.md	身份:大学同学
 V07-004	92	:84	CHAP	未收到代码、论文原文件或可复现实验结果	ABSENT	未收到代码、论文原文件或可复现实验结果	D:/The Memory/tmp/reading-notes-review/work/m09/volume-07/004.md	
 V07-013	39	家庭/人物/父亲.md:177	FULL	先在安化电信渠道分部当主任 → 2014 年安化分公司总经理助理兼梅城分局局长 → 2015 年 10 月任安化分公司副总，分管经营	ABSENT	先在安化电信渠道分部当主任 → 2014 年安化分公司总经理助理兼梅城分局局长 	D:/The Memory/The Memory/家庭/人物/父亲.md	-先在安化电信渠道分部当主任>2014年提拔为安化分公司总经理助理兼梅城分局局长>2015年10月任安化分公司副总,分管经营工作.
@@ -118,9 +119,8 @@ V02-009	33	:192-194	CONT		LINE_OOR	194>110	D:/The Memory/The Memory/家庭/人�
 V03-005	66	:323–331	CHAP		LINE_OOR	331>330	D:/The Memory/tmp/reading-notes-review/manuscript/volume-03/005.md	
 V03-012	33	:231–285	CONT		LINE_OOR	285>274	D:/The Memory/The Memory/家庭/人物/母亲.md	
 V04-001	89	初中/2022届/素材/家庭书信/2022-01-25写给父母的信-叙事整理.md:1-120	FULL		LINE_OOR	120>89	D:/The Memory/The Memory/初中/2022届/素材/家庭书信/2022-01-25写给父母的信-叙事整理.md	
-V04-007	26	:177	CONT		LINE_OOR	177>128	D:/The Memory/The Memory/初中/2022届/人物/学生/朱学良.md	
-V04-007	27	:205	CONT		LINE_OOR	205>128	D:/The Memory/The Memory/初中/2022届/人物/学生/朱学良.md	
-V04-007	103	:177	CHAP		LINE_OOR	177>175	D:/The Memory/tmp/reading-notes-review/manuscript/volume-04/007.md	
+V04-007	26	:177	SAME		LINE_OOR	177>128	D:/The Memory/The Memory/初中/2022届/人物/学生/朱学良.md	
+V04-007	27	:205	SAME		LINE_OOR	205>128	D:/The Memory/The Memory/初中/2022届/人物/学生/朱学良.md	
 V04-007	103	:205	CHAP		LINE_OOR	205>175	D:/The Memory/tmp/reading-notes-review/manuscript/volume-04/007.md	
 V05-016	65	019:261	CHAP_REF	桌上有茶	LINE_OOR	261>189	D:/The Memory/tmp/reading-notes-review/manuscript/volume-05/019.md	
 V05-017	65	017:281	CHAP_REF		LINE_OOR	281>223	D:/The Memory/tmp/reading-notes-review/manuscript/volume-05/017.md	
@@ -355,6 +355,8 @@ V04-006	76	学校档案:42	ALIAS	营养餐	SRC_UNRESOLVED
 V04-006	93	毕业名录:125	ALIAS		SRC_UNRESOLVED			
 V04-006	104	毕业名录:125	ALIAS		SRC_UNRESOLVED			
 V04-006	118	毕业名录:125	ALIAS		SRC_UNRESOLVED			
+V04-007	92	:173	SAME		SRC_UNRESOLVED			
+V04-007	103	:177	SAME		SRC_UNRESOLVED			
 V04-008	107	长篇创作/核心章节草稿/第三卷-赵问竹线（一）…:112	ALIAS		SRC_UNRESOLVED			
 V04-009	75	2020-疫情元年…:55	ALIAS		SRC_UNRESOLVED			
 V04-009	117	2020-疫情元年…:41	ALIAS		SRC_UNRESOLVED			
@@ -755,7 +757,7 @@ V04-007	73	初中/2022届/人物/学生/朱学良.md:76	FULL	那个时候比较�
 V04-007	117	初中/2022届/人物/学生/朱学良.md:76	FULL	想出头	EXACT		D:/The Memory/The Memory/初中/2022届/人物/学生/朱学良.md	-喜欢的课:物理,体育,数学,语文--"语文课可以听李老师讲故事""那个时候比较想出头就喜欢上去展示""体育课可以打球".(q16)
 V04-008	27	正式成文/第二十八章-竹席.md:80	FULL	班上本来有人叫我主席	EXACT		D:/The Memory/The Memory/正式成文/第二十八章-竹席.md	班上本来有人叫我主席.
 V04-009	120	初中/2022届/人物/学生/朱学良.md:76	FULL	喜欢上去展示	EXACT		D:/The Memory/The Memory/初中/2022届/人物/学生/朱学良.md	-喜欢的课:物理,体育,数学,语文--"语文课可以听李老师讲故事""那个时候比较想出头就喜欢上去展示""体育课可以打球".(q16)
-V04-010	25	:106	CONT	和玉米老黑被**谭志浩**记在值日本上被**李老师**罚去**德育处**受罚	EXACT		D:/The Memory/The Memory/问卷回收/2026-09-08-V2-朱学良问卷作答全文.md	>这也不太记得了,比如说李悦铭,幸雨涵,孙思玥,王宇哲,邹红霖,刘佑林,石璐璐,事情也记不太清了,记得是有次考完试晚自习坐后面和孙思玥讲话被抓了,上课在后面罚站,还有和玉米老黑被谭志浩记在值日本上被李老师罚去德育处受罚,还有和王宇哲中午打球被李老师骂惨了
+V04-010	25	:106	SAME	和玉米老黑被**谭志浩**记在值日本上被**李老师**罚去**德育处**受罚	EXACT		D:/The Memory/The Memory/问卷回收/2026-09-08-V2-朱学良问卷作答全文.md	>这也不太记得了,比如说李悦铭,幸雨涵,孙思玥,王宇哲,邹红霖,刘佑林,石璐璐,事情也记不太清了,记得是有次考完试晚自习坐后面和孙思玥讲话被抓了,上课在后面罚站,还有和玉米老黑被谭志浩记在值日本上被李老师罚去德育处受罚,还有和王宇哲中午打球被李老师骂惨了
 V04-010	72	010:107	CHAP_REF	……**叫读者**以为站在现场	EXACT		D:/The Memory/tmp/reading-notes-review/manuscript/volume-04/010.md	如果问出来,把谁说了哪句话填进去,确实可以写得更热闹.我甚至能够为每个人安排几句极像初中男生会说的对白,叫读者以为站在现场.一段故事缺什么,我总爱用自己觉得最合逻辑的东西补上.但写到这里,脑子里忽然出现那个已经交了本子的同学.他站在讲台边,只要求一句"先别写".
 V04-010	73	010:111	CHAP_REF	不能因为我**准备写一本书**，便让所有人把不在场的那几年全部向我补交	EXACT		D:/The Memory/tmp/reading-notes-review/manuscript/volume-04/010.md	他已经说了自己记得的部分,又回答了毕业之后的生活.他说最近在上大学,篮球打得少了,有时同初中同学聚会.我们认识的人,出了1907还有各自的圈子.他们可以继续见面,也可以很久不联系;不能因为我准备写一本书,便让所有人把不在场的那几年全部向我补交.
 V04-010	80	初中/2022届/人物/学生/朱学良.md:85–89	FULL	三起受罚事件	EXACT		D:/The Memory/The Memory/初中/2022届/人物/学生/朱学良.md	###三起受罚事件(他记得的现场)-一次考完试晚自习坐后面和孙思玥讲话被抓,上课在后面罚站.(q15)-和"玉米"(李悦铭),"老黑"(邹红霖)被谭志浩记在值日本上,被李老师罚去德育处受罚.(q15)-和王宇哲中午打球被李老师"骂惨了".(q15)-另一件:不记得是老黑把玉米鞋踩爆还是玉米踩老黑.(q18)
@@ -1085,7 +1087,6 @@ V06-016	96	大学/四川大学/强基班/刘佑林学业档案.md:50	FULL	他自
 V06-016	151	大学/四川大学/强基班/刘佑林学业档案.md:50	FULL	自知能力有限	EXACT		D:/The Memory/The Memory/大学/四川大学/强基班/刘佑林学业档案.md	背景:高中阶段物理是刘佑林的优势科目和骄傲;他自知能力有限.2026-09-12口述:强基在高考前一,两个月按个人意愿报名,他记得一共只有39所985,只能选一所;原本想报南开大学强基,最终报四川大学强基,是为了高考后作为保底985,并且他也挺喜欢物理.不得写成南开曾录取或曾参加南开校测.高中选科物化生的四因(含"当时认为赵问竹一定会选物化生")见[[高中/素材/个人回忆/刘佑林口述-选科强基住宿
 V06-017	26	高中/素材/聊天记录/董佳好与刘佑林微信互动时间线-2024-05至2025-11.md:257	FULL	高考具体科目次序、**考点**和考后现场**仍未提供，不据此补造**	EXACT		D:/The Memory/The Memory/高中/素材/聊天记录/董佳好与刘佑林微信互动时间线-2024-05至2025-11.md	-高考于2025年6月9日结束.高考具体科目次序,考点和考后现场仍未提供,不据此补造.
 V06-020	163	高中/2025届/人物/教师/阳松.md:43	FULL	和蔼	EXACT		D:/The Memory/The Memory/高中/2025届/人物/教师/阳松.md	-郑森v2卷(2026-09-09):"阳松啊,这班主任挺和蔼了,而且大学后还请过我们吃饭"--新增"毕业后请学生吃饭"的事实线索(单方自述,待核);同卷另述高三时"阳松让我报了个1500"(校运动会报项细节).
-V07-001	24	:22	SAME	等了 17 天	EXACT		D:/The Memory/The Memory/大学/四川大学/强基班/素材/录取通知书与EMS/川大录取通知书-2025-07-普通层.md	朋友圈已记:2025年7月18日至19日录取通知书ems发货并到达,等了17天.2026-09-12用户交图.
 V07-002	85	大学/四川大学/强基班/人物/同学/曾子沣.md:44	FULL	精确房间只保存在私密层	EXACT		D:/The Memory/The Memory/大学/四川大学/强基班/人物/同学/曾子沣.md	-2026年8月15日的群成员截图与用户说明确认其属于2025级物理学强基计划.截图中的共同寝室前缀与既有"同学兼室友"材料互相印证;精确房间只保存在私密层.2026-09-12用户提交同寝室内照,并确认右侧是室友区域(左侧是刘佑林的).右侧床不罩帐.图中右侧桌前坐着一个人,不据面部认定.外视见[[大学/四川大学/强基班/素材/江安寝室外视-2026-09-12]].
 V07-003	64	大学/四川大学/强基班/人物/同学/张天泽.md:66	FULL	张天泽仅出现在'山西帮'一系	EXACT		D:/The Memory/The Memory/大学/四川大学/强基班/人物/同学/张天泽.md	-打瓦体系:赵文邦的固定瓦罗兰特车队为"高泽聪,唐嘉睿,刘桓彬,龙昱丞",其中不含张天泽;其小团体地图中张天泽仅出现在"山西帮"一系.(赵文邦卷q29,q43)
 V07-004	24	:89	CONT	认可孤军深入和低成本制式套的体验与性价比	EXACT		D:/The Memory/The Memory/大学/四川大学/强基班/人物/同学/曾子沣.md	-现有记录中的游戏策略偏重成本控制,弹药管理和稳定撤离,尤其认可"孤军深入"和低成本制式套的体验与性价比.
@@ -2819,14 +2820,13 @@ V04-006	24	初中/2022届/人物/学生/朱学良.md:78	FULL		NO_QUOTE		D:/The M
 V04-006	74	初中/2022届/人物/学生/朱学良.md:78	FULL		NO_QUOTE		D:/The Memory/The Memory/初中/2022届/人物/学生/朱学良.md	
 V04-006	82	初中/2022届/人物/学生/朱学良.md:78	FULL		NO_QUOTE		D:/The Memory/The Memory/初中/2022届/人物/学生/朱学良.md	
 V04-007	24	问卷回收/2026-09-08-V2-朱学良问卷作答全文.md:169	FULL		NO_QUOTE		D:/The Memory/The Memory/问卷回收/2026-09-08-V2-朱学良问卷作答全文.md	
-V04-007	25	:173	CONT		NO_QUOTE		D:/The Memory/The Memory/问卷回收/2026-09-08-V2-朱学良问卷作答全文.md	
+V04-007	25	:173	SAME		NO_QUOTE		D:/The Memory/The Memory/问卷回收/2026-09-08-V2-朱学良问卷作答全文.md	
 V04-007	25	初中/2022届/人物/学生/朱学良.md:106	FULL		NO_QUOTE		D:/The Memory/The Memory/初中/2022届/人物/学生/朱学良.md	
 V04-007	28	初中/2022届/人物/学生/朱学良.md:76	FULL		NO_QUOTE		D:/The Memory/The Memory/初中/2022届/人物/学生/朱学良.md	
 V04-007	28	初中/2022届/人物/学生/朱学良.md:31	FULL		NO_QUOTE		D:/The Memory/The Memory/初中/2022届/人物/学生/朱学良.md	
 V04-007	30	初中/2022届/人物/学生/朱学良.md:97	FULL		NO_QUOTE		D:/The Memory/The Memory/初中/2022届/人物/学生/朱学良.md	
 V04-007	74	初中/2022届/人物/学生/朱学良.md:78	FULL		NO_QUOTE		D:/The Memory/The Memory/初中/2022届/人物/学生/朱学良.md	
 V04-007	81	问卷回收/2026-09-08-V2-朱学良问卷作答全文.md:169	FULL		NO_QUOTE		D:/The Memory/The Memory/问卷回收/2026-09-08-V2-朱学良问卷作答全文.md	
-V04-007	92	:173	CHAP		NO_QUOTE		D:/The Memory/tmp/reading-notes-review/manuscript/volume-04/007.md	
 V04-007	92	初中/2022届/人物/学生/朱学良.md:106	FULL		NO_QUOTE		D:/The Memory/The Memory/初中/2022届/人物/学生/朱学良.md	
 V04-008	24	初中/2022届/人物/学生/朱学良.md:93	FULL		NO_QUOTE		D:/The Memory/The Memory/初中/2022届/人物/学生/朱学良.md	
 V04-008	25	初中/2022届/人物/学生/朱学良.md:100	FULL		NO_QUOTE		D:/The Memory/The Memory/初中/2022届/人物/学生/朱学良.md	
@@ -3226,7 +3226,7 @@ V05-013	43	013:9	CHAP_REF		NO_QUOTE		D:/The Memory/tmp/reading-notes-review/manu
 V05-013	46	013:41-43	CHAP_REF		NO_QUOTE		D:/The Memory/tmp/reading-notes-review/manuscript/volume-05/013.md	
 V05-013	46	013:59-63	CHAP_REF		NO_QUOTE		D:/The Memory/tmp/reading-notes-review/manuscript/volume-05/013.md	
 V05-013	46	013:237-239	CHAP_REF		NO_QUOTE		D:/The Memory/tmp/reading-notes-review/manuscript/volume-05/013.md	
-V05-013	49	:39	CONT		NO_QUOTE		D:/The Memory/The Memory/高中/素材/个人回忆/高二下暑假沪浙之行-2024.md	
+V05-013	49	:39	SAME		NO_QUOTE		D:/The Memory/The Memory/高中/素材/个人回忆/高二下暑假沪浙之行-2024.md	
 V05-013	65	013:191-199	CHAP_REF		NO_QUOTE		D:/The Memory/tmp/reading-notes-review/manuscript/volume-05/013.md	
 V05-013	66	013:245-255	CHAP_REF		NO_QUOTE		D:/The Memory/tmp/reading-notes-review/manuscript/volume-05/013.md	
 V05-013	72	高中/素材/个人回忆/高二下暑假沪浙之行-2024.md:27-41	FULL		NO_QUOTE		D:/The Memory/The Memory/高中/素材/个人回忆/高二下暑假沪浙之行-2024.md	
@@ -3377,7 +3377,7 @@ V05-017	26	017:159-179	CHAP_REF		NO_QUOTE		D:/The Memory/tmp/reading-notes-revie
 V05-017	27	017:181-189	CHAP_REF		NO_QUOTE		D:/The Memory/tmp/reading-notes-review/manuscript/volume-05/017.md	
 V05-017	31	017:215-223	CHAP_REF		NO_QUOTE		D:/The Memory/tmp/reading-notes-review/manuscript/volume-05/017.md	
 V05-017	34	问卷回收/2026-09-08-V2-董佳好问卷作答全文.md:106-114	FULL		NO_QUOTE		D:/The Memory/The Memory/问卷回收/2026-09-08-V2-董佳好问卷作答全文.md	
-V05-017	41	:94	CHAP		NO_QUOTE		D:/The Memory/tmp/reading-notes-review/manuscript/volume-05/017.md	
+V05-017	41	:94	SAME		NO_QUOTE		D:/The Memory/The Memory/问卷回收/2026-09-08-V2-董佳好问卷作答全文.md	
 V05-017	54	017:161	CHAP_REF		NO_QUOTE		D:/The Memory/tmp/reading-notes-review/manuscript/volume-05/017.md	
 V05-017	54	017:161	CHAP_REF		NO_QUOTE		D:/The Memory/tmp/reading-notes-review/manuscript/volume-05/017.md	
 V05-017	54	017:67	CHAP_REF		NO_QUOTE		D:/The Memory/tmp/reading-notes-review/manuscript/volume-05/017.md	
@@ -3661,7 +3661,7 @@ V06-020	168	家庭/人物/父亲.md:117	FULL		NO_QUOTE		D:/The Memory/The Memory
 V06-020	170	高中/G2204/人物/同学/赵问竹.md:134	FULL		NO_QUOTE		D:/The Memory/The Memory/高中/G2204/人物/同学/赵问竹.md	
 V07-001	23	大学/四川大学/强基班/素材/录取通知书与EMS/川大录取通知书-2025-07-普通层.md:24	FULL		NO_QUOTE		D:/The Memory/The Memory/大学/四川大学/强基班/素材/录取通知书与EMS/川大录取通知书-2025-07-普通层.md	
 V07-001	23	高中/G2204/人物/同学/刘佑林.md:56	FULL		NO_QUOTE		D:/The Memory/The Memory/高中/G2204/人物/同学/刘佑林.md	
-V07-001	26	:30	SAME		NO_QUOTE		D:/The Memory/The Memory/大学/四川大学/强基班/素材/录取通知书与EMS/川大录取通知书-2025-07-普通层.md	
+V07-001	26	:30	SAME		NO_QUOTE		D:/The Memory/The Memory/高中/G2204/人物/同学/刘佑林.md	
 V07-001	28	:34	CONT		NO_QUOTE		D:/The Memory/The Memory/高中/G2204/人物/同学/刘佑林.md	
 V07-001	30	:34	CONT		NO_QUOTE		D:/The Memory/The Memory/高中/G2204/人物/同学/刘佑林.md	
 V07-001	31	:36-37	CONT		NO_QUOTE		D:/The Memory/The Memory/高中/G2204/人物/同学/刘佑林.md	
