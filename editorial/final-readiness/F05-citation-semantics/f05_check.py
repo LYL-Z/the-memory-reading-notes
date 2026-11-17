@@ -236,12 +236,8 @@ def main():
                         kind = 'SAME'
                         src = cell_first.get(ci) or table_first or para_path
                     else:
-                        if is_row:
-                            src = cell_first.get(ci) or para_path
-                            kind = 'CONT' if src else 'CHAP'
-                            src = src or chapf
-                        else:
-                            kind, src = 'CHAP', chapf
+                        kind, src = 'AUTO', None
+                        extra = cell_first.get(ci) or (para_path if is_row else None)
                 elif re.match(r'^\d{3}$', pre):
                     kind, src = 'CHAP_REF', chapter_file(vol, pre) or None
                 else:
@@ -256,6 +252,37 @@ def main():
                 quote = qm.group(1) if qm else ''
                 rec = dict(ch=base[:-3], ln=ln, cite=label, kind=kind,
                            quote=quote, status='', miss='', src=src or '')
+                if kind == 'AUTO':
+                    cands = [x for x in (extra, chapf) if x]
+                    seen = []
+                    for c in cands:
+                        if c not in seen:
+                            seen.append(c)
+                    best, bestrank, bestlvl = None, -9, None
+                    RANK = {'EXACT': 6, 'ELLIPSIS_OK': 5, 'NORM': 4, 'PARTIAL': 3,
+                            'LINE_OFF': 2, 'ABSENT': 1, 'LINE_OOR': 0}
+                    for c in seen:
+                        sl = open(c, encoding='utf-8').read().split('\n')
+                        nn = line_nums(spec)
+                        if quote:
+                            if nn and max(nn) > len(sl):
+                                lv = 'LINE_OOR'
+                            else:
+                                lv, _ = match_level(quote, '\n'.join(sl[i-1] for i in nn if 1 <= i <= len(sl)))
+                                if lv == 'ABSENT' and nn:
+                                    lo, hi = max(1, min(nn)-3), min(len(sl), max(nn)+3)
+                                    lv2, _ = match_level(quote, '\n'.join(sl[lo-1:hi]))
+                                    if lv2 != 'ABSENT':
+                                        lv = 'LINE_OFF'
+                        else:
+                            lv = 'NO_QUOTE' if len(nn) <= len(sl) else 'LINE_OOR'
+                        r = RANK.get(lv, -1)
+                        if r > bestrank:
+                            best, bestrank, bestlvl = c, r, lv
+                    if best:
+                        src = best
+                        rec['src'] = best
+                        rec['kind'] = 'CHAP' if best == chapf else 'CONT'
                 if not src:
                     got = locate_by_text(quote) if quote else None
                     if got:
