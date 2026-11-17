@@ -45,6 +45,7 @@ ALIAS = {
 }
 
 QUOTE = re.compile(r'^[）)\]】]?[：:]?[（(]?[「“]([^」”]{2,240})[」”]')
+QUOTE_DAYI = re.compile(r'^[）)\]】]?[：:]?[（(]\s*大意是\s*([^）)]{4,160})')
 TICK = re.compile(r'`([^`\n]{1,180})`')
 SPEC = re.compile(r'^(?P<pre>.*?)[:：](?P<spec>\d+(?:[-,–]\d+)*)$')
 
@@ -263,6 +264,10 @@ def main():
                 after = text[m.end():]
                 qm = QUOTE.match(after)
                 quote = qm.group(1) if qm else ''
+                if not quote:
+                    qd = QUOTE_DAYI.match(after)
+                    if qd:
+                        quote = '〔大意〕' + qd.group(1)
                 rec = dict(ch=base[:-3], ln=ln, cite=label, kind=kind,
                            quote=quote, status='', miss='', src=src or '')
                 if kind == 'AUTO':
