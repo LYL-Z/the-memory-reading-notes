@@ -3,9 +3,60 @@
 裁决只依据「引文是否在源文件/全库有字面」+「人工读原文后的语义判断」。
 ⑤⑥ 列只在抽样章填写，其余写「未判」——不推测。
 """
-import csv, os, re
+import csv, os, re, importlib.util
 
 OUT = os.path.dirname(os.path.abspath(__file__))
+FAIL = os.path.join(OUT, 'f05_fail_detail.tsv')
+
+
+def build_fail_detail():
+    """对 f05_citations_raw.tsv 中 ③ 不通过项做三分类：同文件 / 他文件 / 全库无。"""
+    spec = importlib.util.spec_from_file_location('f05', os.path.join(OUT, 'f05_check.py'))
+    m = importlib.util.module_from_spec(spec); spec.loader.exec_module(m)
+    rows = list(csv.DictReader(open(os.path.join(OUT, 'f05_citations_raw.tsv'), encoding='utf-8'), delimiter='\t'))
+    FAILST = {'ABSENT', 'LINE_OFF', 'PARTIAL', 'LINE_OOR', 'INFER_ABSENT', 'SRC_UNRESOLVED'}
+
+    def find_in(text, quote):
+        for seg in [quote] + sorted(m.segments(quote), key=lambda x: -len(m.norm(x, True)))[:3]:
+            n = m.norm(seg, True)
+            if len(n) < 5:
+                continue
+            k = m.norm(text, True).find(n)
+            if k >= 0:
+                acc = 0
+                for i, L in enumerate(text.split('\n'), 1):
+                    acc += len(m.norm(L, True))
+                    if acc > k:
+                        return i
+        return None
+
+    out = []
+    for r in rows:
+        if r['状态'] not in FAILST or not r['引文']:
+            continue
+        q, src = r['引文'], r['源文件']
+        form, seen = 'NOWHERE', ''
+        if src and os.path.isfile(src):
+            ln = find_in(open(src, encoding='utf-8').read(), q)
+            if ln:
+                form, seen = 'LOC_IN_FILE', str(ln)
+            else:
+                got = m.locate_by_text(q)
+                if got:
+                    form, seen = 'LOC_IN_REPO', f'{got[0]}:{got[1]}'
+        else:
+            got = m.locate_by_text(q)
+            if got:
+                form, seen = 'LOC_IN_REPO', f'{got[0]}:{got[1]}'
+        r['形态'], r['实见'] = form, seen
+        out.append(r)
+    keys = list(rows[0].keys()) + ['形态', '实见']
+    with open(FAIL, 'w', encoding='utf-8', newline='') as fh:
+        w = csv.DictWriter(fh, fieldnames=keys, delimiter='\t')
+        w.writeheader()
+        for r in out:
+            w.writerow(r)
+    return FAIL
 
 # 人工裁决：(章, 行) -> (裁决, ③, ④, ⑤, ⑥, 建议)
 # ④忠实 = 综合意思与原文一致（哪怕不是逐字）；不忠实 = 原文没有这个意思
@@ -81,7 +132,9 @@ DAYI = [
 
 
 def main():
-    rows = list(csv.DictReader(open(f"{OUT}/f05_fail_detail.tsv", encoding='utf-8'), delimiter='\t'))
+    if not os.path.isfile(FAIL):
+        build_fail_detail()
+    rows = list(csv.DictReader(open(FAIL, encoding='utf-8'), delimiter='\t'))
     out = []
     for r in rows:
         ch = r['章']; ln = int(r['行'])
