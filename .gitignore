@@ -14,3 +14,6 @@ work/m09/*.py
 work/m09/corpus.txt
 work/m09/rows.md
 
+
+# 子代理候选稿：由各代理自行 commit，主代理不代提交
+editorial/literary-revision/agents/
