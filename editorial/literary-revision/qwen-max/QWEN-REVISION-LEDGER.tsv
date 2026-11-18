@@ -17,3 +17,4 @@ vol	ch	round	action	orig_hanzi	cand_hanzi	delta	new_scenes	commit
 4	016	QWEN-R1	章级重写	3616	5045	+1429		local
 4	007	QWEN-R1	章级重写	4171	5349	+1178		local
 4	009	QWEN-R1	章级重写	4221	5504	+1283		local
+3	007	QWEN-R1	章级修订	9530	13320	+3790	量河岸+凉包子那句话/新疆六年档案装置/1985电视机/公交车白发；修3处结构缺陷	local

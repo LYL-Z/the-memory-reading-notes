@@ -47,7 +47,7 @@ vol	ch	title	orig_hanzi	status	prior_candidate	read_source	literary_problem	expa
 3	004	走上六楼	9041	UNREAD				QWEN			读正文+映射+事实，再判定	
 3	005	好孩子	9005	UNREAD				QWEN			读正文+映射+事实，再判定	
 3	006	资江边的车	8187	UNREAD				QWEN			读正文+映射+事实，再判定	
-3	007	父亲回来以后	9530	UNREAD				QWEN			读正文+映射+事实，再判定	
+3	007	父亲回来以后	9530	CANDIDATE_WRITTEN		正文+父亲页全文+A1-4b口述		A类已启用5段		qwen-max/volume-03/V3-007-CANDIDATE.md	13320	独立复核＋通读接缝
 3	008	春游那天	9000	UNREAD				QWEN			读正文+映射+事实，再判定	
 3	009	王培森在旁边	8473	UNREAD				QWEN			读正文+映射+事实，再判定	
 3	010	大扫除	8200	UNREAD				QWEN			读正文+映射+事实，再判定	
