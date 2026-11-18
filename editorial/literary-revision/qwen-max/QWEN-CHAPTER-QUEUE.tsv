@@ -42,7 +42,7 @@ vol	ch	title	orig_hanzi	status	prior_candidate	read_source	literary_problem	expa
 2	023	有人听我讲	6736	UNREAD				QWEN			读正文+映射+事实，再判定	
 2	024	名单之外	5784	UNREAD				QWEN			读正文+映射+事实，再判定	
 3	001	照片以前的事	9028	UNREAD				QWEN			读正文+映射+事实，再判定	
-3	002	名字不是自己取的	8270	UNREAD				QWEN			读正文+映射+事实，再判定	
+3	002	名字不是自己取的	8270	CANDIDATE_WRITTEN		正文+父亲页全文+A1-4b口述		A类已启用5段		qwen-max/volume-03/V3-002-CANDIDATE.md	10721	独立复核＋通读接缝
 3	003	灯在头顶	9780	UNREAD				QWEN			读正文+映射+事实，再判定	
 3	004	走上六楼	9041	UNREAD				QWEN			读正文+映射+事实，再判定	
 3	005	好孩子	9005	UNREAD				QWEN			读正文+映射+事实，再判定	
