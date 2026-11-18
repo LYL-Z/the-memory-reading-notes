@@ -91,7 +91,7 @@ vol	ch	title	orig_hanzi	status	prior_candidate	read_source	literary_problem	expa
 5	014	那晚的海龟汤	4820	CANDIDATE_WRITTEN		正文+G2204人物库+G2205小组变动+李博涵页		A类六人小组已启用		qwen-max/volume-05/V5-014-CANDIDATE.md	5769	独立复核＋通读接缝
 5	015	那个压缩包	4839	CANDIDATE_WRITTEN		正文+G2204人物库+G2205小组变动+李博涵页		A类六人小组已启用		qwen-max/volume-05/V5-015-CANDIDATE.md	5628	独立复核＋通读接缝
 5	016	绳子松开以后	3666	CANDIDATE_WRITTEN		正文+G2204人物库+G2205小组变动+李博涵页		A类六人小组已启用		qwen-max/volume-05/V5-016-CANDIDATE.md	4327	独立复核＋通读接缝
-5	017	回头的人	4168	UNREAD				QWEN			读正文+映射+事实，再判定	
+5	017	回头的人	4168	CANDIDATE_WRITTEN		正文+G2204人物库+G2205小组变动+李博涵页		A类六人小组已启用		qwen-max/volume-05/V5-017-CANDIDATE.md	5067	独立复核＋通读接缝
 5	018	第四把钥匙	5514	UNREAD				QWEN			读正文+映射+事实，再判定	
 5	019	不同的暑假	3606	UNREAD				QWEN			读正文+映射+事实，再判定	
 6	001	换了一层楼	6001	UNREAD				QWEN			读正文+映射+事实，再判定	
