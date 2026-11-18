@@ -124,7 +124,7 @@ vol	ch	title	orig_hanzi	status	prior_candidate	read_source	literary_problem	expa
 7	008	拍摄表	4475	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-07/V7-008-CANDIDATE.md	5203	
 7	009	摄影机不归一个人	3874	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-07/V7-009-CANDIDATE.md	4719	
 7	010	电脑里第二个世界	4566	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-07/V7-010-CANDIDATE.md	5447	
-7	011	几个人同时在线	4292	UNREAD				QWEN			读正文+映射+事实，再判定	
+7	011	几个人同时在线	4292	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-07/V7-011-CANDIDATE.md	5125	
 7	012	物理和AI之间	4697	UNREAD				QWEN			读正文+映射+事实，再判定	
 7	013	父亲能听懂多少	4225	UNREAD				QWEN			读正文+映射+事实，再判定	
 7	014	西安不是一张合照	5470	UNREAD				QWEN			读正文+映射+事实，再判定	
