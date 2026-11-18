@@ -2,7 +2,7 @@ vol	ch	title	orig_hanzi	status	prior_candidate	read_source	literary_problem	expa
 1	001	左边的位置	7783	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-01/V1-001-CANDIDATE.md	8632	
 1	002	晚饭后的桌子	10709	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-01/V1-002-CANDIDATE.md	11332	
 1	003	525	11361	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-01/V1-003-CANDIDATE.md	12116	
-1	004	月考之后	11925	UNREAD				QWEN			读正文+映射+事实，再判定	
+1	004	月考之后	11925	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-01/V1-004-CANDIDATE.md	12569	
 1	005	盒饭	6403	UNREAD				QWEN			读正文+映射+事实，再判定	
 1	006	一只福袋	7635	UNREAD				QWEN			读正文+映射+事实，再判定	
 1	007	答案放在桌上	8644	UNREAD				QWEN			读正文+映射+事实，再判定	
