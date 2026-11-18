@@ -13,7 +13,7 @@ vol	ch	title	orig_hanzi	status	prior_candidate	read_source	literary_problem	expa
 1	012	橘子洲	6320	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-01/V1-012-CANDIDATE.md	6953	
 1	013	婚礼进行曲	6904	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-01/V1-013-CANDIDATE.md	7510	
 1	014	勇敢一点	7370	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-01/V1-014-CANDIDATE.md	7967	
-1	015	陈喜在门口	6329	UNREAD				QWEN			读正文+映射+事实，再判定	
+1	015	陈喜在门口	6329	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-01/V1-015-CANDIDATE.md	6970	
 1	016	小红帽	5559	UNREAD				QWEN			读正文+映射+事实，再判定	
 1	017	竹林杯	5539	UNREAD				QWEN			读正文+映射+事实，再判定	
 1	018	历史课	7115	UNREAD				QWEN			读正文+映射+事实，再判定	
