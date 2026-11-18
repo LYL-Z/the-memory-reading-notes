@@ -75,7 +75,7 @@ vol	ch	title	orig_hanzi	status	prior_candidate	read_source	literary_problem	expa
 4	016	写信后的普通一天	3616	CANDIDATE_WRITTEN		正文+名录+朱学良问卷+父亲问卷+书信整理		A/B/C 已盘点		qwen-max/volume-04/V4-016-CANDIDATE.md	5045	独立复核＋通读接缝
 4	017	毕业照没有规定谁要难过	3322	CANDIDATE_WRITTEN		正文+名录+朱学良问卷+父亲问卷+书信整理		A/B/C 已盘点		qwen-max/volume-04/V4-017-CANDIDATE.md	4680	独立复核＋通读接缝
 4	018	从金海出去	6595	CANDIDATE_WRITTEN		正文+名录+朱学良问卷+父亲问卷+书信整理		A/B/C 已盘点		qwen-max/volume-04/V4-018-CANDIDATE.md	7604	独立复核＋通读接缝
-5	001	六张桌子挪完以后	3982	UNREAD				QWEN			读正文+映射+事实，再判定	
+5	001	六张桌子挪完以后	3982	CANDIDATE_WRITTEN		正文+G2204人物库+G2205小组变动+李博涵页		A类六人小组已启用		qwen-max/volume-05/V5-001-CANDIDATE.md	5161	独立复核＋通读接缝
 5	002	无解的方程组	3534	UNREAD				QWEN			读正文+映射+事实，再判定	
 5	003	老师也可以被争辩	3871	UNREAD				QWEN			读正文+映射+事实，再判定	
 5	004	六个人	3466	UNREAD				QWEN			读正文+映射+事实，再判定	

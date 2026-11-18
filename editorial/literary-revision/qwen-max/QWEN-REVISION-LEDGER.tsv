@@ -33,3 +33,4 @@ vol	ch	round	action	orig_hanzi	cand_hanzi	delta	new_scenes	commit
 3	013	QWEN-R1	章级修订	8001	9385	+1384		local
 3	014	QWEN-R1	章级修订	8259	9460	+1201		local
 3	016	QWEN-R1	章级修订	9714	11179	+1465		local
+5	001	QWEN-R1	章级重写	3982	5161	+1179		local
