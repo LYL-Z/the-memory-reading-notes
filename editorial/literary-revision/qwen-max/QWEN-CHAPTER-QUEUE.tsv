@@ -83,7 +83,7 @@ vol	ch	title	orig_hanzi	status	prior_candidate	read_source	literary_problem	expa
 5	006	食堂后门	3819	CANDIDATE_WRITTEN		正文+G2204人物库+G2205小组变动+李博涵页		A类六人小组已启用		qwen-max/volume-05/V5-006-CANDIDATE.md	4726	独立复核＋通读接缝
 5	007	四二六的晚上	3534	CANDIDATE_WRITTEN		正文+G2204人物库+G2205小组变动+李博涵页		A类六人小组已启用		qwen-max/volume-05/V5-007-CANDIDATE.md	4427	独立复核＋通读接缝
 5	008	两张成绩单	6331	CANDIDATE_WRITTEN		正文+G2204人物库+G2205小组变动+李博涵页		A类六人小组已启用		qwen-max/volume-05/V5-008-CANDIDATE.md	7381	独立复核＋通读接缝
-5	009	阿澈的另一张课表	4275	UNREAD				QWEN			读正文+映射+事实，再判定	
+5	009	阿澈的另一张课表	4275	CANDIDATE_WRITTEN		正文+G2204人物库+G2205小组变动+李博涵页		A类六人小组已启用		qwen-max/volume-05/V5-009-CANDIDATE.md	5262	独立复核＋通读接缝
 5	010	反手写字的人	4846	UNREAD				QWEN			读正文+映射+事实，再判定	
 5	011	两种回家的路	3793	UNREAD				QWEN			读正文+映射+事实，再判定	
 5	012	名单换了两次	3772	UNREAD				QWEN			读正文+映射+事实，再判定	
