@@ -132,5 +132,5 @@ vol	ch	title	orig_hanzi	status	prior_candidate	read_source	literary_problem	expa
 7	016	第一次出国	4507	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-07/V7-016-CANDIDATE.md	5345	
 7	017	复杂性小组	4923	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-07/V7-017-CANDIDATE.md	5859	
 7	018	优胜小组以后	5312	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-07/V7-018-CANDIDATE.md	6305	
-7	019	比赛还没开始	5481	UNREAD				QWEN			读正文+映射+事实，再判定	
+7	019	比赛还没开始	5481	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-07/V7-019-CANDIDATE.md	6340	
 7	020	不是公司的员工	5252	UNREAD				QWEN			读正文+映射+事实，再判定	
