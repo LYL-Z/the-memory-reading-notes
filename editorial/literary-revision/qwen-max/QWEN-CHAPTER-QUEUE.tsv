@@ -51,7 +51,7 @@ vol	ch	title	orig_hanzi	status	prior_candidate	read_source	literary_problem	expa
 3	008	春游那天	9000	CANDIDATE_WRITTEN		正文+父亲页全文+A1-4b口述		A类已启用5段		qwen-max/volume-03/V3-008-CANDIDATE.md	10603	独立复核＋通读接缝
 3	009	王培森在旁边	8473	CANDIDATE_WRITTEN		正文+父亲页全文+A1-4b口述		A类已启用5段		qwen-max/volume-03/V3-009-CANDIDATE.md	9758	独立复核＋通读接缝
 3	010	大扫除	8200	CANDIDATE_WRITTEN		正文+父亲页全文+A1-4b口述		A类已启用5段		qwen-max/volume-03/V3-010-CANDIDATE.md	9652	独立复核＋通读接缝
-3	011	丢了的五块钱	7910	UNREAD				QWEN			读正文+映射+事实，再判定	
+3	011	丢了的五块钱	7910	CANDIDATE_WRITTEN		正文+父亲页全文+A1-4b口述		A类已启用5段		qwen-max/volume-03/V3-011-CANDIDATE.md	9227	独立复核＋通读接缝
 3	012	被念出来的作文	7605	UNREAD				QWEN			读正文+映射+事实，再判定	
 3	013	校门口的小卖部	8001	UNREAD				QWEN			读正文+映射+事实，再判定	
 3	014	她也有别的朋友	8259	UNREAD				QWEN			读正文+映射+事实，再判定	
