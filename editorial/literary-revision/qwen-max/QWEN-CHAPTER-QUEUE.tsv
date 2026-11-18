@@ -129,7 +129,7 @@ vol	ch	title	orig_hanzi	status	prior_candidate	read_source	literary_problem	expa
 7	013	父亲能听懂多少	4225	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-07/V7-013-CANDIDATE.md	5083	
 7	014	西安不是一张合照	5470	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-07/V7-014-CANDIDATE.md	6422	
 7	015	照片里没有发生的事	5788	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-07/V7-015-CANDIDATE.md	6539	
-7	016	第一次出国	4507	UNREAD				QWEN			读正文+映射+事实，再判定	
+7	016	第一次出国	4507	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-07/V7-016-CANDIDATE.md	5345	
 7	017	复杂性小组	4923	UNREAD				QWEN			读正文+映射+事实，再判定	
 7	018	优胜小组以后	5312	UNREAD				QWEN			读正文+映射+事实，再判定	
 7	019	比赛还没开始	5481	UNREAD				QWEN			读正文+映射+事实，再判定	
