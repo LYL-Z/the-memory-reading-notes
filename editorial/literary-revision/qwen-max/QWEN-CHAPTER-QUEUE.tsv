@@ -115,7 +115,7 @@ vol	ch	title	orig_hanzi	status	prior_candidate	read_source	literary_problem	expa
 6	019	最后一张答卷	6213	CANDIDATE_WRITTEN	deepseek/batch-03			QWEN			独立复核：核验净减是否伤及生活厚度	
 6	020	那以后还要见面	6681	CANDIDATE_WRITTEN	deepseek/batch-03 局部段落群			QWEN			章级完整重写（现仅局部）	
 7	001	通知书到家	4038	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-07/V7-001-CANDIDATE.md	4898	
-7	002	两个人的房间	4241	UNREAD				QWEN			读正文+映射+事实，再判定	
+7	002	两个人的房间	4241	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-07/V7-002-CANDIDATE.md	5190	
 7	003	先来打招呼的人	4520	UNREAD				QWEN			读正文+映射+事实，再判定	
 7	004	右边的桌子	4766	UNREAD				QWEN			读正文+映射+事实，再判定	
 7	005	第一张课表	4482	UNREAD				QWEN			读正文+映射+事实，再判定	
