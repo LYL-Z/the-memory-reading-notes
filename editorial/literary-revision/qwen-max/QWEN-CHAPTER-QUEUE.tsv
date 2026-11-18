@@ -5,7 +5,7 @@ vol	ch	title	orig_hanzi	status	prior_candidate	read_source	literary_problem	expa
 1	004	月考之后	11925	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-01/V1-004-CANDIDATE.md	12569	
 1	005	盒饭	6403	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-01/V1-005-CANDIDATE.md	7144	
 1	006	一只福袋	7635	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-01/V1-006-CANDIDATE.md	8290	
-1	007	答案放在桌上	8644	UNREAD				QWEN			读正文+映射+事实，再判定	
+1	007	答案放在桌上	8644	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-01/V1-007-CANDIDATE.md	9492	
 1	008	两周	7084	UNREAD				QWEN			读正文+映射+事实，再判定	
 1	009	讲台两侧	7863	UNREAD				QWEN			读正文+映射+事实，再判定	
 1	010	那个零	5252	UNREAD				QWEN			读正文+映射+事实，再判定	
