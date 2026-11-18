@@ -16,7 +16,7 @@ vol	ch	title	orig_hanzi	status	prior_candidate	read_source	literary_problem	expa
 1	015	陈喜在门口	6329	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-01/V1-015-CANDIDATE.md	6970	
 1	016	小红帽	5559	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-01/V1-016-CANDIDATE.md	6072	
 1	017	竹林杯	5539	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-01/V1-017-CANDIDATE.md	6929	
-1	018	历史课	7115	UNREAD				QWEN			读正文+映射+事实，再判定	
+1	018	历史课	7115	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-01/V1-018-CANDIDATE.md	7637	
 2	001	一个人的客厅	7720	UNREAD				QWEN			读正文+映射+事实，再判定	
 2	002	二班	6586	UNREAD				QWEN			读正文+映射+事实，再判定	
 2	003	后门	7250	UNREAD				QWEN			读正文+映射+事实，再判定	
