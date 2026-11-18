@@ -119,7 +119,7 @@ vol	ch	title	orig_hanzi	status	prior_candidate	read_source	literary_problem	expa
 7	003	先来打招呼的人	4520	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-07/V7-003-CANDIDATE.md	5297	
 7	004	右边的桌子	4766	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-07/V7-004-CANDIDATE.md	5729	
 7	005	第一张课表	4482	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-07/V7-005-CANDIDATE.md	5390	
-7	006	难题没给我名次	4161	UNREAD				QWEN			读正文+映射+事实，再判定	
+7	006	难题没给我名次	4161	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-07/V7-006-CANDIDATE.md	5027	
 7	007	饭桌上渐渐坐满	4032	UNREAD				QWEN			读正文+映射+事实，再判定	
 7	008	拍摄表	4475	UNREAD				QWEN			读正文+映射+事实，再判定	
 7	009	摄影机不归一个人	3874	UNREAD				QWEN			读正文+映射+事实，再判定	
