@@ -48,7 +48,7 @@ vol	ch	title	orig_hanzi	status	prior_candidate	read_source	literary_problem	expa
 3	005	好孩子	9005	CANDIDATE_WRITTEN		正文+父亲页全文+A1-4b口述		A类已启用5段		qwen-max/volume-03/V3-005-CANDIDATE.md	10108	独立复核＋通读接缝
 3	006	资江边的车	8187	CANDIDATE_WRITTEN		正文+父亲页全文+A1-4b口述		A类已启用5段		qwen-max/volume-03/V3-006-CANDIDATE.md	9477	独立复核＋通读接缝
 3	007	父亲回来以后	9530	CANDIDATE_WRITTEN		正文+父亲页全文+A1-4b口述		A类已启用5段		qwen-max/volume-03/V3-007-CANDIDATE.md	13316	独立复核＋通读接缝
-3	008	春游那天	9000	UNREAD				QWEN			读正文+映射+事实，再判定	
+3	008	春游那天	9000	CANDIDATE_WRITTEN		正文+父亲页全文+A1-4b口述		A类已启用5段		qwen-max/volume-03/V3-008-CANDIDATE.md	10603	独立复核＋通读接缝
 3	009	王培森在旁边	8473	UNREAD				QWEN			读正文+映射+事实，再判定	
 3	010	大扫除	8200	UNREAD				QWEN			读正文+映射+事实，再判定	
 3	011	丢了的五块钱	7910	UNREAD				QWEN			读正文+映射+事实，再判定	
