@@ -20,7 +20,7 @@ vol	ch	title	orig_hanzi	status	prior_candidate	read_source	literary_problem	expa
 2	001	一个人的客厅	7720	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-02/V2-001-CANDIDATE.md	8312	
 2	002	二班	6586	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-02/V2-002-CANDIDATE.md	7138	
 2	003	后门	7250	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-02/V2-003-CANDIDATE.md	7747	
-2	004	三餐	8351	UNREAD				QWEN			读正文+映射+事实，再判定	
+2	004	三餐	8351	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-02/V2-004-CANDIDATE.md	8818	
 2	005	借来的床	8056	UNREAD				QWEN			读正文+映射+事实，再判定	
 2	006	轮到谁说话	6063	UNREAD				QWEN			读正文+映射+事实，再判定	
 2	007	没做完的作业	6059	UNREAD				QWEN			读正文+映射+事实，再判定	
