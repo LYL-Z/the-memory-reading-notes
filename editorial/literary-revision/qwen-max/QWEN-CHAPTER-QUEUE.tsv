@@ -37,7 +37,7 @@ vol	ch	title	orig_hanzi	status	prior_candidate	read_source	literary_problem	expa
 2	018	老师怎么写我	8960	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-02/V2-018-CANDIDATE.md	9357	
 2	019	右前方	8001	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-02/V2-019-CANDIDATE.md	8442	
 2	020	后来都拿起手机	6185	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-02/V2-020-CANDIDATE.md	6621	
-2	021	四二五	5935	UNREAD				QWEN			读正文+映射+事实，再判定	
+2	021	四二五	5935	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-02/V2-021-CANDIDATE.md	6284	
 2	022	小林子	5823	UNREAD				QWEN			读正文+映射+事实，再判定	
 2	023	有人听我讲	6736	UNREAD				QWEN			读正文+映射+事实，再判定	
 2	024	名单之外	5784	UNREAD				QWEN			读正文+映射+事实，再判定	
