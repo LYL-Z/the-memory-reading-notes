@@ -29,7 +29,7 @@ vol	ch	title	orig_hanzi	status	prior_candidate	read_source	literary_problem	expa
 2	010	考过以后	5982	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-02/V2-010-CANDIDATE.md	6368	
 2	011	两处地点	5492	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-02/V2-011-CANDIDATE.md	6696	
 2	012	打过去的球	6982	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-02/V2-012-CANDIDATE.md	7379	
-2	013	再找一遍	7574	UNREAD				QWEN			读正文+映射+事实，再判定	
+2	013	再找一遍	7574	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-02/V2-013-CANDIDATE.md	8025	
 2	014	母亲那边	9053	UNREAD				QWEN			读正文+映射+事实，再判定	
 2	015	食堂里	4947	UNREAD				QWEN			读正文+映射+事实，再判定	
 2	016	过年的路	6808	UNREAD				QWEN			读正文+映射+事实，再判定	
