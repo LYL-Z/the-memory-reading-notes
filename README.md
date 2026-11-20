@@ -52,4 +52,13 @@ python scripts/verify_six_volume_integrated.py
 
 事实源为 [the-memory](https://github.com/LYL-Z/the-memory)，`master@ef33c98d63b88283e840f5414db154eb9118c4e4`，**永久只读**；创作仓本身负责正文、叙事设计和版本账。两仓均很大，列出所有文件不等于全部全文读完；当次读取范围必须附阅读凭据。
 
-旧README全文保存在 [历史README](editorial/archive/README-pre-integration-20261114.md)，旧项目状态保存在 [历史状态](state/archive/progress-pre-integration-20261114.json)、[旧行动表](state/archive/next-actions-pre-integration-20261114.md)，不可再作为现稿依据。拟议中的七部、八部结构依然是设计候选，不因本次六部上主线而自动变成事实、正式卷名或未来创作指令。
+旧README全文保存在 [历史README](editorial/archive/README-pre-integration-20261114.md)，旧项目状态保存在 [历史状态](state/archive/progress-pre-integration-20261114.json)、[旧行动表](state/archive/next-actions-pre-integration-20261114.md)，不可再作为现稿依据。第七部已有现实经历的20章R9候审稿（[PR #84](https://github.com/LYL-Z/the-memory-reading-notes/pull/84)，93,102 CJK，未合并）；第一至七部工作阅读基线135章825,901 CJK见[PR #85](https://github.com/LYL-Z/the-memory-reading-notes/pull/85)，并非全库冷读认证。第八部仍为独立反事实设计，不计入正文统计。
+
+
+## 2026-11-20｜创作规则与第八部
+
+**所有协作AI必须先读 [AGENTS.md](AGENTS.md)** 的新增执行层，再按当轮授权工作。作者允许大胆、完整地文学重构普通生活，不应因过度审慎将小说写成事实摘要、人物训诫或空洞的情绪解释；成熟主题、爽感、矛盾与圆满均可有独立文学价值。事实/反事实仍严格分层。
+
+- [第八部 R3 三方案整合](editorial/volume08/2026-11-20-r3-integrated-design.md)：吸收作者转交Grok两方案及GPT-6上轮设计。
+- [第八部 GPT-6 上轮方案归档](editorial/volume08/2026-11-20-gpt6-r2-proposal.md)：四核心世界、二十个候选、远未来、多世界结局、开篇试写。
+- 第八部暂定《没有发生的一生》，25—35万字/36—48章为设计目标，尚未冻结；不覆盖I—VII正文，不回写事实源仓。
