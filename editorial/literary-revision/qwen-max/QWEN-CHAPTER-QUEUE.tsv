@@ -61,16 +61,16 @@ vol	ch	title	orig_hanzi	status	prior_candidate	read_source	literary_problem	expa
 4	002	面试之前	4237	CANDIDATE_WRITTEN		正文+名录+朱学良问卷+父亲问卷+书信整理		A/B/C 已盘点		qwen-max/volume-04/V4-002-CANDIDATE.md	6844	独立复核＋通读接缝
 4	003	一九〇七	4413	CANDIDATE_WRITTEN		正文+名录+朱学良问卷+父亲问卷+书信整理		A/B/C 已盘点		qwen-max/volume-04/V4-003-CANDIDATE.md	5668	独立复核＋通读接缝
 4	004	第三名	4876	CANDIDATE_WRITTEN		正文+名录+朱学良问卷+父亲问卷+书信整理		A/B/C 已盘点		qwen-max/volume-04/V4-004-CANDIDATE.md	6499	独立复核＋通读接缝
-4	005	八个人一间屋	3403	CANDIDATE_WRITTEN		正文+名录+朱学良问卷+父亲问卷+书信整理		A/B/C 已盘点		qwen-max/volume-04/V4-005-CANDIDATE.md	5306	独立复核＋通读接缝
+4	005	八个人一间屋	3403	CANDIDATE_WRITTEN		正文+名录+朱学良问卷+父亲问卷+书信整理		A/B/C 已盘点		qwen-max/volume-04/V4-005-CANDIDATE.md	6279	独立复核＋通读接缝
 4	006	营养餐	3115	CANDIDATE_WRITTEN		正文+名录+朱学良问卷+父亲问卷+书信整理		A/B/C 已盘点		qwen-max/volume-04/V4-006-CANDIDATE.md	5279	独立复核＋通读接缝
-4	007	讨嫌	4171	CANDIDATE_WRITTEN	deepseek/batch-04	正文+名录+朱学良问卷+父亲问卷+书信整理		A/B/C 已盘点		qwen-max/volume-04/V4-007-CANDIDATE.md	5349	独立复核＋通读接缝
-4	008	小林子以后	3968	CANDIDATE_WRITTEN		正文+名录+朱学良问卷+父亲问卷+书信整理		A/B/C 已盘点		qwen-max/volume-04/V4-008-CANDIDATE.md	5126	独立复核＋通读接缝
-4	009	不肯举起来的手	4221	CANDIDATE_WRITTEN	deepseek/batch-04	正文+名录+朱学良问卷+父亲问卷+书信整理		A/B/C 已盘点		qwen-max/volume-04/V4-009-CANDIDATE.md	5504	独立复核＋通读接缝
+4	007	讨嫌	4171	CANDIDATE_WRITTEN	deepseek/batch-04	正文+名录+朱学良问卷+父亲问卷+书信整理		A/B/C 已盘点		qwen-max/volume-04/V4-007-CANDIDATE.md	6304	独立复核＋通读接缝
+4	008	小林子以后	3968	CANDIDATE_WRITTEN		正文+名录+朱学良问卷+父亲问卷+书信整理		A/B/C 已盘点		qwen-max/volume-04/V4-008-CANDIDATE.md	6379	独立复核＋通读接缝
+4	009	不肯举起来的手	4221	CANDIDATE_WRITTEN	deepseek/batch-04	正文+名录+朱学良问卷+父亲问卷+书信整理		A/B/C 已盘点		qwen-max/volume-04/V4-009-CANDIDATE.md	6586	独立复核＋通读接缝
 4	010	值日簿上的人	2932	CANDIDATE_WRITTEN	deepseek/batch-01	正文+名录+朱学良问卷+父亲问卷+书信整理		A/B/C 已盘点		qwen-max/volume-04/V4-010-CANDIDATE.md	5016	独立复核＋通读接缝
 4	011	寝室被扣分	3452	CANDIDATE_WRITTEN		正文+名录+朱学良问卷+父亲问卷+书信整理		A/B/C 已盘点		qwen-max/volume-04/V4-011-CANDIDATE.md	5505	独立复核＋通读接缝
 4	012	她讲故事的语文课	3582	CANDIDATE_WRITTEN		正文+名录+朱学良问卷+父亲问卷+书信整理		A/B/C 已盘点		qwen-max/volume-04/V4-012-CANDIDATE.md	5291	独立复核＋通读接缝
-4	013	有人唱过一首歌	4715	CANDIDATE_WRITTEN		正文+名录+朱学良问卷+父亲问卷+书信整理		A/B/C 已盘点		qwen-max/volume-04/V4-013-CANDIDATE.md	5237	独立复核＋通读接缝
-4	014	班里别人的故事	3900	CANDIDATE_WRITTEN	deepseek/batch-01	正文+名录+朱学良问卷+父亲问卷+书信整理		A/B/C 已盘点		qwen-max/volume-04/V4-014-CANDIDATE.md	5146	独立复核＋通读接缝
+4	013	有人唱过一首歌	4715	CANDIDATE_WRITTEN		正文+名录+朱学良问卷+父亲问卷+书信整理		A/B/C 已盘点		qwen-max/volume-04/V4-013-CANDIDATE.md	6239	独立复核＋通读接缝
+4	014	班里别人的故事	3900	CANDIDATE_WRITTEN	deepseek/batch-01	正文+名录+朱学良问卷+父亲问卷+书信整理		A/B/C 已盘点		qwen-max/volume-04/V4-014-CANDIDATE.md	6182	独立复核＋通读接缝
 4	015	月假	4949	CANDIDATE_WRITTEN		正文+名录+朱学良问卷+父亲问卷+书信整理		A/B/C 已盘点		qwen-max/volume-04/V4-015-CANDIDATE.md	5711	独立复核＋通读接缝
 4	016	写信后的普通一天	3616	CANDIDATE_WRITTEN		正文+名录+朱学良问卷+父亲问卷+书信整理		A/B/C 已盘点		qwen-max/volume-04/V4-016-CANDIDATE.md	6023	独立复核＋通读接缝
 4	017	毕业照没有规定谁要难过	3322	CANDIDATE_WRITTEN		正文+名录+朱学良问卷+父亲问卷+书信整理		A/B/C 已盘点		qwen-max/volume-04/V4-017-CANDIDATE.md	5566	独立复核＋通读接缝
