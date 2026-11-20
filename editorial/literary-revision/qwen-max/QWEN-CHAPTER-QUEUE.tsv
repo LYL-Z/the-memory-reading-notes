@@ -108,7 +108,7 @@ vol	ch	title	orig_hanzi	status	prior_candidate	read_source	literary_problem	expa
 6	012	礼物还没送出去	6244	CANDIDATE_WRITTEN	deepseek/batch-02			QWEN		qwen-max/volume-06/V6-012-CANDIDATE.md	6858	
 6	013	二班门口	6316	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-06/V6-013-CANDIDATE.md	6695	
 6	014	四百米	6288	CANDIDATE_WRITTEN	deepseek/batch-02			QWEN		qwen-max/volume-06/V6-014-CANDIDATE.md	4877	
-6	015	倒数第二次模拟	6375	UNREAD				QWEN			读正文+映射+事实，再判定	
+6	015	倒数第二次模拟	6375	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-06/V6-015-CANDIDATE.md	7203	
 6	016	南开与四川	6210	UNREAD				QWEN			读正文+映射+事实，再判定	
 6	017	把教室搬过去	6181	UNREAD				QWEN			读正文+映射+事实，再判定	
 6	018	没考完的夜里	6280	CANDIDATE_WRITTEN	deepseek/batch-03			QWEN			独立复核：核验净减是否伤及生活厚度	
