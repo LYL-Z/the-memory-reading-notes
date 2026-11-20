@@ -1,3 +1,5 @@
+> **2026-11-20 现行制度覆盖提示：** 现行第八部按独立世界线/三钟设计，允许在重读时才明确分支归属；允许叙述者误记、片面理解或选择性讲述，不用精确日期、逐段标签或逐条证词支撑阅读。历史正文设计保留。 [现行创作宪章](https://github.com/LYL-Z/the-memory-reading-notes/blob/main/editorial/creative-charter/2026-11-20-literary-freedom-and-mature-themes.md)。
+
 > **2026-11-14六部整合提示**：此文件以下为各自时期的编辑历史快照；现行115章的统一叙事三钟、卷名与作者决策以 [六部三钟](six-volume-integration/2026-11-14-three-clocks-and-canon.md)、[作者最新裁定](six-volume-integration/2026-11-14-author-rulings.md)及 [README](../README.md) 为入口。旧R47/R50数值和未开始第五部等表述不得作为现况。
 
 # 结构决选

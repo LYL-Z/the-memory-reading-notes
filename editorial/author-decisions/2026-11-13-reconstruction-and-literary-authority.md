@@ -1,5 +1,8 @@
 # 作者新裁决｜自传体小说的文学化重构自由与事实边界
 
+> **2026-11-20 现行制度覆盖提示：** 保留当日作者原话与裁决不变。现行执行：普通生活重构默认可创作，创作不等于事实；第八部的不同重大结局只在COUNTERFACTUAL成立。局部去赘和新增场景可同时进行；成熟成年题材不需要一律含蓄，详见新宪章。 [现行创作宪章](https://github.com/LYL-Z/the-memory-reading-notes/blob/main/editorial/creative-charter/2026-11-20-literary-freedom-and-mature-themes.md)。
+
+
 > 2026-11-13；作者本次直接授权。作用范围：《时间的复数人称》后续全部创作、审稿与精修。优先于此前把普通生活动作过度公证化的编辑意见。事实源库 `LYL-Z/the-memory` 继续保持只读。
 
 ## 作者明确表态

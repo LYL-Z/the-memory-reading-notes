@@ -12,7 +12,7 @@ The working title is 《时间的复数人称》. The five-part outline 我／�
 
 ## Three clocks
 
-Keep them in `editorial/clocks.md` when a chapter is planned. Create that file on first use. Do not keep a second timeline inside another framework.
+Read root `AGENTS.md` and `editorial/creative-charter/2026-11-20-literary-freedom-and-mature-themes.md` first. For volumes I–VI consult the six-volume canon clocks; historical `editorial/clocks.md` is not a replacement. For VIII track world IDs and event, character-knowledge and reader-knowledge clocks separately. Coarse dates are valid when exact days serve no narrative purpose.
 
 - Real time: date or school term from the evidence card.
 - Narrative time: where the chapter sits in the book.
@@ -22,6 +22,6 @@ Keep them in `editorial/clocks.md` when a chapter is planned. Create that file o
 
 The second visit to an event changes what it means. The fireworks night, the ungiven note, and the notebook at the classroom door can return. They cannot be retold unchanged.
 
-Do not hide a fact he already knew in order to surprise the reader. Do not let the sixteen-year-old speak with the eighteen-year-old's conclusions.
+A narrator may withhold, misremember or reinterpret appropriately; give the reader fair clues on rereading. Do not fabricate real-world evidence to justify a reveal. Do not let the sixteen-year-old speak with the eighteen-year-old's conclusions.
 
-The book's question is whether the person who said it and the person writing it are still the same person. Real events stay in the real part. Memory, belief, and the step he did not take stay in the unreal part, and are not rewritten as events.
+The book's question is whether the person who said it and the person writing it are still the same person. Real-world evidence remains distinct from recollection and fictional reconstruction. Volume VIII may contain contradictory alternate outcomes, future projections and dreams with intelligible world-level causality. Preserve literary freedom (direct narration, emotional intensity, mature themes, happy endings); no obligatory disclaimers in every scene. This skill does not authorize writing back to the fact source.

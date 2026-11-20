@@ -1,5 +1,8 @@
 # 六部整合的独立文学审读与选稿裁决
 
+> **2026-11-20 现行制度覆盖提示：** 保留本轮选稿历史判断；场面价值不只限于推动情节，也可有气氛、喜剧、日常休息、感官或人物声音。对正常成熟情节不因风险词机械压缩；作者明确的整卷容量要求仍尊重。 [现行创作宪章](https://github.com/LYL-Z/the-memory-reading-notes/blob/main/editorial/creative-charter/2026-11-20-literary-freedom-and-mature-themes.md)。
+
+
 > 2026-11-14；对象为115章统一工作稿，不是已完成的人类盲读或最终文学定稿。正文选择清单见 `2026-11-14-chapter-canon.tsv`。
 
 ## 结论

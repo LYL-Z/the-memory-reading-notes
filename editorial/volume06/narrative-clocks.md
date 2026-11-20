@@ -1,5 +1,8 @@
 # 第六部钟面
 
+> **2026-11-20 现行制度覆盖提示：** 本文保留对应阶段、卷次及当时任务的历史记录。其审美与写作限制不作为全书普遍禁令；新轮次允许完整的普通生活重构、直接或浓烈的感情、成年成熟题材与圆满，按[现行创作宪章](https://github.com/LYL-Z/the-memory-reading-notes/blob/main/editorial/creative-charter/2026-11-20-literary-freedom-and-mature-themes.md)及最新作者授权执行。具体已确认事实、真实人物权益和历史审稿结果不变。
+
+
 只记会改变读者判断的锚点。不另造第二套时间线。
 
 | 锚 | T_event | T_reader | 边界 |
