@@ -100,7 +100,7 @@ vol	ch	title	orig_hanzi	status	prior_candidate	read_source	literary_problem	expa
 6	004	喜欢却并不稳定的一科	6108	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-06/V6-004-CANDIDATE.md	6695	
 6	005	第一名是哪一回	6953	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-06/V6-005-CANDIDATE.md	9184	
 6	006	八十三	6532	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-06/V6-006-CANDIDATE.md	8921	
-6	007	校长信箱	6354	UNREAD				QWEN			读正文+映射+事实，再判定	
+6	007	校长信箱	6354	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-06/V6-007-CANDIDATE.md	8854	
 6	008	有人笑了	6205	UNREAD				QWEN			读正文+映射+事实，再判定	
 6	009	有人在门外做饭	6420	UNREAD				QWEN			读正文+映射+事实，再判定	
 6	010	宋俊豪的卷子	6431	CANDIDATE_WRITTEN	deepseek/batch-02			QWEN			独立复核：核验净减是否伤及生活厚度	
