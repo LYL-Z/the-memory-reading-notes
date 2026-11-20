@@ -59,7 +59,7 @@ vol	ch	title	orig_hanzi	status	prior_candidate	read_source	literary_problem	expa
 3	016	毕业不只是一张照片	9714	CANDIDATE_WRITTEN		正文+父亲页全文+A1-4b口述		A类已启用5段		qwen-max/volume-03/V3-016-CANDIDATE.md	11181	独立复核＋通读接缝
 4	001	第一厨神	4993	CANDIDATE_WRITTEN		正文+名录+朱学良问卷+父亲问卷+书信整理		A/B/C 已盘点		qwen-max/volume-04/V4-001-CANDIDATE.md	6258	独立复核＋通读接缝
 4	002	面试之前	4237	CANDIDATE_WRITTEN		正文+名录+朱学良问卷+父亲问卷+书信整理		A/B/C 已盘点		qwen-max/volume-04/V4-002-CANDIDATE.md	6844	独立复核＋通读接缝
-4	003	一九〇七	4413	CANDIDATE_WRITTEN		正文+名录+朱学良问卷+父亲问卷+书信整理		A/B/C 已盘点		qwen-max/volume-04/V4-003-CANDIDATE.md	5668	独立复核＋通读接缝
+4	003	一九〇七	4413	CANDIDATE_WRITTEN		正文+名录+朱学良问卷+父亲问卷+书信整理		A/B/C 已盘点		qwen-max/volume-04/V4-003-CANDIDATE.md	6635	独立复核＋通读接缝
 4	004	第三名	4876	CANDIDATE_WRITTEN		正文+名录+朱学良问卷+父亲问卷+书信整理		A/B/C 已盘点		qwen-max/volume-04/V4-004-CANDIDATE.md	6499	独立复核＋通读接缝
 4	005	八个人一间屋	3403	CANDIDATE_WRITTEN		正文+名录+朱学良问卷+父亲问卷+书信整理		A/B/C 已盘点		qwen-max/volume-04/V4-005-CANDIDATE.md	6279	独立复核＋通读接缝
 4	006	营养餐	3115	CANDIDATE_WRITTEN		正文+名录+朱学良问卷+父亲问卷+书信整理		A/B/C 已盘点		qwen-max/volume-04/V4-006-CANDIDATE.md	5279	独立复核＋通读接缝
