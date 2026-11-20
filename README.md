@@ -57,12 +57,22 @@ python scripts/verify_six_volume_integrated.py
 
 ## 2026-11-20｜创作规则与第八部
 
-**所有协作AI必须先读 [AGENTS.md](AGENTS.md)** 的新增执行层，再按当轮授权工作。作者允许大胆、完整地文学重构普通生活，不应因过度审慎将小说写成事实摘要、人物训诫或空洞的情绪解释；成熟主题、爽感、矛盾与圆满均可有独立文学价值。事实/反事实仍严格分层。
+**所有协作AI必须先读 [AGENTS.md](AGENTS.md)** 的文学作者宪章，再按当轮授权工作。作者允许大胆、完整地文学重构普通生活，不应因过度审慎将小说写成事实摘要、人物训诫或空洞的情绪解释；成熟主题、爽感、矛盾与圆满均可有独立文学价值。事实/反事实仍严格分层。
 
 - [第八部 R3 三方案整合](editorial/volume08/2026-11-20-r3-integrated-design.md)：吸收作者转交Grok两方案及GPT-6上轮设计。
 - [第八部 GPT-6 上轮方案归档](editorial/volume08/2026-11-20-gpt6-r2-proposal.md)：四核心世界、二十个候选、远未来、多世界结局、开篇试写。
 - 第八部暂定《没有发生的一生》，25—35万字/36—48章为设计目标，尚未冻结；不覆盖I—VII正文，不回写事实源仓。
 
-## 全库创作制度统一版
+## 创作入口｜作者宪章与后台制度分离（2026-11-20）
 
-**现行必读：[文学自由与18+成熟题材创作宪章](editorial/creative-charter/2026-11-20-literary-freedom-and-mature-themes.md) · [跨仓冲突与文件效力清单](editorial/creative-charter/2026-11-20-policy-crosswalk.md)**。旧源仓技法、历史工作规则与旧审稿报告保留史料版本，不把其中的绝对化措辞当成新稿禁令。18+指成熟读者题材，18岁以上成年人物的非露骨亲密、身体、关系和人生问题可以正面创作；保护未成年人、真实人物权益、事实分层。创作、审稿、发表三层分别判断。
+| 何时 | 文件 |
+|---|---|
+| 常驻：作者身份、声音、野心 | [AGENTS.md 作者宪章](AGENTS.md)（约1455汉字，不堆工程条款） |
+| 常驻精简；详细规则按需 | [后台制度](editorial/creative-charter/OPERATING-RULES.md) 的快速卡 |
+| 写作时读2–3例 | [声音样本](editorial/creative-charter/VOICE-SAMPLES.md)（五处现行正文逐字节选，作者偏好待确认） |
+| 按章提取 | [材料卡](editorial/creative-charter/templates/material-card.md)、[人物卡](editorial/creative-charter/templates/character-card.md) |
+| 每章施工 | [章节任务书](editorial/creative-charter/templates/chapter-brief.md)（先三案，后成文） |
+| 审稿时 | [病灶对照](editorial/creative-charter/PROSE-REPAIR-EXAMPLES.md)、[交付清单](editorial/pre-delivery-literary-checklist.md) |
+| 方法校准 | [第八部施工示例与盲评方案](editorial/creative-charter/pilots/2026-11-20-scene-pilot.md) |
+
+[跨仓冲突清单](editorial/creative-charter/2026-11-20-policy-crosswalk.md)继续登记旧制度的历史适用范围。新的作者宪章与后台制度取代旧根规则的组织形式，不改变历史事实、成熟题材范围、第三人权益与版本保护。Claude Code见[CLAUDE.md](CLAUDE.md)；Cursor技能与本入口同步。

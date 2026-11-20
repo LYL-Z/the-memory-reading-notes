@@ -1,23 +1,9 @@
 ---
 name: chinese-prose-editor
 description: >-
-  Edit Chinese prose for 时间的复数人称. Use after a chapter draft and during
-  revision. Removes template cadence, keeps age and dialect in the dialogue,
-  and does not treat Story Skills character-count as the official length.
+  Revise Chinese prose after drafting; preserve distinct character voices, rhythm and concrete life.
 ---
 
 # Chinese prose editor
 
-The official length is `scripts/hanzi_count.py`. It counts Han characters in the body and drops punctuation, headings, and frontmatter. Story Skills `characterCount` includes punctuation: `你好，世界！` is 6 there and 4 here. The book target is about 1,100,000 Han characters. Do not pad to reach it.
-
-## Cut on sight unless the sentence cannot live without it
-
-命运的齿轮. 青春在这一刻定格. 他不知道这将改变一生. 空气仿佛凝固. 嘴角勾起一抹弧度. A moral in the last paragraph.
-
-## Voices
-
-A sixteen-year-old, a parent, a roommate, and a teacher do not share one literary register. Keep the awkward line, the unfinished sentence, and the joke that goes too far, together with the apology if one was made.
-
-## Pass
-
-Read the scene for a repeated emotion, then for a sentence that explains a gesture the gesture already made. Do not replace words with synonyms and call it an edit.
+Start with the author charter and select two or three relevant passages from editorial/creative-charter/VOICE-SAMPLES.md. After composing, use PROSE-REPAIR-EXAMPLES.md and OPERATING-RULES.md: exchange-book, read-aloud and deletion tests. A familiar phrase is sometimes exactly what a person would say; evaluate its place and repetition instead of cutting on sight. Direct emotion, reflective paragraphs, long dialogue, silence and objects are all choices. In a multi-model merge identify up to three especially alive passages per draft and protect their differences. If actual read-aloud testing was not done, say so. No synonym swaps as a substitute for revision. Official CJK counts remain scripts/hanzi_count.py; targets and CI do not verify literary quality.

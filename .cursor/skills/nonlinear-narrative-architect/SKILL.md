@@ -1,27 +1,9 @@
 ---
 name: nonlinear-narrative-architect
 description: >-
-  Design time jumps for 时间的复数人称. Use when ordering chapters, repeating a
-  scene, or deciding what the reader learns. Keeps real time, narrative time,
-  and the narrator's knowledge apart. Does not adopt a five-volume pronoun outline.
+  Organize event time, character knowledge, reader knowledge and alternate-world structure.
 ---
 
 # Nonlinear narrative architect
 
-The working title is 《时间的复数人称》. The five-part outline 我／你／他／我们／复数 is not the table of contents.
-
-## Three clocks
-
-Read root `AGENTS.md` and `editorial/creative-charter/2026-11-20-literary-freedom-and-mature-themes.md` first. For volumes I–VI consult the six-volume canon clocks; historical `editorial/clocks.md` is not a replacement. For VIII track world IDs and event, character-knowledge and reader-knowledge clocks separately. Coarse dates are valid when exact days serve no narrative purpose.
-
-- Real time: date or school term from the evidence card.
-- Narrative time: where the chapter sits in the book.
-- Knowledge: what he knew that day, and what the reader has been shown.
-
-## A jump is allowed when
-
-The second visit to an event changes what it means. The fireworks night, the ungiven note, and the notebook at the classroom door can return. They cannot be retold unchanged.
-
-A narrator may withhold, misremember or reinterpret appropriately; give the reader fair clues on rereading. Do not fabricate real-world evidence to justify a reveal. Do not let the sixteen-year-old speak with the eighteen-year-old's conclusions.
-
-The book's question is whether the person who said it and the person writing it are still the same person. Real-world evidence remains distinct from recollection and fictional reconstruction. Volume VIII may contain contradictory alternate outcomes, future projections and dreams with intelligible world-level causality. Preserve literary freedom (direct narration, emotional intensity, mature themes, happy endings); no obligatory disclaimers in every scene. This skill does not authorize writing back to the fact source.
+Read AGENTS and the structure section of editorial/creative-charter/OPERATING-RULES.md when planning. Keep T_event, T_person_knows and T_reader distinct; add T_recall and W_world when useful. For I–VI consult the six-volume clocks; old editorial/clocks.md is historical. VIII can sustain complete alternate timelines, dreams and incompatible outcomes. Use the chapter-brief template to compare three openings. A shift should earn its place in the reading experience: changed knowledge, emotional resonance, relational contrast or a meaningful return. Straight chronology is equally legitimate. Give the reader fair clues to re-read, without labels on every paragraph. No fabrication of authentic real-world evidence; no source-vault writeback.
