@@ -103,7 +103,7 @@ vol	ch	title	orig_hanzi	status	prior_candidate	read_source	literary_problem	expa
 6	007	校长信箱	6354	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-06/V6-007-CANDIDATE.md	8854	
 6	008	有人笑了	6205	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-06/V6-008-CANDIDATE.md	9281	
 6	009	有人在门外做饭	6420	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-06/V6-009-CANDIDATE.md	8221	
-6	010	宋俊豪的卷子	6431	CANDIDATE_WRITTEN	deepseek/batch-02			QWEN			独立复核：核验净减是否伤及生活厚度	
+6	010	宋俊豪的卷子	6431	CANDIDATE_WRITTEN	deepseek/batch-02			QWEN		qwen-max/volume-06/V6-010-CANDIDATE.md	7074	
 6	011	九班来的朋友	6466	UNREAD				QWEN			读正文+映射+事实，再判定	
 6	012	礼物还没送出去	6244	CANDIDATE_WRITTEN	deepseek/batch-02			QWEN			独立复核：核验净减是否伤及生活厚度	
 6	013	二班门口	6316	UNREAD				QWEN			读正文+映射+事实，再判定	
