@@ -1,5 +1,8 @@
 # 《时间的复数人称》｜作者新裁决后的六部＋第七部架构复议
 
+> **2026-11-20 现行制度覆盖提示：** 本方案中的第七部反事实功能现迁至第八部；世界可出现完全圆满的结果，不要求每个选择都有对称代价。原历史架构不改写。 [现行创作宪章](https://github.com/LYL-Z/the-memory-reading-notes/blob/main/editorial/creative-charter/2026-11-20-literary-freedom-and-mature-themes.md)。
+
+
 > 2026-11-07；状态 `DESIGN_PROPOSAL_PENDING_AUTHOR`，不是正式目录或已获确认的全部事实；源自作者A01–A12、B至I及L10本轮答复。既有六部正式结构档案仍保留，禁止覆盖其原答逐字存档。
 
 ## 2026-11-08作者最新裁决与设计落地

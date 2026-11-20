@@ -62,3 +62,7 @@ python scripts/verify_six_volume_integrated.py
 - [第八部 R3 三方案整合](editorial/volume08/2026-11-20-r3-integrated-design.md)：吸收作者转交Grok两方案及GPT-6上轮设计。
 - [第八部 GPT-6 上轮方案归档](editorial/volume08/2026-11-20-gpt6-r2-proposal.md)：四核心世界、二十个候选、远未来、多世界结局、开篇试写。
 - 第八部暂定《没有发生的一生》，25—35万字/36—48章为设计目标，尚未冻结；不覆盖I—VII正文，不回写事实源仓。
+
+## 全库创作制度统一版
+
+**现行必读：[文学自由与18+成熟题材创作宪章](editorial/creative-charter/2026-11-20-literary-freedom-and-mature-themes.md) · [跨仓冲突与文件效力清单](editorial/creative-charter/2026-11-20-policy-crosswalk.md)**。旧源仓技法、历史工作规则与旧审稿报告保留史料版本，不把其中的绝对化措辞当成新稿禁令。18+指成熟读者题材，18岁以上成年人物的非露骨亲密、身体、关系和人生问题可以正面创作；保护未成年人、真实人物权益、事实分层。创作、审稿、发表三层分别判断。

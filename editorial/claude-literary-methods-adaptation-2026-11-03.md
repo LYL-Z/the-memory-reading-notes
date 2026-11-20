@@ -1,5 +1,8 @@
 # 《时间的复数人称》文学方法升级｜吸收Claude三轮交流并校正为可执行协议
 
+> **2026-11-20 现行制度覆盖提示：** 保留Claude历史分析及当时版本结论；其节制、选择性压缩、作者声口和不可靠叙述是可选手段，不得挤压正常的成熟题材、直接情感或圆满故事。按新宪章区分事实、重构及反事实，不把材料核验变成逐句审批。 [现行创作宪章](https://github.com/LYL-Z/the-memory-reading-notes/blob/main/editorial/creative-charter/2026-11-20-literary-freedom-and-mature-themes.md)。
+
+
 > 日期：2026-11-03。性质：**编辑研究／后续创作方法，非小说正文，非作者亲述事件，非对Claude全部主张背书。**
 > 原始材料：[作者转贴Claude三次回复完整英文](claude-three-conversations-verbatim-2026-11-03.md)。
 > 本项目当前边界：第一部18章；R48 ChatGPT基线136,676汉字（7d03ec3636592ff27a301da250bd366fc380e063）；第49轮任务书已提交PR #13；第50轮后必须开始第二部正文，不再为第一部无限开轮。

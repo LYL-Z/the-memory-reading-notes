@@ -1,5 +1,8 @@
 # GPT-6 第三部第二轮新增文学复合与来源校准账｜2026-11-13
 
+> **2026-11-20 现行制度覆盖提示：** 保留本轮具体来源及风险判断；后续普通生活感官、对白、日程可直接重构，非事实层另记。已有重大事实裁定不变。 [现行创作宪章](https://github.com/LYL-Z/the-memory-reading-notes/blob/main/editorial/creative-charter/2026-11-20-literary-freedom-and-mature-themes.md)。
+
+
 > 在第一轮 `gpt6-added-composites-ledger-20261113.md` 与DeepSeek `notes_001—016` 之上追加；不删除旧记忆冲突，不把正文当来源。
 
 | 章节 | 本轮新增/重新组织的场面 | 类型 | 出版边界 |

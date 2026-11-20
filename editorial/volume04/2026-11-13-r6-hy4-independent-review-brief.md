@@ -1,5 +1,8 @@
 # HY4独立审稿任务书｜第四部《叫我名字的人》R6｜2026-11-13
 
+> **2026-11-20 现行制度覆盖提示：** 本文保留对应阶段、卷次及当时任务的历史记录。其审美与写作限制不作为全书普遍禁令；新轮次允许完整的普通生活重构、直接或浓烈的感情、成年成熟题材与圆满，按[现行创作宪章](https://github.com/LYL-Z/the-memory-reading-notes/blob/main/editorial/creative-charter/2026-11-20-literary-freedom-and-mature-themes.md)及最新作者授权执行。具体已确认事实、真实人物权益和历史审稿结果不变。
+
+
 你是独立文学编辑，不是R6作者，也不是前一轮自评的复述者。**先把R6正文实际读过，再看R6审稿报告；不能反过来沿用我的结论。**
 
 **GitHub定位**：`LYL-Z/the-memory-reading-notes` Draft PR#62，分支`creative/volume04-opening-continuous-20261113`；本轮重点005、006、012、013、015，但必须把001—018顺读一遍，并与main的II-022《小林子》、III-016小学毕业、I-001开篇核对信息新意。原始资料`LYL-Z/the-memory`的朱学良Q问卷、初中学期成长记录、家书与金海寄宿生活记录作为事实层优先。

@@ -1,5 +1,8 @@
 # 第五部《换座之后》R3｜HY4正式版独立深审与精修任务
 
+> **2026-11-20 现行制度覆盖提示：** 本文保留对应阶段、卷次及当时任务的历史记录。其审美与写作限制不作为全书普遍禁令；新轮次允许完整的普通生活重构、直接或浓烈的感情、成年成熟题材与圆满，按[现行创作宪章](https://github.com/LYL-Z/the-memory-reading-notes/blob/main/editorial/creative-charter/2026-11-20-literary-freedom-and-mature-themes.md)及最新作者授权执行。具体已确认事实、真实人物权益和历史审稿结果不变。
+
+
 工作分支：`LYL-Z/the-memory-reading-notes` / `creative/volume05-opening-r1-20261113`，Draft PR#63。**先完整读`manuscript/volume-05/001—007.md`七章，再读本提示词以下的来源索引，最后才读我们的R3报告；禁止先把模型自评当成定论。**
 
 【硬边界】
