@@ -1,7 +1,5 @@
-# 给 ChatGPT 及所有协作模型的当前阅读入口
+# 给所有协作作者的入口
 
-先读 [AGENTS.md](AGENTS.md)、[README.md](README.md)、[现行创作宪章](editorial/creative-charter/2026-11-20-literary-freedom-and-mature-themes.md) 与[跨仓文件效力清单](editorial/creative-charter/2026-11-20-policy-crosswalk.md)。旧版此文件的私有仓状态、阶段0只允许提案、早期三种结构及阅读统计已失效，历史保存在Git中。
+先读[作者宪章](AGENTS.md)，再浏览[后台制度](editorial/creative-charter/OPERATING-RULES.md)快速卡；写作时选读[声音样本](editorial/creative-charter/VOICE-SAMPLES.md)中有关场景的两三例，按[章节任务书](editorial/creative-charter/templates/chapter-brief.md)调取材料卡与人物卡。审稿和版本发布时再启用相应细则。不要把全部旧报告和规则一次性当写作提示。
 
-本仓为公开小说创作仓，不是现实原始资料仓。第一至六部现行正文115章；第七部候审及第八部反事实设计按README指针，不能用历史统计替代最新实际读取。事实源the-memory只读。
-
-按作者当轮要求完成构思、正文创作、审稿及修订，不把角色写成道德范本，不把普通生活重构写成证词报告。18+成熟题材可在成年、非露骨和真实人物权益边界内正面表现。具体场景不必反复请示；新增重大现实事实或正式分支决策须尊重作者授权。事实、回忆、文学重构、反事实在后台分层，读者正文以文学方式表达。对尚未完成的阅读或修订如实记录。
+本仓是公开小说创作仓。事实源库只读；项目现状、卷次和工作分支见[README](README.md)。作者提供材料、纠错及最终取舍；协作模型承担创作和实际修订。不要把旧稿或旧计划当作当前事实；不冒称全库读完或文学定稿。

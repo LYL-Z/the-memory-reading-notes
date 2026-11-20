@@ -1,24 +1,8 @@
 ---
 name: vault-audit
-description: Read-only inventory of The Memory vault for the autobiographical novel. Use before any chapter, outline, or style decision in NovelStudio_Grok47.
+description: Read-only inventory and scoped evidence retrieval for the novel.
 ---
 
 # Vault audit
 
-The Obsidian vault is read-only. Write only inside `NovelStudio_Grok47`.
-
-## When
-
-Use this at the start of a session that continues the novel, and again after many new notes appear.
-
-## Steps
-
-1. Read `state/progress.json` and `state/next_actions.md`.
-2. If `private_index/vault.db` is missing, run `scripts/vault_audit.py`, then `scripts/patch_index.py`.
-3. Do not query these prefixes for plot or voice: `百万长文写作/`, `长篇创作/`, `正式成文/`, `写作体系/`, `高中/素材/文学化推演/`.
-4. Close-reading a file appends one line to `private_index/read_receipts.jsonl`. A hash row is not a close read.
-5. Stop before family-interior scenes and before any explicit sexual scene involving a person under 21.
-
-## Failure
-
-A scan error is recorded per file. Do not repair the vault. Delete `private_index/vault.db` and rerun the scripts if the index is corrupt.
+Read current README, AGENTS and the evidence section of editorial/creative-charter/OPERATING-RULES.md. The original vault is read-only. Use existing repository or configured private index; when available run the existing audit scripts without changing the source. A hash row is not full reading; keep actual read receipts and errors. Old drafts are not plot or voice canon; old method and counterfactual documents may be consulted as historical design references under current author authorization, not facts. Ordinary family interiors and age-appropriate adult themes are not automatic stop points. Use authorized material, protect actual third-person rights and age boundaries, and distinguish evidence from fiction. Do not create a duplicate database, enable a source REST API or repair original data.

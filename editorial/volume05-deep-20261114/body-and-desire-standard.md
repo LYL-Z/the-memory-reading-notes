@@ -1,5 +1,7 @@
 # 身体、欲望和18+成熟主题：写作方法（2026-11-20现行版）
 
+> 读者质感先从[作者宪章](../../AGENTS.md)的成年目光生长；本页仅在有相应场景时调用，具体边界以[后台制度](../creative-charter/OPERATING-RULES.md)为准。
+
 原2026-11-14条款为第五部阶段标准；本版按[现行创作宪章](https://github.com/LYL-Z/the-memory-reading-notes/blob/main/editorial/creative-charter/2026-11-20-literary-freedom-and-mature-themes.md)更新，不把第五部方法套到全书。旧版本由Git历史保留。
 
 ## 年龄与题材
