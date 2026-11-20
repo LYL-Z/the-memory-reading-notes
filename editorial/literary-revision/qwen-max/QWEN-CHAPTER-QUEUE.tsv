@@ -110,7 +110,7 @@ vol	ch	title	orig_hanzi	status	prior_candidate	read_source	literary_problem	expa
 6	014	四百米	6288	CANDIDATE_WRITTEN	deepseek/batch-02			QWEN		qwen-max/volume-06/V6-014-CANDIDATE.md	4877	
 6	015	倒数第二次模拟	6375	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-06/V6-015-CANDIDATE.md	7203	
 6	016	南开与四川	6210	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-06/V6-016-CANDIDATE.md	7203	
-6	017	把教室搬过去	6181	UNREAD				QWEN			读正文+映射+事实，再判定	
+6	017	把教室搬过去	6181	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-06/V6-017-CANDIDATE.md	7081	
 6	018	没考完的夜里	6280	CANDIDATE_WRITTEN	deepseek/batch-03			QWEN			独立复核：核验净减是否伤及生活厚度	
 6	019	最后一张答卷	6213	CANDIDATE_WRITTEN	deepseek/batch-03			QWEN			独立复核：核验净减是否伤及生活厚度	
 6	020	那以后还要见面	6681	CANDIDATE_WRITTEN	deepseek/batch-03 局部段落群			QWEN			章级完整重写（现仅局部）	
