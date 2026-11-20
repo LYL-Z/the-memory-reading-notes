@@ -97,7 +97,7 @@ vol	ch	title	orig_hanzi	status	prior_candidate	read_source	literary_problem	expa
 6	001	换了一层楼	6001	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-06/V6-001-CANDIDATE.md	8206	
 6	002	第一张试卷	6004	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-06/V6-002-CANDIDATE.md	8123	
 6	003	不止一位老师	6009	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-06/V6-003-CANDIDATE.md	7850	
-6	004	喜欢却并不稳定的一科	6108	UNREAD				QWEN			读正文+映射+事实，再判定	
+6	004	喜欢却并不稳定的一科	6108	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-06/V6-004-CANDIDATE.md	6695	
 6	005	第一名是哪一回	6953	UNREAD				QWEN			读正文+映射+事实，再判定	
 6	006	八十三	6532	UNREAD				QWEN			读正文+映射+事实，再判定	
 6	007	校长信箱	6354	UNREAD				QWEN			读正文+映射+事实，再判定	
