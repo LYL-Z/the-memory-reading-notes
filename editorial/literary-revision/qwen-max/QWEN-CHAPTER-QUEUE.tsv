@@ -112,9 +112,11 @@ vol	ch	title	orig_hanzi	status	prior_candidate	read_source	literary_problem	expa
 6	016	南开与四川	6210	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-06/V6-016-CANDIDATE.md	7203	
 6	017	把教室搬过去	6181	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-06/V6-017-CANDIDATE.md	7081	
 6	018	没考完的夜里	6280	CANDIDATE_WRITTEN	deepseek/batch-03			QWEN		qwen-max/volume-06/V6-018-CANDIDATE.md	6244	
+6	018A	草稿纸	0	CANDIDATE_WRITTEN		新增章（无原稿）		A类事实＋C类重构见REVIEW	QWEN	qwen-max/volume-06/V6-018A-CANDIDATE.md	5169	已整合
 6	019	最后一张答卷	6213	CANDIDATE_WRITTEN	deepseek/batch-03			QWEN		qwen-max/volume-06/V6-019-CANDIDATE.md	6903	
 6	020	那以后还要见面	6681	CANDIDATE_WRITTEN	deepseek/batch-03 局部段落群			QWEN		qwen-max/volume-06/V6-020-CANDIDATE.md	7731	
 7	001	通知书到家	4038	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-07/V7-001-CANDIDATE.md	6095	
+7	001A	如果多一张车票	0	CANDIDATE_WRITTEN		新增章（无原稿）		A类事实＋C类重构见REVIEW	QWEN	qwen-max/volume-07/V7-001A-CANDIDATE.md	13003	已整合
 7	002	两个人的房间	4241	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-07/V7-002-CANDIDATE.md	6156	
 7	003	先来打招呼的人	4520	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-07/V7-003-CANDIDATE.md	6363	
 7	004	右边的桌子	4766	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-07/V7-004-CANDIDATE.md	5729	
