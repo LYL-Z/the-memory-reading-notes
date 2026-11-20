@@ -23,7 +23,7 @@ E = **B 骨架 + D 定点整段增量**。整段承接、同场景择一、不�
 |---|---|---|
 | 1 | `manuscript/volume-01/NNN.md` | `git show 8fa91e98dfb163610e7480665e99ea7796c117d6:editorial/literary-revision/V<N>-NNN-CANDIDATE.md` |
 | 2 | `manuscript/volume-02/NNN.md` | 同上 |
-| 3 | `manuscript/volume-03/NNN.md` | 同上（D 显著扩写，比值 1.12—1.38，重点吸收增量） |
+| 3 | `manuscript/volume-03/NNN.md` | `git show 8fa91e98:editorial/literary-revision/qwen-max/volume-03/V3-NNN-CANDIDATE.md`（注意含 qwen-max/volume-03/ 子目录；D 显著扩写，重点吸收增量） |
 | 4 | `manuscript/volume-04/NNN.md` | 部分为 `deepseek/V4-NNN-DEEPSEEK-CANDIDATE.md` |
 | 5 | `manuscript/volume-05/NNN.md` | — |
 | 6 | `manuscript/volume-06/NNN.md` | 部分 DS；014/018 有 A/DS 候选 |
