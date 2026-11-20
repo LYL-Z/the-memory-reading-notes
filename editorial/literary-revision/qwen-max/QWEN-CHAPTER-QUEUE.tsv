@@ -79,7 +79,7 @@ vol	ch	title	orig_hanzi	status	prior_candidate	read_source	literary_problem	expa
 5	002	无解的方程组	3534	CANDIDATE_WRITTEN		正文+G2204人物库+G2205小组变动+李博涵页		A类六人小组已启用		qwen-max/volume-05/V5-002-CANDIDATE.md	5416	独立复核＋通读接缝
 5	003	老师也可以被争辩	3871	CANDIDATE_WRITTEN		正文+G2204人物库+G2205小组变动+李博涵页		A类六人小组已启用		qwen-max/volume-05/V5-003-CANDIDATE.md	5733	独立复核＋通读接缝
 5	004	六个人	3466	CANDIDATE_WRITTEN		正文+G2204人物库+G2205小组变动+李博涵页		A类六人小组已启用		qwen-max/volume-05/V5-004-CANDIDATE.md	5266	独立复核＋通读接缝
-5	005	李博涵没听我说完	2733	CANDIDATE_WRITTEN		正文+G2204人物库+G2205小组变动+李博涵页		A类六人小组已启用		qwen-max/volume-05/V5-005-CANDIDATE.md	4552	独立复核＋通读接缝
+5	005	李博涵没听我说完	2733	CANDIDATE_WRITTEN		正文+G2204人物库+G2205小组变动+李博涵页		A类六人小组已启用		qwen-max/volume-05/V5-005-CANDIDATE.md	4982	独立复核＋通读接缝
 5	006	食堂后门	3819	CANDIDATE_WRITTEN		正文+G2204人物库+G2205小组变动+李博涵页		A类六人小组已启用		qwen-max/volume-05/V5-006-CANDIDATE.md	5818	独立复核＋通读接缝
 5	007	四二六的晚上	3534	CANDIDATE_WRITTEN		正文+G2204人物库+G2205小组变动+李博涵页		A类六人小组已启用		qwen-max/volume-05/V5-007-CANDIDATE.md	5476	独立复核＋通读接缝
 5	008	两张成绩单	6331	CANDIDATE_WRITTEN		正文+G2204人物库+G2205小组变动+李博涵页		A类六人小组已启用		qwen-max/volume-05/V5-008-CANDIDATE.md	7381	独立复核＋通读接缝
@@ -115,18 +115,18 @@ vol	ch	title	orig_hanzi	status	prior_candidate	read_source	literary_problem	expa
 6	019	最后一张答卷	6213	CANDIDATE_WRITTEN	deepseek/batch-03			QWEN		qwen-max/volume-06/V6-019-CANDIDATE.md	6903	
 6	020	那以后还要见面	6681	CANDIDATE_WRITTEN	deepseek/batch-03 局部段落群			QWEN		qwen-max/volume-06/V6-020-CANDIDATE.md	7731	
 7	001	通知书到家	4038	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-07/V7-001-CANDIDATE.md	6095	
-7	002	两个人的房间	4241	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-07/V7-002-CANDIDATE.md	5166	
-7	003	先来打招呼的人	4520	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-07/V7-003-CANDIDATE.md	5297	
+7	002	两个人的房间	4241	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-07/V7-002-CANDIDATE.md	6156	
+7	003	先来打招呼的人	4520	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-07/V7-003-CANDIDATE.md	6363	
 7	004	右边的桌子	4766	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-07/V7-004-CANDIDATE.md	5729	
 7	005	第一张课表	4482	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-07/V7-005-CANDIDATE.md	5390	
 7	006	难题没给我名次	4161	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-07/V7-006-CANDIDATE.md	6093	
-7	007	饭桌上渐渐坐满	4032	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-07/V7-007-CANDIDATE.md	5977	
-7	008	拍摄表	4475	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-07/V7-008-CANDIDATE.md	5203	
-7	009	摄影机不归一个人	3874	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-07/V7-009-CANDIDATE.md	5692	
+7	007	饭桌上渐渐坐满	4032	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-07/V7-007-CANDIDATE.md	6548	
+7	008	拍摄表	4475	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-07/V7-008-CANDIDATE.md	6185	
+7	009	摄影机不归一个人	3874	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-07/V7-009-CANDIDATE.md	6167	
 7	010	电脑里第二个世界	4566	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-07/V7-010-CANDIDATE.md	5447	
-7	011	几个人同时在线	4292	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-07/V7-011-CANDIDATE.md	5125	
+7	011	几个人同时在线	4292	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-07/V7-011-CANDIDATE.md	6830	
 7	012	物理和AI之间	4697	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-07/V7-012-CANDIDATE.md	5532	
-7	013	父亲能听懂多少	4225	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-07/V7-013-CANDIDATE.md	5083	
+7	013	父亲能听懂多少	4225	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-07/V7-013-CANDIDATE.md	6700	
 7	014	西安不是一张合照	5470	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-07/V7-014-CANDIDATE.md	6422	
 7	015	照片里没有发生的事	5788	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-07/V7-015-CANDIDATE.md	6539	
 7	016	第一次出国	4507	CANDIDATE_WRITTEN				QWEN		qwen-max/volume-07/V7-016-CANDIDATE.md	5345	
