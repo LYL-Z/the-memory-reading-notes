@@ -2,7 +2,7 @@
 
 > **七部统一融合正文｜135章｜2026-11-21。** 这是一部依据真实生活、人物回忆与独立文学重构创作的非线性自传体长篇小说。整合的是**工作主线正文**，不意味着出版许可、文学定稿、世界级水准认证或已完成真正陌生读者盲读。此前“六部115章”的README与项目状态已移入历史档案，**不再是当前项目状态**。
 
-## 现行七部：135章，853,423官方汉字（文学结构修订V1.2）
+## 现行七部：135章，854,867官方汉字（最终收口V1.3）
 
 | 卷 | 书名 | 章节 | 原稿汉字 | 正典汉字 | 净增 |
 |---|---|---:|---:|---:|---:|
@@ -10,16 +10,20 @@
 | Ⅱ | [名单上的人](manuscript/volume-02/) | 24 | 172,099 | 183,706 | +11,607 |
 | Ⅲ | [家里的另一种时间](manuscript/volume-03/) | 16 | 140,227 | 158,374 | +18,147 |
 | Ⅳ | [叫我名字的人](manuscript/volume-04/) | 18 | 74,236 | 81,560 | +7,324 |
-| Ⅴ | [换座之后](manuscript/volume-05/) | 19 | 80,985 | 79,849 | −1,136 |
+| Ⅴ | [换座之后](manuscript/volume-05/) | 19 | 80,985 | 81,293 | +308 |
 | Ⅵ | [未写完的纸](manuscript/volume-06/) | 20 | 126,300 | 114,670 | −11,630 |
 | Ⅶ | [远方不是结尾](manuscript/volume-07/) | 20 | 93,102 | 94,901 | +1,799 |
-| **总计** | | **135** | **825,901** | **853,423** | **+27,522** |
+| **总计** | | **135** | **825,901** | **854,867** | **+28,966** |
 
-现行数字按 `scripts/hanzi_count.py` 口径（标题/frontmatter/代码块/注释不计入）列出，待PR上的GitHub CI独立复算。V1.2针对第五部018及第六部017—020共五章进行了结构性重写，净减13,308字，**减去的主要是反复叙述同一密室机关、同一考前一天、同一饭局与同一考后睡眠的文本**，不是删除整个事件。历史PR #92的867,377字及V1.1的866,731字均保留在冻结版本中。文学质量仍须以正文比较判断，不得用删减比例冒充文学评分。
+现行数字按 `scripts/hanzi_count.py` 口径（标题/frontmatter/代码块/注释不计入）列出。**V1.3 最终收口只改动一章**：第五部018《第四把钥匙》恢复 PR #92 融合版（+1,444字）。V1.2 对第六部017—020 的结构性重写**予以保留**——那四章的融合版有 80–83% 的句子是首尾相接的顶针链，同一个考前一天、同一顿饭、同一夜睡眠被复述三到五遍，并给陈思懿、宋俊豪、父母、夏思成塞入大量非人语言的生成长引语；删掉的是机械循环，不是生活。
 
-**唯一现行正典是 `manuscript/`。** `editorial/seven-volume-integration/fused/` 是**PR #92冻结的历史融合交付快照**，V1.1以来，对第五部010、第七部010及V1.2的第五部018、第六部017—020进行了定点文学改写，因此该快照不再与当前正典逐字节完全相同，仅供追溯，**不是并列的第二个正式版本**。V6-018A《草稿纸》、V7-001A《如果多一张车票》保持在 135 章之外，不纳入正式目录。
+《第四把钥匙》是唯一的反向裁定：V1.2 把机关抽空后，全章近半变成作者对「我如何讲述」的自我分析，失去了四个人共同经历的一场有紧张、有行动、有各自性格的游戏。融合版有完整的可玩过程（第五把钥匙的用途混淆、「原处」的语义反转、跑回第一间听录音、手心写下的词被汗洇模糊、最后没通关），并在结尾用**放大照片找不到那几把钥匙**这一具体动作拆除不可靠记忆，而不是靠声明。据此恢复。
 
-**精确到单章的现行来源与哈希**：[V1.2七卷正典表](editorial/literary-finalization/2026-11-21-v1.2-chapter-canon.tsv)（[V1.1历史正典表](editorial/literary-finalization/2026-11-21-v1.1-chapter-canon.tsv)保留）（[PR #92历史正典表](editorial/seven-volume-integration/2026-11-21-chapter-canon.tsv)保持冻结）（135行，含 git blob SHA1／SHA256／官方汉字数）· [逐章取舍台账](editorial/seven-volume-integration/135-chapter-selection-ledger.tsv) · [接收回执](editorial/seven-volume-integration/INTEGRATION-RECEIPT.md) · [最终核验](editorial/seven-volume-integration/FINAL-VERIFICATION.md)。可在检出的仓库根目录执行：
+历史 PR #92 的 867,377 字、V1.1 的 866,731 字、V1.2 的 853,423 字均保留在冻结版本中。文学质量以正文比较判断，不得用删减比例冒充文学评分。
+
+**唯一现行正典是 `manuscript/`。** `editorial/seven-volume-integration/fused/` 是**PR #92冻结的历史融合交付快照**，V1.1以来对第五部010、第七部010及第六部017—020进行了定点文学改写；第五部018在V1.3已恢复为与该快照一致。该快照整体不再与当前正典逐字节相同，仅供追溯，**不是并列的第二个正式版本**。V6-018A《草稿纸》、V7-001A《如果多一张车票》保持在 135 章之外，不纳入正式目录。`manuscript/volume-09/` 属第九部非虚构稿，**不计入七部135章正典与字数**。
+
+**精确到单章的现行来源与哈希**：[V1.3最终正典表](editorial/literary-finalization/2026-11-21-v1.3-chapter-canon.tsv)（[V1.2](editorial/literary-finalization/2026-11-21-v1.2-chapter-canon.tsv)、[V1.1历史正典表](editorial/literary-finalization/2026-11-21-v1.1-chapter-canon.tsv)与[PR #92历史正典表](editorial/seven-volume-integration/2026-11-21-chapter-canon.tsv)均冻结保留）（135行，含 git blob SHA1／SHA256／官方汉字数）· [最终收口报告](editorial/literary-finalization/FINAL-CLOSURE-REPORT.md) · [逐章取舍台账](editorial/seven-volume-integration/135-chapter-selection-ledger.tsv) · [接收回执](editorial/seven-volume-integration/INTEGRATION-RECEIPT.md)。可在检出的仓库根目录执行：
 
 ```bash
 python scripts/verify_seven_volume_integrated.py

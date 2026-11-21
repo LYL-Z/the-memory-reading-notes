@@ -1,11 +1,11 @@
 {
-  "schema_version": "2026-11-21-seven-volume-prose-v1.2",
+  "schema_version": "2026-11-21-seven-volume-final-closure-v1.3",
   "project": "时间的复数人称",
   "as_of": "2026-11-21",
   "kind": "fused_seven_volume_canonical_manuscript",
   "current_branch_target": "main",
   "integration_branch": "integration/seven-volume-literary-unification-20261120",
-  "integration_status": "MERGED_IN_MAIN_VERIFIED",
+  "integration_status": "FINAL_CLOSURE_PENDING_MERGE",
   "previous_canon": {
     "schema_version": "2026-11-14-six-volume-canon",
     "chapters_total": 115,
@@ -22,9 +22,9 @@
   },
   "manuscript_repository": "LYL-Z/the-memory-reading-notes",
   "chapters_total": 135,
-  "hanzi_total": 853423,
+  "hanzi_total": 854867,
   "hanzi_original_baseline": 825901,
-  "hanzi_net_delta": 27522,
+  "hanzi_net_delta": 28966,
   "volume_order": [
     {
       "n": 1,
@@ -62,9 +62,9 @@
       "n": 5,
       "title": "换座之后",
       "chapters": 19,
-      "hanzi": 79849,
+      "hanzi": 81293,
       "orig_hanzi": 80985,
-      "delta": -1136
+      "delta": 308
     },
     {
       "n": 6,
@@ -112,10 +112,11 @@
     ],
     "previous_editor_regex_count": 868003,
     "difference_explained": "前任采用 [\\u4e00-\\u9fff] 且包含 135 个章题；官方计数器排除标题，差 709 字。本轮正典另含主代理补回的 83 字。",
-    "manifests": "editorial/literary-finalization/2026-11-21-v1.2-chapter-canon.tsv",
+    "manifests": "editorial/literary-finalization/2026-11-21-v1.3-chapter-canon.tsv",
     "verifier": "scripts/verify_seven_volume_integrated.py",
     "verifier_checks_run": 1108,
-    "verifier_checks_failed": 0
+    "verifier_checks_failed": 0,
+    "total_hanzi": 854867
   },
   "status_gates": {
     "text_inventory": "PASS",
@@ -153,7 +154,7 @@
   "main_merge_pr": 92,
   "main_merge_pr_url": "https://github.com/LYL-Z/the-memory-reading-notes/pull/92",
   "current_branch": "main",
-  "current_count_status": "135/135 VERIFIED_ON_MAIN_V1_2",
+  "current_count_status": "135/135 VERIFIED_ON_CLOSURE_BRANCH_V1_3",
   "main_merge_commit_sha": "058c7742705dda505c43b822f34ebd74a27c3f1f",
   "main_merge_verified_at": "2026-11-21T10:20:00Z",
   "main_head_at_merge": "058c7742705dda505c43b822f34ebd74a27c3f1f",
@@ -190,5 +191,25 @@
     "ci_run_url": "https://github.com/LYL-Z/the-memory-reading-notes/actions/runs/44902180106",
     "pr_number": 97,
     "merge_commit_sha": "e04283a8442476f9e4ad7d22c99acfafa2d9ee54"
+  },
+  "final_closure": {
+    "scope": "五章裁定，仅第五部018实际修改",
+    "decisions": {
+      "V5-018": "RESTORE_FUSION（PR92版）：完整密室游戏＋照片拆除不可靠记忆；V1.2抽空机关后近半为自我分析",
+      "V6-017": "KEEP_PR98：融合版80%顶针链，陈思懿/父母/宋俊豪/阳松生成长引语",
+      "V6-018": "KEEP_PR98：融合版83%顶针链，同一夜复述五遍，夏思成其母与我母亲指代混乱",
+      "V6-019": "KEEP_PR98：融合版82%顶针链且有「七点考场」时间错误；PR98为正确3+1+2时间表",
+      "V6-020": "KEEP_PR98：新增6月9日晚→次日→查分时间桥，并建立与V7-001红盒子书架钩子"
+    },
+    "changed_chapters": [
+      "manuscript/volume-05/018.md"
+    ],
+    "hanzi_before": 853423,
+    "hanzi_after": 854867,
+    "delta": 1444,
+    "canon": "editorial/literary-finalization/2026-11-21-v1.3-chapter-canon.tsv",
+    "verifier_checks_run": 1108,
+    "verifier_checks_failed": 0,
+    "report": "editorial/literary-finalization/FINAL-CLOSURE-REPORT.md"
   }
 }
