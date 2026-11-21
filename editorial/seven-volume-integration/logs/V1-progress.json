@@ -1,0 +1,20 @@
+[
+  {"ch":"001","status":"done","base":"ORIGINAL","cjk_fused":7783},
+  {"ch":"002","status":"done","base":"ORIGINAL","cjk_fused":10715},
+  {"ch":"003","status":"done","base":"ORIGINAL","cjk_fused":11361},
+  {"ch":"004","status":"done","base":"ORIGINAL","cjk_fused":11929},
+  {"ch":"005","status":"done","base":"ORIGINAL","cjk_fused":6405},
+  {"ch":"006","status":"done","base":"ORIGINAL","cjk_fused":7639},
+  {"ch":"007","status":"done","base":"ORIGINAL","cjk_fused":8650},
+  {"ch":"008","status":"done","base":"ORIGINAL","cjk_fused":7086},
+  {"ch":"009","status":"done","base":"ORIGINAL","cjk_fused":7867},
+  {"ch":"010","status":"done","base":"HY4","cjk_fused":5979},
+  {"ch":"011","status":"done","base":"ORIGINAL","cjk_fused":9197},
+  {"ch":"012","status":"done","base":"ORIGINAL","cjk_fused":6323},
+  {"ch":"013","status":"done","base":"ORIGINAL","cjk_fused":6909},
+  {"ch":"014","status":"done","base":"ORIGINAL","cjk_fused":7374},
+  {"ch":"015","status":"done","base":"ORIGINAL","cjk_fused":6334},
+  {"ch":"016","status":"done","base":"ORIGINAL","cjk_fused":5562},
+  {"ch":"017","status":"done","base":"HY4","cjk_fused":6234},
+  {"ch":"018","status":"done","base":"ORIGINAL","cjk_fused":7086}
+]

@@ -1,0 +1,1352 @@
+[
+{
+"vol": 1,
+"ch": "001",
+"orig": 7783,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-01\\001.md",
+"hy4": 7783,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-01\\001.md",
+"qwen": 8632,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-01\\V1-001-CANDIDATE.md"
+},
+{
+"vol": 1,
+"ch": "002",
+"orig": 10709,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-01\\002.md",
+"hy4": 10709,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-01\\002.md",
+"qwen": 11332,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-01\\V1-002-CANDIDATE.md"
+},
+{
+"vol": 1,
+"ch": "003",
+"orig": 11361,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-01\\003.md",
+"hy4": 11361,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-01\\003.md",
+"qwen": 12116,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-01\\V1-003-CANDIDATE.md"
+},
+{
+"vol": 1,
+"ch": "004",
+"orig": 11925,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-01\\004.md",
+"hy4": 11925,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-01\\004.md",
+"qwen": 12569,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-01\\V1-004-CANDIDATE.md"
+},
+{
+"vol": 1,
+"ch": "005",
+"orig": 6403,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-01\\005.md",
+"hy4": 6403,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-01\\005.md",
+"qwen": 7144,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-01\\V1-005-CANDIDATE.md"
+},
+{
+"vol": 1,
+"ch": "006",
+"orig": 7635,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-01\\006.md",
+"hy4": 7635,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-01\\006.md",
+"qwen": 8290,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-01\\V1-006-CANDIDATE.md"
+},
+{
+"vol": 1,
+"ch": "007",
+"orig": 8644,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-01\\007.md",
+"hy4": 8644,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-01\\007.md",
+"qwen": 9492,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-01\\V1-007-CANDIDATE.md"
+},
+{
+"vol": 1,
+"ch": "008",
+"orig": 7084,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-01\\008.md",
+"hy4": 7084,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-01\\008.md",
+"qwen": 7735,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-01\\V1-008-CANDIDATE.md"
+},
+{
+"vol": 1,
+"ch": "009",
+"orig": 7863,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-01\\009.md",
+"hy4": 7863,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-01\\009.md",
+"qwen": 8486,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-01\\V1-009-CANDIDATE.md"
+},
+{
+"vol": 1,
+"ch": "010",
+"orig": 5252,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-01\\010.md",
+"hy4": 5976,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-01\\010.md",
+"qwen": 6757,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-01\\V1-010-CANDIDATE.md"
+},
+{
+"vol": 1,
+"ch": "011",
+"orig": 8793,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-01\\011.md",
+"hy4": 8793,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-01\\011.md",
+"qwen": 9629,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-01\\V1-011-CANDIDATE.md"
+},
+{
+"vol": 1,
+"ch": "012",
+"orig": 6320,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-01\\012.md",
+"hy4": 6320,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-01\\012.md",
+"qwen": 6953,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-01\\V1-012-CANDIDATE.md"
+},
+{
+"vol": 1,
+"ch": "013",
+"orig": 6904,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-01\\013.md",
+"hy4": 6904,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-01\\013.md",
+"qwen": 7510,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-01\\V1-013-CANDIDATE.md"
+},
+{
+"vol": 1,
+"ch": "014",
+"orig": 7370,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-01\\014.md",
+"hy4": 7370,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-01\\014.md",
+"qwen": 7967,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-01\\V1-014-CANDIDATE.md"
+},
+{
+"vol": 1,
+"ch": "015",
+"orig": 6329,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-01\\015.md",
+"hy4": 6329,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-01\\015.md",
+"qwen": 6970,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-01\\V1-015-CANDIDATE.md"
+},
+{
+"vol": 1,
+"ch": "016",
+"orig": 5559,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-01\\016.md",
+"hy4": 5559,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-01\\016.md",
+"qwen": 6072,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-01\\V1-016-CANDIDATE.md"
+},
+{
+"vol": 1,
+"ch": "017",
+"orig": 5539,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-01\\017.md",
+"hy4": 6231,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-01\\017.md",
+"qwen": 6929,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-01\\V1-017-CANDIDATE.md"
+},
+{
+"vol": 1,
+"ch": "018",
+"orig": 7080,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-01\\018.md",
+"hy4": 7115,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-01\\018.md",
+"qwen": 7637,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-01\\V1-018-CANDIDATE.md"
+},
+{
+"vol": 2,
+"ch": "001",
+"orig": 7720,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-02\\001.md",
+"hy4": 7720,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-02\\001.md",
+"qwen": 8312,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-02\\V2-001-CANDIDATE.md"
+},
+{
+"vol": 2,
+"ch": "002",
+"orig": 6586,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-02\\002.md",
+"hy4": 6586,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-02\\002.md",
+"qwen": 7138,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-02\\V2-002-CANDIDATE.md"
+},
+{
+"vol": 2,
+"ch": "003",
+"orig": 7250,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-02\\003.md",
+"hy4": 7250,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-02\\003.md",
+"qwen": 7747,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-02\\V2-003-CANDIDATE.md"
+},
+{
+"vol": 2,
+"ch": "004",
+"orig": 8351,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-02\\004.md",
+"hy4": 8351,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-02\\004.md",
+"qwen": 8818,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-02\\V2-004-CANDIDATE.md"
+},
+{
+"vol": 2,
+"ch": "005",
+"orig": 8056,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-02\\005.md",
+"hy4": 8056,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-02\\005.md",
+"qwen": 8464,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-02\\V2-005-CANDIDATE.md"
+},
+{
+"vol": 2,
+"ch": "006",
+"orig": 6063,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-02\\006.md",
+"hy4": 6063,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-02\\006.md",
+"qwen": 6626,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-02\\V2-006-CANDIDATE.md"
+},
+{
+"vol": 2,
+"ch": "007",
+"orig": 6059,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-02\\007.md",
+"hy4": 6059,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-02\\007.md",
+"qwen": 6488,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-02\\V2-007-CANDIDATE.md"
+},
+{
+"vol": 2,
+"ch": "008",
+"orig": 10447,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-02\\008.md",
+"hy4": 10447,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-02\\008.md",
+"qwen": 10773,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-02\\V2-008-CANDIDATE.md"
+},
+{
+"vol": 2,
+"ch": "009",
+"orig": 9601,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-02\\009.md",
+"hy4": 9601,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-02\\009.md",
+"qwen": 9941,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-02\\V2-009-CANDIDATE.md"
+},
+{
+"vol": 2,
+"ch": "010",
+"orig": 5982,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-02\\010.md",
+"hy4": 5982,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-02\\010.md",
+"qwen": 6368,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-02\\V2-010-CANDIDATE.md"
+},
+{
+"vol": 2,
+"ch": "011",
+"orig": 5492,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-02\\011.md",
+"hy4": 6227,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-02\\011.md",
+"qwen": 6696,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-02\\V2-011-CANDIDATE.md"
+},
+{
+"vol": 2,
+"ch": "012",
+"orig": 6982,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-02\\012.md",
+"hy4": 6982,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-02\\012.md",
+"qwen": 7379,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-02\\V2-012-CANDIDATE.md"
+},
+{
+"vol": 2,
+"ch": "013",
+"orig": 7574,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-02\\013.md",
+"hy4": 7574,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-02\\013.md",
+"qwen": 8025,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-02\\V2-013-CANDIDATE.md"
+},
+{
+"vol": 2,
+"ch": "014",
+"orig": 9053,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-02\\014.md",
+"hy4": 9053,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-02\\014.md",
+"qwen": 9566,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-02\\V2-014-CANDIDATE.md"
+},
+{
+"vol": 2,
+"ch": "015",
+"orig": 4947,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-02\\015.md",
+"hy4": 5566,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-02\\015.md",
+"qwen": 6048,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-02\\V2-015-CANDIDATE.md"
+},
+{
+"vol": 2,
+"ch": "016",
+"orig": 6808,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-02\\016.md",
+"hy4": 6808,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-02\\016.md",
+"qwen": 7196,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-02\\V2-016-CANDIDATE.md"
+},
+{
+"vol": 2,
+"ch": "017",
+"orig": 7704,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-02\\017.md",
+"hy4": 7704,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-02\\017.md",
+"qwen": 8181,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-02\\V2-017-CANDIDATE.md"
+},
+{
+"vol": 2,
+"ch": "018",
+"orig": 8960,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-02\\018.md",
+"hy4": 8960,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-02\\018.md",
+"qwen": 9357,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-02\\V2-018-CANDIDATE.md"
+},
+{
+"vol": 2,
+"ch": "019",
+"orig": 8001,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-02\\019.md",
+"hy4": 8001,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-02\\019.md",
+"qwen": 8707,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-02\\V2-019-CANDIDATE.md"
+},
+{
+"vol": 2,
+"ch": "020",
+"orig": 6185,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-02\\020.md",
+"hy4": 6185,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-02\\020.md",
+"qwen": 6621,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-02\\V2-020-CANDIDATE.md"
+},
+{
+"vol": 2,
+"ch": "021",
+"orig": 5935,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-02\\021.md",
+"hy4": 5935,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-02\\021.md",
+"qwen": 6284,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-02\\V2-021-CANDIDATE.md"
+},
+{
+"vol": 2,
+"ch": "022",
+"orig": 5823,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-02\\022.md",
+"hy4": 5823,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-02\\022.md",
+"qwen": 6267,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-02\\V2-022-CANDIDATE.md"
+},
+{
+"vol": 2,
+"ch": "023",
+"orig": 6736,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-02\\023.md",
+"hy4": 6736,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-02\\023.md",
+"qwen": 7253,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-02\\V2-023-CANDIDATE.md"
+},
+{
+"vol": 2,
+"ch": "024",
+"orig": 5784,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-02\\024.md",
+"hy4": 5784,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-02\\024.md",
+"qwen": 6237,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-02\\V2-024-CANDIDATE.md"
+},
+{
+"vol": 3,
+"ch": "001",
+"orig": 9028,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-03\\001.md",
+"hy4": 9028,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-03\\001.md",
+"qwen": 10697,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-03\\V3-001-CANDIDATE.md"
+},
+{
+"vol": 3,
+"ch": "002",
+"orig": 8270,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-03\\002.md",
+"hy4": 8275,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-03\\002.md",
+"qwen": 10942,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-03\\V3-002-CANDIDATE.md"
+},
+{
+"vol": 3,
+"ch": "003",
+"orig": 9780,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-03\\003.md",
+"hy4": 9780,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-03\\003.md",
+"qwen": 10909,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-03\\V3-003-CANDIDATE.md"
+},
+{
+"vol": 3,
+"ch": "004",
+"orig": 9041,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-03\\004.md",
+"hy4": 9041,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-03\\004.md",
+"qwen": 10424,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-03\\V3-004-CANDIDATE.md"
+},
+{
+"vol": 3,
+"ch": "005",
+"orig": 9005,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-03\\005.md",
+"hy4": 9005,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-03\\005.md",
+"qwen": 10108,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-03\\V3-005-CANDIDATE.md"
+},
+{
+"vol": 3,
+"ch": "006",
+"orig": 8187,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-03\\006.md",
+"hy4": 8187,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-03\\006.md",
+"qwen": 9477,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-03\\V3-006-CANDIDATE.md"
+},
+{
+"vol": 3,
+"ch": "007",
+"orig": 9530,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-03\\007.md",
+"hy4": 9530,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-03\\007.md",
+"qwen": 13316,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-03\\V3-007-CANDIDATE.md"
+},
+{
+"vol": 3,
+"ch": "008",
+"orig": 9000,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-03\\008.md",
+"hy4": 8932,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-03\\008.md",
+"qwen": 10603,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-03\\V3-008-CANDIDATE.md"
+},
+{
+"vol": 3,
+"ch": "009",
+"orig": 8473,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-03\\009.md",
+"hy4": 8473,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-03\\009.md",
+"qwen": 9758,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-03\\V3-009-CANDIDATE.md"
+},
+{
+"vol": 3,
+"ch": "010",
+"orig": 8200,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-03\\010.md",
+"hy4": 8200,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-03\\010.md",
+"qwen": 9652,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-03\\V3-010-CANDIDATE.md"
+},
+{
+"vol": 3,
+"ch": "011",
+"orig": 7910,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-03\\011.md",
+"hy4": 7910,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-03\\011.md",
+"qwen": 9227,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-03\\V3-011-CANDIDATE.md"
+},
+{
+"vol": 3,
+"ch": "012",
+"orig": 7605,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-03\\012.md",
+"hy4": 7605,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-03\\012.md",
+"qwen": 8950,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-03\\V3-012-CANDIDATE.md"
+},
+{
+"vol": 3,
+"ch": "013",
+"orig": 8001,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-03\\013.md",
+"hy4": 8001,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-03\\013.md",
+"qwen": 9385,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-03\\V3-013-CANDIDATE.md"
+},
+{
+"vol": 3,
+"ch": "014",
+"orig": 8259,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-03\\014.md",
+"hy4": 8259,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-03\\014.md",
+"qwen": 9460,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-03\\V3-014-CANDIDATE.md"
+},
+{
+"vol": 3,
+"ch": "015",
+"orig": 10224,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-03\\015.md",
+"hy4": 10224,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-03\\015.md",
+"qwen": 11404,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-03\\V3-015-CANDIDATE.md"
+},
+{
+"vol": 3,
+"ch": "016",
+"orig": 9714,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-03\\016.md",
+"hy4": 9714,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-03\\016.md",
+"qwen": 11181,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-03\\V3-016-CANDIDATE.md"
+},
+{
+"vol": 4,
+"ch": "001",
+"orig": 4993,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-04\\001.md",
+"hy4": 7003,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-04\\001.md",
+"qwen": 6258,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-04\\V4-001-CANDIDATE.md"
+},
+{
+"vol": 4,
+"ch": "002",
+"orig": 4237,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-04\\002.md",
+"hy4": 6242,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-04\\002.md",
+"qwen": 6844,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-04\\V4-002-CANDIDATE.md"
+},
+{
+"vol": 4,
+"ch": "003",
+"orig": 4413,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-04\\003.md",
+"hy4": 6412,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-04\\003.md",
+"qwen": 6635,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-04\\V4-003-CANDIDATE.md"
+},
+{
+"vol": 4,
+"ch": "004",
+"orig": 4876,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-04\\004.md",
+"hy4": 6830,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-04\\004.md",
+"qwen": 6499,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-04\\V4-004-CANDIDATE.md"
+},
+{
+"vol": 4,
+"ch": "005",
+"orig": 3403,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-04\\005.md",
+"hy4": 7973,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-04\\005.md",
+"qwen": 6594,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-04\\V4-005-CANDIDATE.md"
+},
+{
+"vol": 4,
+"ch": "006",
+"orig": 3115,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-04\\006.md",
+"hy4": 7435,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-04\\006.md",
+"qwen": 5279,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-04\\V4-006-CANDIDATE.md"
+},
+{
+"vol": 4,
+"ch": "007",
+"orig": 4171,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-04\\007.md",
+"hy4": 7253,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-04\\007.md",
+"qwen": 6304,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-04\\V4-007-CANDIDATE.md"
+},
+{
+"vol": 4,
+"ch": "008",
+"orig": 3968,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-04\\008.md",
+"hy4": 8600,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-04\\008.md",
+"qwen": 6399,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-04\\V4-008-CANDIDATE.md"
+},
+{
+"vol": 4,
+"ch": "009",
+"orig": 4221,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-04\\009.md",
+"hy4": 6555,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-04\\009.md",
+"qwen": 6654,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-04\\V4-009-CANDIDATE.md"
+},
+{
+"vol": 4,
+"ch": "010",
+"orig": 2805,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-04\\010.md",
+"hy4": 4861,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-04\\010.md",
+"qwen": 5016,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-04\\V4-010-CANDIDATE.md"
+},
+{
+"vol": 4,
+"ch": "011",
+"orig": 3452,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-04\\011.md",
+"hy4": 7973,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-04\\011.md",
+"qwen": 5505,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-04\\V4-011-CANDIDATE.md"
+},
+{
+"vol": 4,
+"ch": "012",
+"orig": 3582,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-04\\012.md",
+"hy4": 6837,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-04\\012.md",
+"qwen": 5291,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-04\\V4-012-CANDIDATE.md"
+},
+{
+"vol": 4,
+"ch": "013",
+"orig": 4715,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-04\\013.md",
+"hy4": 6620,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-04\\013.md",
+"qwen": 6239,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-04\\V4-013-CANDIDATE.md"
+},
+{
+"vol": 4,
+"ch": "014",
+"orig": 3803,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-04\\014.md",
+"hy4": 7473,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-04\\014.md",
+"qwen": 6155,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-04\\V4-014-CANDIDATE.md"
+},
+{
+"vol": 4,
+"ch": "015",
+"orig": 4949,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-04\\015.md",
+"hy4": 7195,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-04\\015.md",
+"qwen": 5711,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-04\\V4-015-CANDIDATE.md"
+},
+{
+"vol": 4,
+"ch": "016",
+"orig": 3616,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-04\\016.md",
+"hy4": 6906,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-04\\016.md",
+"qwen": 6023,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-04\\V4-016-CANDIDATE.md"
+},
+{
+"vol": 4,
+"ch": "017",
+"orig": 3322,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-04\\017.md",
+"hy4": 7045,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-04\\017.md",
+"qwen": 5566,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-04\\V4-017-CANDIDATE.md"
+},
+{
+"vol": 4,
+"ch": "018",
+"orig": 6595,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-04\\018.md",
+"hy4": 8608,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-04\\018.md",
+"qwen": 7604,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-04\\V4-018-CANDIDATE.md"
+},
+{
+"vol": 5,
+"ch": "001",
+"orig": 3982,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-05\\001.md",
+"hy4": 6218,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-05\\001.md",
+"qwen": 5268,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-05\\V5-001-CANDIDATE.md"
+},
+{
+"vol": 5,
+"ch": "002",
+"orig": 3534,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-05\\002.md",
+"hy4": 5982,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-05\\002.md",
+"qwen": 5416,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-05\\V5-002-CANDIDATE.md"
+},
+{
+"vol": 5,
+"ch": "003",
+"orig": 3871,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-05\\003.md",
+"hy4": 5992,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-05\\003.md",
+"qwen": 5896,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-05\\V5-003-CANDIDATE.md"
+},
+{
+"vol": 5,
+"ch": "004",
+"orig": 3466,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-05\\004.md",
+"hy4": 5948,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-05\\004.md",
+"qwen": 5268,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-05\\V5-004-CANDIDATE.md"
+},
+{
+"vol": 5,
+"ch": "005",
+"orig": 2733,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-05\\005.md",
+"hy4": 4817,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-05\\005.md",
+"qwen": 4994,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-05\\V5-005-CANDIDATE.md"
+},
+{
+"vol": 5,
+"ch": "006",
+"orig": 3819,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-05\\006.md",
+"hy4": 7348,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-05\\006.md",
+"qwen": 5818,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-05\\V5-006-CANDIDATE.md"
+},
+{
+"vol": 5,
+"ch": "007",
+"orig": 3534,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-05\\007.md",
+"hy4": 5982,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-05\\007.md",
+"qwen": 5476,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-05\\V5-007-CANDIDATE.md"
+},
+{
+"vol": 5,
+"ch": "008",
+"orig": 6331,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-05\\008.md",
+"hy4": 8256,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-05\\008.md",
+"qwen": 7381,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-05\\V5-008-CANDIDATE.md"
+},
+{
+"vol": 5,
+"ch": "009",
+"orig": 4275,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-05\\009.md",
+"hy4": 7841,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-05\\009.md",
+"qwen": 6720,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-05\\V5-009-CANDIDATE.md"
+},
+{
+"vol": 5,
+"ch": "010",
+"orig": 4846,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-05\\010.md",
+"hy4": 8369,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-05\\010.md",
+"qwen": 5612,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-05\\V5-010-CANDIDATE.md"
+},
+{
+"vol": 5,
+"ch": "011",
+"orig": 3793,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-05\\011.md",
+"hy4": 5796,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-05\\011.md",
+"qwen": 5767,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-05\\V5-011-CANDIDATE.md"
+},
+{
+"vol": 5,
+"ch": "012",
+"orig": 3772,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-05\\012.md",
+"hy4": 5853,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-05\\012.md",
+"qwen": 5490,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-05\\V5-012-CANDIDATE.md"
+},
+{
+"vol": 5,
+"ch": "013",
+"orig": 6416,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-05\\013.md",
+"hy4": 10005,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-05\\013.md",
+"qwen": 7126,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-05\\V5-013-CANDIDATE.md"
+},
+{
+"vol": 5,
+"ch": "014",
+"orig": 4820,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-05\\014.md",
+"hy4": 6954,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-05\\014.md",
+"qwen": 5769,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-05\\V5-014-CANDIDATE.md"
+},
+{
+"vol": 5,
+"ch": "015",
+"orig": 4839,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-05\\015.md",
+"hy4": 6855,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-05\\015.md",
+"qwen": 5624,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-05\\V5-015-CANDIDATE.md"
+},
+{
+"vol": 5,
+"ch": "016",
+"orig": 3666,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-05\\016.md",
+"hy4": 5687,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-05\\016.md",
+"qwen": 5315,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-05\\V5-016-CANDIDATE.md"
+},
+{
+"vol": 5,
+"ch": "017",
+"orig": 4168,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-05\\017.md",
+"hy4": 6394,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-05\\017.md",
+"qwen": 5912,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-05\\V5-017-CANDIDATE.md"
+},
+{
+"vol": 5,
+"ch": "018",
+"orig": 5514,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-05\\018.md",
+"hy4": 9237,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-05\\018.md",
+"qwen": 6372,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-05\\V5-018-CANDIDATE.md"
+},
+{
+"vol": 5,
+"ch": "019",
+"orig": 3606,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-05\\019.md",
+"hy4": 5613,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-05\\019.md",
+"qwen": 5495,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-05\\V5-019-CANDIDATE.md"
+},
+{
+"vol": 6,
+"ch": "001",
+"orig": 6001,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-06\\001.md",
+"hy4": 7723,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-06\\001.md",
+"qwen": 8206,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-06\\V6-001-CANDIDATE.md"
+},
+{
+"vol": 6,
+"ch": "002",
+"orig": 6004,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-06\\002.md",
+"hy4": 7623,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-06\\002.md",
+"qwen": 8123,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-06\\V6-002-CANDIDATE.md"
+},
+{
+"vol": 6,
+"ch": "003",
+"orig": 6009,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-06\\003.md",
+"hy4": 7312,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-06\\003.md",
+"qwen": 7801,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-06\\V6-003-CANDIDATE.md"
+},
+{
+"vol": 6,
+"ch": "004",
+"orig": 6108,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-06\\004.md",
+"hy4": 6121,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-06\\004.md",
+"qwen": 6695,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-06\\V6-004-CANDIDATE.md"
+},
+{
+"vol": 6,
+"ch": "005",
+"orig": 6953,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-06\\005.md",
+"hy4": 8721,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-06\\005.md",
+"qwen": 9103,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-06\\V6-005-CANDIDATE.md"
+},
+{
+"vol": 6,
+"ch": "006",
+"orig": 6532,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-06\\006.md",
+"hy4": 8539,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-06\\006.md",
+"qwen": 8921,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-06\\V6-006-CANDIDATE.md"
+},
+{
+"vol": 6,
+"ch": "007",
+"orig": 6354,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-06\\007.md",
+"hy4": 8388,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-06\\007.md",
+"qwen": 8854,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-06\\V6-007-CANDIDATE.md"
+},
+{
+"vol": 6,
+"ch": "008",
+"orig": 6206,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-06\\008.md",
+"hy4": 8684,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-06\\008.md",
+"qwen": 9282,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-06\\V6-008-CANDIDATE.md"
+},
+{
+"vol": 6,
+"ch": "009",
+"orig": 6420,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-06\\009.md",
+"hy4": 7640,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-06\\009.md",
+"qwen": 8171,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-06\\V6-009-CANDIDATE.md"
+},
+{
+"vol": 6,
+"ch": "010",
+"orig": 6431,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-06\\010.md",
+"hy4": 6423,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-06\\010.md",
+"qwen": 7074,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-06\\V6-010-CANDIDATE.md"
+},
+{
+"vol": 6,
+"ch": "011",
+"orig": 6466,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-06\\011.md",
+"hy4": 6467,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-06\\011.md",
+"qwen": 7123,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-06\\V6-011-CANDIDATE.md"
+},
+{
+"vol": 6,
+"ch": "012",
+"orig": 6272,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-06\\012.md",
+"hy4": 6249,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-06\\012.md",
+"qwen": 6858,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-06\\V6-012-CANDIDATE.md"
+},
+{
+"vol": 6,
+"ch": "013",
+"orig": 6316,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-06\\013.md",
+"hy4": 6316,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-06\\013.md",
+"qwen": 6695,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-06\\V6-013-CANDIDATE.md"
+},
+{
+"vol": 6,
+"ch": "014",
+"orig": 6288,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-06\\014.md",
+"hy4": 3881,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-06\\014.md",
+"qwen": 4877,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-06\\V6-014-CANDIDATE.md"
+},
+{
+"vol": 6,
+"ch": "015",
+"orig": 6375,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-06\\015.md",
+"hy4": 6376,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-06\\015.md",
+"qwen": 7203,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-06\\V6-015-CANDIDATE.md"
+},
+{
+"vol": 6,
+"ch": "016",
+"orig": 6210,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-06\\016.md",
+"hy4": 6211,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-06\\016.md",
+"qwen": 7203,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-06\\V6-016-CANDIDATE.md"
+},
+{
+"vol": 6,
+"ch": "017",
+"orig": 6181,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-06\\017.md",
+"hy4": 6187,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-06\\017.md",
+"qwen": 7078,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-06\\V6-017-CANDIDATE.md"
+},
+{
+"vol": 6,
+"ch": "018",
+"orig": 6280,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-06\\018.md",
+"hy4": 5387,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-06\\018.md",
+"qwen": 6244,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-06\\V6-018-CANDIDATE.md"
+},
+{
+"vol": 6,
+"ch": "019",
+"orig": 6213,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-06\\019.md",
+"hy4": 6158,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-06\\019.md",
+"qwen": 6868,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-06\\V6-019-CANDIDATE.md"
+},
+{
+"vol": 6,
+"ch": "020",
+"orig": 6681,
+"orig_path": "D:\\The Memory\\tmp\\ref-main\\manuscript\\volume-06\\020.md",
+"hy4": 6681,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\manuscript\\volume-06\\020.md",
+"qwen": 7727,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-06\\V6-020-CANDIDATE.md"
+},
+{
+"vol": 7,
+"ch": "001",
+"orig": 4038,
+"orig_path": "D:\\The Memory\\tmp\\ref-v7\\manuscript\\volume-07\\001.md",
+"hy4": 5840,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\work\\m09\\volume-07\\001.md",
+"qwen": 6095,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-07\\V7-001-CANDIDATE.md"
+},
+{
+"vol": 7,
+"ch": "002",
+"orig": 4241,
+"orig_path": "D:\\The Memory\\tmp\\ref-v7\\manuscript\\volume-07\\002.md",
+"hy4": 6253,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\work\\m09\\volume-07\\002.md",
+"qwen": 6160,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-07\\V7-002-CANDIDATE.md"
+},
+{
+"vol": 7,
+"ch": "003",
+"orig": 4520,
+"orig_path": "D:\\The Memory\\tmp\\ref-v7\\manuscript\\volume-07\\003.md",
+"hy4": 6569,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\work\\m09\\volume-07\\003.md",
+"qwen": 6361,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-07\\V7-003-CANDIDATE.md"
+},
+{
+"vol": 7,
+"ch": "004",
+"orig": 4766,
+"orig_path": "D:\\The Memory\\tmp\\ref-v7\\manuscript\\volume-07\\004.md",
+"hy4": 6322,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\work\\m09\\volume-07\\004.md",
+"qwen": 5729,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-07\\V7-004-CANDIDATE.md"
+},
+{
+"vol": 7,
+"ch": "005",
+"orig": 4482,
+"orig_path": "D:\\The Memory\\tmp\\ref-v7\\manuscript\\volume-07\\005.md",
+"hy4": 6512,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\work\\m09\\volume-07\\005.md",
+"qwen": 5390,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-07\\V7-005-CANDIDATE.md"
+},
+{
+"vol": 7,
+"ch": "006",
+"orig": 4161,
+"orig_path": "D:\\The Memory\\tmp\\ref-v7\\manuscript\\volume-07\\006.md",
+"hy4": 5007,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\work\\m09\\volume-07\\006.md",
+"qwen": 6093,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-07\\V7-006-CANDIDATE.md"
+},
+{
+"vol": 7,
+"ch": "007",
+"orig": 4032,
+"orig_path": "D:\\The Memory\\tmp\\ref-v7\\manuscript\\volume-07\\007.md",
+"hy4": 6033,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\work\\m09\\volume-07\\007.md",
+"qwen": 6548,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-07\\V7-007-CANDIDATE.md"
+},
+{
+"vol": 7,
+"ch": "008",
+"orig": 4475,
+"orig_path": "D:\\The Memory\\tmp\\ref-v7\\manuscript\\volume-07\\008.md",
+"hy4": 6483,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\work\\m09\\volume-07\\008.md",
+"qwen": 6185,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-07\\V7-008-CANDIDATE.md"
+},
+{
+"vol": 7,
+"ch": "009",
+"orig": 3874,
+"orig_path": "D:\\The Memory\\tmp\\ref-v7\\manuscript\\volume-07\\009.md",
+"hy4": 3874,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\work\\m09\\volume-07\\009.md",
+"qwen": 6167,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-07\\V7-009-CANDIDATE.md"
+},
+{
+"vol": 7,
+"ch": "010",
+"orig": 4566,
+"orig_path": "D:\\The Memory\\tmp\\ref-v7\\manuscript\\volume-07\\010.md",
+"hy4": 6070,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\work\\m09\\volume-07\\010.md",
+"qwen": 5447,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-07\\V7-010-CANDIDATE.md"
+},
+{
+"vol": 7,
+"ch": "011",
+"orig": 4292,
+"orig_path": "D:\\The Memory\\tmp\\ref-v7\\manuscript\\volume-07\\011.md",
+"hy4": 4297,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\work\\m09\\volume-07\\011.md",
+"qwen": 6793,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-07\\V7-011-CANDIDATE.md"
+},
+{
+"vol": 7,
+"ch": "012",
+"orig": 4697,
+"orig_path": "D:\\The Memory\\tmp\\ref-v7\\manuscript\\volume-07\\012.md",
+"hy4": 6704,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\work\\m09\\volume-07\\012.md",
+"qwen": 5532,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-07\\V7-012-CANDIDATE.md"
+},
+{
+"vol": 7,
+"ch": "013",
+"orig": 4225,
+"orig_path": "D:\\The Memory\\tmp\\ref-v7\\manuscript\\volume-07\\013.md",
+"hy4": 5599,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\work\\m09\\volume-07\\013.md",
+"qwen": 6700,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-07\\V7-013-CANDIDATE.md"
+},
+{
+"vol": 7,
+"ch": "014",
+"orig": 5470,
+"orig_path": "D:\\The Memory\\tmp\\ref-v7\\manuscript\\volume-07\\014.md",
+"hy4": 5497,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\work\\m09\\volume-07\\014.md",
+"qwen": 6422,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-07\\V7-014-CANDIDATE.md"
+},
+{
+"vol": 7,
+"ch": "015",
+"orig": 5788,
+"orig_path": "D:\\The Memory\\tmp\\ref-v7\\manuscript\\volume-07\\015.md",
+"hy4": 5801,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\work\\m09\\volume-07\\015.md",
+"qwen": 6539,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-07\\V7-015-CANDIDATE.md"
+},
+{
+"vol": 7,
+"ch": "016",
+"orig": 4507,
+"orig_path": "D:\\The Memory\\tmp\\ref-v7\\manuscript\\volume-07\\016.md",
+"hy4": 4507,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\work\\m09\\volume-07\\016.md",
+"qwen": 5345,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-07\\V7-016-CANDIDATE.md"
+},
+{
+"vol": 7,
+"ch": "017",
+"orig": 4923,
+"orig_path": "D:\\The Memory\\tmp\\ref-v7\\manuscript\\volume-07\\017.md",
+"hy4": 4923,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\work\\m09\\volume-07\\017.md",
+"qwen": 5859,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-07\\V7-017-CANDIDATE.md"
+},
+{
+"vol": 7,
+"ch": "018",
+"orig": 5312,
+"orig_path": "D:\\The Memory\\tmp\\ref-v7\\manuscript\\volume-07\\018.md",
+"hy4": 6837,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\work\\m09\\volume-07\\018.md",
+"qwen": 6305,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-07\\V7-018-CANDIDATE.md"
+},
+{
+"vol": 7,
+"ch": "019",
+"orig": 5481,
+"orig_path": "D:\\The Memory\\tmp\\ref-v7\\manuscript\\volume-07\\019.md",
+"hy4": 5481,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\work\\m09\\volume-07\\019.md",
+"qwen": 6340,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-07\\V7-019-CANDIDATE.md"
+},
+{
+"vol": 7,
+"ch": "020",
+"orig": 5252,
+"orig_path": "D:\\The Memory\\tmp\\ref-v7\\manuscript\\volume-07\\020.md",
+"hy4": 5252,
+"hy4_path": "D:\\The Memory\\tmp\\reading-notes-review\\work\\m09\\volume-07\\020.md",
+"qwen": 6095,
+"qwen_path": "D:\\The Memory\\tmp\\ds-batch1\\editorial\\literary-revision\\qwen-max\\volume-07\\V7-020-CANDIDATE.md"
+}
+]
