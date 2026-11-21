@@ -1,0 +1,85 @@
+﻿issue_id	问题	首见出处	末见出处	涉及章	现状	证据	备注
+A01	02章提前泄露赵朝后门回望	editorial/volume02/reviews/2026-11-08-ch01-ch03-r3-close-reading-and-ch03-first-draft-audit.md:29	同左	II-02/03	已修	manuscript/volume-02/002.md:87 只留后门进入与未去问	知情锁
+A02	字数口径混用（文件字符/正文字符）	editorial/volume02/reviews/2026-11-08-ch01-ch02-r2-deep-revision-fact-and-style-audit.md:7-17	同左	II-01/02	已修	后续统一 scripts/hanzi_count.py	多卷仍多套数字
+A03	王麒皓工具人	editorial/volume02/reviews/2026-11-08-ch01-ch03-r3-close-reading-and-ch03-first-draft-audit.md:16	editorial/volume02/reviews/2026-11-08-ch01-ch05-final-continuous-read-main-merge-acceptance.md:19	II-02/03/05	已修	003.md 现7252字	补独立考试与旧谊
+A04	05章整张复述525床位与夜戏	editorial/volume02/reviews/2026-11-08-ch01-ch05-cross-volume-continuity-r4-r2-audit.md:33	同左	II-05	已修	005.md 现6221字	只留借来的床
+A05	正式寝室425/426	editorial/volume02/reviews/2026-11-08-ch01-ch02-r2-deep-revision-fact-and-style-audit.md:46	manuscript/volume-02/021.md	II-18/21	已修；425已证伪	021.md:3-11 写成记忆纠错；018.md:33 用426；事实仓宋俊豪.md:45	作者2026-09-12确认426
+A06	吴筱丹/伍筱丹异写	editorial/volume02/reviews/2026-11-08-ch01-ch02-r2-deep-revision-fact-and-style-audit.md:46	同左	II-03	已修	003.md 统一伍筱丹	规范名
+A07	04三餐含母亲未审阅轶事	editorial/volume02/reviews/2026-11-08-ch04-sancan-r1-private-draft-and-consent-gate.md:12-14	同文件:30-31	II-04	文本已处理；授权未闭环	公开版删两则轶事	母亲独立授权未取
+A08	双开篇推荐A（二班先行）	editorial/volume02/experiments/2026-11-08-dual-opening-controlled-reading-and-audit.md:94-100	editorial/volume02/experiments/2026-11-08-photo-grounded-b2-opening-decision-and-audit.md:3	II-01/02	已否决	作者选B2	旧结论只作过程
+A09	旧排序文档01=二班	editorial/volume02/2026-11-08-24chapter-aesthetic-revelation-and-audio-map.md:31-33	同左	II-01-04	文档失效未标废	同目录B2 order文件:3已声明替代	低危但会撞车
+B01	011仅4444字单线	editorial/volume03/r1-structure-report.md:32	editorial/volume03/2026-11-13-r3-final-review-and-merge-acceptance.md:29	III-11	已修	011.md 现7916字	四段齐全
+B02	012第97/105行同句重复	editorial/volume03/r1-structure-report.md:91	editorial/volume03/r4-final-read.md:23	III-12	已修	全章仅一处	—
+B03	015缺年份锚	editorial/volume03/r1-structure-report.md:92	editorial/volume03/r4-final-read.md:24	III-15	已修	015.md:3 2016年8月八岁三年级读完	—
+B04	009与V2-008逐字重复	editorial/volume03/r1-structure-report.md:93	editorial/volume03/r4-final-read.md:25	III-09	已修	“第一排第一个”0次	—
+B05	013重复介绍小卖部规矩	editorial/volume03/r1-structure-report.md:94	editorial/volume03/r4-final-read.md:26	III-13	已修	改为“是另一家后来关了”	—
+B06	008到009倒跳无时间锚	editorial/volume03/r1-structure-report.md:95	editorial/volume03/r4-final-read.md:27	III-09	部分修	009.md:5-7 锚在第三段	章首仍是体育课
+B07	003全章独处无对手戏	editorial/volume03/r1-structure-report.md:96	editorial/volume03/r4-final-read.md:28	III-03	已修	003.md 9784字，隔门听电话	—
+B08	015/016零引号对话体例不一	editorial/volume03/r1-structure-report.md:97	editorial/volume03/r4-final-read.md:29	III-15/16	仍在	016.md 仅两个单词引号	毕业告别仍全转述
+B09	010引语嵌套不通	editorial/volume03/r1-structure-report.md:98	editorial/volume03/r4-final-read.md:30	III-10	已修（R4报告失效）	原句0次	整章已重写
+B10	012越界写初中段	editorial/volume03/r1-structure-report.md:99	editorial/volume03/r4-final-read.md:31	III-12	已修（R4报告失效）	012.md 初中0次	—
+B11	010章末成年总结	editorial/volume03/r1-structure-report.md:100	editorial/volume03/r4-final-read.md:32	III-10	已修（R4报告失效）	结尾改为轮流打扫与端盆	—
+B12	004七年时间断层	editorial/volume03/r1-structure-report.md:101	editorial/volume03/r4-final-read.md:33	III-04	部分修	改“我爸回来的那一年”	仍无锚
+B13	007举手对话偏离主题	editorial/volume03/r1-structure-report.md:102	editorial/volume03/r4-final-read.md:34	III-07	仍在（弱化）	007.md:321	已接母亲红肿眼
+B14	002结尾叠两个时间层	editorial/volume03/r1-structure-report.md:103	editorial/volume03/r4-final-read.md:35	III-02	已修	收在阳台用奶奶腔调叫名字	—
+B15	第三幕命题偏移14应前移	editorial/volume03/r1-structure-report.md:104	editorial/volume03/r4-final-read.md:36	III-09-12/14	未采纳	章序未变	设计选择非错误
+B16	010两版草稿拼接	editorial/volume03/r2-language-report.md:102-112	editorial/volume03/r4b-language-check.md:12-40	III-10	已修	全库机检段重复0句重复0	—
+B17	011二次叙述时序错位那本书悬空	editorial/volume03/r2-language-report.md:114-121	editorial/volume03/r4b-language-check.md:88-101	III-11	已修	机检0；那本书0次	—
+B18	012母亲读作文三个版本	editorial/volume03/r2-language-report.md:123-131	editorial/volume03/r4b-language-check.md:100	III-12	已修	机检0	—
+B19	013章末三连不知道	editorial/volume03/r2-language-report.md:72	editorial/volume03/r4b-language-check.md:81	III-13	仍在	013.md结尾仍三连不知道	金句化
+B20	009五组段落七句重复	editorial/volume03/r2-language-report.md:135	editorial/volume03/r4b-language-check.md:101	III-09	已修	notes_009.md:39-43 机检0	—
+B21	011李老师长篇训话	editorial/volume03/r3b-rights-report.md:11	editorial/volume03/2026-11-13-r3-final-review-and-merge-acceptance.md:29	III-11	已修	011.md:174/196 全间接	仅留“明天带来”
+B22	016父亲从安化赶回来	editorial/volume03/r3-fact-continuity.md:53	editorial/volume03/2026-11-13-r3-final-review-and-merge-acceptance.md:34	III-16	已修	改“从单位赶回来”	2016-10已回市区
+B23	001 2007年已在电信无据	editorial/volume03/r3-fact-continuity.md:55	editorial/volume03/notes_001.md:77-81	III-01	已修	改“在安化上班跑乡镇”	—
+B24	015沈阳酒店名无据	editorial/volume03/r3-fact-continuity.md:56	editorial/volume03/notes_015.md:10	III-15	已修	只写“一家酒店”	—
+B25	009王培森当众要求换座	editorial/volume03/r3-fact-continuity.md:67	editorial/volume03/notes_007.md:35	III-09	已修	改老师直接调座	—
+B26	008教师批语好好读书编造	editorial/volume03/r3-fact-continuity.md:66	editorial/volume03/notes_007.md:34	III-08	已修	改本子上只有一个圈	—
+B27	008整章86班春游无直接记录	editorial/volume03/notes_008.md:4-7	editorial/volume03/gpt6-round2-independent-literary-review-20261113.md:63	III-08	仍在（事实门槛）	全章维持文学复合	作者未裁决
+B28	011丢钱事件无据且同学可反推	editorial/volume03/notes_011.md:3-6	editorial/volume03/gpt6-independent-final-review-20261113.md:76	III-11	仍在（CRITICAL）	正文仍在具体班级	须作者裁决
+B29	001母亲生产细节与代写内心	editorial/volume03/r3b-rights-report.md:9	editorial/volume03/notes_001.md:56-70	III-01	部分修（HIGH）	删“怕位置被替”	生产产房仍在
+B30	005奶奶早年履历无载	editorial/volume03/r3-fact-continuity.md:68	editorial/volume03/2026-11-13-r3-final-review-and-merge-acceptance.md:24	III-05	已修	压成一句	—
+B31	016向睿馨哭与罗老师台词	editorial/volume03/r3b-rights-report.md:58-59	editorial/volume03/source-and-reconstruction-ledger.md:26	III-16	已修	改“别跟别人说”；罗无台词	—
+B32	014向睿馨对质与身体接触	editorial/volume03/r3b-rights-report.md:54-55	editorial/volume03/gpt6-round2-independent-literary-review-20261113.md:25	III-14	已修	气哭0次；手心汗改裁纸	—
+B33	010值周生称三班	editorial/volume03/gpt6-round2-independent-literary-review-20261113.md:22	manuscript/volume-03/010.md:688	III-10	已修	现“八十六班”	—
+B34	R4报告状态被后续改稿覆盖	editorial/volume03/r4-final-read.md:30-32	同左	III-10/12	报告失效	B09-B11已修仍标OPEN	版本漂移
+C01	004/009都写不敢举手	editorial/volume04/2026-11-13-r3-full18-literary-continuity-audit.md:39	editorial/volume04/2026-11-13-r6-structural-refinement-audit.md:58	IV-04/09	仍在	两章并存	只靠网课媒介差区分
+C02	005/011寝室与015探望重复	editorial/volume04/2026-11-13-r3-full18-literary-continuity-audit.md:39	editorial/volume04/2026-11-13-r7-final-review-main-merge-acceptance.md:12	IV-05/11/15	部分修	R6删005月假；R7给011后效	—
+C03	001/016都写2022家书	editorial/volume04/2026-11-13-r4-full18-structural-revision-audit.md:7	editorial/volume04/2026-11-13-r7-final-review-main-merge-acceptance.md:14	IV-01/16	已修	016改家务看火	—
+C04	007/008都靠抬横幅	editorial/volume04/2026-11-13-r7-final-review-main-merge-acceptance.md:9-10	同左	IV-07/08	已修	删008抬横幅	—
+C05	010过短是否独立成章	editorial/volume04/2026-11-13-r5-third-deep-editorial-review.md:34	editorial/volume05-deep-20261114/thickening-plan.md:17	IV-10	仍在	现2811字全卷最短	R7保留
+C06	012正文写“下一章”元话语	editorial/volume06/2026-11-14-gpt6-r5-independent-structural-audit.md:14	同文件:32	IV-12	已修	现无“下一章”	—
+C07	014写裙子董佳好无记录	editorial/volume04/2026-11-13-r2-ch007-012-literary-review.md:22	同左	IV-14	已修	删裙子改侧场输球	—
+C08	018重复签名	editorial/volume04/2026-11-13-r5-third-deep-editorial-review.md:25	editorial/volume04/2026-11-13-r7-final-review-main-merge-acceptance.md:14	IV-18	已修	只签一次	—
+C09	017毕业照月份不能锁定	editorial/volume04/2026-11-13-r3-full18-literary-continuity-audit.md:26	editorial/volume04/2026-11-13-r7-final-review-main-merge-acceptance.md:26	IV-17	未裁决（改模糊）	改“临近毕业的那阵子”	—
+C10	朱学良Q4/Q5权益	editorial/volume04/2026-11-13-r3-full18-literary-continuity-audit.md:29	editorial/volume04/2026-11-13-r7-final-review-main-merge-acceptance.md:31	IV全卷	未决（出版门槛）	文本已避	本人核阅未完成
+C11	2026问卷声部过密	editorial/volume04/2026-11-13-r5-third-deep-editorial-review.md:35	editorial/volume04/2026-11-13-r6-structural-refinement-audit.md:59	IV-07/09/10/14/17/18	仍在	“他回答我领悟”模板	系统性
+C12	全卷71325字远低于14万	editorial/volume04/2026-11-13-r3-full18-literary-continuity-audit.md:38	editorial/volume04/2026-11-13-r7-final-review-main-merge-acceptance.md:22	IV全卷	仍在（结构性）	均章3962对前三部7514	—
+D01	002-005薄且共用讲—打断模板	editorial/volume05/2026-11-13-r4-elevenchapter-audit.md:12	editorial/volume05/2026-11-14-gpt6-r1-independent-full19-review.md:11	V-002-005	部分修	002/003/004换结尾；005仍2741	—
+D02	想说—被挡住—话没出去五章共用	editorial/volume05-deep-20261114/014-vs-018-not-same-shape.md:17-23	同左	V-002/003/004/014/018	已修	笔帽、折软纸角、反向接半个音、讲错对象	—
+D03	014与018结构同型	editorial/volume05/2026-11-13-r6-hy4-independent-review.md:9	editorial/volume05-deep-20261114/014-vs-018-not-same-shape.md:3	V-014/018	已否决（只对一半）	014接受无答案018抢功被忽略	真病灶是D02
+D04	013/015/019旅行重复	editorial/volume05/2026-11-13-r6-hy4-independent-review.md:8	editorial/volume05-deep-20261114/013-015-019-travel-not-repeat.md:3	V-013/015/019	已否决	三时点三语气	删019属压缩景点
+D05	003与阳松公开辩论无据	editorial/volume05/2026-11-13-r3-sevenchapter-literary-audit.md:19	editorial/volume05/2026-11-14-gpt6-r1-independent-full19-review.md:19	V-003	仍在（复合边界）	R6只改落点	出版前须裁
+D06	009/003同型制定规则证明链	editorial/volume05/2026-11-14-gpt6-r1-independent-full19-review.md:11	同文件:25	V-003/009	仍在	GPT6建议合并未执行	—
+D07	018密室机关高密度复合	editorial/volume05/2026-11-13-r5-full19-literary-audit.md:26	editorial/volume05/2026-11-13-r6-structural-expansion-audit.md:41	V-018	未核	仅“参与过”有锚	需真人核阅
+D08	011把李博涵高二上同桌延伸到高二下	editorial/volume05/2026-11-13-r5-full19-literary-audit.md:19	editorial/volume05/2026-11-13-r6-structural-expansion-audit.md:39	V-011	已修	明确不延续	—
+E01	R1靠“我开始讲别人叫我停”收束	editorial/volume06/r1-full-manuscript-review.md:7	editorial/volume06/r2-literary-revision.md:6	VI全卷	部分修	R2改12章	R4后又增解释
+E02	R4为6000字机械扩写	editorial/volume06/2026-11-14-gpt6-r5-independent-structural-audit.md:9-20	同文件:41	VI全卷	未落地（main仍用R4）	现全卷126088≈R4	Gpt6删至102286未合入
+E03	005反复纠正学习之星不等于第一	editorial/volume06/2026-11-14-gpt6-r5-independent-structural-audit.md:11	manuscript/volume-06/005.md:81-114	VI-05	仍在	“学习之星”14行	语义重复
+E04	020七人轮流讲人生道理	editorial/volume06/2026-11-14-gpt6-r5-independent-structural-audit.md:16	同文件:32	VI-20	部分修（未合并）	R5重写2081字；现行6688	—
+E05	83与班级第一学习之星混淆	editorial/volume06/r4-thickening-report.md:13-14	editorial/volume06/2026-11-14-gpt6-r5-independent-structural-audit.md:11	VI-05/06	已区分	005.md:5/81 奖状只写学习之星	—
+E06	董佳好下看台检录记忆挪到赵问竹	editorial/volume06/narrative-clocks.md:14	editorial/volume06/reconstruction-ledger.md:29	VI-14	已修	赵改隔围栏看；董记忆归董	—
+E07	毕业典礼与6/8考试冲突	editorial/volume06/reconstruction-ledger.md:76-78	同左	VI-18	不裁决（正确处理）	只写餐馆与出租屋	—
+E08	宋俊豪实名授权未决	editorial/volume06/2026-11-14-gpt6-r5-1-source-led-scenes-and-crosschapter-audit.md:34	同左	VI-10/20	未决（权益门槛）	正文仍实名	首份问卷要化名
+E09	刘逸凡刘弈帆刘一帆混淆	editorial/volume06/2026-11-14-gpt6-r5-1-source-led-scenes-and-crosschapter-audit.md:57	同左	VI-12	已澄清（仍有第四写法）	三人不同；426表写刘一帆	命名未对齐
+F04	2016大连并入东北内蒙连段	editorial/fact_cards/2026-10-31-未读-订正与索引.md:130	editorial/volume03/bible.md:19	III-15	旧判断已废；bible仍含糊	事实仓母亲QQ相册:104 已定独立行程	bible写自驾经烟台蓬莱
+F06	2024年7月沪浙当作高考后	editorial/fact_cards/2026-10-31-未读-订正与索引.md:133	同左	V-013/015/019	旧判断已废	2024-07是高二下暑假	高考2025-06
+F07	phase1把第二部报到写成2024-08-27	editorial/phase1-full/source-ledger.md:24	manuscript/volume-02/005.md:45	II-05	报告错误	正文八月二十七日也是星期天=2023	正文无误
+G01	书名旧新冲突	editorial/fact_cards/2026-10-31-未读-订正与索引.md:43-45	editorial/final-readiness/_SCOPE.md	全书	层级落后	正式名时间的复数人称	旧名只作版本史
+G02	83旧解释与口述冲突	editorial/volume06/reading-inventory.md:26	editorial/volume06/reconstruction-ledger.md:24	VI-06	旧判断被口述取代	—	—
+G03	相声日期仓内矛盾	editorial/fact_cards/2026-10-31-未读-订正与索引.md:270	高中/2025届/人物/学生/董佳好.md:70,191	跨卷	未清理	—	—
+G04	物理竞赛省二主语缺失	editorial/fact_cards/2026-10-31-缺口台账后半.md:65	editorial/fact_cards/2026-10-31-未读-订正与索引.md:204	跨卷	卡片歧义	曾子沣物竞省二为自述	补主语
+G05	大连交通表述	editorial/volume03/bible.md:19	家庭/素材/母亲QQ相册时间线-2011至2026.md:104	III-15	表述不严谨正文已规避	蓬莱到大连需过海	改“过海至大连”
+G06	678分出处两说	editorial/fact_cards/2026-10-31-审美与私密索引.md:61	editorial/phase1-full/source-ledger.md:9	I-04	不一致	卡片记678，phase1称无出处页	复核
+G07	王培森86班歧义	editorial/fact_cards/2026-10-31-缺口台账后半.md:53	editorial/volume03/bible.md:21	III-09	卡片保守bible断言	—	—
+G08	426床位表第三人名	高中/2025届/人物/学生/宋俊豪.md:174	editorial/volume06/2026-11-14-gpt6-r5-1-source-led-scenes-and-crosschapter-audit.md:57	VI-12	命名未对齐	3号写刘一帆	确认异写或第四人
+G09	六部题与七部结构	editorial/fact_cards/2026-10-31-未读-订正与索引.md:45	editorial/final-readiness/_SCOPE.md	全书	旧设计层	—	—

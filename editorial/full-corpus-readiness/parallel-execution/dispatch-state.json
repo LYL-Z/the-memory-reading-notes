@@ -1,0 +1,58 @@
+{
+ "round": 4,
+ "baseline": "16c58fe",
+ "chapters": {
+  "registered": 135,
+  "total": 135,
+  "registered_pct": 100.0,
+  "hanzi_total": 825901,
+  "hanzi_by_volume": {
+   "V1": 138952,
+   "V2": 172099,
+   "V3": 140227,
+   "V4": 74236,
+   "V5": 80985,
+   "V6": 126300,
+   "V7": 93102
+  },
+  "reading_coverage_by_hanzi_pct": 100.0,
+  "integrity_strong_evidence": 126,
+  "integrity_pct": 93.3,
+  "integrity_note": "126/135 强证据（range覆盖末行22+档案末行号45+章末引文92，去重）；另9章仅自述",
+  "semantic_qc": "6/6（3直接+3回修后）"
+ },
+ "ledger": {
+  "read_records": 228,
+  "chapters": 135,
+  "fact_repo": 83,
+  "other_docs": 10
+ },
+ "contradictions": 165,
+ "stats_corrections": {
+  "retired": "hanzi 92.8% —— 分子漏 V7 13 章（59,324）",
+  "source_of_698965": "read_range 括号内自报值，正则命中113条，113/113与实算相等",
+  "source_of_126936": "减法残差，但22章实算恰好等于它",
+  "identity": "698965+126936=825901 是恒等式"
+ },
+ "methodology_lessons": [
+  "T037 三行小计全错（A 18,316→28,159／B 40,033→37,835／C 8,165→6,775）但逐项33/33全对、合计对——三错部分抵消，只核总数查不出",
+  "T037 用原始CJK口径（含frontmatter/标题），官口径仅63,502（-12.7%）；T030/T038 为官口径 → stage_B 与 stage_C 不同量纲，不可加",
+  "read_range 两种格式混用导致覆盖率误算；reading-progress.tsv 777行列错位，hanzi列全空"
+ ],
+ "pending": [
+  "A03",
+  "A05",
+  "A06",
+  "A11",
+  "A12",
+  "A13"
+ ],
+ "delivered": [
+  "A01",
+  "A02",
+  "A04",
+  "A07",
+  "A08(A09,A10 已交)"
+ ],
+ "note": "session limit reached"
+}

@@ -1,0 +1,121 @@
+file	体量KB	读毕行数	类型	含实质主张	备注
+research/grok-onboarding/character-dynamics.md	13.0	88	研究	Y	人物冲突并列表；含 2026-09-16 用户确认层（赵知道/曾喜欢）
+research/grok-onboarding/four-volume-editorial-risks.md	6.6	81	研究	Y	九项风险按 A/B/C 分级；明确「本轮不改正文」
+research/grok-onboarding/literary-research.md	10.6	110	研究	Y	八家作家+诺兰，五问式取用（解决什么/为何有效/用在哪/何时有害/变成自己的语言）；末节列不采用做法
+research/grok-onboarding/michael-study.md	5.7	58	研究	N	外部人物研究；只取一般方法，明确禁止搬句子
+research/grok-onboarding/model-collaboration.md	2.3	45	状态	N	只有 Grok 4.7；Opus NOT_RUN；交叉评议 NOT_RUN
+research/grok-onboarding/narrative-clocks.md	7.6	70	研究	Y	三重时间定义、不可靠五分法、章型分流；全书级结构主张
+research/grok-onboarding/next-phase-handoff.md	5.3	55	状态	Y	版本 SHA、覆盖清单、作者要求、下一步顺序
+research/grok-onboarding/project-understanding.md	5.6	39	研究	Y	全书命题+权威顺序（作者裁决晚于知识库首页）
+research/grok-onboarding/prose-and-ai-patterns.md	9.3	112	研究	Y	12 条散文/AI 痕迹诊断；引 2026-11-13 作者字数裁决
+research/grok-onboarding/reading-coverage.md	7.6	88	状态	Y	76 章字数核验、FULL/PARTIAL/METADATA 计数、G1-G10
+research/grok-onboarding/review-round-comparison.md	12.0	96	研究	Y	审稿轮次与既有判断的同向/冲突对照；自报未读清单
+research/grok-onboarding/volumes-01-to-04-reading.md	11.0	76	研究	Y	逐部判断；第一部最完整、第四部短而密
+research/grok-onboarding/chapter-cards/README.md	0.5	6	索引	N	76 章卡说明：14 项/章；未读段不写判断
+research/grok-onboarding/chapter-cards/volume-01/001.md	2.1	19	章卡	局部	Ⅰ-001《左边的位置》；14 项；13=书架解释稍满
+research/grok-onboarding/chapter-cards/volume-01/002.md	2.1	19	章卡	局部	Ⅰ-002《晚饭后的桌子》；14 项；13=固定收束雏形
+research/grok-onboarding/chapter-cards/volume-01/003.md	1.9	19	章卡	局部	Ⅰ-003《525》；14 项；13=章末预告偏目录式
+research/grok-onboarding/chapter-cards/volume-01/004.md	1.8	19	章卡	局部	Ⅰ-004《月考之后》；14 项；13=章末解释偏长
+research/grok-onboarding/chapter-cards/volume-01/005.md	1.5	19	章卡	局部	Ⅰ-005《盒饭》；14 项；13=「再坚持一下」稍总结
+research/grok-onboarding/chapter-cards/volume-01/006.md	1.8	19	章卡	局部	Ⅰ-006《一只福袋》；14 项；13=收束安静，不删
+research/grok-onboarding/chapter-cards/volume-01/007.md	1.8	19	章卡	局部	Ⅰ-007《答案放在桌上》；14 项；13=参数过程略展示
+research/grok-onboarding/chapter-cards/volume-01/008.md	1.7	19	章卡	局部	Ⅰ-008《两周》；14 项；13=「手放哪儿」重复
+research/grok-onboarding/chapter-cards/volume-01/009.md	1.9	19	章卡	局部	Ⅰ-009《讲台两侧》；14 项；13=父亲问卷抢篇幅
+research/grok-onboarding/chapter-cards/volume-01/010.md	1.5	19	章卡	局部	Ⅰ-010《那个零》；14 项；13=短章，重复即内容
+research/grok-onboarding/chapter-cards/volume-01/011.md	1.8	19	章卡	局部	Ⅰ-011《竞赛班门口》；14 项；13=2026 程序段位置可议
+research/grok-onboarding/chapter-cards/volume-01/012.md	1.5	19	章卡	局部	Ⅰ-012《橘子洲》；14 项；13=一句解释可留
+research/grok-onboarding/chapter-cards/volume-01/013.md	1.6	19	章卡	局部	Ⅰ-013《婚礼进行曲》；14 项；13=略满但具体
+research/grok-onboarding/chapter-cards/volume-01/014.md	1.7	19	章卡	局部	Ⅰ-014《勇敢一点》；14 项；13=排练长度合法
+research/grok-onboarding/chapter-cards/volume-01/015.md	1.6	19	章卡	局部	Ⅰ-015《陈喜在门口》；14 项；13=525 复述略重复
+research/grok-onboarding/chapter-cards/volume-01/016.md	1.6	19	章卡	局部	Ⅰ-016《小红帽》；14 项；13=干净章
+research/grok-onboarding/chapter-cards/volume-01/017.md	1.6	19	章卡	局部	Ⅰ-017《竹林杯》；14 项；13=排练长但有物
+research/grok-onboarding/chapter-cards/volume-01/018.md	1.8	19	章卡	局部	Ⅰ-018《历史课》；14 项；13=三节分法清楚
+research/grok-onboarding/chapter-cards/volume-02/001.md	1.8	19	章卡	局部	Ⅱ-001《一个人的客厅》；14 项；13=稍有说明文味
+research/grok-onboarding/chapter-cards/volume-02/002.md	1.6	19	章卡	局部	Ⅱ-002《二班》；14 项；13=自省长句可忍
+research/grok-onboarding/chapter-cards/volume-02/003.md	1.6	19	章卡	局部	Ⅱ-003《后门》；14 项；13=分寸可以
+research/grok-onboarding/chapter-cards/volume-02/004.md	1.8	19	章卡	局部	Ⅱ-004《三餐》；14 项；13=主题句可再少
+research/grok-onboarding/chapter-cards/volume-02/005.md	1.6	19	章卡	局部	Ⅱ-005《借来的床》；14 项；13=童年段像加时
+research/grok-onboarding/chapter-cards/volume-02/006.md	1.9	19	章卡	局部	Ⅱ-006《轮到谁说话》；14 项；13=点名段可接受
+research/grok-onboarding/chapter-cards/volume-02/007.md	1.8	19	章卡	局部	Ⅱ-007《没做完的作业》；14 项；13=一句像美学声明
+research/grok-onboarding/chapter-cards/volume-02/008.md	2.1	19	章卡	局部	Ⅱ-008《一百三零五》；14 项；13=章长可收
+research/grok-onboarding/chapter-cards/volume-02/009.md	3.1	19	章卡	局部	Ⅱ-009《父亲讲过的》；14 项；13=章末具体
+research/grok-onboarding/chapter-cards/volume-02/010.md	1.8	19	章卡	局部	Ⅱ-010《考过以后》；14 项；13=六门复盘略平均
+research/grok-onboarding/chapter-cards/volume-02/011.md	1.7	19	章卡	局部	Ⅱ-011《两处地点》；14 项；13=几乎无空转
+research/grok-onboarding/chapter-cards/volume-02/012.md	1.6	19	章卡	局部	Ⅱ-012《打过去的球》；14 项；13=动作密度高
+research/grok-onboarding/chapter-cards/volume-02/013.md	2.1	19	章卡	局部	Ⅱ-013《再找一遍》；14 项；13=自责已够
+research/grok-onboarding/chapter-cards/volume-02/014.md	2.3	19	章卡	局部	Ⅱ-014《母亲那边》；14 项；13=结尾够
+research/grok-onboarding/chapter-cards/volume-02/015.md	1.7	19	章卡	局部	Ⅱ-015《食堂里》；14 项；13=长度刚好
+research/grok-onboarding/chapter-cards/volume-02/016.md	2.0	19	章卡	局部	Ⅱ-016《过年的路》；14 项；13=地名多
+research/grok-onboarding/chapter-cards/volume-02/017.md	2.1	19	章卡	局部	Ⅱ-017《垃圾桶》；14 项；13=座位图刚好
+research/grok-onboarding/chapter-cards/volume-02/018.md	2.7	19	章卡	局部	Ⅱ-018《老师怎么写我》；14 项；13=评语罗列略长
+research/grok-onboarding/chapter-cards/volume-02/019.md	2.2	19	章卡	局部	Ⅱ-019《右前方》；14 项；13=生物名词可减
+research/grok-onboarding/chapter-cards/volume-02/020.md	1.6	19	章卡	局部	Ⅱ-020《后来都拿起手机》；14 项；13=收在未说那句
+research/grok-onboarding/chapter-cards/volume-02/021.md	1.9	19	章卡	局部	Ⅱ-021《四二五》；14 项；13=门牌已自纠
+research/grok-onboarding/chapter-cards/volume-02/022.md	2.1	19	章卡	局部	Ⅱ-022《小林子》；14 项；13=问卷条目略密
+research/grok-onboarding/chapter-cards/volume-02/023.md	2.3	19	章卡	局部	Ⅱ-023《有人听我讲》；14 项；13=听完与伤人并存
+research/grok-onboarding/chapter-cards/volume-02/024.md	1.9	19	章卡	局部	Ⅱ-024《名单之外》；14 项；13=收束重复最明显
+research/grok-onboarding/chapter-cards/volume-02/_unread.md	0.1	4	索引	N	Ⅱ 卷未读清单：本卷 0 未读
+research/grok-onboarding/chapter-cards/volume-03/001.md	2.5	19	章卡	局部	Ⅲ-001《照片以前的事》；14 项；13=具体，未收成起源
+research/grok-onboarding/chapter-cards/volume-03/002.md	2.8	19	章卡	局部	Ⅲ-002《名字不是自己取的》；14 项；13=误写可再集中
+research/grok-onboarding/chapter-cards/volume-03/003.md	2.2	19	章卡	局部	Ⅲ-003《灯在头顶》；14 项；13=试验次数多
+research/grok-onboarding/chapter-cards/volume-03/004.md	1.9	19	章卡	局部	Ⅲ-004《走上六楼》；14 项；13=搬米次数可收
+research/grok-onboarding/chapter-cards/volume-03/005.md	1.9	19	章卡	局部	Ⅲ-005《好孩子》；14 项；13=幼儿园日常略满
+research/grok-onboarding/chapter-cards/volume-03/006.md	2.1	19	章卡	局部	Ⅲ-006《资江边的车》；14 项；13=修车与阳台重复
+research/grok-onboarding/chapter-cards/volume-03/007.md	2.5	19	章卡	局部	Ⅲ-007《父亲回来以后》；14 项；13=修东西吃饭重复
+research/grok-onboarding/chapter-cards/volume-03/008.md	2.3	19	章卡	局部	Ⅲ-008《春游那天》；14 项；13=上山吃饭两遍
+research/grok-onboarding/chapter-cards/volume-03/009.md	2.4	19	章卡	局部	Ⅲ-009《王培森在旁边》；14 项；13=游戏轮次近
+research/grok-onboarding/chapter-cards/volume-03/010.md	2.4	19	章卡	局部	Ⅲ-010《大扫除》；14 项；13=第二次大扫除功能近
+research/grok-onboarding/chapter-cards/volume-03/011.md	2.5	19	章卡	局部	Ⅲ-011《丢了的五块钱》；14 项；13=后部像补温和结局
+research/grok-onboarding/chapter-cards/volume-03/012.md	2.6	19	章卡	局部	Ⅲ-012《被念出来的作文》；14 项；13=运动会可紧
+research/grok-onboarding/chapter-cards/volume-03/013.md	2.8	19	章卡	局部	Ⅲ-013《校门口的小卖部》；14 项；13=物价收摊略长
+research/grok-onboarding/chapter-cards/volume-03/014.md	2.7	19	章卡	局部	Ⅲ-014《她也有别的朋友》；14 项；13=手抄报重复
+research/grok-onboarding/chapter-cards/volume-03/015.md	3.0	19	章卡	局部	Ⅲ-015《两次东北行》；14 项；13=清单长
+research/grok-onboarding/chapter-cards/volume-03/016.md	3.0	19	章卡	局部	Ⅲ-016《毕业不只是一张照片》；14 项；13=搬桌过程长
+research/grok-onboarding/chapter-cards/volume-03/_unread.md	0.1	4	索引	N	Ⅲ 卷未读清单：本卷 0 未读
+research/grok-onboarding/chapter-cards/volume-04/001.md	1.7	19	章卡	局部	Ⅳ-001《第一厨神》；14 项；13=长度刚好
+research/grok-onboarding/chapter-cards/volume-04/002.md	2.0	19	章卡	局部	Ⅳ-002《面试之前》；14 项；13=短，已拆归功
+research/grok-onboarding/chapter-cards/volume-04/003.md	1.9	19	章卡	局部	Ⅳ-003《一九〇七》；14 项；13=短章样本，无段末论文
+research/grok-onboarding/chapter-cards/volume-04/004.md	1.9	19	章卡	局部	Ⅳ-004《第三名》；14 项；13=历史讲解与报名同功
+research/grok-onboarding/chapter-cards/volume-04/005.md	1.8	19	章卡	局部	Ⅳ-005《八个人一间屋》；14 项；13=紧
+research/grok-onboarding/chapter-cards/volume-04/006.md	1.6	19	章卡	局部	Ⅳ-006《营养餐》；14 项；13=短得合适
+research/grok-onboarding/chapter-cards/volume-04/007.md	2.1	19	章卡	局部	Ⅳ-007《讨嫌》；14 项；13=几次讨嫌功能近
+research/grok-onboarding/chapter-cards/volume-04/008.md	1.8	19	章卡	局部	Ⅳ-008《小林子以后》；14 项；13=后半略散
+research/grok-onboarding/chapter-cards/volume-04/009.md	1.9	19	章卡	局部	Ⅳ-009《不肯举起来的手》；14 项；13=拍照语音略长
+research/grok-onboarding/chapter-cards/volume-04/010.md	1.7	19	章卡	局部	Ⅳ-010《值日簿上的人》；14 项；13=短，已停住补写冲动
+research/grok-onboarding/chapter-cards/volume-04/011.md	1.9	19	章卡	局部	Ⅳ-011《寝室被扣分》；14 项；13=分工场略长
+research/grok-onboarding/chapter-cards/volume-04/012.md	2.0	19	章卡	局部	Ⅳ-012《她讲故事的语文课》；14 项；13=评语与作文同功
+research/grok-onboarding/chapter-cards/volume-04/013.md	2.3	19	章卡	局部	Ⅳ-013《有人唱过一首歌》；14 项；13=散席略长
+research/grok-onboarding/chapter-cards/volume-04/014.md	2.0	19	章卡	局部	Ⅳ-014《班里别人的故事》；14 项；13=拒绝把别人排成队伍
+research/grok-onboarding/chapter-cards/volume-04/015.md	2.5	19	章卡	局部	Ⅳ-015《月假》；14 项；13=晚饭电影略长
+research/grok-onboarding/chapter-cards/volume-04/016.md	2.1	19	章卡	局部	Ⅳ-016《写信后的普通一天》；14 项；13=洗碗看火同功
+research/grok-onboarding/chapter-cards/volume-04/017.md	2.2	19	章卡	局部	Ⅳ-017《毕业照没有规定谁要难过》；14 项；13=账单可略收
+research/grok-onboarding/chapter-cards/volume-04/018.md	2.3	19	章卡	局部	Ⅳ-018《从金海出去》；14 项；13=刷新重复像手指
+research/grok-onboarding/chapter-cards/volume-04/_unread.md	0.1	4	索引	N	Ⅳ 卷未读清单：本卷 0 未读
+outline/volume-01.md	54.9	395	卷纲	Y	35 轮历史层积：19→20→18 章；24 项承诺；《右边那张床》暂缓
+outline/volume-03.md	5.7	71	卷纲	Y	16 章四幕；三时间层；教师姓名与终稿卡冲突
+outline/volume-04.md	14.1	119	卷纲	Y	R7 定稿 18 章 71,325；引用八部 105 章蓝图
+outline/volume-05.md	5.2	51	卷纲	Y	R6 19 章 79,883；跨卷知情顺序；阿澈化名
+outline/volume-06.md	2.0	31	卷纲	Y	20 章；章名沿用 PR#56；时代 2024-2025
+state/2026-11-13-volume03-r3-project-memory.md	2.4	29	状态	Y	作者「小说不是论文」裁决；III 16 章 135,479
+state/2026-11-13-volume04-continuation-handoff.md	2.0	13	状态	N	007-012 字数与朱学良 Q4/Q5 边界
+state/2026-11-13-volume04-full18-handoff.md	3.6	19	状态	Y	18 章 56,599；日期锚；作者最新标准
+state/2026-11-13-volume04-opening-handoff.md	2.3	14	状态	Y	作者任务：诺兰式不可靠、世界级为长期目标、不模仿大麦哥
+state/2026-11-13-volume04-r4-handoff.md	2.4	13	状态	N	R4 68,036；高风险重复清单
+state/2026-11-13-volume04-r5-handoff.md	3.3	14	状态	Y	朱 56 题问卷分章用途；问卷声部模板化风险
+state/2026-11-13-volume04-r6-handoff.md	2.7	12	状态	N	R6 71,002；010/011 偏薄
+state/2026-11-13-volume04-r7-final-main-handoff.md	3.2	17	状态	Y	R7 71,325 并入 main；四部均章 3,962 偏薄
+state/2026-11-13-volume05-r3-handoff.md	3.7	14	状态	Y	八部 147 章仅在 PR#56；V R3 七章
+state/2026-11-13-volume05-r5-handoff.md	3.4	12	状态	Y	V R5 19 章 76,204；均章 4,011
+state/2026-11-13-volume05-r6-handoff.md	3.2	14	状态	Y	V R6 79,883；方程可实算
+state/2026-11-14-volume06-gpt6-r5-1-handoff.md	2.9	29	状态	Y	R5.1 106,962，六章仍低于 R4，全卷 FAIL
+state/2026-11-14-volume06-gpt6-r5-handoff.md	2.6	15	状态	Y	R5 删重至 102,286，违反字数闸门，禁合并
+state/next_actions.md	2.9	24	状态	Y	六部 115 章 732,799 已并入 main；七项优先
+state/volume06-handoff.md	3.3	39	状态	Y	VI R4 126,088；逐章口述锚（83 名、川大保底等）
+state/progress.json	4.3	137	状态	Y	115 章/732,799；门禁 human_blind_readers=0
+state/volume03-progress.json	1.8	82	状态	N	III 早期 127,142，已被 R3 135,479 取代
+evidence/chapter-001.md	3.7	27	事实账	Y	F/I/X 三级；作者 2026-10-31 口述确认刘总与书名
+evidence/chapter-002.md	1.5	22	事实账	N	第二章「有材料/推演」两栏
+evidence/chapter-003.md	6.2	70	事实账	Y	床位表、525 八人、竹林杯、作息表；甲级口述
+AGENTS.md	3.9	14	规则	Y	六部规则 9 条：三钟、四级标签、尺度、实名
+README.md	6.3	56	状态	Y	六部 115 章 732,799；七/八部仍称「候选」
+给ChatGPT.md	1.6	24	作者原话	Y	作者第一人称写作说明；禁止清单

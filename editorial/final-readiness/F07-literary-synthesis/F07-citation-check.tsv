@@ -1,0 +1,66 @@
+章:行	引文首句	F05判定	F07独立核验结论	证据（事实仓=事实仓根；正文=工作区manuscript/）
+V01-002:52	第一人称推断他人态度，走『我』的意识	RELABEL/ABSENT/NOWHERE	支持	事实仓·03_complete-writing-standards.md:53
+V01-002:106	『长期在外』『调回益阳市区』是刘佑林在 2022 年信中的叙述，不等同于已由人事材料核验的客观时间线	RELABEL/ABSENT/NOWHERE	支持	事实仓·写给父母的信-叙事整理.md（长期在外=叙述非客观时间线）
+V01-003:41	王麒皓的同桌冯杨子	U/ABSENT/NOWHERE	需改标	事实仓·回忆2026-08-12.md:44（王麒皓同桌冯杨子）
+V01-003:149	刘佑林回忆自己当时微笑未答，取回作业后把它放到赵问竹桌上	RELABEL/ABSENT/LOC_IN_REPO→实见D:/The Memory/The Memory/高中/素材/个人回忆/刘佑林关于赵问竹的高中回忆-2026-08-12.md:46	支持	事实仓·回忆2026-08-12.md:46
+V01-004:28	2022-08-07 得知被长沙麓山国际实验学校录取…沮丧、不甘和无奈，并赌气一晚	U/ABSENT/NOWHERE	需改标	事实仓·中考至麓山时间线.md:34,54
+V01-004:35	与他交谈时则更温和，也会带着玩笑说『嘲笑你』	RELABEL/ABSENT/LOC_IN_REPO→实见D:/The Memory/The Memory/高中/素材/个人回忆/刘佑林关于赵问竹的高中回忆-2026-08-12.md:86	支持	事实仓·回忆2026-08-12.md:86
+V01-004:135	他与赵问竹经常前后桌，曾阶段性同桌；他与喻翰东也经常同桌	RELABEL/ABSENT/LOC_IN_REPO→实见D:/The Memory/The Memory/高中/G2204/G2204高一入学、分组与寝室时间线.md:44	支持	事实仓·G2204时间线.md:44
+V01-004:179	高一：一般是喻翰东，偶尔是赵问竹	U/ABSENT/NOWHERE	需改标	事实仓·口述2026-09-12.md:54
+V01-005:37	处理班级正事时认真负责、显得较冷静	RELABEL/ABSENT/LOC_IN_REPO→实见D:/The Memory/The Memory/高中/素材/个人回忆/刘佑林关于赵问竹的高中回忆-2026-08-12.md:86	支持	事实仓·回忆2026-08-12.md:86
+V01-005:38	〔大意〕遇到不懂的地方也一样（追问	REVOKE/ABSENT/NOWHERE	支持	全库0命中「遇到不懂的地方也一样」
+V01-005:63	〔大意〕她若以为讲出答案就算帮了忙，她的下一句就能把我问回中间那一步	REVOKE/ABSENT/NOWHERE	支持	全库0命中「问回中间那一步」
+V01-005:145	〔大意〕她若以为讲出答案就算帮了忙，她的下一句就能把我问回中间那一步	REVOKE/ABSENT/NOWHERE	支持	全库0命中「问回中间那一步」
+V01-006:38	较温和，有时开玩笑	U/ABSENT/NOWHERE	需改标	事实仓·回忆2026-08-12.md:八节/赵问竹.md:73
+V01-006:39	处理班级事务时认真负责	RELABEL/ABSENT/LOC_IN_FILE→实见73	支持	事实仓·赵问竹.md:73
+V01-007:41	〔大意〕遇到不懂的地方也一样（追问	REVOKE/ABSENT/NOWHERE	支持	全库0命中「遇到不懂的地方也一样」
+V01-007:151	〔大意〕她若以为讲出答案就算帮了忙，她的下一句就能把我问回中间那一步	REVOKE/ABSENT/NOWHERE	支持	全库0命中「问回中间那一步」
+V01-008:27	高一同桌一般为喻翰东、偶尔是她	U/ABSENT/NOWHERE	需改标	事实仓·口述2026-09-12.md:54
+V01-008:146	〔大意〕她若以为讲出答案就算帮了忙，她的下一句就能把我问回中间那一步	REVOKE/ABSENT/NOWHERE	支持	全库0命中「问回中间那一步」
+V01-008:147	她喜欢热闹、新奇、自然的东西	U/ABSENT/NOWHERE	需改标	事实仓·回忆2026-08-12.md:七节（刘佑林判断非原话）
+V01-009:27	他自己写下中国人民大学和中国政法大学，关联着他从初中延续到高一的历史与时政兴趣	RELABEL/ABSENT/LOC_IN_REPO→实见D:/The Memory/The Memory/高中/素材/个人回忆/刘佑林关于赵问竹的高中回忆-2026-08-12.md:54	支持	事实仓·回忆2026-08-12.md:54
+V01-009:28	刘佑林由此记住赵问竹当时对浙江大学的坚定向往	RELABEL/ABSENT/LOC_IN_REPO→实见D:/The Memory/The Memory/高中/素材/个人回忆/刘佑林关于赵问竹的高中回忆-2026-08-12.md:54	支持	事实仓·回忆2026-08-12.md:54
+V01-009:97	高一开始参加物理竞赛训练，后于高一末退出；她当时对浙江大学有明确向往	U/ABSENT/NOWHERE	需改标	事实仓·赵问竹.md:63
+V01-010:25	"赵问竹还曾在讲台前侧写『刘佑林是""0""』。刘佑林当时不明白含义，并向赵问竹和当时在讲台附近的舒思宇追问"	U/ABSENT/NOWHERE	需改标	事实仓·回忆2026-08-12.md:四节
+V01-010:65	说话有点滑	U/ABSENT/NOWHERE	需改标	事实仓·舒思宇.md:31
+V01-011:40	成绩比自己好	RELABEL/ABSENT/LOC_IN_FILE→实见68	支持	事实仓·回忆2026-08-12.md:68
+V01-011:70	追问	REVOKE/ABSENT/NOWHERE	支持	全库0命中「追问」作赵问竹伪引
+V01-012:120	她喜欢热闹、新奇、自然的东西	U/ABSENT/NOWHERE	需改标	事实仓·回忆2026-08-12.md:七节
+V01-013:17	后两项只是刘佑林对外表与沉默的观察，不能解释为赵问竹确认感情或接受起哄	RELABEL/ABSENT/LOC_IN_FILE→实见64	支持	事实仓·回忆2026-08-12.md:64
+V01-013:66	试图拉回	U/ABSENT/NOWHERE	需改标	事实仓·蒋明.md:29
+V01-013:136	王麒皓、唐鑫宇、舒思宇与刘佑林是王者荣耀搭子	U/ABSENT/NOWHERE	需改标	事实仓·王麒皓.md:31
+V01-016:17	偶发误穿与归还不改写成对方的情感表达	RELABEL/ABSENT/LOC_IN_REPO→实见D:/The Memory/The Memory/高中/G2204/人物/同学/赵问竹.md:187	支持	事实仓·赵问竹.md:小红帽节
+V01-016:36	较温和，有时开玩笑	U/ABSENT/NOWHERE	需改标	事实仓·回忆2026-08-12.md:八节
+V01-017:40	衣服是汪智文的	RELABEL/ABSENT/LOC_IN_FILE→实见45	支持	事实仓·汪智文.md:45
+V01-018:126	赵问竹后来没有再反应	RELABEL/ABSENT/LOC_IN_REPO→实见D:/The Memory/The Memory/高中/素材/个人回忆/竹林杯与高一关系变淡-2026-08-28.md:45	支持	事实仓·竹林杯2026-08-28.md:45
+V02-003:37	不概括稳定人格	RELABEL/ABSENT/NOWHERE	需改标	事实仓·王麒皓.md:30
+V02-003:118	不用于概括稳定人格	RELABEL/ABSENT/NOWHERE	需改标	事实仓·王麒皓.md:30
+V02-005:37	我过去喜欢给身边的人安排位置	RELABEL/ABSENT/NOWHERE	需改标	正文·V2-005:113（叙述者自陈L1，非事实仓）
+V02-007:35	喜欢被看见	REVOKE/ABSENT/NOWHERE	支持	事实仓0命中；正文·V2-007:11「镜头里的主角」
+V02-012:38	喜欢被看见	REVOKE/ABSENT/NOWHERE	支持	事实仓0命中；正文·V2-007:11
+V03-013:54	他大概不会记得我。那年他划掉我的名字，只是一笔生意做完了。	RELABEL/ABSENT/LOC_IN_FILE→实见665	支持	正文·V3-013:665
+V04-007:118	寝室一起扣分	RELABEL/ABSENT/LOC_IN_FILE→实见107	支持	事实仓·朱学良.md(初中):90
+V04-008:121	后来有人把称呼改成竹席	RELABEL/ABSENT/NOWHERE	需改标	事实仓·回忆2026-08-12.md:四节
+V05-006:66	二班负责年级的一部分值日…她在食堂后门那一带站岗	RELABEL/ABSENT/LOC_IN_FILE→实见25	支持	正文·V5-006:25
+V05-010:64	陈亭妤在内	U/ABSENT/NOWHERE	无法核验	正文·V5-010 通篇无「陈亭妤/陈婷予」；事实仓·颜子杰.md:160有
+V05-013:46	刘佑林回忆**好像**在园中碰到赵问竹——保持「好像	RELABEL/ABSENT/NOWHERE	支持	事实仓·沪浙行2024.md:33（边界按语）
+V05-013:74	刘佑林回忆**好像**在园中碰到赵问竹——保持「好像	RELABEL/ABSENT/NOWHERE	支持	事实仓·沪浙行2024.md:33（边界按语）
+V05-015:54	只觉得她有点会享受，而我比较有上进心	RELABEL/ABSENT/LOC_IN_FILE→实见117	支持	正文·V5-015:117
+V06-020:30	2025年8月9日—10日与刘佑林、宋俊豪及其母亲同游武功山	U/ABSENT/NOWHERE	需改标	事实仓·母亲.md:39
+V07-013:33	父亲 1985 年夏在洢水河畔看电视到十二点，爷爷第二天去供销社买回一台电视机	RELABEL/ABSENT/LOC_IN_FILE→实见59	支持	事实仓·父亲.md:149
+V07-014:46	不据此推断双方关系或情感态度	RELABEL/ABSENT/LOC_IN_REPO→实见D:/The Memory/The Memory/高中/G2204/人物/同学/赵问竹.md:137	支持	事实仓·赵问竹.md:137
+V05-018:76	屋里一共四个人…另一位男生…两位女生…其中一位是那位语文课代表	RELABEL/PARTIAL/LOC_IN_FILE→实见13	支持	正文·V5-018:13
+V01-007:25	赵问竹成绩比自己好，但仍经常向他询问题目，也会借各科作业答案册…他做完作业后会主动把相应答案放在她桌上或递给她	RELABEL/LINE_OFF/LOC_IN_FILE→实见68	支持	事实仓·回忆2026-08-12.md:68
+V01-010:27	"一次晚自习期间，舒思宇在讲台附近担任当时的值日班长。赵问竹写下『刘佑林是""0""』后，刘佑林曾向赵问竹和舒思宇追问含义"	RELABEL/LINE_OFF/LOC_IN_FILE→实见29	支持	事实仓·舒思宇.md:29
+V02-014:43	在意别人对其言辞行为的感觉	RELABEL/LINE_OFF/LOC_IN_FILE→实见140	支持	事实仓·刘佑林.md:139
+V04-010:29	56 题	U/LINE_OFF/NOWHERE	需改标	事实仓·朱学良.md(初中):60
+V05-005:55	读到那个『吧』，还想把它改成一个更确定的字	RELABEL/LINE_OFF/LOC_IN_FILE→实见115	支持	正文·V5-005:115
+V05-007:82	江楠为未具名同学，仅登记不建页	RELABEL/LINE_OFF/LOC_IN_FILE→实见119	支持	事实仓·宋俊豪.md:119
+V05-010:65	你也在麓山？	RELABEL/LINE_OFF/LOC_IN_FILE→实见125	支持	正文·V5-010:125
+V05-014:32	寝室长先开了口：『好了，最后一题，讲完睡。』	RELABEL/LINE_OFF/LOC_IN_FILE→实见205	需改标	正文·V5-014:207（F05实见标205，实为207）
+V05-014:73	寝室长先开了口	RELABEL/LINE_OFF/LOC_IN_FILE→实见205	需改标	正文·V5-014:206-207
+V05-016:54	我竟还准备把聊天改造成一场辩论	RELABEL/LINE_OFF/LOC_IN_FILE→实见75	支持	正文·V5-016:75
+V01-009:35	当时专业没得选。	RELABEL/LINE_OOR/LOC_IN_REPO→实见D:/The Memory/The Memory/家庭/人物/父亲.md:160	支持	事实仓·父亲.md:160
+V01-009:36	想回又不想回。不想回因为是不甘心，	RELABEL/LINE_OOR/LOC_IN_REPO→实见D:/The Memory/The Memory/家庭/人物/父亲.md:165	支持	事实仓·父亲.md:165
+V04-016:122	一个少年喜欢从生活里找证据	RELABEL/SRC_UNRESOLVED/NOWHERE	需改标	正文·V4-001:47（F05标V4-016，实为001章）
+V01-011:41	〔大意是 遇到不懂的地方也一样（追问）〕	REVOKE/ABSENT/NOWHERE	支持	全库0命中；citations.tsv人工补入第151行
