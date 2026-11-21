@@ -6,6 +6,7 @@ on:
     paths:
       - "manuscript/**"
       - "editorial/seven-volume-integration/2026-11-21-chapter-canon.tsv"
+      - "editorial/literary-finalization/**"
       - "scripts/verify_seven_volume_integrated.py"
       - "scripts/hanzi_count.py"
       - ".github/workflows/seven-volume-integrity.yml"
