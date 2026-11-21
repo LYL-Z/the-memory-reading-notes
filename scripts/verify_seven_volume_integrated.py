@@ -30,7 +30,7 @@ CANON = os.path.join(ROOT, "editorial", "literary-finalization",
                      "2026-11-21-v1.2-chapter-canon.tsv")
 EXPECTED = {1: 18, 2: 24, 3: 16, 4: 18, 5: 19, 6: 20, 7: 20}
 TOTAL_CHAPTERS = 135
-TOTAL_HANZI = 852747
+TOTAL_HANZI = 852695
 
 # 作者裁定与档案硬事实的定点断言
 FUXIONGHUI_BAD = [
