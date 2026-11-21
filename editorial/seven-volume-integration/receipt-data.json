@@ -1,11 +1,14 @@
 {
+ "note": "接收核验数据，2026-11-21 主代理独立核验后重算，与 2026-11-21-chapter-canon.tsv 同源同口径（LF 规范化、官方 hanzi_count.py）。取代修复前的旧快照。",
  "rows": [
   {
    "vol": 1,
    "ch": "001",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-01\\001.md",
-   "bytes": 27628,
-   "sha256": "f01070212981246ce0d5354462b15d031e4e0d586f29340889da6d2fe3d06828",
+   "path": "editorial/seven-volume-integration/fused/volume-01/001.md",
+   "canon_path": "manuscript/volume-01/001.md",
+   "bytes": 27313,
+   "sha256": "8c788aea17563dfd1eaf197d3516d64886750a54e794f44ec2a9e7662760bb74",
+   "git_blob_sha1": "3119de7cffaf24f23a520318d5f6feddc99057e1",
    "hanzi": 7778,
    "orig_hanzi": 7783,
    "title": "# 左边的位置"
@@ -13,9 +16,11 @@
   {
    "vol": 1,
    "ch": "002",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-01\\002.md",
-   "bytes": 37369,
-   "sha256": "135a39e28b18a5afb8a6bbbba93e27bc14415a3e2b1f5d5ebfcc4a0aea5c3b21",
+   "path": "editorial/seven-volume-integration/fused/volume-01/002.md",
+   "canon_path": "manuscript/volume-01/002.md",
+   "bytes": 37056,
+   "sha256": "171c48b8da6f21f681cd0e70df7198ce2df479069bed977be35af323460754ae",
+   "git_blob_sha1": "d9b8d5888f6d3bd807c50d1da5b38c56a0de1a16",
    "hanzi": 10709,
    "orig_hanzi": 10709,
    "title": "# 晚饭后的桌子"
@@ -23,9 +28,11 @@
   {
    "vol": 1,
    "ch": "003",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-01\\003.md",
-   "bytes": 39347,
-   "sha256": "4204bfad87a456a619eac9542ce5620c4bf4605a64c1e1708eae245b63b227db",
+   "path": "editorial/seven-volume-integration/fused/volume-01/003.md",
+   "canon_path": "manuscript/volume-01/003.md",
+   "bytes": 39072,
+   "sha256": "332400827d633801d118233f4db9d95ffdf8e15ffe9447b46e6769849e144e52",
+   "git_blob_sha1": "801087b67370805bc043a58776700042e4889744",
    "hanzi": 11361,
    "orig_hanzi": 11361,
    "title": "# 525"
@@ -33,9 +40,11 @@
   {
    "vol": 1,
    "ch": "004",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-01\\004.md",
-   "bytes": 40826,
-   "sha256": "473471902e42f7f4291e5ae4f9461d547e103ed852e328fbdf43dbb9ef49240d",
+   "path": "editorial/seven-volume-integration/fused/volume-01/004.md",
+   "canon_path": "manuscript/volume-01/004.md",
+   "bytes": 40511,
+   "sha256": "6f0d44d8d0e78590025d44e436b7853dce904719c6335301d6695d690f9514fc",
+   "git_blob_sha1": "a945105d401b7ea09d8fde5a0d551997be9d6881",
    "hanzi": 11925,
    "orig_hanzi": 11925,
    "title": "# 月考之后"
@@ -43,9 +52,11 @@
   {
    "vol": 1,
    "ch": "005",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-01\\005.md",
-   "bytes": 22012,
-   "sha256": "be4ee9dbd77a9db6f74518ab9d20dd1c9257be2154353216d50df10c50438e51",
+   "path": "editorial/seven-volume-integration/fused/volume-01/005.md",
+   "canon_path": "manuscript/volume-01/005.md",
+   "bytes": 21813,
+   "sha256": "fb75b0a19678eb405dbb5088444ae6a035d0805f4b126772d4ceb4ae1c23bdbf",
+   "git_blob_sha1": "268c28731edfc16c17f7cc13cd4d20b0eb13aaf0",
    "hanzi": 6403,
    "orig_hanzi": 6403,
    "title": "# 盒饭"
@@ -53,9 +64,11 @@
   {
    "vol": 1,
    "ch": "006",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-01\\006.md",
-   "bytes": 26144,
-   "sha256": "6df7fe2adae8eaca5c3d73045777d2496e158bc1395f578b8b0a1bc0472c30bf",
+   "path": "editorial/seven-volume-integration/fused/volume-01/006.md",
+   "canon_path": "manuscript/volume-01/006.md",
+   "bytes": 25913,
+   "sha256": "860e2c1c9fbcff435a267676894786e9ecee9eba11913e6d122c3d64b7b782bf",
+   "git_blob_sha1": "3a8db0f5cfc6d7bfc6f4cdbb7ba3a81518bded30",
    "hanzi": 7635,
    "orig_hanzi": 7635,
    "title": "# 一只福袋"
@@ -63,9 +76,11 @@
   {
    "vol": 1,
    "ch": "007",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-01\\007.md",
-   "bytes": 29807,
-   "sha256": "7186162d48b7841eef9bd2dd2213364c300969355c335ec366d279e4929b8aca",
+   "path": "editorial/seven-volume-integration/fused/volume-01/007.md",
+   "canon_path": "manuscript/volume-01/007.md",
+   "bytes": 29550,
+   "sha256": "6d06b81d51c705728f3538c5aebb5c18d4740c35e9d93f1f60adcce8667f537f",
+   "git_blob_sha1": "3cbbdd1636a6ef6b152dec4dae3242da7ab587b8",
    "hanzi": 8644,
    "orig_hanzi": 8644,
    "title": "# 答案放在桌上"
@@ -73,9 +88,11 @@
   {
    "vol": 1,
    "ch": "008",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-01\\008.md",
-   "bytes": 24574,
-   "sha256": "5948dc134d6d316065e68965514d7439f7585a8146c0fe3a71caa9e307a0b2c3",
+   "path": "editorial/seven-volume-integration/fused/volume-01/008.md",
+   "canon_path": "manuscript/volume-01/008.md",
+   "bytes": 24273,
+   "sha256": "8134ffa053e8ee90946a17d1824f6f1cd4cb47379595370df3daf9f85cdc5db0",
+   "git_blob_sha1": "4566490ce336d4fd4545748c4368af8cef40d3db",
    "hanzi": 7084,
    "orig_hanzi": 7084,
    "title": "# 两周"
@@ -83,9 +100,11 @@
   {
    "vol": 1,
    "ch": "009",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-01\\009.md",
-   "bytes": 27236,
-   "sha256": "d0b1410e6519d8a966f0d751107702a180fba97dac0b752b7555240cc99b5f21",
+   "path": "editorial/seven-volume-integration/fused/volume-01/009.md",
+   "canon_path": "manuscript/volume-01/009.md",
+   "bytes": 26939,
+   "sha256": "ad58eb59ad1df30a0204177ca7be6db3de72d6453f5d0bd7c4bfbe495f55e4ac",
+   "git_blob_sha1": "e0dd87ddd2f06c3c5b41d35b37388ede6f7d242c",
    "hanzi": 7863,
    "orig_hanzi": 7863,
    "title": "# 讲台两侧"
@@ -93,9 +112,11 @@
   {
    "vol": 1,
    "ch": "010",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-01\\010.md",
-   "bytes": 20782,
-   "sha256": "e1e64720ccee4422b0bcbc6551974d0e88fb5ec8bc731f8a2d6cad1d91c7e7f0",
+   "path": "editorial/seven-volume-integration/fused/volume-01/010.md",
+   "canon_path": "manuscript/volume-01/010.md",
+   "bytes": 20537,
+   "sha256": "0b68095645d9b21b1b0b7f97dca8ed44867a03570d3b525d1be992f70ea14f40",
+   "git_blob_sha1": "ef5c6a74daac795a1348f9c68547e044e65b1cc7",
    "hanzi": 5976,
    "orig_hanzi": 5252,
    "title": "# 那个零"
@@ -103,9 +124,11 @@
   {
    "vol": 1,
    "ch": "011",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-01\\011.md",
-   "bytes": 31536,
-   "sha256": "9da277807cee8c8794b67adfac8aade2d19c5ca46f56f9ae605b6b3d59de9469",
+   "path": "editorial/seven-volume-integration/fused/volume-01/011.md",
+   "canon_path": "manuscript/volume-01/011.md",
+   "bytes": 31201,
+   "sha256": "9ae11216a79ba0e6eede24c4c4266b6294457628013a14f35e7fe52ef8311b63",
+   "git_blob_sha1": "fbb8d365eaf4a79acab3f44ae990b703a9192eb0",
    "hanzi": 9192,
    "orig_hanzi": 9192,
    "title": "# 竞赛班门口"
@@ -113,9 +136,11 @@
   {
    "vol": 1,
    "ch": "012",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-01\\012.md",
-   "bytes": 21490,
-   "sha256": "9bf12e79ea6c3fe4bb23b0065bde03778a5399d4d916362761a5e68cd93dcf88",
+   "path": "editorial/seven-volume-integration/fused/volume-01/012.md",
+   "canon_path": "manuscript/volume-01/012.md",
+   "bytes": 21267,
+   "sha256": "a602fec86cc4e8d6a4e5d40da03f8a3f2199e27f231f827e2dc478a5a510e0fb",
+   "git_blob_sha1": "9dfccbade1c8c64acd6cb3ec68a63b0f923a060e",
    "hanzi": 6320,
    "orig_hanzi": 6320,
    "title": "# 橘子洲"
@@ -123,9 +148,11 @@
   {
    "vol": 1,
    "ch": "013",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-01\\013.md",
-   "bytes": 23746,
-   "sha256": "00f1579c424e87c396fa4fc31407c774983b6bcfad0a77f8fb17dd25ba80059b",
+   "path": "editorial/seven-volume-integration/fused/volume-01/013.md",
+   "canon_path": "manuscript/volume-01/013.md",
+   "bytes": 23475,
+   "sha256": "16b967b29c789c4f55e5d8aa3d28e8c05e6860e543d2532a0eb9546a40882d39",
+   "git_blob_sha1": "e0b31a1c95c266fee6b266b0fb406373d9ab6d3c",
    "hanzi": 6904,
    "orig_hanzi": 6904,
    "title": "# 婚礼进行曲"
@@ -133,9 +160,11 @@
   {
    "vol": 1,
    "ch": "014",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-01\\014.md",
-   "bytes": 25856,
-   "sha256": "bd7bf5664de07665e0b9ed633f4b9963cc9fdd55d491fd3ae762cdb31850664d",
+   "path": "editorial/seven-volume-integration/fused/volume-01/014.md",
+   "canon_path": "manuscript/volume-01/014.md",
+   "bytes": 25481,
+   "sha256": "4029cbe29a48e2741b8bc84772d37be47b9065e5fc03f51722e4904b28aadadd",
+   "git_blob_sha1": "9f35f5d4bb5928a44612193767bd05581031d7d2",
    "hanzi": 7370,
    "orig_hanzi": 7370,
    "title": "# 勇敢一点"
@@ -143,9 +172,11 @@
   {
    "vol": 1,
    "ch": "015",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-01\\015.md",
-   "bytes": 21879,
-   "sha256": "e5bc960b118ed33e0f935fd5fdd21705e42eeb528a4619dfcbbaba045f63f7b3",
+   "path": "editorial/seven-volume-integration/fused/volume-01/015.md",
+   "canon_path": "manuscript/volume-01/015.md",
+   "bytes": 21598,
+   "sha256": "ba54172ee1cd224bd008b1cd242fd741f36b9f1169ba5bf892729c7386cc3156",
+   "git_blob_sha1": "8cb8b0583141abcdcb1b7fcf97a7d7a1500ba8ac",
    "hanzi": 6329,
    "orig_hanzi": 6329,
    "title": "# 陈喜在门口"
@@ -153,9 +184,11 @@
   {
    "vol": 1,
    "ch": "016",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-01\\016.md",
-   "bytes": 19349,
-   "sha256": "cd8e11f80d8648c51f67b59af0fb404d0e94d9238429a92b99c6262567452a3f",
+   "path": "editorial/seven-volume-integration/fused/volume-01/016.md",
+   "canon_path": "manuscript/volume-01/016.md",
+   "bytes": 19106,
+   "sha256": "530ed671faf03aa9ade050e61d76e2326602d5481b1a41165b294b8dd2acd743",
+   "git_blob_sha1": "2d680ada1fca914bbcd8bf98239c00c5a4a2415a",
    "hanzi": 5559,
    "orig_hanzi": 5559,
    "title": "# 小红帽"
@@ -163,9 +196,11 @@
   {
    "vol": 1,
    "ch": "017",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-01\\017.md",
-   "bytes": 21432,
-   "sha256": "904f302e0baceb379de31722e3dfe3889a13980ff6fa283d4c953925ec57c069",
+   "path": "editorial/seven-volume-integration/fused/volume-01/017.md",
+   "canon_path": "manuscript/volume-01/017.md",
+   "bytes": 21299,
+   "sha256": "fa11f547f1bef961e0bf05c9b095aa32546755dea6c9fe3d0eb75eb69844440c",
+   "git_blob_sha1": "368e0c0c8df21a4c1fd82f7a1130c4e6b414712b",
    "hanzi": 6231,
    "orig_hanzi": 5539,
    "title": "# 竹林杯"
@@ -173,9 +208,11 @@
   {
    "vol": 1,
    "ch": "018",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-01\\018.md",
-   "bytes": 24538,
-   "sha256": "3c27a570bc1e11fbda7775dfd396f9d7a5fd8e2426416ec579f8c47bf5332334",
+   "path": "editorial/seven-volume-integration/fused/volume-01/018.md",
+   "canon_path": "manuscript/volume-01/018.md",
+   "bytes": 24219,
+   "sha256": "4c17bae5726808a629821fd2d709529377cf3b10ddc0c7be333219fbeb0e725a",
+   "git_blob_sha1": "236a8d09e8bc3f433e84b43e8faa537a7cfe268d",
    "hanzi": 7080,
    "orig_hanzi": 7080,
    "title": "# 历史课"
@@ -183,9 +220,11 @@
   {
    "vol": 2,
    "ch": "001",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-02\\001.md",
+   "path": "editorial/seven-volume-integration/fused/volume-02/001.md",
+   "canon_path": "manuscript/volume-02/001.md",
    "bytes": 28276,
    "sha256": "b0d853423abc62cdac2d5e2ff727d658e98b385bcffb59b5f7a799332dba8fa7",
+   "git_blob_sha1": "d11ca9046cd1bda67fa0e1120fa04d4eaebd38f0",
    "hanzi": 8322,
    "orig_hanzi": 7720,
    "title": "# 一个人的客厅"
@@ -193,9 +232,11 @@
   {
    "vol": 2,
    "ch": "002",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-02\\002.md",
+   "path": "editorial/seven-volume-integration/fused/volume-02/002.md",
+   "canon_path": "manuscript/volume-02/002.md",
    "bytes": 23977,
    "sha256": "4c9666c9c75fb1ef4813a99c12849892f0082e4f7c73b30e6698a55ffe9535be",
+   "git_blob_sha1": "efe4993b5a998072ad53d54433a68a5f30a9dc35",
    "hanzi": 7079,
    "orig_hanzi": 6586,
    "title": "# 二班"
@@ -203,9 +244,11 @@
   {
    "vol": 2,
    "ch": "003",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-02\\003.md",
+   "path": "editorial/seven-volume-integration/fused/volume-02/003.md",
+   "canon_path": "manuscript/volume-02/003.md",
    "bytes": 24165,
    "sha256": "c81889606bed8b16d40c820cadec02e68718c83e36da06636efbc508eab21391",
+   "git_blob_sha1": "3926272917a15b6a265f08c319cfd436799903b1",
    "hanzi": 7168,
    "orig_hanzi": 7250,
    "title": "# 后门"
@@ -213,9 +256,11 @@
   {
    "vol": 2,
    "ch": "004",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-02\\004.md",
+   "path": "editorial/seven-volume-integration/fused/volume-02/004.md",
+   "canon_path": "manuscript/volume-02/004.md",
    "bytes": 29866,
    "sha256": "8613b7b2dfd0bb555dcf00bd30d6261d875c7a47de52e4a95c73f90cb59cb312",
+   "git_blob_sha1": "1afbbc919684b0ffb10e2c0c9dab576519476d37",
    "hanzi": 8818,
    "orig_hanzi": 8351,
    "title": "# 三餐"
@@ -223,9 +268,11 @@
   {
    "vol": 2,
    "ch": "005",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-02\\005.md",
+   "path": "editorial/seven-volume-integration/fused/volume-02/005.md",
+   "canon_path": "manuscript/volume-02/005.md",
    "bytes": 28722,
    "sha256": "70474a58459788c1424e70223e1501b07fadc97e1ddc58ab296ede8b1adf2906",
+   "git_blob_sha1": "d6eb7d005c9facf9cfb76516c6ed70f9739eebe8",
    "hanzi": 8464,
    "orig_hanzi": 8056,
    "title": "# 借来的床"
@@ -233,9 +280,11 @@
   {
    "vol": 2,
    "ch": "006",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-02\\006.md",
+   "path": "editorial/seven-volume-integration/fused/volume-02/006.md",
+   "canon_path": "manuscript/volume-02/006.md",
    "bytes": 22489,
    "sha256": "c74c279b5fbc9f8cc12053cf70ac02e2e6a35b5c170aadad5fde2831bbb4b073",
+   "git_blob_sha1": "7f6b2c05f1c27b7ff9bf55c4530bd2205c15cc1c",
    "hanzi": 6626,
    "orig_hanzi": 6063,
    "title": "# 轮到谁说话"
@@ -243,9 +292,11 @@
   {
    "vol": 2,
    "ch": "007",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-02\\007.md",
+   "path": "editorial/seven-volume-integration/fused/volume-02/007.md",
+   "canon_path": "manuscript/volume-02/007.md",
    "bytes": 22144,
    "sha256": "662fbff9aac4b866ef8f9a6428cb9d8ef2037b3c19603fef667f38bfdccdc346",
+   "git_blob_sha1": "931e2dc28e5f4c6b43fba692571c984ef5b4be21",
    "hanzi": 6488,
    "orig_hanzi": 6059,
    "title": "# 没做完的作业"
@@ -253,9 +304,11 @@
   {
    "vol": 2,
    "ch": "008",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-02\\008.md",
+   "path": "editorial/seven-volume-integration/fused/volume-02/008.md",
+   "canon_path": "manuscript/volume-02/008.md",
    "bytes": 36323,
    "sha256": "585780795a575cc9dd71c9f37d44d849803799eb6a82005817be8bb026c4d3ef",
+   "git_blob_sha1": "1b219ec8c6d0bab99cee74f9d1918f74d9e2c2c6",
    "hanzi": 10739,
    "orig_hanzi": 10447,
    "title": "# 一三零五"
@@ -263,9 +316,11 @@
   {
    "vol": 2,
    "ch": "009",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-02\\009.md",
+   "path": "editorial/seven-volume-integration/fused/volume-02/009.md",
+   "canon_path": "manuscript/volume-02/009.md",
    "bytes": 33795,
    "sha256": "d5110dcee0ac206198ef1fc5e5828a51e312776ab17e1d98858af1ee63a2da1b",
+   "git_blob_sha1": "3362255082363e76a0df4cf0e21e34b0e3ce2276",
    "hanzi": 9941,
    "orig_hanzi": 9601,
    "title": "# 父亲讲过的"
@@ -273,9 +328,11 @@
   {
    "vol": 2,
    "ch": "010",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-02\\010.md",
+   "path": "editorial/seven-volume-integration/fused/volume-02/010.md",
+   "canon_path": "manuscript/volume-02/010.md",
    "bytes": 21464,
    "sha256": "5483b08b9cd0496f40ad22a7e59cfe7c2c702db4937b51958d47eb9b670e89ec",
+   "git_blob_sha1": "1aecf4570c965356b35bfab71b15b37577898a29",
    "hanzi": 6368,
    "orig_hanzi": 5982,
    "title": "# 考过以后"
@@ -283,9 +340,11 @@
   {
    "vol": 2,
    "ch": "011",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-02\\011.md",
+   "path": "editorial/seven-volume-integration/fused/volume-02/011.md",
+   "canon_path": "manuscript/volume-02/011.md",
    "bytes": 22572,
    "sha256": "47634014e9d9d88a9447d3f8621abb79217ba055c23e0436303e12472656b5be",
+   "git_blob_sha1": "5a6f4b77899578ea53e0b77a867b70279eb979b6",
    "hanzi": 6688,
    "orig_hanzi": 5492,
    "title": "# 两处地点"
@@ -293,9 +352,11 @@
   {
    "vol": 2,
    "ch": "012",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-02\\012.md",
+   "path": "editorial/seven-volume-integration/fused/volume-02/012.md",
+   "canon_path": "manuscript/volume-02/012.md",
    "bytes": 24958,
    "sha256": "d0edf9d97b7aa7f3f6271ff2a779412c8b57752d013971698f5dffdcda1c1616",
+   "git_blob_sha1": "b051ad05476dc53ad6150069c1587ea2d6804d19",
    "hanzi": 7379,
    "orig_hanzi": 6982,
    "title": "# 打过去的球"
@@ -303,9 +364,11 @@
   {
    "vol": 2,
    "ch": "013",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-02\\013.md",
+   "path": "editorial/seven-volume-integration/fused/volume-02/013.md",
+   "canon_path": "manuscript/volume-02/013.md",
    "bytes": 27080,
    "sha256": "9bdd9a0bba0d027c2f92cf4f3db789e4d9a904a6bc3e7c541d75e885030e482b",
+   "git_blob_sha1": "9a25a7d8f47ea650b9babd09eda1173cd89a23a6",
    "hanzi": 8025,
    "orig_hanzi": 7574,
    "title": "# 再找一遍"
@@ -313,9 +376,11 @@
   {
    "vol": 2,
    "ch": "014",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-02\\014.md",
+   "path": "editorial/seven-volume-integration/fused/volume-02/014.md",
+   "canon_path": "manuscript/volume-02/014.md",
    "bytes": 32131,
    "sha256": "e683101b0c333e31c3404308cb09a9232d469368e127d1950f3e16efd01d620b",
+   "git_blob_sha1": "585716374fa4ec4b5482c7897188b9bc71e74843",
    "hanzi": 9566,
    "orig_hanzi": 9053,
    "title": "# 母亲那边"
@@ -323,9 +388,11 @@
   {
    "vol": 2,
    "ch": "015",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-02\\015.md",
+   "path": "editorial/seven-volume-integration/fused/volume-02/015.md",
+   "canon_path": "manuscript/volume-02/015.md",
    "bytes": 20466,
    "sha256": "fde37578d2a85517793674c0879fa3bea7ae8b6d4d6e8267f726b43f7a3216b4",
+   "git_blob_sha1": "286b4aa12f490c73109f0c743eb1394c7bdfde33",
    "hanzi": 6048,
    "orig_hanzi": 4947,
    "title": "# 食堂里"
@@ -333,9 +400,11 @@
   {
    "vol": 2,
    "ch": "016",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-02\\016.md",
+   "path": "editorial/seven-volume-integration/fused/volume-02/016.md",
+   "canon_path": "manuscript/volume-02/016.md",
    "bytes": 24243,
    "sha256": "48e8524e40e3034c9df50b8cabdd14d01c6a49597c69ea782abfa115f401db71",
+   "git_blob_sha1": "326a2a23f1390ef2ff67eb50567137cbbc0129b3",
    "hanzi": 7196,
    "orig_hanzi": 6808,
    "title": "# 过年的路"
@@ -343,9 +412,11 @@
   {
    "vol": 2,
    "ch": "017",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-02\\017.md",
+   "path": "editorial/seven-volume-integration/fused/volume-02/017.md",
+   "canon_path": "manuscript/volume-02/017.md",
    "bytes": 27580,
    "sha256": "ce82c52ea7af4b6e7b29da8fa8e32b901b88db0f91ce553bb989cb066dcfa544",
+   "git_blob_sha1": "41629d1ece66d415318399d28a04ab9319ebcb61",
    "hanzi": 8181,
    "orig_hanzi": 7704,
    "title": "# 垃圾桶"
@@ -353,19 +424,23 @@
   {
    "vol": 2,
    "ch": "018",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-02\\018.md",
-   "bytes": 31917,
-   "sha256": "1dc809235ef5826f292b1675296f04e18b19cf2161b7597acd85a74ae5056c31",
-   "hanzi": 9361,
+   "path": "editorial/seven-volume-integration/fused/volume-02/018.md",
+   "canon_path": "manuscript/volume-02/018.md",
+   "bytes": 32198,
+   "sha256": "b0dbd4506d9da0d2fa69e1c0321d49f0e2ca5b4b5baaf2ec98502b701725c02e",
+   "git_blob_sha1": "dfa5380805129a56d4e98ae8423a09885def26b8",
+   "hanzi": 9444,
    "orig_hanzi": 8960,
    "title": "# 老师怎么写我"
   },
   {
    "vol": 2,
    "ch": "019",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-02\\019.md",
+   "path": "editorial/seven-volume-integration/fused/volume-02/019.md",
+   "canon_path": "manuscript/volume-02/019.md",
    "bytes": 28678,
    "sha256": "b1abf91b13825e741f33ecbbd71fcc5cc3f8916616f35518ae69b3e3c145d4fa",
+   "git_blob_sha1": "a7cfcd75c195a8195533c710b464efdeabab56ae",
    "hanzi": 8518,
    "orig_hanzi": 8001,
    "title": "# 右前方"
@@ -373,9 +448,11 @@
   {
    "vol": 2,
    "ch": "020",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-02\\020.md",
+   "path": "editorial/seven-volume-integration/fused/volume-02/020.md",
+   "canon_path": "manuscript/volume-02/020.md",
    "bytes": 22311,
    "sha256": "d8edb113fb6fb6a62049b7758f6f66887efc18933381957ae5e466169972127a",
+   "git_blob_sha1": "79d5e99462af8a2fafdb7ba7080a9cf7ad10a0e2",
    "hanzi": 6617,
    "orig_hanzi": 6185,
    "title": "# 后来都拿起手机"
@@ -383,9 +460,11 @@
   {
    "vol": 2,
    "ch": "021",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-02\\021.md",
+   "path": "editorial/seven-volume-integration/fused/volume-02/021.md",
+   "canon_path": "manuscript/volume-02/021.md",
    "bytes": 21233,
    "sha256": "4a9b880e83db1b021f08f3c146431852cd75f5db3f64b7bcc389588232b5d570",
+   "git_blob_sha1": "b29913c64809f43e7d3727fe4c16a76927e4e50d",
    "hanzi": 6274,
    "orig_hanzi": 5935,
    "title": "# 四二五"
@@ -393,9 +472,11 @@
   {
    "vol": 2,
    "ch": "022",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-02\\022.md",
+   "path": "editorial/seven-volume-integration/fused/volume-02/022.md",
+   "canon_path": "manuscript/volume-02/022.md",
    "bytes": 21317,
    "sha256": "06fd9a6d047bf606e4a69974eafedcf9759b2773305bf886c72315c37dc94309",
+   "git_blob_sha1": "0f0e526e8a4750e9e491a8c519a92334013ee82e",
    "hanzi": 6267,
    "orig_hanzi": 5823,
    "title": "# 小林子"
@@ -403,9 +484,11 @@
   {
    "vol": 2,
    "ch": "023",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-02\\023.md",
-   "bytes": 24971,
-   "sha256": "a93b6f91b482855182a17d870b6dd61ba2db4e6e55390d6cc1478a1f1fa0f8fd",
+   "path": "editorial/seven-volume-integration/fused/volume-02/023.md",
+   "canon_path": "manuscript/volume-02/023.md",
+   "bytes": 24683,
+   "sha256": "e8479e5d3b32231538880621cac50dd47c2607c9db4b1a260f25344109629bb3",
+   "git_blob_sha1": "86104a71b7c172a5ba5acb47b7727b154b11e27b",
    "hanzi": 7253,
    "orig_hanzi": 6736,
    "title": "# 有人听我讲"
@@ -413,9 +496,11 @@
   {
    "vol": 2,
    "ch": "024",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-02\\024.md",
-   "bytes": 21362,
-   "sha256": "d38493fcd6e6913b8c80df7ac2e000c9cedffb58e46bf9a585cdec8fdf921ed6",
+   "path": "editorial/seven-volume-integration/fused/volume-02/024.md",
+   "canon_path": "manuscript/volume-02/024.md",
+   "bytes": 21108,
+   "sha256": "aa616032b1ab64b7e85899f2a0b06f998337d9cdf7fed03e1b65ba6086c9b534",
+   "git_blob_sha1": "5ffee2724bdc6e5f964b80c697b820a815fe71e3",
    "hanzi": 6237,
    "orig_hanzi": 5784,
    "title": "# 名单之外"
@@ -423,9 +508,11 @@
   {
    "vol": 3,
    "ch": "001",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-03\\001.md",
+   "path": "editorial/seven-volume-integration/fused/volume-03/001.md",
+   "canon_path": "manuscript/volume-03/001.md",
    "bytes": 33448,
    "sha256": "e59ded7cd33a947066d479e36dfe15cd183b4fed7b3fa7ca585a85542373ffbe",
+   "git_blob_sha1": "65b966af0ea5622219726d793816437702c72475",
    "hanzi": 9500,
    "orig_hanzi": 9028,
    "title": "# 照片以前的事"
@@ -433,9 +520,11 @@
   {
    "vol": 3,
    "ch": "002",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-03\\002.md",
+   "path": "editorial/seven-volume-integration/fused/volume-03/002.md",
+   "canon_path": "manuscript/volume-03/002.md",
    "bytes": 37807,
    "sha256": "943ee2629d42a40f493bd2165f17569e4c4ded37881ce8752e8a6a37c5b5dc7e",
+   "git_blob_sha1": "b9c4b94f70a35b3549870afbaeda168d079c8430",
    "hanzi": 10560,
    "orig_hanzi": 8270,
    "title": "# 名字不是自己取的"
@@ -443,9 +532,11 @@
   {
    "vol": 3,
    "ch": "003",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-03\\003.md",
+   "path": "editorial/seven-volume-integration/fused/volume-03/003.md",
+   "canon_path": "manuscript/volume-03/003.md",
    "bytes": 38624,
    "sha256": "8bc65a74d14a6447e9940c27ded2ac5e00910c2103a7caa904f5417dc44f7e32",
+   "git_blob_sha1": "f3799b3947d153579785eb75f9edb1f30233e869",
    "hanzi": 10881,
    "orig_hanzi": 9780,
    "title": "# 灯在头顶"
@@ -453,9 +544,11 @@
   {
    "vol": 3,
    "ch": "004",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-03\\004.md",
+   "path": "editorial/seven-volume-integration/fused/volume-03/004.md",
+   "canon_path": "manuscript/volume-03/004.md",
    "bytes": 32445,
    "sha256": "b949b2d6295031bdf4c6bce36eb43fe1afad24eb0046ea21f259b6827b0c1896",
+   "git_blob_sha1": "6c08b817f05bb34fa7f19e0b01727f1c8cff70b1",
    "hanzi": 9034,
    "orig_hanzi": 9041,
    "title": "# 走上六楼"
@@ -463,9 +556,11 @@
   {
    "vol": 3,
    "ch": "005",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-03\\005.md",
+   "path": "editorial/seven-volume-integration/fused/volume-03/005.md",
+   "canon_path": "manuscript/volume-03/005.md",
    "bytes": 35421,
    "sha256": "f414d9fb16b5ca5bc390f56cbf82248613e4712a07fdb5c5006416db6d5f82bf",
+   "git_blob_sha1": "8c107092f236362a5d290edb1711b016e623deaa",
    "hanzi": 9811,
    "orig_hanzi": 9005,
    "title": "# 好孩子"
@@ -473,9 +568,11 @@
   {
    "vol": 3,
    "ch": "006",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-03\\006.md",
+   "path": "editorial/seven-volume-integration/fused/volume-03/006.md",
+   "canon_path": "manuscript/volume-03/006.md",
    "bytes": 33023,
    "sha256": "b1c53d47b20988220bad18464912367e00c6cd21984b6895d56f8e22bdb418b1",
+   "git_blob_sha1": "3003e78c765034709b3bd0259b01d9a1b5b197b1",
    "hanzi": 9001,
    "orig_hanzi": 8187,
    "title": "# 资江边的车"
@@ -483,9 +580,11 @@
   {
    "vol": 3,
    "ch": "007",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-03\\007.md",
+   "path": "editorial/seven-volume-integration/fused/volume-03/007.md",
+   "canon_path": "manuscript/volume-03/007.md",
    "bytes": 48137,
    "sha256": "01e2ee6f386e522fbb38c1d064c11dadede4310a142760d713869f75cb5f2cf6",
+   "git_blob_sha1": "0c7b9c26a82dd0ce9235eee39364eab665fc16c1",
    "hanzi": 13271,
    "orig_hanzi": 9530,
    "title": "# 父亲回来以后"
@@ -493,9 +592,11 @@
   {
    "vol": 3,
    "ch": "008",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-03\\008.md",
+   "path": "editorial/seven-volume-integration/fused/volume-03/008.md",
+   "canon_path": "manuscript/volume-03/008.md",
    "bytes": 34737,
    "sha256": "679370344e87e4a190a74c2d86d0bc49e627cbd5113bd3174a55ccb9a44b1663",
+   "git_blob_sha1": "74370fb50fa24693b707dac677c51b84b5a69163",
    "hanzi": 9541,
    "orig_hanzi": 9000,
    "title": "# 春游那天"
@@ -503,9 +604,11 @@
   {
    "vol": 3,
    "ch": "009",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-03\\009.md",
+   "path": "editorial/seven-volume-integration/fused/volume-03/009.md",
+   "canon_path": "manuscript/volume-03/009.md",
    "bytes": 35724,
    "sha256": "4812d4076e2299297f9304d2b3902179d87c1c58a577b9235f3d63148e531810",
+   "git_blob_sha1": "d30bccd8dc34f18d8b7bcfa6fd71092470a623f7",
    "hanzi": 9777,
    "orig_hanzi": 8473,
    "title": "# 王培森在旁边"
@@ -513,9 +616,11 @@
   {
    "vol": 3,
    "ch": "010",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-03\\010.md",
+   "path": "editorial/seven-volume-integration/fused/volume-03/010.md",
+   "canon_path": "manuscript/volume-03/010.md",
    "bytes": 32118,
    "sha256": "98a7bd9dd378183ec21a626f69dcb4a8821da86fb0c1ecb5eb4098d4ecd96423",
+   "git_blob_sha1": "cb73266cb55fb5a11430874bcfe9c1951e76733d",
    "hanzi": 8890,
    "orig_hanzi": 8200,
    "title": "# 大扫除"
@@ -523,9 +628,11 @@
   {
    "vol": 3,
    "ch": "011",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-03\\011.md",
+   "path": "editorial/seven-volume-integration/fused/volume-03/011.md",
+   "canon_path": "manuscript/volume-03/011.md",
    "bytes": 29826,
    "sha256": "de3dbd776036d341702bab77b06f50a15ad75478037df50596bd12e6e20e6b18",
+   "git_blob_sha1": "7d370170c909e43fcebbc025701dcb0121802569",
    "hanzi": 8616,
    "orig_hanzi": 7910,
    "title": "# 丢了的五块钱"
@@ -533,9 +640,11 @@
   {
    "vol": 3,
    "ch": "012",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-03\\012.md",
+   "path": "editorial/seven-volume-integration/fused/volume-03/012.md",
+   "canon_path": "manuscript/volume-03/012.md",
    "bytes": 30891,
    "sha256": "19d7edfab8624df6369644fd432b621adb9439130f49ae10bbcf7c2f760263fb",
+   "git_blob_sha1": "76d01bf8a1f98a933667b52eb336467cebf4dc66",
    "hanzi": 8797,
    "orig_hanzi": 7605,
    "title": "# 被念出来的作文"
@@ -543,9 +652,11 @@
   {
    "vol": 3,
    "ch": "013",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-03\\013.md",
+   "path": "editorial/seven-volume-integration/fused/volume-03/013.md",
+   "canon_path": "manuscript/volume-03/013.md",
    "bytes": 32856,
    "sha256": "0ffd8eb4c9c9c5b09ed983afd5cf3ca0c2205b444c729d31493e42dd9d0f9cff",
+   "git_blob_sha1": "16ff74f2b8be5052c355f9353fc04f4363ec7900",
    "hanzi": 9172,
    "orig_hanzi": 8001,
    "title": "# 校门口的小卖部"
@@ -553,9 +664,11 @@
   {
    "vol": 3,
    "ch": "014",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-03\\014.md",
+   "path": "editorial/seven-volume-integration/fused/volume-03/014.md",
+   "canon_path": "manuscript/volume-03/014.md",
    "bytes": 33871,
    "sha256": "398b9e1601c832b2f5cfaee6dfce55479467639c55c74a1da1d09ea0fb3ef05d",
+   "git_blob_sha1": "03162a509884f4d211ae7d0112ac412284e9f1eb",
    "hanzi": 9325,
    "orig_hanzi": 8259,
    "title": "# 她也有别的朋友"
@@ -563,9 +676,11 @@
   {
    "vol": 3,
    "ch": "015",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-03\\015.md",
+   "path": "editorial/seven-volume-integration/fused/volume-03/015.md",
+   "canon_path": "manuscript/volume-03/015.md",
    "bytes": 40430,
    "sha256": "0ea42c430409ef1694b4aec5f69042c778b578c3ad763f3b848ca1491d15f610",
+   "git_blob_sha1": "777e99636a938cff6dca2c15945eca8816bafac3",
    "hanzi": 11225,
    "orig_hanzi": 10224,
    "title": "# 两次东北行"
@@ -573,9 +688,11 @@
   {
    "vol": 3,
    "ch": "016",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-03\\016.md",
+   "path": "editorial/seven-volume-integration/fused/volume-03/016.md",
+   "canon_path": "manuscript/volume-03/016.md",
    "bytes": 39618,
    "sha256": "fb8ff5e043de83ce322de2e83f99849992fc427e41701d21592c5e5ac92bbe4a",
+   "git_blob_sha1": "8cec3efbb264cf1f27cd652383c80369a1cf2088",
    "hanzi": 10973,
    "orig_hanzi": 9714,
    "title": "# 毕业不只是一张照片"
@@ -583,9 +700,11 @@
   {
    "vol": 4,
    "ch": "001",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-04\\001.md",
+   "path": "editorial/seven-volume-integration/fused/volume-04/001.md",
+   "canon_path": "manuscript/volume-04/001.md",
    "bytes": 18908,
    "sha256": "a033bb7d85c39a1c230e9cfd17456dc85fc955e4b40bb2fe02f39692111b5f9e",
+   "git_blob_sha1": "289c4e94a5bae21dfd6d3aa0d90f614cfb42a344",
    "hanzi": 5542,
    "orig_hanzi": 4993,
    "title": "# 第一厨神"
@@ -593,9 +712,11 @@
   {
    "vol": 4,
    "ch": "002",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-04\\002.md",
+   "path": "editorial/seven-volume-integration/fused/volume-04/002.md",
+   "canon_path": "manuscript/volume-04/002.md",
    "bytes": 20346,
    "sha256": "f7b6f5aa93fb683216542babebc07cd1e8c70b0243ca49c90eea879a4202e19d",
+   "git_blob_sha1": "34e417192dcd841a05e229f3d9787927df61a37d",
    "hanzi": 5975,
    "orig_hanzi": 4237,
    "title": "# 面试之前"
@@ -603,9 +724,11 @@
   {
    "vol": 4,
    "ch": "003",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-04\\003.md",
+   "path": "editorial/seven-volume-integration/fused/volume-04/003.md",
+   "canon_path": "manuscript/volume-04/003.md",
    "bytes": 17463,
    "sha256": "cf047787162e11005753ab19420a882562386409ca1fc7ea6f00728f057f4db4",
+   "git_blob_sha1": "88b53346a80a2c5a3f5e189f3a0ebe648eabd482",
    "hanzi": 5171,
    "orig_hanzi": 4413,
    "title": "# 一九〇七"
@@ -613,9 +736,11 @@
   {
    "vol": 4,
    "ch": "004",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-04\\004.md",
+   "path": "editorial/seven-volume-integration/fused/volume-04/004.md",
+   "canon_path": "manuscript/volume-04/004.md",
    "bytes": 19008,
    "sha256": "fc53fb18ba8bf82125f02def29cdc4fcbe607bf1b6c012db5278aa64fdb7981e",
+   "git_blob_sha1": "cb8989b536b8de38f1cf0cb5bfca5290b3853bfb",
    "hanzi": 5591,
    "orig_hanzi": 4876,
    "title": "# 第三名"
@@ -623,9 +748,11 @@
   {
    "vol": 4,
    "ch": "005",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-04\\005.md",
+   "path": "editorial/seven-volume-integration/fused/volume-04/005.md",
+   "canon_path": "manuscript/volume-04/005.md",
    "bytes": 12237,
    "sha256": "c2e63b0fe024bda448d6f769f30baa7f3298624ae18b50bf0e04296b39fc332e",
+   "git_blob_sha1": "a8802f6f56c5c476d4dbb5d444e7754687ddb768",
    "hanzi": 3623,
    "orig_hanzi": 3403,
    "title": "# 八个人一间屋"
@@ -633,9 +760,11 @@
   {
    "vol": 4,
    "ch": "006",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-04\\006.md",
+   "path": "editorial/seven-volume-integration/fused/volume-04/006.md",
+   "canon_path": "manuscript/volume-04/006.md",
    "bytes": 10617,
    "sha256": "c7361d1fc94dd400a62e083142e812e5bbc00d7c9644d9281dfed5793d2bfeda",
+   "git_blob_sha1": "d9e29d5549f4f5de1d8aafdc11c49931be7d31aa",
    "hanzi": 3114,
    "orig_hanzi": 3115,
    "title": "# 营养餐"
@@ -643,9 +772,11 @@
   {
    "vol": 4,
    "ch": "007",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-04\\007.md",
-   "bytes": 19554,
-   "sha256": "82d47e121761dcb76515eaab702f7ef7400eb2dca2523025c03073b50454ac3a",
+   "path": "editorial/seven-volume-integration/fused/volume-04/007.md",
+   "canon_path": "manuscript/volume-04/007.md",
+   "bytes": 19281,
+   "sha256": "659c4cdaf3890491c1482b73a7d18e264a78c259fe06e792a246a8d295fbc326",
+   "git_blob_sha1": "2625b321d80f8397c24b5295cc48d326e7cec2a8",
    "hanzi": 5603,
    "orig_hanzi": 4171,
    "title": "# 讨嫌"
@@ -653,9 +784,11 @@
   {
    "vol": 4,
    "ch": "008",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-04\\008.md",
+   "path": "editorial/seven-volume-integration/fused/volume-04/008.md",
+   "canon_path": "manuscript/volume-04/008.md",
    "bytes": 14621,
    "sha256": "7a9cf12ddd41c3764fe05e8e8e21f73afbc52a5d960bf70c30071792f9a57fb7",
+   "git_blob_sha1": "cc3d0a325835de58f8048d0bfcfd1171754d1819",
    "hanzi": 4270,
    "orig_hanzi": 3968,
    "title": "# 小林子以后"
@@ -663,9 +796,11 @@
   {
    "vol": 4,
    "ch": "009",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-04\\009.md",
+   "path": "editorial/seven-volume-integration/fused/volume-04/009.md",
+   "canon_path": "manuscript/volume-04/009.md",
    "bytes": 15355,
    "sha256": "80f2cdc02b68aa66eed2deecaf3ff526c13527ae09ee9e6035f5755b3d9df653",
+   "git_blob_sha1": "ce2647e2408bc77876a1fef070d92deea9505856",
    "hanzi": 4524,
    "orig_hanzi": 4221,
    "title": "# 不肯举起来的手"
@@ -673,9 +808,11 @@
   {
    "vol": 4,
    "ch": "010",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-04\\010.md",
+   "path": "editorial/seven-volume-integration/fused/volume-04/010.md",
+   "canon_path": "manuscript/volume-04/010.md",
    "bytes": 10012,
    "sha256": "52b1ce0969f3d1ad4ef35794ed9e07854bfef10d2010ca094fd1e238c6efa9a5",
+   "git_blob_sha1": "06f19ab23f6e27076f663a3aa3851a4d3feb5ebc",
    "hanzi": 2900,
    "orig_hanzi": 2805,
    "title": "# 值日簿上的人"
@@ -683,9 +820,11 @@
   {
    "vol": 4,
    "ch": "011",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-04\\011.md",
-   "bytes": 11984,
-   "sha256": "86e770375d38075c422f9c059a3a08ecacf054ce209965d824d60eb732a5008b",
+   "path": "editorial/seven-volume-integration/fused/volume-04/011.md",
+   "canon_path": "manuscript/volume-04/011.md",
+   "bytes": 11834,
+   "sha256": "f3ac41056a139acdd1f45ac6c78eb1d1eb02f0ff86ade5fbe32952216f884c65",
+   "git_blob_sha1": "3bf5d783fd05db7e5c7a9066730878bead92f085",
    "hanzi": 3452,
    "orig_hanzi": 3452,
    "title": "# 寝室被扣分"
@@ -693,9 +832,11 @@
   {
    "vol": 4,
    "ch": "012",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-04\\012.md",
+   "path": "editorial/seven-volume-integration/fused/volume-04/012.md",
+   "canon_path": "manuscript/volume-04/012.md",
    "bytes": 13118,
    "sha256": "ad773ea8f6199e6d6984bfb913a50f2e4494491680207dd201eb749c3e4d060a",
+   "git_blob_sha1": "b4803196e500e355fbf97fa35a06144c33f16c40",
    "hanzi": 3845,
    "orig_hanzi": 3582,
    "title": "# 她讲故事的语文课"
@@ -703,9 +844,11 @@
   {
    "vol": 4,
    "ch": "013",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-04\\013.md",
+   "path": "editorial/seven-volume-integration/fused/volume-04/013.md",
+   "canon_path": "manuscript/volume-04/013.md",
    "bytes": 17438,
    "sha256": "0a9df44c6dd409315fc993d1018036e6a79a4ba34fd1ccf5d8c281eaf48cdbef",
+   "git_blob_sha1": "08618b732e58fe9207cb2b3ce42924ac9d92a775",
    "hanzi": 5153,
    "orig_hanzi": 4715,
    "title": "# 有人唱过一首歌"
@@ -713,9 +856,11 @@
   {
    "vol": 4,
    "ch": "014",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-04\\014.md",
+   "path": "editorial/seven-volume-integration/fused/volume-04/014.md",
+   "canon_path": "manuscript/volume-04/014.md",
    "bytes": 13437,
    "sha256": "cc1ac4d74bd7a7ecdb4fb08aa4e32b723aadbbc1616dfe32f7ccea0a0f4a9b66",
+   "git_blob_sha1": "7e4e0e739c0da134207768f1a1bf3b89a566f6f2",
    "hanzi": 3974,
    "orig_hanzi": 3803,
    "title": "# 班里别人的故事"
@@ -723,9 +868,11 @@
   {
    "vol": 4,
    "ch": "015",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-04\\015.md",
-   "bytes": 17046,
-   "sha256": "3ea800933f8422e3191378a39d6d300135daaf31a5164174b06c53089c499ceb",
+   "path": "editorial/seven-volume-integration/fused/volume-04/015.md",
+   "canon_path": "manuscript/volume-04/015.md",
+   "bytes": 16834,
+   "sha256": "6dc7088bac3e1e08e91014dcd5b60add9b19dc58f810b38b44b1d719e4b3785e",
+   "git_blob_sha1": "313123e877d6b44b73946797e2d9f7e432056182",
    "hanzi": 4949,
    "orig_hanzi": 4949,
    "title": "# 月假"
@@ -733,9 +880,11 @@
   {
    "vol": 4,
    "ch": "016",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-04\\016.md",
+   "path": "editorial/seven-volume-integration/fused/volume-04/016.md",
+   "canon_path": "manuscript/volume-04/016.md",
    "bytes": 12764,
    "sha256": "721efacd3b9b64a11efc0308452095d67a4b880afd7504f8d47635c808b2d5d6",
+   "git_blob_sha1": "09933901d63478a32c1dd8bb6389bb61df37a1d8",
    "hanzi": 3717,
    "orig_hanzi": 3616,
    "title": "# 写信后的普通一天"
@@ -743,9 +892,11 @@
   {
    "vol": 4,
    "ch": "017",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-04\\017.md",
+   "path": "editorial/seven-volume-integration/fused/volume-04/017.md",
+   "canon_path": "manuscript/volume-04/017.md",
    "bytes": 12028,
    "sha256": "2869cdf23aa4599cabe2e930a0b86dcae80ecb4bf6d41f6018feba5900a6928b",
+   "git_blob_sha1": "1cdac7c63457c2a822ec662bc650113d2f9abac6",
    "hanzi": 3562,
    "orig_hanzi": 3322,
    "title": "# 毕业照没有规定谁要难过"
@@ -753,9 +904,11 @@
   {
    "vol": 4,
    "ch": "018",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-04\\018.md",
+   "path": "editorial/seven-volume-integration/fused/volume-04/018.md",
+   "canon_path": "manuscript/volume-04/018.md",
    "bytes": 22265,
    "sha256": "411057882a3389c971c8268b66ccea1908d2dd6df1541d0d72b195c40574b50f",
+   "git_blob_sha1": "09d12c63b04753cf7e0904338b50142be17e7d58",
    "hanzi": 6595,
    "orig_hanzi": 6595,
    "title": "# 从金海出去"
@@ -763,9 +916,11 @@
   {
    "vol": 5,
    "ch": "001",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-05\\001.md",
+   "path": "editorial/seven-volume-integration/fused/volume-05/001.md",
+   "canon_path": "manuscript/volume-05/001.md",
    "bytes": 14670,
    "sha256": "4f02b00b1f577de80ab4ddee0488280810d02ba9d8d6a58df8911296bf7d0523",
+   "git_blob_sha1": "0a837bb3c83027de03dc75adecde8f8e12062607",
    "hanzi": 4251,
    "orig_hanzi": 3982,
    "title": "# 六张桌子挪完以后"
@@ -773,9 +928,11 @@
   {
    "vol": 5,
    "ch": "002",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-05\\002.md",
+   "path": "editorial/seven-volume-integration/fused/volume-05/002.md",
+   "canon_path": "manuscript/volume-05/002.md",
    "bytes": 12446,
    "sha256": "d111a348dcd21ef806b8f51bdb6e723b64ef19f2dd2e5eb640e2538c5faa5e82",
+   "git_blob_sha1": "7c0e40e208baeab3ad3a7bdb31dbad3a19833e67",
    "hanzi": 3546,
    "orig_hanzi": 3534,
    "title": "# 无解的方程组"
@@ -783,9 +940,11 @@
   {
    "vol": 5,
    "ch": "003",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-05\\003.md",
+   "path": "editorial/seven-volume-integration/fused/volume-05/003.md",
+   "canon_path": "manuscript/volume-05/003.md",
    "bytes": 13349,
    "sha256": "0f5864dab2b37c5fd477cc2e242695f05aa1fc8682aae6daf4b10b99e0f3d731",
+   "git_blob_sha1": "c58184a78a7f945b223469fd284bbe1e9a7366d6",
    "hanzi": 3871,
    "orig_hanzi": 3871,
    "title": "# 老师也可以被争辩"
@@ -793,9 +952,11 @@
   {
    "vol": 5,
    "ch": "004",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-05\\004.md",
+   "path": "editorial/seven-volume-integration/fused/volume-05/004.md",
+   "canon_path": "manuscript/volume-05/004.md",
    "bytes": 11819,
    "sha256": "e2c8356960d6d57390684cead660c666cf5b5f1d304f75746b066a26e0deca5b",
+   "git_blob_sha1": "7c9ac5658826590d580dd30363deb307c91e292b",
    "hanzi": 3466,
    "orig_hanzi": 3466,
    "title": "# 六个人"
@@ -803,9 +964,11 @@
   {
    "vol": 5,
    "ch": "005",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-05\\005.md",
+   "path": "editorial/seven-volume-integration/fused/volume-05/005.md",
+   "canon_path": "manuscript/volume-05/005.md",
    "bytes": 9337,
    "sha256": "a176d83ccfa778ec6098e96136f6aec1148d9dcb80ab2bd42b2fbf75adbce587",
+   "git_blob_sha1": "1795e7bd075a21f2652c7ce2322cc9bea86e426d",
    "hanzi": 2733,
    "orig_hanzi": 2733,
    "title": "# 李博涵没听我说完"
@@ -813,9 +976,11 @@
   {
    "vol": 5,
    "ch": "006",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-05\\006.md",
+   "path": "editorial/seven-volume-integration/fused/volume-05/006.md",
+   "canon_path": "manuscript/volume-05/006.md",
    "bytes": 13025,
    "sha256": "2bc6aa09c4cd912ddad8387d2775c8b39b2cfc4e854a165fede2c9d086fe85bb",
+   "git_blob_sha1": "431f4b9be9f18627458a308ea3ce3f504bb58990",
    "hanzi": 3819,
    "orig_hanzi": 3819,
    "title": "# 食堂后门"
@@ -823,9 +988,11 @@
   {
    "vol": 5,
    "ch": "007",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-05\\007.md",
+   "path": "editorial/seven-volume-integration/fused/volume-05/007.md",
+   "canon_path": "manuscript/volume-05/007.md",
    "bytes": 11973,
    "sha256": "932bc4f2d718562727c2bdac77ef70325a7f1a098203f27bc9d46e259fa60ca4",
+   "git_blob_sha1": "9b011dad41e1305583bbdacb4af0ce55041bfb7e",
    "hanzi": 3534,
    "orig_hanzi": 3534,
    "title": "# 四二六的晚上"
@@ -833,9 +1000,11 @@
   {
    "vol": 5,
    "ch": "008",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-05\\008.md",
+   "path": "editorial/seven-volume-integration/fused/volume-05/008.md",
+   "canon_path": "manuscript/volume-05/008.md",
    "bytes": 21883,
    "sha256": "78fc01f6e1c2900806c4f34c14c4ff0763f03f3e2d6bcfddfee1b185c7075659",
+   "git_blob_sha1": "710facaf50b593c287a059205196a452ee82f9d5",
    "hanzi": 6331,
    "orig_hanzi": 6331,
    "title": "# 两张成绩单"
@@ -843,9 +1012,11 @@
   {
    "vol": 5,
    "ch": "009",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-05\\009.md",
+   "path": "editorial/seven-volume-integration/fused/volume-05/009.md",
+   "canon_path": "manuscript/volume-05/009.md",
    "bytes": 15228,
    "sha256": "4a19742e46ad8464269cc23f1b8420b98bbbb6dc15d365cc4d2a79016892d515",
+   "git_blob_sha1": "92bfaa32e919c62ce731c34a7e47422d6399af26",
    "hanzi": 4389,
    "orig_hanzi": 4275,
    "title": "# 阿澈的另一张课表"
@@ -853,9 +1024,11 @@
   {
    "vol": 5,
    "ch": "010",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-05\\010.md",
+   "path": "editorial/seven-volume-integration/fused/volume-05/010.md",
+   "canon_path": "manuscript/volume-05/010.md",
    "bytes": 17070,
    "sha256": "79356699828c6c011e940283d1569e5df49b3878b3919fad77154c63f14843b0",
+   "git_blob_sha1": "6a09fc10171514de5e59586e05f8eb5ef5275844",
    "hanzi": 4980,
    "orig_hanzi": 4846,
    "title": "# 反手写字的人"
@@ -863,9 +1036,11 @@
   {
    "vol": 5,
    "ch": "011",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-05\\011.md",
+   "path": "editorial/seven-volume-integration/fused/volume-05/011.md",
+   "canon_path": "manuscript/volume-05/011.md",
    "bytes": 12888,
    "sha256": "282b3aa14343c95c8e6688c38dec4cfbbb4fabedd8651b340a67e0339e1389db",
+   "git_blob_sha1": "2e082aa2f9c48fedcc87945ca5d5749cf94dee2a",
    "hanzi": 3793,
    "orig_hanzi": 3793,
    "title": "# 两种回家的路"
@@ -873,9 +1048,11 @@
   {
    "vol": 5,
    "ch": "012",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-05\\012.md",
+   "path": "editorial/seven-volume-integration/fused/volume-05/012.md",
+   "canon_path": "manuscript/volume-05/012.md",
    "bytes": 12779,
    "sha256": "56c4bcb9e0b0b26e2a3e848420b37cd216af7d6dbe2ee7a2d08efdf760cfc240",
+   "git_blob_sha1": "a08750444d663895cbaa0a107b908bfe883b4032",
    "hanzi": 3773,
    "orig_hanzi": 3772,
    "title": "# 名单换了两次"
@@ -883,9 +1060,11 @@
   {
    "vol": 5,
    "ch": "013",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-05\\013.md",
+   "path": "editorial/seven-volume-integration/fused/volume-05/013.md",
+   "canon_path": "manuscript/volume-05/013.md",
    "bytes": 21779,
    "sha256": "cdcb7f0c39d91271a4c9db94ed0a9bcf78be25835252b261792f7f82409ef4d6",
+   "git_blob_sha1": "3f04ae88a8190f2ba6ce49f2c00ccfcb7539759d",
    "hanzi": 6428,
    "orig_hanzi": 6416,
    "title": "# 紫金港的一本笔记本"
@@ -893,9 +1072,11 @@
   {
    "vol": 5,
    "ch": "014",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-05\\014.md",
+   "path": "editorial/seven-volume-integration/fused/volume-05/014.md",
+   "canon_path": "manuscript/volume-05/014.md",
    "bytes": 17034,
    "sha256": "7f9d184a197400d71fd9cdf9ea825ea2b043b918be063d9e175a4e220d0fb218",
+   "git_blob_sha1": "30e725b2d4e2b968c08d6b1925a3ecd2ca742d5e",
    "hanzi": 4820,
    "orig_hanzi": 4820,
    "title": "# 那晚的海龟汤"
@@ -903,9 +1084,11 @@
   {
    "vol": 5,
    "ch": "015",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-05\\015.md",
+   "path": "editorial/seven-volume-integration/fused/volume-05/015.md",
+   "canon_path": "manuscript/volume-05/015.md",
    "bytes": 16603,
    "sha256": "e121fe90a575552b4797636ead8755e801e4460bb1cd0f7779a3adb2685c9964",
+   "git_blob_sha1": "0db363f2a9ca49c1280eaeee0db67758c7bf2304",
    "hanzi": 4912,
    "orig_hanzi": 4839,
    "title": "# 那个压缩包"
@@ -913,9 +1096,11 @@
   {
    "vol": 5,
    "ch": "016",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-05\\016.md",
+   "path": "editorial/seven-volume-integration/fused/volume-05/016.md",
+   "canon_path": "manuscript/volume-05/016.md",
    "bytes": 12506,
    "sha256": "6dda9b675b477fc2031e55aec337647a3d2cf4c8d9e9463cf6b16cd9bea91218",
+   "git_blob_sha1": "6ace3ad65987f13e9825111f7dd3149ab6082b12",
    "hanzi": 3663,
    "orig_hanzi": 3666,
    "title": "# 绳子松开以后"
@@ -923,9 +1108,11 @@
   {
    "vol": 5,
    "ch": "017",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-05\\017.md",
+   "path": "editorial/seven-volume-integration/fused/volume-05/017.md",
+   "canon_path": "manuscript/volume-05/017.md",
    "bytes": 14532,
    "sha256": "64fe40f52db3322e8f484c052d38db3a0118b2b361a55f79756150d838cbb828",
+   "git_blob_sha1": "d907e2c2d78f775bcaffe72a194077176308961c",
    "hanzi": 4237,
    "orig_hanzi": 4168,
    "title": "# 回头的人"
@@ -933,9 +1120,11 @@
   {
    "vol": 5,
    "ch": "018",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-05\\018.md",
+   "path": "editorial/seven-volume-integration/fused/volume-05/018.md",
+   "canon_path": "manuscript/volume-05/018.md",
    "bytes": 18884,
    "sha256": "fe385715c76544fe67403c0412b2a3ec477a33900c35c28b5124d4281c2a3918",
+   "git_blob_sha1": "e102799a988fe8ee28840dd61e8e286964e786b1",
    "hanzi": 5510,
    "orig_hanzi": 5514,
    "title": "# 第四把钥匙"
@@ -943,9 +1132,11 @@
   {
    "vol": 5,
    "ch": "019",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-05\\019.md",
+   "path": "editorial/seven-volume-integration/fused/volume-05/019.md",
+   "canon_path": "manuscript/volume-05/019.md",
    "bytes": 12236,
    "sha256": "d0b6b3a3c0d77636e6ab801a3f4e9eec3de59f3440d204ff3b35315d5253e90c",
+   "git_blob_sha1": "93007e1f935db6de20e89275e7058c9f79d05742",
    "hanzi": 3601,
    "orig_hanzi": 3606,
    "title": "# 不同的暑假"
@@ -953,9 +1144,11 @@
   {
    "vol": 6,
    "ch": "001",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-06\\001.md",
+   "path": "editorial/seven-volume-integration/fused/volume-06/001.md",
+   "canon_path": "manuscript/volume-06/001.md",
    "bytes": 21612,
    "sha256": "48c786dc20c89fdf8f74fb06b6dbb7b6fe7929f00e9d19b7b661ac205bd876af",
+   "git_blob_sha1": "fdf2f181690080ad83c0c6082bddf46e492b6e0f",
    "hanzi": 6195,
    "orig_hanzi": 6001,
    "title": "# 换了一层楼"
@@ -963,9 +1156,11 @@
   {
    "vol": 6,
    "ch": "002",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-06\\002.md",
-   "bytes": 20865,
-   "sha256": "2193646ea902d39d62c98be291f9421cc4606318b5d55f31ff82ab4cbf4f43be",
+   "path": "editorial/seven-volume-integration/fused/volume-06/002.md",
+   "canon_path": "manuscript/volume-06/002.md",
+   "bytes": 20704,
+   "sha256": "3d14da83408623c97bb2461212bd420e9bc1c6d3c1e2a29b500c64faec0e2024",
+   "git_blob_sha1": "319c94224354e134fad8d3999f875e6e7559f638",
    "hanzi": 6004,
    "orig_hanzi": 6004,
    "title": "# 第一张试卷"
@@ -973,9 +1168,11 @@
   {
    "vol": 6,
    "ch": "003",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-06\\003.md",
-   "bytes": 20843,
-   "sha256": "37bde71a9a0f316fd9dde90d017b0c17d7787ae0be52c0adc99388d07d81ea17",
+   "path": "editorial/seven-volume-integration/fused/volume-06/003.md",
+   "canon_path": "manuscript/volume-06/003.md",
+   "bytes": 20690,
+   "sha256": "c77ddc799aaf91090b588e3f4ba66581a5f03e253f52c25a2368ac04c8ce3d6f",
+   "git_blob_sha1": "a1e573995a6f68343448c809eff7ddfa4a6d97e8",
    "hanzi": 6009,
    "orig_hanzi": 6009,
    "title": "# 不止一位老师"
@@ -983,9 +1180,11 @@
   {
    "vol": 6,
    "ch": "004",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-06\\004.md",
+   "path": "editorial/seven-volume-integration/fused/volume-06/004.md",
+   "canon_path": "manuscript/volume-06/004.md",
    "bytes": 21340,
    "sha256": "89565dfb0edc9a27309c8eca0c6b792d72e31bddc944907527998796889b8dad",
+   "git_blob_sha1": "fce706f19600e7fa6cfa1d59edab4becf418fa3e",
    "hanzi": 6148,
    "orig_hanzi": 6108,
    "title": "# 喜欢却并不稳定的一科"
@@ -993,9 +1192,11 @@
   {
    "vol": 6,
    "ch": "005",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-06\\005.md",
-   "bytes": 24013,
-   "sha256": "404ce11b00c8788beb755d55c35121c26f84bfa371b8d43c50231124a74b562a",
+   "path": "editorial/seven-volume-integration/fused/volume-06/005.md",
+   "canon_path": "manuscript/volume-06/005.md",
+   "bytes": 23845,
+   "sha256": "fba69fe1dc5d15e058863270112900e930bfee4956ec3fad0628bbfddfde763d",
+   "git_blob_sha1": "72c58d25d61361f2443a65aa41a3a2eb134fa7e0",
    "hanzi": 6953,
    "orig_hanzi": 6953,
    "title": "# 第一名是哪一回"
@@ -1003,9 +1204,11 @@
   {
    "vol": 6,
    "ch": "006",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-06\\006.md",
-   "bytes": 22144,
-   "sha256": "fe7b7a5bfb1a2e1c9b9f0f893ea79d116453d395bbb39f2f02ea27587e684738",
+   "path": "editorial/seven-volume-integration/fused/volume-06/006.md",
+   "canon_path": "manuscript/volume-06/006.md",
+   "bytes": 22048,
+   "sha256": "e6a0480f02f8bfc99edc4c56ded6aff2a5494afb2af11ecf6f50c4666361e070",
+   "git_blob_sha1": "a2d9f8aabf1dd2e16e950958aa836186b02c0c73",
    "hanzi": 6532,
    "orig_hanzi": 6532,
    "title": "# 八十三"
@@ -1013,9 +1216,11 @@
   {
    "vol": 6,
    "ch": "007",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-06\\007.md",
-   "bytes": 21765,
-   "sha256": "790d43145d5f72d50bf9e29cbf70930b9ae0370f4f036cde461ebac22c88c922",
+   "path": "editorial/seven-volume-integration/fused/volume-06/007.md",
+   "canon_path": "manuscript/volume-06/007.md",
+   "bytes": 21640,
+   "sha256": "25483b9026a2d8e3b62cb9e19e9242353dcc748ca70af0fc12b39b2fd086516e",
+   "git_blob_sha1": "9fbae5bc23f09217510df726339d343efdbb4981",
    "hanzi": 6354,
    "orig_hanzi": 6354,
    "title": "# 校长信箱"
@@ -1023,9 +1228,11 @@
   {
    "vol": 6,
    "ch": "008",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-06\\008.md",
-   "bytes": 21224,
-   "sha256": "63ab1875c2c44faf07017a9f6a198c6fa00f4594241ce3c8da35428bb75762c7",
+   "path": "editorial/seven-volume-integration/fused/volume-06/008.md",
+   "canon_path": "manuscript/volume-06/008.md",
+   "bytes": 21095,
+   "sha256": "b5f43065650b473b14f9368edcbae57dae3d7ce460a787b5499137a2b7fa016d",
+   "git_blob_sha1": "0b339f2aed5f93efc8afe44767cb96c0748b8ed6",
    "hanzi": 6206,
    "orig_hanzi": 6206,
    "title": "# 有人笑了"
@@ -1033,9 +1240,11 @@
   {
    "vol": 6,
    "ch": "009",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-06\\009.md",
-   "bytes": 21969,
-   "sha256": "3bf32c0458997375092cc60ce12b260ce6a31f881985fa9cffdfd7440cdb2ac2",
+   "path": "editorial/seven-volume-integration/fused/volume-06/009.md",
+   "canon_path": "manuscript/volume-06/009.md",
+   "bytes": 21874,
+   "sha256": "48454ffdef4f50d81e20c00d3b9ee54d3497bd123ffef343470c41e6679ade73",
+   "git_blob_sha1": "09dbd9ab54dd5d61bc41782ddb5e697aabb82f52",
    "hanzi": 6420,
    "orig_hanzi": 6420,
    "title": "# 有人在门外做饭"
@@ -1043,9 +1252,11 @@
   {
    "vol": 6,
    "ch": "010",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-06\\010.md",
-   "bytes": 22299,
-   "sha256": "9c28c9f91a73048f424dcdbbada4ea7ad41ae414a2dea3443f435789de4bdef6",
+   "path": "editorial/seven-volume-integration/fused/volume-06/010.md",
+   "canon_path": "manuscript/volume-06/010.md",
+   "bytes": 22069,
+   "sha256": "2325572ee303d847feb73fcf1296b5abc9ecf4ee60a1ccc94364418bf860b7d2",
+   "git_blob_sha1": "9e92f4b4bfa400ca17550afedfa7c3dec7030e87",
    "hanzi": 6431,
    "orig_hanzi": 6431,
    "title": "# 宋俊豪的卷子"
@@ -1053,9 +1264,11 @@
   {
    "vol": 6,
    "ch": "011",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-06\\011.md",
-   "bytes": 22065,
-   "sha256": "2eadd7a2fa1b08878c358145af978021c2722e95df3cc74974b9345dd3aa19d3",
+   "path": "editorial/seven-volume-integration/fused/volume-06/011.md",
+   "canon_path": "manuscript/volume-06/011.md",
+   "bytes": 21964,
+   "sha256": "76d6bc7c0bd6b7a5f17685d801158dcf98c09a29702008cd5cf1329345e731d9",
+   "git_blob_sha1": "9d8997cba4b42574adc79918725257274256e95d",
    "hanzi": 6466,
    "orig_hanzi": 6466,
    "title": "# 九班来的朋友"
@@ -1063,9 +1276,11 @@
   {
    "vol": 6,
    "ch": "012",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-06\\012.md",
+   "path": "editorial/seven-volume-integration/fused/volume-06/012.md",
+   "canon_path": "manuscript/volume-06/012.md",
    "bytes": 21265,
-   "sha256": "458aa3e954924428e5d87a18ea41e22c6a6b580ba279ba003225ea8b0c292d9a",
+   "sha256": "1687ce0846f99903ead5782d1f75ac67170593361ac7735df270c9d8983b07c0",
+   "git_blob_sha1": "11832aaa93e7552650eabafc34e9da7f2be71b8b",
    "hanzi": 6272,
    "orig_hanzi": 6272,
    "title": "# 礼物还没送出去"
@@ -1073,9 +1288,11 @@
   {
    "vol": 6,
    "ch": "013",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-06\\013.md",
-   "bytes": 21383,
-   "sha256": "c750a7ffa17b34b349542c125536869df3988e94ef32d74401d97b3dd5b6e24e",
+   "path": "editorial/seven-volume-integration/fused/volume-06/013.md",
+   "canon_path": "manuscript/volume-06/013.md",
+   "bytes": 21284,
+   "sha256": "ea24bc957dcea17720b44e4061c03f3fcca7e105c71cd6c4ad4253730131eadc",
+   "git_blob_sha1": "b40a1aa5f10a5f25c07d6a828e85d198a0d59de7",
    "hanzi": 6316,
    "orig_hanzi": 6316,
    "title": "# 二班门口"
@@ -1083,9 +1300,11 @@
   {
    "vol": 6,
    "ch": "014",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-06\\014.md",
-   "bytes": 21403,
-   "sha256": "66b048772b5913645972cde32055d2849c676d8dae6e752fd119141cdbeffccc",
+   "path": "editorial/seven-volume-integration/fused/volume-06/014.md",
+   "canon_path": "manuscript/volume-06/014.md",
+   "bytes": 21300,
+   "sha256": "3e507848dc552ed612fb27107427e4c3e2f035f87301382d1db873f76f0bb45c",
+   "git_blob_sha1": "363ee451fd66e589765e6a7335cd877b083ee429",
    "hanzi": 6288,
    "orig_hanzi": 6288,
    "title": "# 四百米"
@@ -1093,9 +1312,11 @@
   {
    "vol": 6,
    "ch": "015",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-06\\015.md",
-   "bytes": 21523,
-   "sha256": "24682e8771d20fd4c5457e681a35f1e0a72870e29f9262c42c0934802cbd3e97",
+   "path": "editorial/seven-volume-integration/fused/volume-06/015.md",
+   "canon_path": "manuscript/volume-06/015.md",
+   "bytes": 21460,
+   "sha256": "2c7d9bce66f1f32fa2abe3fd34042cabf5de87262d324a67c7e11cd86f38e78b",
+   "git_blob_sha1": "73a4113d9652c18a19a125693aa15cfadbf95e63",
    "hanzi": 6375,
    "orig_hanzi": 6375,
    "title": "# 倒数第二次模拟"
@@ -1103,9 +1324,11 @@
   {
    "vol": 6,
    "ch": "016",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-06\\016.md",
-   "bytes": 20944,
-   "sha256": "533aaa3766023a410c7bdb19a668428ed1264091823e50f4b8d652b3f1407c85",
+   "path": "editorial/seven-volume-integration/fused/volume-06/016.md",
+   "canon_path": "manuscript/volume-06/016.md",
+   "bytes": 20790,
+   "sha256": "6f3883949a245801f1785a6771eacbd9007f5b2f5a9b1a92eaf0f64a2e7d3c43",
+   "git_blob_sha1": "f60c28bd223ff31c6ddd021af71fe6805879e881",
    "hanzi": 6210,
    "orig_hanzi": 6210,
    "title": "# 南开与四川"
@@ -1113,9 +1336,11 @@
   {
    "vol": 6,
    "ch": "017",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-06\\017.md",
-   "bytes": 20642,
-   "sha256": "281900d86c1d0d311c25d10625c86b47d98642e022621012a5649d5b164bcc96",
+   "path": "editorial/seven-volume-integration/fused/volume-06/017.md",
+   "canon_path": "manuscript/volume-06/017.md",
+   "bytes": 20593,
+   "sha256": "6abbe57f843fe2ee43b9d4f82bfd65068b60c6876b7d5fd6207586ca8e6c1795",
+   "git_blob_sha1": "b35ada8aad5c119ca6e3ed05601424d3b83d96f3",
    "hanzi": 6181,
    "orig_hanzi": 6181,
    "title": "# 把教室搬过去"
@@ -1123,9 +1348,11 @@
   {
    "vol": 6,
    "ch": "018",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-06\\018.md",
-   "bytes": 21003,
-   "sha256": "80cdcbbe030c5ed52e78f09f0369de5a560c77b8cb7f5d6a0770af40b0888e20",
+   "path": "editorial/seven-volume-integration/fused/volume-06/018.md",
+   "canon_path": "manuscript/volume-06/018.md",
+   "bytes": 20956,
+   "sha256": "a952dafe3d5b1831784b016463450b92c63dc9570446265d402c5edf785254f5",
+   "git_blob_sha1": "9131e3d13d9de5cb7abc71a9c2893f6efdc86da4",
    "hanzi": 6280,
    "orig_hanzi": 6280,
    "title": "# 没考完的夜里"
@@ -1133,9 +1360,11 @@
   {
    "vol": 6,
    "ch": "019",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-06\\019.md",
-   "bytes": 20656,
-   "sha256": "7d66d73206f4b23b760e2b1ee96cf6653f55e959a3621d82055c6ce5636c3661",
+   "path": "editorial/seven-volume-integration/fused/volume-06/019.md",
+   "canon_path": "manuscript/volume-06/019.md",
+   "bytes": 20625,
+   "sha256": "9cbe8e34d77c31274d1f5ac460a2e12404a6e7fc4f0a47a94f90472773b976ac",
+   "git_blob_sha1": "bf63f40657214733d95391db77dbe45b53d61cca",
    "hanzi": 6213,
    "orig_hanzi": 6213,
    "title": "# 最后一张答卷"
@@ -1143,9 +1372,11 @@
   {
    "vol": 6,
    "ch": "020",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-06\\020.md",
-   "bytes": 22449,
-   "sha256": "65a4d0e81d2f448d653641b7e59f1b71791a67ddf9591212db8253575203b4df",
+   "path": "editorial/seven-volume-integration/fused/volume-06/020.md",
+   "canon_path": "manuscript/volume-06/020.md",
+   "bytes": 22325,
+   "sha256": "2e07a2d89f101fdc929a34fe7d16099b31477b998b7c34be9c8885c21231c828",
+   "git_blob_sha1": "3f92e6d15ddc37e1c0cac4cb33c136e241d7a266",
    "hanzi": 6681,
    "orig_hanzi": 6681,
    "title": "# 那以后还要见面"
@@ -1153,9 +1384,11 @@
   {
    "vol": 7,
    "ch": "001",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-07\\001.md",
+   "path": "editorial/seven-volume-integration/fused/volume-07/001.md",
+   "canon_path": "manuscript/volume-07/001.md",
    "bytes": 17616,
    "sha256": "b7b713f5c9524f3b1e2058a068b8844ffefa847731aa24f6fea76a1aa75f9c7b",
+   "git_blob_sha1": "97c28a384d8bcecb4e4ab2a0bd6279ed930901b1",
    "hanzi": 5053,
    "orig_hanzi": 4038,
    "title": "# 通知书到家"
@@ -1163,9 +1396,11 @@
   {
    "vol": 7,
    "ch": "002",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-07\\002.md",
+   "path": "editorial/seven-volume-integration/fused/volume-07/002.md",
+   "canon_path": "manuscript/volume-07/002.md",
    "bytes": 15035,
    "sha256": "48a0016331b8161abb7849bd8f4fd536e78a9769a27acb982b24b08ad66cc10f",
+   "git_blob_sha1": "a37da95dc79ecbb60d09eff52eebc977b6883b73",
    "hanzi": 4241,
    "orig_hanzi": 4241,
    "title": "# 两个人的房间"
@@ -1173,9 +1408,11 @@
   {
    "vol": 7,
    "ch": "003",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-07\\003.md",
+   "path": "editorial/seven-volume-integration/fused/volume-07/003.md",
+   "canon_path": "manuscript/volume-07/003.md",
    "bytes": 17144,
    "sha256": "e364051157b384fdbb0865fd91f4e2e20f7dca6fe042e2a77784138a9097f2ab",
+   "git_blob_sha1": "ae60d645e10811a992bfb125267a4b7a011cedd2",
    "hanzi": 4660,
    "orig_hanzi": 4520,
    "title": "# 先来打招呼的人"
@@ -1183,9 +1420,11 @@
   {
    "vol": 7,
    "ch": "004",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-07\\004.md",
+   "path": "editorial/seven-volume-integration/fused/volume-07/004.md",
+   "canon_path": "manuscript/volume-07/004.md",
    "bytes": 18283,
    "sha256": "596690c5b472f49f4f7dba5730320311ac894f6b751b155f467ef90f938ab5e6",
+   "git_blob_sha1": "404972df1f3ddba949d63187c87baa6d27c36de3",
    "hanzi": 5217,
    "orig_hanzi": 4766,
    "title": "# 右边的桌子"
@@ -1193,9 +1432,11 @@
   {
    "vol": 7,
    "ch": "005",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-07\\005.md",
+   "path": "editorial/seven-volume-integration/fused/volume-07/005.md",
+   "canon_path": "manuscript/volume-07/005.md",
    "bytes": 15936,
    "sha256": "25cd9cc84c26bd3a9874ab7261b1df798c1e77bc9e673c63a9bcb46709d1991b",
+   "git_blob_sha1": "a06849e89f463390f56b71a73f5a4edef5eec8fb",
    "hanzi": 4506,
    "orig_hanzi": 4482,
    "title": "# 第一张课表"
@@ -1203,9 +1444,11 @@
   {
    "vol": 7,
    "ch": "006",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-07\\006.md",
+   "path": "editorial/seven-volume-integration/fused/volume-07/006.md",
+   "canon_path": "manuscript/volume-07/006.md",
    "bytes": 16115,
    "sha256": "931ccc0c3fc6fa3eb469140c940e304bc05b8b605f4670e260f73fae7ca7d75f",
+   "git_blob_sha1": "0bb532bb4b748259012017bd30b51b2bd9b5713e",
    "hanzi": 4614,
    "orig_hanzi": 4161,
    "title": "# 难题没给我名次"
@@ -1213,9 +1456,11 @@
   {
    "vol": 7,
    "ch": "007",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-07\\007.md",
+   "path": "editorial/seven-volume-integration/fused/volume-07/007.md",
+   "canon_path": "manuscript/volume-07/007.md",
    "bytes": 14609,
    "sha256": "160105c4210781236f5f8f3714eff2b84c93a1885085613c97321202ff66c58c",
+   "git_blob_sha1": "b94358153752deccb908b29d5371ac587aefda19",
    "hanzi": 4032,
    "orig_hanzi": 4032,
    "title": "# 饭桌上渐渐坐满"
@@ -1223,9 +1468,11 @@
   {
    "vol": 7,
    "ch": "008",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-07\\008.md",
+   "path": "editorial/seven-volume-integration/fused/volume-07/008.md",
+   "canon_path": "manuscript/volume-07/008.md",
    "bytes": 15722,
    "sha256": "b482ef144f22b82ea37f9b347799686475cf388035dcdd600cfd725fd4e522f8",
+   "git_blob_sha1": "4d5faf1992b965e55d0b1186e33794bcec85b380",
    "hanzi": 4475,
    "orig_hanzi": 4475,
    "title": "# 拍摄表"
@@ -1233,9 +1480,11 @@
   {
    "vol": 7,
    "ch": "009",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-07\\009.md",
+   "path": "editorial/seven-volume-integration/fused/volume-07/009.md",
+   "canon_path": "manuscript/volume-07/009.md",
    "bytes": 13548,
    "sha256": "3657548e243fe2f046ff5b7d6dc7c6c1ed44b0f37a73ade0852f3f051dbbe1a8",
+   "git_blob_sha1": "3e63bae38c9464ee36f567386106f5b3f2ff6c1a",
    "hanzi": 3874,
    "orig_hanzi": 3874,
    "title": "# 摄影机不归一个人"
@@ -1243,9 +1492,11 @@
   {
    "vol": 7,
    "ch": "010",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-07\\010.md",
+   "path": "editorial/seven-volume-integration/fused/volume-07/010.md",
+   "canon_path": "manuscript/volume-07/010.md",
    "bytes": 15731,
    "sha256": "70d6e45b4883c3f20bccb5e66fc6143068747b173acdfd625fae931f63007542",
+   "git_blob_sha1": "fa7db38010d35d2b133dd72c4936fda251c831c7",
    "hanzi": 4566,
    "orig_hanzi": 4566,
    "title": "# 电脑里第二个世界"
@@ -1253,9 +1504,11 @@
   {
    "vol": 7,
    "ch": "011",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-07\\011.md",
+   "path": "editorial/seven-volume-integration/fused/volume-07/011.md",
+   "canon_path": "manuscript/volume-07/011.md",
    "bytes": 15600,
    "sha256": "7f5b919e58add9a68bb550c00af06d101b13ce8abfda4a160a4b200e0fda5783",
+   "git_blob_sha1": "0d8bbd4010d54048777f4fed8d5498810c67e727",
    "hanzi": 4292,
    "orig_hanzi": 4292,
    "title": "# 几个人同时在线"
@@ -1263,9 +1516,11 @@
   {
    "vol": 7,
    "ch": "012",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-07\\012.md",
+   "path": "editorial/seven-volume-integration/fused/volume-07/012.md",
+   "canon_path": "manuscript/volume-07/012.md",
    "bytes": 16086,
    "sha256": "98615e54430a33e73852ceed1e9b259366ba6195c81170387d0fcdef2ade7461",
+   "git_blob_sha1": "a1c773c9eef63eaccbe0456715bc6e52823783df",
    "hanzi": 4697,
    "orig_hanzi": 4697,
    "title": "# 物理和AI之间"
@@ -1273,9 +1528,11 @@
   {
    "vol": 7,
    "ch": "013",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-07\\013.md",
+   "path": "editorial/seven-volume-integration/fused/volume-07/013.md",
+   "canon_path": "manuscript/volume-07/013.md",
    "bytes": 15211,
    "sha256": "40753c247f9b080b4b798642aa35e8da3696a37c04763b1ad902da73ea311af9",
+   "git_blob_sha1": "6da877ca5a34d2ab36f59aeea46a33db10ad81ae",
    "hanzi": 4225,
    "orig_hanzi": 4225,
    "title": "# 父亲能听懂多少"
@@ -1283,9 +1540,11 @@
   {
    "vol": 7,
    "ch": "014",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-07\\014.md",
+   "path": "editorial/seven-volume-integration/fused/volume-07/014.md",
+   "canon_path": "manuscript/volume-07/014.md",
    "bytes": 19669,
    "sha256": "d8a8d41e243b2a1063b509c3a2a43ae745a598c11878706cff573624c1db4bc5",
+   "git_blob_sha1": "6d4ea043406464eeabedd6dcb35b80cd7c5903ed",
    "hanzi": 5470,
    "orig_hanzi": 5470,
    "title": "# 西安不是一张合照"
@@ -1293,9 +1552,11 @@
   {
    "vol": 7,
    "ch": "015",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-07\\015.md",
+   "path": "editorial/seven-volume-integration/fused/volume-07/015.md",
+   "canon_path": "manuscript/volume-07/015.md",
    "bytes": 20109,
    "sha256": "b83c62e7c5423c43fd5bf98a9a2d55b18463d2c432c223dc9e6acb6fea11e033",
+   "git_blob_sha1": "1038c4ae12f4b00dce40e5e1953557f2aaa9f109",
    "hanzi": 5788,
    "orig_hanzi": 5788,
    "title": "# 照片里没有发生的事"
@@ -1303,9 +1564,11 @@
   {
    "vol": 7,
    "ch": "016",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-07\\016.md",
+   "path": "editorial/seven-volume-integration/fused/volume-07/016.md",
+   "canon_path": "manuscript/volume-07/016.md",
    "bytes": 15843,
    "sha256": "566bfacaaf2ea2ca1b56bff681950299cce99e5fdc96050ec7e8ae102aebfca9",
+   "git_blob_sha1": "ac3ce01c5e92f3ec12a407765df53c094532c9a6",
    "hanzi": 4507,
    "orig_hanzi": 4507,
    "title": "# 第一次出国"
@@ -1313,9 +1576,11 @@
   {
    "vol": 7,
    "ch": "017",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-07\\017.md",
+   "path": "editorial/seven-volume-integration/fused/volume-07/017.md",
+   "canon_path": "manuscript/volume-07/017.md",
    "bytes": 17336,
    "sha256": "a82b46be03a6aa7505e8e9a2e46777aafd9038aa06c71bfa33c790b1a3dc113e",
+   "git_blob_sha1": "6169a4771db692886ae3bd387c2825ad9680ee70",
    "hanzi": 4923,
    "orig_hanzi": 4923,
    "title": "# 复杂性小组"
@@ -1323,9 +1588,11 @@
   {
    "vol": 7,
    "ch": "018",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-07\\018.md",
+   "path": "editorial/seven-volume-integration/fused/volume-07/018.md",
+   "canon_path": "manuscript/volume-07/018.md",
    "bytes": 18731,
    "sha256": "4c9a36c001ab3fc1ce68be3903b8f8c4d00fd1850c33fb24589e536679dddbeb",
+   "git_blob_sha1": "aa88036f05d1d604f9bf6199b811a5dccaf7d510",
    "hanzi": 5310,
    "orig_hanzi": 5312,
    "title": "# 优胜小组以后"
@@ -1333,9 +1600,11 @@
   {
    "vol": 7,
    "ch": "019",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-07\\019.md",
+   "path": "editorial/seven-volume-integration/fused/volume-07/019.md",
+   "canon_path": "manuscript/volume-07/019.md",
    "bytes": 19878,
    "sha256": "95b3f6ab0d7ebc350158b0aa4b2f01c3bb805ed99d55a76fcc21f02ad6b755e1",
+   "git_blob_sha1": "e01e8d0f5e718e2ed45844e9bd05736eb31900af",
    "hanzi": 5481,
    "orig_hanzi": 5481,
    "title": "# 比赛还没开始"
@@ -1343,9 +1612,11 @@
   {
    "vol": 7,
    "ch": "020",
-   "path": "D:\\The Memory\\tmp\\integ\\editorial\\seven-volume-integration\\fused\\volume-07\\020.md",
+   "path": "editorial/seven-volume-integration/fused/volume-07/020.md",
+   "canon_path": "manuscript/volume-07/020.md",
    "bytes": 18188,
    "sha256": "ae2cdc94375be635f54b157b23c3aa4d77d481b90070a41df2e3d49fc13bd879",
+   "git_blob_sha1": "08e54ab02ac25b0ac4df3d630441f2bac77ff728",
    "hanzi": 5252,
    "orig_hanzi": 5252,
    "title": "# 不是公司的员工"
@@ -1354,59 +1625,57 @@
  "volstat": {
   "1": {
    "chapters": 18,
-   "fused_hanzi": 140363,
+   "hanzi": 140363,
    "orig_hanzi": 138952,
    "delta": 1411
   },
   "2": {
    "chapters": 24,
-   "fused_hanzi": 183623,
+   "hanzi": 183706,
    "orig_hanzi": 172099,
-   "delta": 11524
+   "delta": 11607
   },
   "3": {
    "chapters": 16,
-   "fused_hanzi": 158374,
+   "hanzi": 158374,
    "orig_hanzi": 140227,
    "delta": 18147
   },
   "4": {
    "chapters": 18,
-   "fused_hanzi": 81560,
+   "hanzi": 81560,
    "orig_hanzi": 74236,
    "delta": 7324
   },
   "5": {
    "chapters": 19,
-   "fused_hanzi": 81657,
+   "hanzi": 81657,
    "orig_hanzi": 80985,
    "delta": 672
   },
   "6": {
    "chapters": 20,
-   "fused_hanzi": 126534,
+   "hanzi": 126534,
    "orig_hanzi": 126300,
    "delta": 234
   },
   "7": {
    "chapters": 20,
-   "fused_hanzi": 95183,
+   "hanzi": 95183,
    "orig_hanzi": 93102,
    "delta": 2081
   }
  },
  "total": {
   "chapters": 135,
-  "orig": 825901,
-  "fused": 867294,
-  "delta": 41393
+  "hanzi": 867377,
+  "orig_hanzi": 825901,
+  "delta": 41476
  },
  "issues": [
-  [
-   "blockquote_meta",
-   1,
-   "011.md",
-   "\n> "
-  ]
+  "前任自评发现并已修复：符雄辉性别6处男性代词（作者裁定为女性）",
+  "前任误改刘逸凡->刘弈帆24处已回退（数学课代表与物理课代表是两个人）",
+  "V2-018 取蛋糕收束与问GPT细节已补回",
+  "V1-011 的 blockquote 为赵问竹书面评价正文引用，原稿main已有，扫描误报，保留"
  ]
 }
