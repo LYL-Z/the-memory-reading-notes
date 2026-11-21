@@ -24,7 +24,7 @@ jobs:
       - name: Recompute official hanzi total from the 135 canonical paths
         shell: bash
         run: |
-          mapfile -t files < <(find manuscript -name '*.md' | sort)
+          mapfile -t files < <(find manuscript/volume-0{1..7} -maxdepth 1 -type f -name '[0-9][0-9][0-9].md' | sort)
           echo "canonical files: ${#files[@]}"
           test "${#files[@]}" -eq 135
           python scripts/hanzi_count.py "${files[@]}" | tail -n 1
