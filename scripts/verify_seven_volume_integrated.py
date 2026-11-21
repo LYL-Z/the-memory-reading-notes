@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""七部一百三十五章正典验证器（2026-11-21 基线）。
+"""七部一百三十五章正典验证器（现行文学精修V1.1基线）。
 
 与 verify_six_volume_integrated.py 的关系：后者是六部 115 章的历史验收证据，
 按当时基线冻结，不再修改，也不用于当前正典。本脚本是当前正典的唯一验证入口。
 
-基线来自 editorial/seven-volume-integration/2026-11-21-chapter-canon.tsv，
+基线来自 editorial/literary-finalization/2026-11-21-v1.1-chapter-canon.tsv（保留2026-11-21七卷融合快照不改写），
 该表由实际正文生成：每章 git blob SHA1、SHA256、官方汉字数（scripts/hanzi_count.py，
 排除标题/frontmatter/代码围栏/HTML 注释）。
 
@@ -26,11 +26,11 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, os.path.join(ROOT, "scripts"))
 import hanzi_count as H  # noqa: E402
 
-CANON = os.path.join(ROOT, "editorial", "seven-volume-integration",
-                     "2026-11-21-chapter-canon.tsv")
+CANON = os.path.join(ROOT, "editorial", "literary-finalization",
+                     "2026-11-21-v1.1-chapter-canon.tsv")
 EXPECTED = {1: 18, 2: 24, 3: 16, 4: 18, 5: 19, 6: 20, 7: 20}
 TOTAL_CHAPTERS = 135
-TOTAL_HANZI = 867377
+TOTAL_HANZI = 866731
 
 # 作者裁定与档案硬事实的定点断言
 FUXIONGHUI_BAD = [
@@ -175,7 +175,7 @@ def main():
 
     out = {
         "verifier": "verify_seven_volume_integrated.py",
-        "baseline": "2026-11-21-chapter-canon.tsv",
+        "baseline": "2026-11-21-v1.1-chapter-canon.tsv",
         "chapters": len(seen),
         "official_hanzi": total,
         "checks_run": len(checks),
