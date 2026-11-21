@@ -22,9 +22,9 @@
   },
   "manuscript_repository": "LYL-Z/the-memory-reading-notes",
   "chapters_total": 135,
-  "hanzi_total": 852747,
+  "hanzi_total": 852695,
   "hanzi_original_baseline": 825901,
-  "hanzi_net_delta": 26846,
+  "hanzi_net_delta": 26794,
   "volume_order": [
     {
       "n": 1,
@@ -70,9 +70,9 @@
       "n": 6,
       "title": "未写完的纸",
       "chapters": 20,
-      "hanzi": 114722,
+      "hanzi": 114670,
       "orig_hanzi": 126300,
-      "delta": -11578
+      "delta": -11630
     },
     {
       "n": 7,
@@ -173,7 +173,7 @@
       "V6-020"
     ],
     "frozen_v1_1_canon_unchanged": true,
-    "net_official_hanzi": -13984
+    "net_official_hanzi": -14036
   },
   "previous_literary_revision": {
     "base_main_sha": "f2cb17b9d6853a0a0d86e8eb506e89ad3b9e51b9",
