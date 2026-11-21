@@ -129,7 +129,7 @@
     "protected_sentences": "PASS",
     "name_continuity_audit": "PASS",
     "main_merged": "PASS",
-    "github_actions": "PENDING_V1_2_CI",
+    "github_actions": "PASS_MAIN_V1_2",
     "literary_cross_volume_cold_read": "PARTIAL",
     "publication_third_party_rights": "OPEN",
     "human_blind_readers": 0,
@@ -153,7 +153,7 @@
   "main_merge_pr": 92,
   "main_merge_pr_url": "https://github.com/LYL-Z/the-memory-reading-notes/pull/92",
   "current_branch": "main",
-  "current_count_status": "135/135 V1_2_PR_PENDING_CI",
+  "current_count_status": "135/135 VERIFIED_ON_MAIN_V1_2",
   "main_merge_commit_sha": "058c7742705dda505c43b822f34ebd74a27c3f1f",
   "main_merge_verified_at": "2026-11-21T10:20:00Z",
   "main_head_at_merge": "058c7742705dda505c43b822f34ebd74a27c3f1f",
@@ -164,7 +164,7 @@
   "current_revision": {
     "base_main_sha": "f6b043edae4e47d1519d5ca97b909fd259a07276",
     "branch": "literary/v1.2-fourth-key-exams-20261121",
-    "stage": "PR_CANDIDATE",
+    "stage": "MERGED_IN_MAIN_AND_CI_VERIFIED",
     "changed_chapters": [
       "V5-018",
       "V6-017",
@@ -173,7 +173,10 @@
       "V6-020"
     ],
     "frozen_v1_1_canon_unchanged": true,
-    "net_official_hanzi": -13308
+    "net_official_hanzi": -13308,
+    "pr_number": 98,
+    "merge_commit_sha": "14648669abdc6552539845b39381f3aa19ca0480",
+    "ci_run_url": "https://github.com/LYL-Z/the-memory-reading-notes/actions/runs/44904800643"
   },
   "previous_literary_revision": {
     "base_main_sha": "f2cb17b9d6853a0a0d86e8eb506e89ad3b9e51b9",
