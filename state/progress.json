@@ -159,5 +159,6 @@
   "main_head_at_merge": "058c7742705dda505c43b822f34ebd74a27c3f1f",
   "previous_main_sha": "607008acea75f373c9abd93a2bf11d4988132792",
   "integration_branch_head": "7e030c586ea35c3d1b085d42490b2c43f9f662e0",
-  "post_merge_report": "editorial/seven-volume-integration/FINAL-MERGE-REPORT.md"
+  "post_merge_report": "editorial/seven-volume-integration/FINAL-MERGE-REPORT.md",
+  "post_merge_report_commit_sha": "dcfa4dd920605391d5749651fcd02302032621f1"
 }
