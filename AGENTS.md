@@ -36,6 +36,10 @@
 
 稿子交给读者之前，读一遍它的声音，问一句它是不是非得属于这本书，再看一遍哪些地方删去会使生活变薄。多模型合稿应保住各稿最有生命的句子，不把所有人的声音熨平。
 
+## 作者的思考
+
+第九部《作者的思考》保留作者对现实科技、经济与社会问题的声音。它可以尖锐、口语化，有大胆的质疑与尚未解开的判断；但不可将财经预测、传闻和观点冒充已确认事实。旧稿与发表时的新校订可以并列，不能因为事后知道结果，就悄悄改写作者原来如何思考。第九部不必模仿前八部的小说场景格式。
+
 ## 写作时放在手边的东西
 
 先看[声音样本](editorial/creative-charter/VOICE-SAMPLES.md)，体会场景为什么成立。再按[简明后台制度](editorial/creative-charter/OPERATING-RULES.md)保持事实与创作的边界，使用[材料卡](editorial/creative-charter/templates/material-card.md)、[人物卡](editorial/creative-charter/templates/character-card.md)和[章节任务书](editorial/creative-charter/templates/chapter-brief.md)组织本章。具体项目状态、章目及版本入口见 [README](README.md)；旧制度的效力见[冲突清单](editorial/creative-charter/2026-11-20-policy-crosswalk.md)。写正文时，以宪章、相关样本和本章任务为手边的读物，后台只保留必要的边界提示。
