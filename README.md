@@ -83,7 +83,7 @@ python scripts/verify_seven_volume_integrated.py
 作者在2026-11-21决定新增第九部**《作者的思考》**：收录独立科技、商业及社会观察，不再受前七部小说情节顺序限制。首章为作者于Anthropic上市前写成的原稿，全文入库，另设核查记录和上市后补记候选，不因2026-11-19已上市而覆盖历史原文。
 
 - [第九部入口](manuscript/volume-09/README.md) · [001《Anthropic：安全、资本与万亿估值的危险游戏》](manuscript/volume-09/001-Anthropic-安全资本与万亿估值的危险游戏.md)
-- [原文保存](editorial/volume09/2026-11-21-ch01-author-verbatim.md) · [事实核查](editorial/volume09/2026-11-21-ch01-fact-check.md) · [上市后补记候选](editorial/volume09/2026-11-21-ch01-post-ipo-afterword-candidate.md)
+- [原文保存](editorial/volume09/2026-11-21-ch01-author-verbatim.md) · [事实核查](editorial/volume09/2026-11-21-ch01-fact-check.md) · [已采纳的上市后附录](manuscript/volume-09/001-Anthropic-安全资本与万亿估值的危险游戏.md#附录上市以后问题还在) · [附录采纳记录](editorial/volume09/2026-11-21-ch01-appendix-acceptance.md)
 - 第一至七部135章、867,377字的冻结统计**不变**；第八部仍为独立候选设计。第九部目前一章，作者原稿中的现实主张不等同于已核实的出版稿。
 
 ## 创作入口｜作者宪章与后台制度分离（2026-11-20）
