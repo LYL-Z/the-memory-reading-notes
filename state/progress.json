@@ -5,7 +5,7 @@
   "kind": "fused_seven_volume_canonical_manuscript",
   "current_branch_target": "main",
   "integration_branch": "integration/seven-volume-literary-unification-20261120",
-  "integration_status": "FUSED_VERIFIED_PENDING_MERGE",
+  "integration_status": "MERGED_IN_MAIN_VERIFIED",
   "previous_canon": {
     "schema_version": "2026-11-14-six-volume-canon",
     "chapters_total": 115,
@@ -128,13 +128,14 @@
     "liuyifan_name_reversion": "PASS",
     "protected_sentences": "PASS",
     "name_continuity_audit": "PASS",
-    "main_merged": "PENDING",
-    "github_actions": "PENDING",
+    "main_merged": "PASS",
+    "github_actions": "PASS",
     "literary_cross_volume_cold_read": "PARTIAL",
     "publication_third_party_rights": "OPEN",
     "human_blind_readers": 0,
     "source_vault_comprehensive_full_read": "NOT_CLAIMED",
-    "world_class_claim": "NOT_MADE"
+    "world_class_claim": "NOT_MADE",
+    "post_merge_independent_verification": "PASS"
   },
   "historical_validators": {
     "six_volume": "scripts/verify_six_volume_integrated.py",
@@ -151,6 +152,12 @@
   "current_verification": "editorial/seven-volume-integration/FINAL-VERIFICATION.md",
   "main_merge_pr": 92,
   "main_merge_pr_url": "https://github.com/LYL-Z/the-memory-reading-notes/pull/92",
-  "current_branch": "integration/seven-volume-literary-unification-20261120",
-  "current_count_status": "135/135 VERIFIED_ON_INTEGRATION_BRANCH"
+  "current_branch": "main",
+  "current_count_status": "135/135 VERIFIED_ON_MAIN_AT_MERGE_COMMIT",
+  "main_merge_commit_sha": "058c7742705dda505c43b822f34ebd74a27c3f1f",
+  "main_merge_verified_at": "2026-11-21T10:20:00Z",
+  "main_head_at_merge": "058c7742705dda505c43b822f34ebd74a27c3f1f",
+  "previous_main_sha": "607008acea75f373c9abd93a2bf11d4988132792",
+  "integration_branch_head": "7e030c586ea35c3d1b085d42490b2c43f9f662e0",
+  "post_merge_report": "editorial/seven-volume-integration/FINAL-MERGE-REPORT.md"
 }
