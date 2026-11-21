@@ -1,13 +1,10 @@
-name: Six-volume manuscript integrity
+# 历史工作流：验证 2026-11-14 六部 115 章基线。
+# 2026-11-21 起正典为七部 135 章，当前闸门是 seven-volume-integrity.yml。
+# 本工作流与 scripts/verify_six_volume_integrated.py 一并保留为历史验收证据，
+# 不再随 push/PR 自动运行；对当前正文运行它会失败，这是预期行为，不是回归。
+name: Six-volume manuscript integrity (historical, 2026-11-14 baseline)
 on:
-  push:
-    branches: [main, "integration/six-volume-canon-20261114"]
-  pull_request:
-    paths:
-      - "manuscript/**"
-      - "editorial/six-volume-integration/2026-11-14-chapter-canon.tsv"
-      - "scripts/verify_six_volume_integrated.py"
-      - ".github/workflows/six-volume-integrity.yml"
+  workflow_dispatch:
 jobs:
   verify:
     runs-on: ubuntu-latest
