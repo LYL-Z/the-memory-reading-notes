@@ -2,7 +2,7 @@
 
 > **七部统一融合正文｜135章｜2026-11-21。** 这是一部依据真实生活、人物回忆与独立文学重构创作的非线性自传体长篇小说。整合的是**工作主线正文**，不意味着出版许可、文学定稿、世界级水准认证或已完成真正陌生读者盲读。此前“六部115章”的README与项目状态已移入历史档案，**不再是当前项目状态**。
 
-## 现行七部：135章，867,377官方汉字
+## 现行七部：135章，866,731官方汉字（文学定点精修V1.1）
 
 | 卷 | 书名 | 章节 | 原稿汉字 | 正典汉字 | 净增 |
 |---|---|---:|---:|---:|---:|
@@ -10,22 +10,22 @@
 | Ⅱ | [名单上的人](manuscript/volume-02/) | 24 | 172,099 | 183,706 | +11,607 |
 | Ⅲ | [家里的另一种时间](manuscript/volume-03/) | 16 | 140,227 | 158,374 | +18,147 |
 | Ⅳ | [叫我名字的人](manuscript/volume-04/) | 18 | 74,236 | 81,560 | +7,324 |
-| Ⅴ | [换座之后](manuscript/volume-05/) | 19 | 80,985 | 81,657 | +672 |
+| Ⅴ | [换座之后](manuscript/volume-05/) | 19 | 80,985 | 81,293 | +308 |
 | Ⅵ | [未写完的纸](manuscript/volume-06/) | 20 | 126,300 | 126,534 | +234 |
-| Ⅶ | [远方不是结尾](manuscript/volume-07/) | 20 | 93,102 | 95,183 | +2,081 |
-| **总计** | | **135** | **825,901** | **867,377** | **+41,476** |
+| Ⅶ | [远方不是结尾](manuscript/volume-07/) | 20 | 93,102 | 94,901 | +1,799 |
+| **总计** | | **135** | **825,901** | **866,731** | **+40,830** |
 
-全部数字由官方计数器 `scripts/hanzi_count.py` 对 135 个真实路径显式复算，**排除章题、frontmatter、代码围栏与 HTML 注释**。前任总编辑报告的 868,003 采用 `[\u4e00-\u9fff]` 且**包含 135 个章题**，两者相差 709 字即章题；对外一律使用官方口径。
+全部数字采用官方计数器 `scripts/hanzi_count.py` 的口径（排除章题、frontmatter、代码围栏和HTML注释），两章修改的现行字数和哈希已写入V1.1正典表；PR #97的GitHub七卷完整性验证已实际通过。历史PR #92的官方正典为867,377汉字，前任含章题的粗计数为868,003字，**均不再是V1.1现行正文的数字**。
 
-**唯一现行正典是 `manuscript/`。** `editorial/seven-volume-integration/fused/` 是本轮**冻结的整合交付快照**，与正典逐字节一致，仅供追溯，**不是并列的第二个正式版本**。V6-018A《草稿纸》、V7-001A《如果多一张车票》保持在 135 章之外，不纳入正式目录。
+**唯一现行正典是 `manuscript/`。** `editorial/seven-volume-integration/fused/` 是**PR #92冻结的历史融合交付快照**，V1.1对第五部010与第七部010进行了定点文学改写，因此该快照不再与当前正典逐字节完全相同，仅供追溯，**不是并列的第二个正式版本**。V6-018A《草稿纸》、V7-001A《如果多一张车票》保持在 135 章之外，不纳入正式目录。
 
-**精确到单章的来源与哈希**：[七卷正典表](editorial/seven-volume-integration/2026-11-21-chapter-canon.tsv)（135行，含 git blob SHA1／SHA256／官方汉字数）· [逐章取舍台账](editorial/seven-volume-integration/135-chapter-selection-ledger.tsv) · [接收回执](editorial/seven-volume-integration/INTEGRATION-RECEIPT.md) · [最终核验](editorial/seven-volume-integration/FINAL-VERIFICATION.md)。可在检出的仓库根目录执行：
+**精确到单章的现行来源与哈希**：[V1.1七卷正典表](editorial/literary-finalization/2026-11-21-v1.1-chapter-canon.tsv)（[PR #92历史正典表](editorial/seven-volume-integration/2026-11-21-chapter-canon.tsv)保持冻结）（135行，含 git blob SHA1／SHA256／官方汉字数）· [逐章取舍台账](editorial/seven-volume-integration/135-chapter-selection-ledger.tsv) · [接收回执](editorial/seven-volume-integration/INTEGRATION-RECEIPT.md) · [最终核验](editorial/seven-volume-integration/FINAL-VERIFICATION.md)。可在检出的仓库根目录执行：
 
 ```bash
 python scripts/verify_seven_volume_integrated.py
 ```
 
-核验逻辑检查 **135章、七卷统计、逐章 Git blob SHA1 与 SHA256、官方汉字数、章节序号与章题格式、冲突标记与乱码、候选稿元信息混入**，并对作者裁定的硬事实作定点断言（符雄辉为女性、刘逸凡≠刘弈帆、赵问竹线五处保护句、V4-007 七字、V3-013 无幽灵对白、新加坡二十七人）。当前 **1108 项检查、0 失败**。不对文学效果作机械评分。
+核验逻辑检查 **135章、七卷统计、逐章 Git blob SHA1 与 SHA256、官方汉字数、章节序号与章题格式、冲突标记与乱码、候选稿元信息混入**，并对作者裁定的硬事实作定点断言（符雄辉为女性、刘逸凡≠刘弈帆、赵问竹线五处保护句、V4-007 七字、V3-013 无幽灵对白、新加坡二十七人）。V1.1在PR #97已完成 **1108项检查、0失败**；历史PR #92亦曾完成 **1108项检查、0失败**，不得把那次结果冒充本轮的独立测试。不对文学效果作机械评分。
 
 旧六卷验证器 `scripts/verify_six_volume_integrated.py` 与其 2026-11-14 基线**原样保留为历史验收证据**，未改数字迁就新正典；对应工作流已退为手动回放，不再是当前闸门。对当前正文运行它会失败，这是预期行为。
 
