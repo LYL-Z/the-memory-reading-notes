@@ -1,13 +1,19 @@
 {
-  "schema_version": "2026-11-14-six-volume-canon",
+  "schema_version": "2026-11-21-seven-volume-canon",
   "project": "时间的复数人称",
-  "as_of": "2026-11-14",
-  "kind": "selected_six_volume_working_manuscript",
+  "as_of": "2026-11-21",
+  "kind": "fused_seven_volume_canonical_manuscript",
   "current_branch_target": "main",
-  "integration_branch": "integration/six-volume-canon-20261114",
-  "integration_status": "INTEGRATED_IN_MAIN_VERIFIED",
-  "original_main_backup_branch": "archive/main-pre-six-volume-20261114",
-  "previous_main_sha": "12ac7ee9342b93a9cbf091095562b205321237b7",
+  "integration_branch": "integration/seven-volume-literary-unification-20261120",
+  "integration_status": "FUSED_VERIFIED_PENDING_MERGE",
+  "previous_canon": {
+    "schema_version": "2026-11-14-six-volume-canon",
+    "chapters_total": 115,
+    "hanzi_total": 732799,
+    "main_merge_pr": 77,
+    "main_merge_commit_sha": "2ba6be83bbde5717b4ef516927a92c090b4df6ce",
+    "snapshot": "state/archive/progress-pre-seven-volume-20261121.json"
+  },
   "source_repository": {
     "name": "LYL-Z/the-memory",
     "branch": "master",
@@ -15,122 +21,136 @@
     "writable": false
   },
   "manuscript_repository": "LYL-Z/the-memory-reading-notes",
-  "chapters_total": 115,
-  "hanzi_total": 732799,
+  "chapters_total": 135,
+  "hanzi_total": 867377,
+  "hanzi_original_baseline": 825901,
+  "hanzi_net_delta": 41476,
   "volume_order": [
     {
       "n": 1,
       "title": "现在有人回头",
       "chapters": 18,
-      "hanzi": 138952,
-      "source": "PR76"
+      "hanzi": 140363,
+      "orig_hanzi": 138952,
+      "delta": 1411
     },
     {
       "n": 2,
       "title": "名单上的人",
       "chapters": 24,
-      "hanzi": 172099,
-      "source": "PR76"
+      "hanzi": 183706,
+      "orig_hanzi": 172099,
+      "delta": 11607
     },
     {
       "n": 3,
       "title": "家里的另一种时间",
       "chapters": 16,
-      "hanzi": 140227,
-      "source": "PR76"
+      "hanzi": 158374,
+      "orig_hanzi": 140227,
+      "delta": 18147
     },
     {
       "n": 4,
       "title": "叫我名字的人",
       "chapters": 18,
-      "hanzi": 74236,
-      "source": "PR76"
+      "hanzi": 81560,
+      "orig_hanzi": 74236,
+      "delta": 7324
     },
     {
       "n": 5,
       "title": "换座之后",
       "chapters": 19,
-      "hanzi": 80985,
-      "source": "PR76"
+      "hanzi": 81657,
+      "orig_hanzi": 80985,
+      "delta": 672
     },
     {
       "n": 6,
       "title": "未写完的纸",
       "chapters": 20,
-      "hanzi": 126300,
-      "source": "PR69_R4_except_010_016_020_PR72_R5_2"
+      "hanzi": 126534,
+      "orig_hanzi": 126300,
+      "delta": 234
+    },
+    {
+      "n": 7,
+      "title": "远方不是结尾",
+      "chapters": 20,
+      "hanzi": 95183,
+      "orig_hanzi": 93102,
+      "delta": 2081
     }
   ],
-  "selected_sources": {
-    "volumes_01_to_05": {
-      "pr": 76,
-      "sha": "eff78c949e13578234d4bac386d918fa1245a9d3"
-    },
-    "volume_06_base": {
-      "pr": 69,
-      "sha": "d9c6f20edc361ec2a2ad6c54962fa8055ebab520"
-    },
-    "volume_06_010_016_020": {
-      "pr": 72,
-      "sha": "ca7d95489b566f84632787c5fbfcc51be2b98b29"
-    },
-    "review_docs": [
-      64,
-      67,
-      68,
-      69,
-      71,
-      72,
-      73,
-      74,
-      75,
-      76
-    ],
-    "author_primary_answers": {
-      "pr": 70,
-      "copy_raw_public": false
+  "fusion_sources": {
+    "original_main": "607008acea75f373c9abd93a2bf11d4988132792",
+    "hy4_pr": 86,
+    "hy4_sha": "e1b5d2e25ebd313f7b1de23da0e14360c723d86d",
+    "qwen_pr": 87,
+    "qwen_sha": "e73f77e190742ccb47209843ae10f7cb29216d2c",
+    "volume07_baseline_pr": 84,
+    "volume07_baseline_sha": "73e82209db006c8a440ea4771161ec1f3c51c719",
+    "charter_pr": 90,
+    "integration_pr": 92,
+    "base_distribution": {
+      "ORIGINAL": 124,
+      "ORIGINAL+QWEN": 8,
+      "HY4": 2,
+      "PR92": 1
     }
   },
   "recount": {
     "verified": true,
-    "chapters_read_programmatically": 115,
+    "chapters_read_programmatically": 135,
     "word_counter": "scripts/hanzi_count.py",
-    "total_diff_against_pr76_five_volume_report": 468,
-    "volume_01_to_05_actual": 606499,
-    "volume_01_to_05_pr76_reported": 606031,
-    "manifests": "editorial/six-volume-integration/2026-11-14-chapter-canon.tsv",
-    "verifier": "scripts/verify_six_volume_integrated.py"
+    "counter_excludes": [
+      "frontmatter",
+      "code fences",
+      "HTML comments",
+      "all heading lines"
+    ],
+    "previous_editor_regex_count": 868003,
+    "difference_explained": "前任采用 [\\u4e00-\\u9fff] 且包含 135 个章题；官方计数器排除标题，差 709 字。本轮正典另含主代理补回的 83 字。",
+    "manifests": "editorial/seven-volume-integration/2026-11-21-chapter-canon.tsv",
+    "verifier": "scripts/verify_seven_volume_integrated.py",
+    "verifier_checks_run": 1108,
+    "verifier_checks_failed": 0
   },
   "status_gates": {
     "text_inventory": "PASS",
     "source_sha_selected": "PASS",
-    "main_merged": "PASS",
+    "fusion_receipt": "PASS",
+    "canonical_install": "PASS",
+    "official_recount": "PASS",
+    "seven_volume_verifier": "PASS",
+    "fuxionghui_gender_correction": "PASS",
+    "liuyifan_name_reversion": "PASS",
+    "protected_sentences": "PASS",
+    "name_continuity_audit": "PASS",
+    "main_merged": "PENDING",
+    "github_actions": "PENDING",
     "literary_cross_volume_cold_read": "PARTIAL",
     "publication_third_party_rights": "OPEN",
     "human_blind_readers": 0,
     "source_vault_comprehensive_full_read": "NOT_CLAIMED",
     "world_class_claim": "NOT_MADE"
   },
-  "open_literary_risks": [
-    "Volume 06 R4 005/006/007 and 012/013 repeated scenes and explanation; compressed R5 candidates withheld",
-    "Volumes 04/05 are much thinner than the first three and have distinct literary density problems",
-    "Cross-volume repeat phrases, quotations and text consistency still need a human cold read",
-    "Private third-party naming and interview material must be clearance-checked",
-    "Author-approved literary reconstruction must not be backported into source vault"
-  ],
-  "historical_snapshots": {
-    "progress": "state/archive/progress-pre-integration-20261114.json",
-    "next_actions": "state/archive/next-actions-pre-integration-20261114.md",
-    "readme": "editorial/archive/README-pre-integration-20261114.md",
-    "agents": "editorial/archive/AGENTS-pre-integration-20261114.md"
+  "historical_validators": {
+    "six_volume": "scripts/verify_six_volume_integrated.py",
+    "status": "RETAINED_AS_HISTORICAL_EVIDENCE_NOT_CURRENT_GATE",
+    "workflow": ".github/workflows/six-volume-integrity.yml (workflow_dispatch only)"
   },
-  "current_editorial": "editorial/six-volume-integration/2026-11-14-editorial-verdict.md",
-  "current_next_actions": "state/next_actions.md",
-  "main_merge_pr": 77,
-  "main_merge_pr_url": "https://github.com/LYL-Z/the-memory-reading-notes/pull/77",
-  "main_merge_commit_sha": "2ba6be83bbde5717b4ef516927a92c090b4df6ce",
-  "main_merge_verified_at": "2026-11-14T16:37:28Z",
-  "main_merge_integrity_run": "https://github.com/LYL-Z/the-memory-reading-notes/actions/runs/43616624507",
-  "current_branch": "main",
-  "current_count_status": "115/115 VERIFIED_ON_MAIN_AT_MERGE_COMMIT"
+  "frozen_delivery_snapshot": "editorial/seven-volume-integration/fused/",
+  "canonical_manuscript": "manuscript/",
+  "historical_candidates_excluded": [
+    "manuscript/volume-06/018A.md",
+    "manuscript/volume-07/001A.md"
+  ],
+  "current_editorial": "editorial/seven-volume-integration/INTEGRATION-RECEIPT.md",
+  "current_verification": "editorial/seven-volume-integration/FINAL-VERIFICATION.md",
+  "main_merge_pr": 92,
+  "main_merge_pr_url": "https://github.com/LYL-Z/the-memory-reading-notes/pull/92",
+  "current_branch": "integration/seven-volume-literary-unification-20261120",
+  "current_count_status": "135/135 VERIFIED_ON_INTEGRATION_BRANCH"
 }

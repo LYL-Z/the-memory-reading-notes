@@ -1,0 +1,30 @@
+name: Seven-volume manuscript integrity
+on:
+  push:
+    branches: [main, "integration/seven-volume-literary-unification-20261120"]
+  pull_request:
+    paths:
+      - "manuscript/**"
+      - "editorial/seven-volume-integration/2026-11-21-chapter-canon.tsv"
+      - "scripts/verify_seven_volume_integrated.py"
+      - "scripts/hanzi_count.py"
+      - ".github/workflows/seven-volume-integrity.yml"
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Verify seven-volume canon, provenance, official word counts and factual assertions
+        run: python scripts/verify_seven_volume_integrated.py
+      - name: Recompute official hanzi total from the 135 canonical paths
+        shell: bash
+        run: |
+          mapfile -t files < <(find manuscript -name '*.md' | sort)
+          echo "canonical files: ${#files[@]}"
+          test "${#files[@]}" -eq 135
+          python scripts/hanzi_count.py "${files[@]}" | tail -n 1

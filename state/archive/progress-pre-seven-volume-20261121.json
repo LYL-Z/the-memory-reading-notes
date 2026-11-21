@@ -1,0 +1,136 @@
+{
+  "schema_version": "2026-11-14-six-volume-canon",
+  "project": "时间的复数人称",
+  "as_of": "2026-11-14",
+  "kind": "selected_six_volume_working_manuscript",
+  "current_branch_target": "main",
+  "integration_branch": "integration/six-volume-canon-20261114",
+  "integration_status": "INTEGRATED_IN_MAIN_VERIFIED",
+  "original_main_backup_branch": "archive/main-pre-six-volume-20261114",
+  "previous_main_sha": "12ac7ee9342b93a9cbf091095562b205321237b7",
+  "source_repository": {
+    "name": "LYL-Z/the-memory",
+    "branch": "master",
+    "sha": "ef33c98d63b88283e840f5414db154eb9118c4e4",
+    "writable": false
+  },
+  "manuscript_repository": "LYL-Z/the-memory-reading-notes",
+  "chapters_total": 115,
+  "hanzi_total": 732799,
+  "volume_order": [
+    {
+      "n": 1,
+      "title": "现在有人回头",
+      "chapters": 18,
+      "hanzi": 138952,
+      "source": "PR76"
+    },
+    {
+      "n": 2,
+      "title": "名单上的人",
+      "chapters": 24,
+      "hanzi": 172099,
+      "source": "PR76"
+    },
+    {
+      "n": 3,
+      "title": "家里的另一种时间",
+      "chapters": 16,
+      "hanzi": 140227,
+      "source": "PR76"
+    },
+    {
+      "n": 4,
+      "title": "叫我名字的人",
+      "chapters": 18,
+      "hanzi": 74236,
+      "source": "PR76"
+    },
+    {
+      "n": 5,
+      "title": "换座之后",
+      "chapters": 19,
+      "hanzi": 80985,
+      "source": "PR76"
+    },
+    {
+      "n": 6,
+      "title": "未写完的纸",
+      "chapters": 20,
+      "hanzi": 126300,
+      "source": "PR69_R4_except_010_016_020_PR72_R5_2"
+    }
+  ],
+  "selected_sources": {
+    "volumes_01_to_05": {
+      "pr": 76,
+      "sha": "eff78c949e13578234d4bac386d918fa1245a9d3"
+    },
+    "volume_06_base": {
+      "pr": 69,
+      "sha": "d9c6f20edc361ec2a2ad6c54962fa8055ebab520"
+    },
+    "volume_06_010_016_020": {
+      "pr": 72,
+      "sha": "ca7d95489b566f84632787c5fbfcc51be2b98b29"
+    },
+    "review_docs": [
+      64,
+      67,
+      68,
+      69,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76
+    ],
+    "author_primary_answers": {
+      "pr": 70,
+      "copy_raw_public": false
+    }
+  },
+  "recount": {
+    "verified": true,
+    "chapters_read_programmatically": 115,
+    "word_counter": "scripts/hanzi_count.py",
+    "total_diff_against_pr76_five_volume_report": 468,
+    "volume_01_to_05_actual": 606499,
+    "volume_01_to_05_pr76_reported": 606031,
+    "manifests": "editorial/six-volume-integration/2026-11-14-chapter-canon.tsv",
+    "verifier": "scripts/verify_six_volume_integrated.py"
+  },
+  "status_gates": {
+    "text_inventory": "PASS",
+    "source_sha_selected": "PASS",
+    "main_merged": "PASS",
+    "literary_cross_volume_cold_read": "PARTIAL",
+    "publication_third_party_rights": "OPEN",
+    "human_blind_readers": 0,
+    "source_vault_comprehensive_full_read": "NOT_CLAIMED",
+    "world_class_claim": "NOT_MADE"
+  },
+  "open_literary_risks": [
+    "Volume 06 R4 005/006/007 and 012/013 repeated scenes and explanation; compressed R5 candidates withheld",
+    "Volumes 04/05 are much thinner than the first three and have distinct literary density problems",
+    "Cross-volume repeat phrases, quotations and text consistency still need a human cold read",
+    "Private third-party naming and interview material must be clearance-checked",
+    "Author-approved literary reconstruction must not be backported into source vault"
+  ],
+  "historical_snapshots": {
+    "progress": "state/archive/progress-pre-integration-20261114.json",
+    "next_actions": "state/archive/next-actions-pre-integration-20261114.md",
+    "readme": "editorial/archive/README-pre-integration-20261114.md",
+    "agents": "editorial/archive/AGENTS-pre-integration-20261114.md"
+  },
+  "current_editorial": "editorial/six-volume-integration/2026-11-14-editorial-verdict.md",
+  "current_next_actions": "state/next_actions.md",
+  "main_merge_pr": 77,
+  "main_merge_pr_url": "https://github.com/LYL-Z/the-memory-reading-notes/pull/77",
+  "main_merge_commit_sha": "2ba6be83bbde5717b4ef516927a92c090b4df6ce",
+  "main_merge_verified_at": "2026-11-14T16:37:28Z",
+  "main_merge_integrity_run": "https://github.com/LYL-Z/the-memory-reading-notes/actions/runs/43616624507",
+  "current_branch": "main",
+  "current_count_status": "115/115 VERIFIED_ON_MAIN_AT_MERGE_COMMIT"
+}
