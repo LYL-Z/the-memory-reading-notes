@@ -27,7 +27,7 @@ E = **B 骨架 + D 定点整段增量**。整段承接、同场景择一、不�
 | 4 | `manuscript/volume-04/NNN.md` | 部分为 `deepseek/V4-NNN-DEEPSEEK-CANDIDATE.md` |
 | 5 | `manuscript/volume-05/NNN.md` | — |
 | 6 | `manuscript/volume-06/NNN.md` | 部分 DS；014/018 有 A/DS 候选 |
-| **7** | **`work/m09/volume-07/NNN.md`**（注意不是 manuscript！） | `editorial/literary-revision/V7-NNN-CANDIDATE.md` |
+| **7** | **`work/m09/volume-07/NNN.md`**（注意不是 manuscript！） | `git show 8fa91e98:editorial/literary-revision/qwen-max/volume-07/V7-NNN-CANDIDATE.md`（含 qwen-max/volume-07/ 子目录） |
 
 A 版（基准）：`git show d2e8bce71df12efcb181a5e4b7833dddfbe93007:manuscript/volume-0N/NNN.md`（第七部 A 在对应路径）。
 
