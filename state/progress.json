@@ -129,7 +129,7 @@
     "protected_sentences": "PASS",
     "name_continuity_audit": "PASS",
     "main_merged": "PASS",
-    "github_actions": "PENDING_V1_1_CI",
+    "github_actions": "PASS_PR97_V1_1",
     "literary_cross_volume_cold_read": "PARTIAL",
     "publication_third_party_rights": "OPEN",
     "human_blind_readers": 0,
@@ -153,7 +153,7 @@
   "main_merge_pr": 92,
   "main_merge_pr_url": "https://github.com/LYL-Z/the-memory-reading-notes/pull/92",
   "current_branch": "main",
-  "current_count_status": "135/135 VERSIONED_V1_1_PENDING_GITHUB_ACTIONS",
+  "current_count_status": "135/135 VERIFIED_IN_PR97_AT_4ebc1db",
   "main_merge_commit_sha": "058c7742705dda505c43b822f34ebd74a27c3f1f",
   "main_merge_verified_at": "2026-11-21T10:20:00Z",
   "main_head_at_merge": "058c7742705dda505c43b822f34ebd74a27c3f1f",
@@ -164,11 +164,12 @@
   "current_revision": {
     "base_main_sha": "f2cb17b9d6853a0a0d86e8eb506e89ad3b9e51b9",
     "branch": "literary/final-prose-v1-1-20261121",
-    "stage": "PR_CANDIDATE",
+    "stage": "PR_CI_VERIFIED_READY_FOR_MERGE",
     "changed_chapters": [
       "V5-010",
       "V7-010"
     ],
-    "frozen_2026_11_21_seven_volume_snapshot_unchanged": true
+    "frozen_2026_11_21_seven_volume_snapshot_unchanged": true,
+    "ci_run_url": "https://github.com/LYL-Z/the-memory-reading-notes/actions/runs/44902018567"
   }
 }
