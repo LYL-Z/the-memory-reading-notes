@@ -22,9 +22,9 @@
   },
   "manuscript_repository": "LYL-Z/the-memory-reading-notes",
   "chapters_total": 135,
-  "hanzi_total": 852695,
+  "hanzi_total": 853423,
   "hanzi_original_baseline": 825901,
-  "hanzi_net_delta": 26794,
+  "hanzi_net_delta": 27522,
   "volume_order": [
     {
       "n": 1,
@@ -62,9 +62,9 @@
       "n": 5,
       "title": "换座之后",
       "chapters": 19,
-      "hanzi": 79121,
+      "hanzi": 79849,
       "orig_hanzi": 80985,
-      "delta": -1864
+      "delta": -1136
     },
     {
       "n": 6,
@@ -173,7 +173,7 @@
       "V6-020"
     ],
     "frozen_v1_1_canon_unchanged": true,
-    "net_official_hanzi": -14036
+    "net_official_hanzi": -13308
   },
   "previous_literary_revision": {
     "base_main_sha": "f2cb17b9d6853a0a0d86e8eb506e89ad3b9e51b9",
