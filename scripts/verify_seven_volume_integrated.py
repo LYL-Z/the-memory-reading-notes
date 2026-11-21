@@ -175,7 +175,7 @@ def main():
 
     out = {
         "verifier": "verify_seven_volume_integrated.py",
-        "baseline": "2026-11-21-v1.1-chapter-canon.tsv",
+        "baseline": os.path.basename(CANON),
         "chapters": len(seen),
         "official_hanzi": total,
         "checks_run": len(checks),
