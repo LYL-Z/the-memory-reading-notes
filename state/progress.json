@@ -5,7 +5,7 @@
   "kind": "fused_seven_volume_canonical_manuscript",
   "current_branch_target": "main",
   "integration_branch": "integration/seven-volume-literary-unification-20261120",
-  "integration_status": "FINAL_CLOSURE_PENDING_MERGE",
+  "integration_status": "FINAL_CLOSURE_MERGED_IN_MAIN_VERIFIED",
   "previous_canon": {
     "schema_version": "2026-11-14-six-volume-canon",
     "chapters_total": 115,
@@ -130,13 +130,14 @@
     "protected_sentences": "PASS",
     "name_continuity_audit": "PASS",
     "main_merged": "PASS",
-    "github_actions": "PASS_MAIN_V1_2",
+    "github_actions": "PASS",
     "literary_cross_volume_cold_read": "PARTIAL",
     "publication_third_party_rights": "OPEN",
     "human_blind_readers": 0,
     "source_vault_comprehensive_full_read": "NOT_CLAIMED",
     "world_class_claim": "NOT_MADE",
-    "post_merge_independent_verification": "PASS"
+    "post_merge_independent_verification": "PASS",
+    "final_closure_merged": "PASS"
   },
   "historical_validators": {
     "six_volume": "scripts/verify_six_volume_integrated.py",
@@ -154,7 +155,7 @@
   "main_merge_pr": 92,
   "main_merge_pr_url": "https://github.com/LYL-Z/the-memory-reading-notes/pull/92",
   "current_branch": "main",
-  "current_count_status": "135/135 VERIFIED_ON_CLOSURE_BRANCH_V1_3",
+  "current_count_status": "135/135 VERIFIED_ON_MAIN_V1_3",
   "main_merge_commit_sha": "058c7742705dda505c43b822f34ebd74a27c3f1f",
   "main_merge_verified_at": "2026-11-21T10:20:00Z",
   "main_head_at_merge": "058c7742705dda505c43b822f34ebd74a27c3f1f",
@@ -210,6 +211,13 @@
     "canon": "editorial/literary-finalization/2026-11-21-v1.3-chapter-canon.tsv",
     "verifier_checks_run": 1108,
     "verifier_checks_failed": 0,
-    "report": "editorial/literary-finalization/FINAL-CLOSURE-REPORT.md"
+    "report": "editorial/literary-finalization/FINAL-CLOSURE-REPORT.md",
+    "pr": 99,
+    "pr_url": "https://github.com/LYL-Z/the-memory-reading-notes/pull/99",
+    "merge_commit": "a711018ebec4bf46063ef84e5f59a16c16d06a04",
+    "previous_main": "0a85f7aea37ad98f14b613609570d103d5d00274",
+    "branch_head": "6f1c2d10d8fc4a8b2d9eb8140d8b99fae4b2910d",
+    "ci": "SUCCESS on PR 6f1c2d1 and main a711018",
+    "post_merge_verification": "PASS 1108/0 on independent main checkout"
   }
 }

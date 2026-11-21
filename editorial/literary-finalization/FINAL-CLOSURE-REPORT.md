@@ -130,3 +130,29 @@ PR、合并 commit 与 CI 结果见下节。
 - 未新增创作制度，未建立重复台账，未重开全书精修，未改动其余 130 章。
 
 **本轮到此结束。** 后续交由只读终验，不再改稿。
+---
+
+## F. 主支合并与合并后独立核验（收口后补记）
+
+| 项 | 值 |
+|---|---|
+| 收口 PR | [#99](https://github.com/LYL-Z/the-memory-reading-notes/pull/99) |
+| 状态 | **MERGED** |
+| **合并 commit / 合并后 main HEAD** | **`a711018ebec4bf46063ef84e5f59a16c16d06a04`** |
+| 合并前 main | `0a85f7aea37ad98f14b613609570d103d5d00274` |
+| 收口分支 HEAD | `6f1c2d10d8fc4a8b2d9eb8140d8b99fae4b2910d` |
+| 合并方式 | Merge commit，保留历史；未强推、未删除历史版本 |
+| 合并实际变更 | 6 文件，+527／−94；**正文仅 `manuscript/volume-05/018.md`** |
+
+**工程 CI**：`Seven-volume manuscript integrity` 的 `verify` 作业在 PR（`6f1c2d1`）与 main（`a711018`）上均 **SUCCESS**。
+PR 上另有第三方咨询机器人 `Cursor Bugbot` 处于 IN_PROGRESS，非必需闸门，未据其阻断合并；其结论若后续提出意见，属下一轮参考，不改变本轮收口。
+
+**合并后在独立检出的 main（`a711018`）上重跑**：
+
+- `scripts/verify_seven_volume_integrated.py` → **1108 项检查，0 失败**
+- 官方计数器显式 135 路径 → **854,867**
+- V5-018 恢复标记全部在位：第五把钥匙、「原处」语义反转、没在规定时间内全部解完、照片里一把钥匙也找不到
+- 新版 `AGENTS.md`／`CLAUDE.md`／`editorial/creative-charter/` 对合并前 main **零差异**
+- 事实仓 `the-memory`：HEAD ＝ `ef33c98d63b88283e840f5414db154eb9118c4e4`，工作区变更 **0**
+
+**结论不变：第一至七部 135 章统一文学正典收口已完成，无阻断主支验收的问题。本轮结束。**
