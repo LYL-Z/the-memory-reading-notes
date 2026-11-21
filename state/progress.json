@@ -1,5 +1,5 @@
 {
-  "schema_version": "2026-11-21-seven-volume-prose-v1.1",
+  "schema_version": "2026-11-21-seven-volume-prose-v1.2",
   "project": "时间的复数人称",
   "as_of": "2026-11-21",
   "kind": "fused_seven_volume_canonical_manuscript",
@@ -22,9 +22,9 @@
   },
   "manuscript_repository": "LYL-Z/the-memory-reading-notes",
   "chapters_total": 135,
-  "hanzi_total": 866731,
+  "hanzi_total": 852747,
   "hanzi_original_baseline": 825901,
-  "hanzi_net_delta": 40830,
+  "hanzi_net_delta": 26846,
   "volume_order": [
     {
       "n": 1,
@@ -62,17 +62,17 @@
       "n": 5,
       "title": "换座之后",
       "chapters": 19,
-      "hanzi": 81293,
+      "hanzi": 79121,
       "orig_hanzi": 80985,
-      "delta": 308
+      "delta": -1864
     },
     {
       "n": 6,
       "title": "未写完的纸",
       "chapters": 20,
-      "hanzi": 126534,
+      "hanzi": 114722,
       "orig_hanzi": 126300,
-      "delta": 234
+      "delta": -11578
     },
     {
       "n": 7,
@@ -112,7 +112,7 @@
     ],
     "previous_editor_regex_count": 868003,
     "difference_explained": "前任采用 [\\u4e00-\\u9fff] 且包含 135 个章题；官方计数器排除标题，差 709 字。本轮正典另含主代理补回的 83 字。",
-    "manifests": "editorial/literary-finalization/2026-11-21-v1.1-chapter-canon.tsv",
+    "manifests": "editorial/literary-finalization/2026-11-21-v1.2-chapter-canon.tsv",
     "verifier": "scripts/verify_seven_volume_integrated.py",
     "verifier_checks_run": 1108,
     "verifier_checks_failed": 0
@@ -129,7 +129,7 @@
     "protected_sentences": "PASS",
     "name_continuity_audit": "PASS",
     "main_merged": "PASS",
-    "github_actions": "PASS_MAIN_PR97_V1_1",
+    "github_actions": "PENDING_V1_2_CI",
     "literary_cross_volume_cold_read": "PARTIAL",
     "publication_third_party_rights": "OPEN",
     "human_blind_readers": 0,
@@ -148,12 +148,12 @@
     "manuscript/volume-06/018A.md",
     "manuscript/volume-07/001A.md"
   ],
-  "current_editorial": "editorial/literary-finalization/V1.1-LITERARY-DECISIONS.md",
-  "current_verification": "editorial/literary-finalization/2026-11-21-v1.1-chapter-canon.tsv",
+  "current_editorial": "editorial/literary-finalization/V1.2-STRUCTURAL-REVISIONS.md",
+  "current_verification": "editorial/literary-finalization/2026-11-21-v1.2-chapter-canon.tsv",
   "main_merge_pr": 92,
   "main_merge_pr_url": "https://github.com/LYL-Z/the-memory-reading-notes/pull/92",
   "current_branch": "main",
-  "current_count_status": "135/135 VERIFIED_IN_MAIN_PR97",
+  "current_count_status": "135/135 V1_2_PR_PENDING_CI",
   "main_merge_commit_sha": "058c7742705dda505c43b822f34ebd74a27c3f1f",
   "main_merge_verified_at": "2026-11-21T10:20:00Z",
   "main_head_at_merge": "058c7742705dda505c43b822f34ebd74a27c3f1f",
@@ -162,6 +162,20 @@
   "post_merge_report": "editorial/seven-volume-integration/FINAL-MERGE-REPORT.md",
   "post_merge_report_commit_sha": "dcfa4dd920605391d5749651fcd02302032621f1",
   "current_revision": {
+    "base_main_sha": "f6b043edae4e47d1519d5ca97b909fd259a07276",
+    "branch": "literary/v1.2-fourth-key-exams-20261121",
+    "stage": "PR_CANDIDATE",
+    "changed_chapters": [
+      "V5-018",
+      "V6-017",
+      "V6-018",
+      "V6-019",
+      "V6-020"
+    ],
+    "frozen_v1_1_canon_unchanged": true,
+    "net_official_hanzi": -13984
+  },
+  "previous_literary_revision": {
     "base_main_sha": "f2cb17b9d6853a0a0d86e8eb506e89ad3b9e51b9",
     "branch": "literary/final-prose-v1-1-20261121",
     "stage": "MERGED_IN_MAIN_AND_CI_VERIFIED",
