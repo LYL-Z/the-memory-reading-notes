@@ -1,0 +1,13 @@
+agent	role	concurrency_slot	state
+agent-01	第二部 009-012	1	READY
+agent-02	第二部 013-016	2	READY
+agent-03	第二部 017-020	3	READY
+agent-04	第二部 021-024	4	READY
+agent-05	第一部 001-004	5	READY
+agent-06	第一部 005-008	6	READY
+agent-07	第三部 001-004	7	READY
+agent-08	第四部 001-004	8	READY
+agent-09	第五部 001-004	9	READY
+agent-10	第六部 001-004	10	READY
+agent-11	第七部 未读四章	11	READY
+agent-12	质检抽检 + 事实仓人物页 4 份	12	READY
