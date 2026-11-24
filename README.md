@@ -80,7 +80,7 @@ python scripts/verify_seven_volume_integrated.py
 - [第八部 R3 三方案整合](editorial/volume08/2026-11-20-r3-integrated-design.md)：吸收作者转交Grok两方案及GPT-6上轮设计。
 - [第八部 GPT-6 上轮方案归档](editorial/volume08/2026-11-20-gpt6-r2-proposal.md)：四核心世界、二十个候选、远未来、多世界结局、开篇试写。
 - [Claude独立研究与40条创意补充](editorial/volume08/2026-11-20-claude-independent-research-supplement.md)：原文逐字归档、影视文学机制、40条构思与R2/R3对照，后续架构/试写全文待补。
-- 第八部暂定《没有发生的一生》，25—35万字/36—48章为设计目标，尚未冻结；不覆盖I—VII正文，不回写事实源仓。
+- **2026-11-24作者新方向：[第八部开放史诗设计工作室](editorial/volume08/2026-11-24-open-epic/README.md)**：八套候选、40个情节模块、文学/网文研究、原创试写与[Claude执行入口](editorial/volume08/2026-11-24-open-epic/07-claude-task.md)。不再设章数、字数上限；R2/R3旧容量仅历史参考。爱情、事业、家庭、架空皇家、古今与文明未来均可扩展，真名非性化使用与成熟题材沿用权益边界。卷名及架构仍待作者选择。PR #93独立候选保留；不覆盖I—VII、IX正文，不回写事实源仓。
 
 ## 第九部｜作者的思考（2026-11-21正式立项）
 
