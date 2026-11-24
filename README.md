@@ -80,7 +80,11 @@ python scripts/verify_seven_volume_integrated.py
 - [第八部 R3 三方案整合](editorial/volume08/2026-11-20-r3-integrated-design.md)：吸收作者转交Grok两方案及GPT-6上轮设计。
 - [第八部 GPT-6 上轮方案归档](editorial/volume08/2026-11-20-gpt6-r2-proposal.md)：四核心世界、二十个候选、远未来、多世界结局、开篇试写。
 - [Claude独立研究与40条创意补充](editorial/volume08/2026-11-20-claude-independent-research-supplement.md)：原文逐字归档、影视文学机制、40条构思与R2/R3对照，后续架构/试写全文待补。
-- **2026-11-24作者新方向：[第八部开放史诗设计工作室](editorial/volume08/2026-11-24-open-epic/README.md)**：八套候选、40个情节模块、文学/网文研究、原创试写与[Claude执行入口](editorial/volume08/2026-11-24-open-epic/07-claude-task.md)。不再设章数、字数上限；R2/R3旧容量仅历史参考。爱情、事业、家庭、架空皇家、古今与文明未来均可扩展，真名非性化使用与成熟题材沿用权益边界。卷名及架构仍待作者选择。PR #93独立候选保留；不覆盖I—VII、IX正文，不回写事实源仓。
+- **2026-11-24作者新方向：[第八部开放史诗设计工作室](editorial/volume08/2026-11-24-open-epic/README.md)**：八套架构、40个情节模块、文学/网文研究、原创试写与[Claude执行入口](editorial/volume08/2026-11-24-open-epic/07-claude-task.md)。不再设章数、字数上限；R2/R3旧容量仅历史参考。爱情、事业、家庭、架空皇家、古今与文明未来均可扩展，真名非性化使用与成熟题材沿用权益边界。卷名及架构仍待作者选择。PR #93独立候选保留；不覆盖I—VII、IX正文，不回写事实源仓。
+
+### 2026-11-24第二次作者裁定｜八系统全部采用
+
+[开放史诗V2：万世之我·时域纪元](editorial/volume08/2026-11-24-open-epic/integration-v2/README.md)（暂名）：[数学物理开篇](editorial/volume08/2026-11-24-open-epic/integration-v2/01-physics-and-opening.md)、[三类皇家世界](editorial/volume08/2026-11-24-open-epic/integration-v2/02-worlds-and-empire.md)、[爽感与社会人性](editorial/volume08/2026-11-24-open-epic/integration-v2/03-literary-craft.md)、[原创人物](editorial/volume08/2026-11-24-open-epic/integration-v2/04-characters.md)、[三家官方文档及协作](editorial/volume08/2026-11-24-open-epic/integration-v2/05-model-workflow.md)、[制度审查](editorial/volume08/2026-11-24-open-epic/integration-v2/06-policy-audit.md)、[Claude任务](editorial/volume08/2026-11-24-open-epic/integration-v2/08-claude-task.md)。A–H全部采用，不强制每章联动；章节可分任意小节。历史文档保持原貌，旧艺术限额不适用第八部。
 
 ## 第九部｜作者的思考（2026-11-21正式立项）
 
@@ -88,7 +92,7 @@ python scripts/verify_seven_volume_integrated.py
 
 - [第九部入口](manuscript/volume-09/README.md) · [001《Anthropic：安全、资本与万亿估值的危险游戏》](manuscript/volume-09/001-Anthropic-安全资本与万亿估值的危险游戏.md)
 - [原文保存](editorial/volume09/2026-11-21-ch01-author-verbatim.md) · [事实核查](editorial/volume09/2026-11-21-ch01-fact-check.md) · [已采纳的上市后附录](manuscript/volume-09/001-Anthropic-安全资本与万亿估值的危险游戏.md#附录上市以后问题还在) · [附录采纳记录](editorial/volume09/2026-11-21-ch01-appendix-acceptance.md)
-- 第一至七部135章、867,377字的冻结统计**不变**；第八部仍为独立候选设计。第九部目前一章，作者原稿中的现实主张不等同于已核实的出版稿。
+- 第一至七部当前135章、854,867字的V1.3正典**不变**（867,377为历史PR #92快照）；第八部仍为独立候选设计。第九部目前一章，作者原稿中的现实主张不等同于已核实的出版稿。
 
 ## 创作入口｜作者宪章与后台制度分离（2026-11-20）
 

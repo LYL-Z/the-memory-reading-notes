@@ -1,3 +1,5 @@
+> **历史文档说明（2026-11-24）**：以下是原阶段的作者裁定、方法、证据或施工安排，保留原文供追溯。艺术配额、章数、篇幅、固定流程与特定代理权限不约束第八部；现行VIII入口见 [八系统V2](https://github.com/LYL-Z/the-memory-reading-notes/blob/main/editorial/volume08/2026-11-24-open-epic/integration-v2/README.md)。历史事实订正、真实人物权益与版本记录继续有效。
+
 # Kimi K3.1 Pro｜R50最后一轮执行入口（请先读完主任务书）
 
 > **本页只是启动索引，不是精简替代品。** 完整强制要求在[第50轮最终文学精修任务书](volume01-round50-kimi-final-task-and-acceptance-2026-11-03.md)。必须全文读取后执行，不能只凭本页“开始改”。
