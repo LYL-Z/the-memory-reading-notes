@@ -1,6 +1,6 @@
-# 豆包独立总方案：第八部《保存》
+# Qwen4独立总方案：第八部《保存》
 
-> 执行者：豆包（Doubao）。分支 `creative/volume08-doubao-independent-masterplan`，基线 main @ 3f79d2a。设计实验，非正式第八部正文。本轮未读取 Grok PR #102（独立性要求）。
+> 执行者：Qwen4（Qwen4-Max）。分支 `creative/volume08-qwen4-independent-masterplan`，基线 main @ 3f79d2a。设计实验，非正式第八部正文。本轮未读取 Grok PR #102（独立性要求）。
 
 ## 一句话
 
