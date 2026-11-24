@@ -1,3 +1,5 @@
+> **历史文档说明（2026-11-24）**：以下是原阶段的作者裁定、方法、证据或施工安排，保留原文供追溯。艺术配额、章数、篇幅、固定流程与特定代理权限不约束第八部；现行VIII入口见 [八系统V2](https://github.com/LYL-Z/the-memory-reading-notes/blob/main/editorial/volume08/2026-11-24-open-epic/integration-v2/README.md)。历史事实订正、真实人物权益与版本记录继续有效。
+
 # 两份任务书冲突时怎么执行
 
 > **2026-11-20 现行制度覆盖提示：** 历史任务书冲突记录，不再是现行规则。原表“18+”行的21岁限制不适用于成年成熟主题；旧“所有材料”授权不能替代现实第三人授权，受限私密材料不得直接进入公开稿。当前书名、卷数、创作阶段按README；一般场景直接成文，反事实按世界隔离。 [现行创作宪章](https://github.com/LYL-Z/the-memory-reading-notes/blob/main/editorial/creative-charter/2026-11-20-literary-freedom-and-mature-themes.md)。

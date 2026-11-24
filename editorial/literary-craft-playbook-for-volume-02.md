@@ -1,3 +1,5 @@
+> **历史文档说明（2026-11-24）**：以下是原阶段的作者裁定、方法、证据或施工安排，保留原文供追溯。艺术配额、章数、篇幅、固定流程与特定代理权限不约束第八部；现行VIII入口见 [八系统V2](https://github.com/LYL-Z/the-memory-reading-notes/blob/main/editorial/volume08/2026-11-24-open-epic/integration-v2/README.md)。历史事实订正、真实人物权益与版本记录继续有效。
+
 > **2026-11-20 现行制度覆盖提示：** 手册案例是技巧而非绝对律令：动作、物件、直述、反思、浓烈情绪与留白均可按场景选择。每章不必有冲突升级或教训；字数按本轮明确目标，允许去赘并以独立新场景补足，不为保持局部字数重复。旧具体版本、字数和示范不变。 [现行创作宪章](https://github.com/LYL-Z/the-memory-reading-notes/blob/main/editorial/creative-charter/2026-11-20-literary-freedom-and-mature-themes.md)。
 
 > **R47现行入口（2026-11-03）**：十八章136633汉字，净增159，十五章实改；原库只读，未冻结、真人0。大学计算已从001迁011，父亲职业选择从002迁009。下面R46“当前位置在001”只记历史。最新十一组实改示范、十种问题及第二部规则见[致后续ChatGPT的R47交接书](handoff-to-chatgpt-literary-craft-round47-sol.md)，实际操作的八问见[R47修改账](volume01-round47-sol-editing-ledger.md)。本轮新增数轴展开是E，不是找到原题；家书脱敏稿不是逐字全文；喻看纸版本现已获作者确认改前。
