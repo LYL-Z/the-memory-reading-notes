@@ -1,107 +1,144 @@
-# 联网研究与 MLA 参考文献
+# 研究来源与 MLA 参考文献
 
-访问日期：2026-11-24。以下来源用于理解机制、证据边界和创作方法，不代表作品中的小说公设已获得现实验证。部分论文阅读的是摘要、官方介绍或公开预印本，未声称完成全部专著与论文全文研读。
+访问日期除特别说明外均为 2026 年 11 月 24 日。部分电影、小说和理论用于机制分析，不表示本轮重新完整观看或通读其全部文本。榜单只代表相应机构与年度口径，不被换算成“全时代最佳”或未经证实的销量、阅读量。
 
-## 一、电影、时间机制与叙事
-
-Anthony and Joe Russo, dir. *Avengers: Endgame*. Marvel Studios, 2019. 叙事机制参考；量子领域、分支与莫比乌斯导航属于电影设定。
-
-Peyton Reed, dir. *Ant-Man and the Wasp: Quantumania*. Marvel Studios, 2023. 量子领域视觉与世界设定参考。
-
-Christopher Nolan, dir. *Interstellar*. Paramount Pictures, 2014. 引力时间膨胀、亲情时间与视觉科学参考。
-
-Christopher Nolan, dir. *Tenet*. Warner Bros., 2020. 正逆时间行动与场面信息组织参考。
-
-Robert Zemeckis, dir. *Back to the Future*. Universal Pictures, 1985. 单线改写、照片倒计时与时代喜剧机制参考。
-
-Baran bo Odar and Jantje Friese, creators. *Dark*. Netflix, 2017–2020. 家族、多年龄身份、物件年龄与闭环结构参考。
-
-## 二、相对论、虫洞与闭合类时曲线
-
-Morris, Michael S., and Kip S. Thorne. “Wormholes in Spacetime and Their Use for Interstellar Travel: A Tool for Teaching General Relativity.” *American Journal of Physics*, vol. 56, no. 5, 1988, pp. 395–412. https://doi.org/10.1119/1.15620.
-
-Morris, Michael S., Kip S. Thorne, and Ulvi Yurtsever. “Wormholes, Time Machines, and the Weak Energy Condition.” *Physical Review Letters*, vol. 61, no. 13, 1988, pp. 1446–1449. https://doi.org/10.1103/PhysRevLett.61.1446.
-
-Hawking, S. W. “Chronology Protection Conjecture.” *Physical Review D*, vol. 46, no. 2, 1992, pp. 603–611. https://doi.org/10.1103/PhysRevD.46.603.
+## 一、时空、虫洞与自洽模型
 
 Deutsch, David. “Quantum Mechanics near Closed Timelike Lines.” *Physical Review D*, vol. 44, no. 10, 1991, pp. 3197–3217. https://doi.org/10.1103/PhysRevD.44.3197.
 
-Lloyd, Seth, et al. “Closed Timelike Curves via Postselection: Theory and Experimental Test of Consistency.” *Physical Review D*, vol. 84, no. 2, 2011, 025007. https://doi.org/10.1103/PhysRevD.84.025007.
+Hawking, S. W. “Chronology Protection Conjecture.” *Physical Review D*, vol. 46, no. 2, 1992, pp. 603–611. https://doi.org/10.1103/PhysRevD.46.603.
 
-Caltech. “Kip Thorne on Wormholes and Time Machines.” *Caltech News*. 用于大众科学表达与虫洞研究边界核对，https://www.caltech.edu/about/news/kip-thorne-wormholes-and-time-machines.
+Jafferis, Daniel, et al. “Traversable Wormhole Dynamics on a Quantum Processor.” *Nature*, vol. 612, 2022, pp. 51–55. https://doi.org/10.1038/s41586-022-05424-3.
 
-## 三、量子信息、关系时间与因果
+Lloyd, Seth, et al. “Closed Timelike Curves via Postselection: Theory and Experimental Test of Consistency.” *Physical Review Letters*, vol. 106, 2011, 040403. https://doi.org/10.1103/PhysRevLett.106.040403.
 
-Bennett, Charles H., et al. “Teleporting an Unknown Quantum State via Dual Classical and Einstein-Podolsky-Rosen Channels.” *Physical Review Letters*, vol. 70, no. 13, 1993, pp. 1895–1899. https://doi.org/10.1103/PhysRevLett.70.1895.
+Morris, Michael S., and Kip S. Thorne. “Wormholes in Spacetime and Their Use for Interstellar Travel: A Tool for Teaching General Relativity.” *American Journal of Physics*, vol. 56, no. 5, 1988, pp. 395–412. https://doi.org/10.1119/1.15620.
 
-Giacomini, Flaminia, Esteban Castro-Ruiz, and Časlav Brukner. “Quantum Mechanics and the Covariance of Physical Laws in Quantum Reference Frames.” *Nature Communications*, vol. 10, 2019, 494. https://doi.org/10.1038/s41467-018-08155-0.
+Morris, Michael S., Kip S. Thorne, and Ulvi Yurtsever. “Wormholes, Time Machines, and the Weak Energy Condition.” *Physical Review Letters*, vol. 61, 1988, pp. 1446–1449. https://doi.org/10.1103/PhysRevLett.61.1446.
 
-Oreshkov, Ognyan, Fabio Costa, and Časlav Brukner. “Quantum Correlations with No Causal Order.” *Nature Communications*, vol. 3, 2012, 1092. https://doi.org/10.1038/ncomms2076.
+Thorne, Kip. *The Science of Interstellar*. Foreword by Christopher Nolan, W. W. Norton, 2014. Publisher page: https://wwnorton.co.uk/books/9780393351378-the-science-of-interstellar.
 
-Page, Don N., and William K. Wootters. “Evolution without Evolution: Dynamics Described by Stationary Observables.” *Physical Review D*, vol. 27, no. 12, 1983, pp. 2885–2892. https://doi.org/10.1103/PhysRevD.27.2885.
+## 二、量子参考系、不确定因果序与关系时间
 
-Araujo, Mateus, et al. “Witnessing Causal Nonseparability.” *New Journal of Physics*, vol. 17, 2015, 102001. https://doi.org/10.1088/1367-2630/17/10/102001.
+Aharonov, Yakir, et al. “Multiple-Time States and Multiple-Time Measurements in Quantum Mechanics.” *arXiv*, 2009, arXiv:0901.3999. https://arxiv.org/abs/0901.3999.
 
-Jafferis, Daniel, et al. “Traversable Wormhole Dynamics on a Quantum Processor.” *Nature*, vol. 612, 2022, pp. 51–55. https://doi.org/10.1038/s41586-022-05424-3. 只用于特定量子模拟，不证明宏观人类穿越。
+Castro-Ruiz, Esteban, Flaminia Giacomini, and Časlav Brukner. “Quantum Clocks and the Temporal Localisability of Events in the Presence of Gravitating Quantum Systems.” *arXiv*, 2017, arXiv:1707.08066. https://arxiv.org/abs/1707.08066.
 
-## 四、多世界、全息与信息热力学
+Giacomini, Flaminia, Esteban Castro-Ruiz, and Časlav Brukner. “Quantum Mechanics and the Covariance of Physical Laws in Quantum Reference Frames.” *arXiv*, 2017, arXiv:1712.07207. https://arxiv.org/abs/1712.07207.
 
-Everett, Hugh, III. “‘Relative State’ Formulation of Quantum Mechanics.” *Reviews of Modern Physics*, vol. 29, no. 3, 1957, pp. 454–462. https://doi.org/10.1103/RevModPhys.29.454.
+Moreva, Ekaterina, et al. “Time from Quantum Entanglement: An Experimental Illustration.” *Physical Review A*, vol. 89, 2014, 052122. https://doi.org/10.1103/PhysRevA.89.052122.
 
-Maldacena, Juan. “The Large N Limit of Superconformal Field Theories and Supergravity.” *Advances in Theoretical and Mathematical Physics*, vol. 2, 1998, pp. 231–252. https://arxiv.org/abs/hep-th/9711200.
+Page, Don N., and William K. Wootters. “Evolution without Evolution: Dynamics Described by Stationary Observables.” *Physical Review D*, vol. 27, 1983, pp. 2885–2892. https://doi.org/10.1103/PhysRevD.27.2885.
 
-Maldacena, Juan, and Leonard Susskind. “Cool Horizons for Entangled Black Holes.” *Fortschritte der Physik*, vol. 61, no. 9, 2013, pp. 781–811. https://arxiv.org/abs/1306.0533.
+Zych, Magdalena, et al. “Bell’s Theorem for Temporal Order.” *Nature Communications*, vol. 10, 2019, 3772. https://doi.org/10.1038/s41467-019-11579-5.
 
-Landauer, R. “Irreversibility and Heat Generation in the Computing Process.” *IBM Journal of Research and Development*, vol. 5, no. 3, 1961, pp. 183–191. https://doi.org/10.1147/rd.53.0183.
+## 三、信息、记忆与量子计算
 
 Bérut, Antoine, et al. “Experimental Verification of Landauer’s Principle Linking Information and Thermodynamics.” *Nature*, vol. 483, 2012, pp. 187–189. https://doi.org/10.1038/nature10872.
 
-Caltech. “The Arrow of Time.” *Caltech Research*. 用于时间箭头与热力学的科普背景核对，https://www.caltech.edu/research/arrow-time.
+“Thermodynamic Asymmetry in Time.” *Stanford Encyclopedia of Philosophy*, revised 12 June 2026, https://plato.stanford.edu/entries/time-thermo/. Accessed 24 Nov. 2026.
 
-## 五、网络文学机制与评价口径
+Google Research. “A Colorful Quantum Future.” 23 June 2025, https://research.google/blog/a-colorful-quantum-future/. Accessed 24 Nov. 2026.
 
-中国作家网. “中国网络文学影响力榜（2023年度）发布.” 2024. 用于理解年度机构榜单与作品类型，不推导销量或全民排名。https://www.chinawriter.com.cn/n1/2024/0429/c403994-40226194.html.
+“Everett’s Relative-State Formulation of Quantum Mechanics.” *Stanford Encyclopedia of Philosophy*, https://plato.stanford.edu/entries/qm-everett/. Accessed 24 Nov. 2026.
 
-中国作家网. “中国网络文学影响力榜（2022年度）发布.” 2023. 同上，保留年度与评选机构口径。https://www.chinawriter.com.cn/n1/2023/0312/c403994-32642016.html.
+IBM Quantum. “Entanglement in Action.” *IBM Quantum Learning*, https://learning.quantum.ibm.com/course/basics-of-quantum-information/entanglement-in-action. Accessed 24 Nov. 2026.
 
-中国作家网. “中国网络文学影响力榜（2021年度）发布.” 2022. 同上。https://www.chinawriter.com.cn/n1/2022/0308/c403994-32369236.html.
+## 四、电影与剧集的时间机制
 
-类型机制研究还参考了历史穿越、重生、都市科技、家族多代、经营建设与无限流的公开作品介绍和读者讨论。由于读者讨论不具有统一统计口径，本方案只提炼“阶段升级、信息差、长期积累、公开兑现、高潮后生活”等机制，不引用未经核实的阅读量、排名和销量。
+*Avengers: Endgame*. Directed by Anthony Russo and Joe Russo, Marvel Studios, 2019.
 
-## 六、公共所有、治理与君主角色
+*Back to the Future*. Directed by Robert Zemeckis, Universal Pictures, 1985.
 
-Marx, Karl, and Friedrich Engels. *The Communist Manifesto*. 1848. 用于公共所有、人的自由发展与历史冲突的思想史背景，不直接套成小说制度答案。
+*Dark*. Created by Baran bo Odar and Jantje Friese, Netflix, 2017–2020.
 
-Ostrom, Elinor. *Governing the Commons: The Evolution of Institutions for Collective Action*. Cambridge UP, 1990. 用于多中心治理、地方规则与公共资源的制度启发。
+*Interstellar*. Directed by Christopher Nolan, Paramount Pictures and Warner Bros. Pictures, 2014.
 
-Nobel Prize. “Elinor Ostrom: Facts.” *NobelPrize.org*. 用于作者、获奖与研究领域的官方资料核对，https://www.nobelprize.org/prizes/economic-sciences/2009/ostrom/facts/.
+Marvel. “Ant-Man (Scott Lang) On Screen: Powers, Enemies, History.” *Marvel.com*, https://www.marvel.com/characters/ant-man-scott-lang/on-screen. Accessed 24 Nov. 2026.
 
-Habermas, Jürgen. *Between Facts and Norms: Contributions to a Discourse Theory of Law and Democracy*. Translated by William Rehg, MIT Press, 1996. 用于公共讨论、合法性与制度回答的思想背景。
+Rochlin, Margy. “‘Dark’ Final Season, Explained: Baran bo Odar and Jantje Friese Interview.” *The Hollywood Reporter*, 7 July 2020, https://www.hollywoodreporter.com/tv/tv-news/dark-final-season-explained-baran-bo-odar-jantje-friese-interview-1302171/.
 
-The Royal Family. “The Role of the Monarchy.” 英国王室官方页面，仅用于理解现代君主公共角色的一种现实样例，不将英国制度直接等同白日帝国。https://www.royal.uk/the-role-of-the-monarchy.
+*Tenet*. Directed by Christopher Nolan, Warner Bros. Pictures, 2020.
 
-## 七、模型与平台官方资料
+Time. “Breaking Down the Complicated Time Travel in Avengers: Endgame.” 26 Apr. 2019, https://time.com/5576656/. Accessed 24 Nov. 2026.
 
-Anthropic. “Models Overview.” *Claude Documentation*. 用于模型系列与产品能力核对，https://docs.anthropic.com/en/docs/about-claude/models/overview.
+## 五、网络文学、榜单与叙事机制
 
-Anthropic. “Usage Policy.” 用于成熟题材、未成年人与私密内容边界，https://www.anthropic.com/legal/aup.
+爱潜水的乌贼：《诡秘之主》，起点中文网，2018—2020。
 
-OpenAI. “Models.” *OpenAI Platform Documentation*. 用于模型与能力选择，https://platform.openai.com/docs/models.
+狐尾的笔：《道诡异仙》，起点中文网。
 
-OpenAI. “Usage Policies.” 用于使用边界，https://openai.com/policies/usage-policies/.
+季越人：《玄鉴仙族》，起点中文网。
 
-OpenAI. “Model Spec.” 用于理解模型行为原则，https://model-spec.openai.com/.
+青衫取醉：《亏成首富从游戏开始》，起点中文网。
 
-xAI. “Models and Pricing.” *xAI Documentation*. 用于 Grok 模型与文档能力核对，https://docs.x.ai/docs/models.
+晨星 LL：《这游戏也太真实了》，起点中文网。
 
-xAI. “Usage Policy.” 用于平台边界，https://x.ai/legal/acceptable-use-policy.
+猫腻：《庆余年》，起点中文网。
 
-xAI. “Content Moderation.” 用于理解 `nsfw` 等审核信号是识别／拦截配置，而非生成许可，https://docs.x.ai/docs/guides/safety.
+“2023年度‘中国网络文学影响力榜’在上海发布。” *中国作家网*，2024 年 4 月 28 日，http://www.chinawriter.com.cn/n1/2024/0428/c404023-40225996.html。访问日期：2026 年 11 月 24 日。
 
-## 八、引用使用规则
+“新时代十年百部中国网络文学作品榜单发布。” *中国作家网*，2023 年 6 月 26 日，https://www.chinawriter.com.cn/n1/2023/0626/c404023-40021115.html。访问日期：2026 年 11 月 24 日。
 
-1. 论文与官方页面支持现实研究背景，不为 MWC 的容量公式或人类旅行背书。
-2. 电影用于叙事机制比较，不把剧情当科学教材。
-3. 网文榜单保留年度、机构与评价口径，不编造阅读数据。
-4. 公共治理经典用于提供相互冲突的思想资源，不宣布某种制度已被历史终极证明。
-5. 平台官方文档只用于工具选择与边界判断，不设计跨模型规避流程。
+“中国作协发布2024年度‘中国网络文学影响力榜’。” *中国作家网*，2025 年 6 月 18 日，https://www.chinawriter.com.cn/n1/2025/0618/c404023-40503316.html。访问日期：2026 年 11 月 24 日。
+
+“2024中国网络文学蓝皮书。” *中国作家网*，2025 年 6 月 30 日，http://www.chinawriter.com.cn/n1/2025/0630/c404023-40511500.html。访问日期：2026 年 11 月 24 日。
+
+“阅文发布全球华语IP榜单，《道诡异仙》《宿命之环》等获评‘年度影响力作品’。” *中国作家网*，2024 年 2 月 6 日，http://www.chinawriter.com.cn/n1/2024/0206/c404023-40174309.html。访问日期：2026 年 11 月 24 日。
+
+“对话青衫取醉：从‘游戏策划’到‘游戏设计师’的网文创作。” *上海网络作家协会*，https://www.4djiudian.com/newsDetail?id=145。访问日期：2026 年 11 月 24 日。
+
+“《玄鉴仙族》的‘家族流’叙事与历史意识。” *界外文化*，https://www.jieqi.com/novel/52313。访问日期：2026 年 11 月 24 日。
+
+## 六、世界文学与言情机制的原典参照
+
+Austen, Jane. *Pride and Prejudice*. 1813.
+
+Cervantes, Miguel de. *Don Quixote*. 1605–1615.
+
+Dumas, Alexandre. *Le Comte de Monte-Cristo*. 1844–1846.
+
+García Márquez, Gabriel. *Cien años de soledad*. 1967.
+
+Tolstoy, Leo. *War and Peace*. 1865–1869.
+
+曹雪芹：《红楼梦》，清代。
+
+上述原典用于研究身份、信息差、欲望、家庭、社会与长期兑现，不在本方案中复制其具体句法或把某一结局当普遍标准。
+
+## 七、公共所有、治理与君主角色
+
+“Socialism.” *Stanford Encyclopedia of Philosophy*, https://plato.stanford.edu/entries/socialism/. Accessed 24 Nov. 2026.
+
+Nobel Prize Outreach. “The Prize in Economic Sciences 2009—Popular Information.” *NobelPrize.org*, 12 Oct. 2009, https://www.nobelprize.org/prizes/economic-sciences/2009/popular-information/.
+
+The Royal Family. “The Role of the Monarchy.” *Royal.uk*, https://www.royal.uk/role-monarchy. Accessed 24 Nov. 2026.
+
+Mondragon Corporation. “About Us / Cooperative Experience.” *Mondragon-corporation.com*, https://www.mondragon-corporation.com/en/. Accessed 24 Nov. 2026.
+
+这些来源用于比较公共所有、地方自治、用户治理、君主礼仪与公共职责。白日帝国是新增虚构制度，不是上述任何现实制度的复制，也不由引用自动证明其现实可行性。
+
+## 八、模型与平台官方文档
+
+Anthropic. “Usage Policy.” *Anthropic*, https://www.anthropic.com/legal/aup. Accessed 24 Nov. 2026.
+
+Anthropic. “Claude Models Overview.” *Claude Docs*, https://docs.anthropic.com/en/docs/about-claude/models/overview. Accessed 24 Nov. 2026.
+
+OpenAI. *Model Spec*. https://model-spec.openai.com/. Accessed 24 Nov. 2026.
+
+OpenAI. “Usage Policies.” *OpenAI*, https://openai.com/policies/usage-policies/. Accessed 24 Nov. 2026.
+
+OpenAI. “Models.” *OpenAI Platform Documentation*, https://platform.openai.com/docs/models. Accessed 24 Nov. 2026.
+
+xAI. “Acceptable Use Policy.” *x.ai*, https://x.ai/legal/acceptable-use-policy. Accessed 24 Nov. 2026.
+
+xAI. “Models.” *xAI Documentation*, https://docs.x.ai/docs/models. Accessed 24 Nov. 2026.
+
+xAI. “Custom Moderation Controls.” *xAI Documentation*, https://docs.x.ai/developers/advanced-api-usage/custom-moderation-controls. Accessed 24 Nov. 2026.
+
+## 九、使用边界
+
+- MWC、互证距离、容量衰减律、白日帝国、答案市场和本方案原创人物均为虚构设计，不进入上述来源的事实层。
+- 论文被引用不代表其作者支持本小说推论；本方案明确将跨历史通道列为新增公设。
+- 网络文章与访谈用于理解创作和评价口径，核心科学结论优先回到论文与官方研究页面。
+- 正式写作若引入新的精确数据、最新实验或模型版本，应重新核对原始来源与访问日期。
