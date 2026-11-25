@@ -1,3 +1,5 @@
+> **2026-11-14 指针**：逐字原文见 `editorial/author-interviews/2026-11-14-author-answers-verbatim.md`；逐题核对见 `editorial/author-interviews/2026-11-14-coverage-check.md`。以下仍是 2026-11-07 非逐字总账，原文不改。
+
 # 《时间的复数人称》｜156问作者首批答复·事实／回望／方案分层总账
 
 > 编制：2026-11-07（以用户这次完整长消息为本轮一手作者答复）。录入为**编辑记录**，不等于同期客观档案或当事人共同证词。源问卷：`editorial/volume02-longform-author-interview-156-questions-2026-11-04.md`。请保留原问卷，不覆盖。  
