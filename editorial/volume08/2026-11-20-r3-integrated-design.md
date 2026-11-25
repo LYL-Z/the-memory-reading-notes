@@ -1,3 +1,5 @@
+> **历史归档，已失效。** 第八部唯一正式方案：[MASTERPLAN.md](MASTERPLAN.md)。本文件不再作为创作依据或阅读清单；历史试写及评审不作参考。
+
 # 第八部《没有发生的一生》｜R3 三方案整合与创作制度
 
 > **2026-11-20 现行制度覆盖提示：** R3设计保持候选身份；允许18+成熟读者取向，成年关系不必用隐喻或说理收场，圆满、直接情感和普通生活有独立文学价值。四核心分支的具体结局待作者裁订，按新宪章执行。 [现行创作宪章](https://github.com/LYL-Z/the-memory-reading-notes/blob/main/editorial/creative-charter/2026-11-20-literary-freedom-and-mature-themes.md)。
