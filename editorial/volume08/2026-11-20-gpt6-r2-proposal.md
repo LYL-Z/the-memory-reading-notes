@@ -1,3 +1,5 @@
+> **历史归档，已失效。** 第八部唯一正式方案：[MASTERPLAN.md](MASTERPLAN.md)。本文件不再作为创作依据或阅读清单；历史试写及评审不作参考。
+
 # 第八部｜GPT-6 上轮方案归档（内容整编）
 
 > **2026-11-20 现行制度覆盖提示：** 历史方案归档；新宪章为后续尺度、人物和审稿解释的现行口径，方案本身仍非正式目录。 [现行创作宪章](https://github.com/LYL-Z/the-memory-reading-notes/blob/main/editorial/creative-charter/2026-11-20-literary-freedom-and-mature-themes.md)。

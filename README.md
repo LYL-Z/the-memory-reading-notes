@@ -73,22 +73,11 @@ python scripts/verify_seven_volume_integrated.py
 旧README全文保存在 [六部历史README](editorial/archive/README-pre-integration-20261114.md) 与 [七部融合前README](editorial/archive/README-pre-seven-volume-20261121.md)，旧项目状态保存在 [六部历史状态](state/archive/progress-pre-integration-20261114.json)、[七部融合前状态](state/archive/progress-pre-seven-volume-20261121.json)，不可再作为现稿依据。第七部20章原候审稿见 [PR #84](https://github.com/LYL-Z/the-memory-reading-notes/pull/84)，**本轮已并入正典**。第八部仍为独立反事实设计，不计入正文统计。
 
 
-## 第八部｜当前正式设计 V3.1
+## 第八部｜唯一正式主支创作方案 V4.0
 
-[第八部《复数》V3.1正式设计](editorial/volume08/2026-11-25-integrated-v3/v3.1/README.md) · [Claude主创入口](editorial/volume08/2026-11-25-integrated-v3/v3.1/10-claude-brief.md) · [二次审查](editorial/volume08/2026-11-25-integrated-v3/v3.1/00-review.md) · [CTH数学与模拟](editorial/volume08/2026-11-25-integrated-v3/v3.1/02-cth.md)。作者授权PR #110深化并合入main；该设计不是正文冻结。A—H全部采用，无章数、篇幅、世界及小节上限；从硬科幻连续开篇起写，八类人生可独立展开；四梦允许圆满，成年原创爱情、科技财富、现代全球帝国、古代皇家、家庭和文明救世都可充分发展。历史V2、V3和独立PR保留为来源，不是平行执行入口。事实、权利及适用平台边界不变。正文由作者启动Claude后独立分支提交。
+第八部唯一正式方案：[《复数》V4.0](editorial/volume08/MASTERPLAN.md)。直接按该文自由创作正式正文；全部旧方案、试写、试写评审和样本仅历史归档，不读、不参考、不重做。不设字数、篇章、小节、世界数量上限。
 
-## 2026-11-20｜创作规则与第八部（历史演变）
-
-**所有协作AI必须先读 [AGENTS.md](AGENTS.md)** 的文学作者宪章，再按当轮授权工作。作者允许大胆、完整地文学重构普通生活，不应因过度审慎将小说写成事实摘要、人物训诫或空洞的情绪解释；成熟主题、爽感、矛盾与圆满均可有独立文学价值。事实/反事实仍严格分层。
-
-- [第八部 R3 三方案整合](editorial/volume08/2026-11-20-r3-integrated-design.md)：吸收作者转交Grok两方案及GPT-6上轮设计。
-- [第八部 GPT-6 上轮方案归档](editorial/volume08/2026-11-20-gpt6-r2-proposal.md)：四核心世界、二十个候选、远未来、多世界结局、开篇试写。
-- [Claude独立研究与40条创意补充](editorial/volume08/2026-11-20-claude-independent-research-supplement.md)：原文逐字归档、影视文学机制、40条构思与R2/R3对照，后续架构/试写全文待补。
-- **2026-11-24作者新方向：[第八部开放史诗设计工作室](editorial/volume08/2026-11-24-open-epic/README.md)**：八套架构、40个情节模块、文学/网文研究、原创试写与[Claude执行入口](editorial/volume08/2026-11-24-open-epic/07-claude-task.md)。不再设章数、字数上限；R2/R3旧容量仅历史参考。爱情、事业、家庭、架空皇家、古今与文明未来均可扩展，真名非性化使用与成熟题材沿用权益边界。卷名及架构仍待作者选择。PR #93独立候选保留；不覆盖I—VII、IX正文，不回写事实源仓。
-
-### 2026-11-24第二次作者裁定｜八系统全部采用
-
-[开放史诗V2：万世之我·时域纪元](editorial/volume08/2026-11-24-open-epic/integration-v2/README.md)（暂名）：[数学物理开篇](editorial/volume08/2026-11-24-open-epic/integration-v2/01-physics-and-opening.md)、[三类皇家世界](editorial/volume08/2026-11-24-open-epic/integration-v2/02-worlds-and-empire.md)、[爽感与社会人性](editorial/volume08/2026-11-24-open-epic/integration-v2/03-literary-craft.md)、[原创人物](editorial/volume08/2026-11-24-open-epic/integration-v2/04-characters.md)、[三家官方文档及协作](editorial/volume08/2026-11-24-open-epic/integration-v2/05-model-workflow.md)、[制度审查](editorial/volume08/2026-11-24-open-epic/integration-v2/06-policy-audit.md)、[Claude任务](editorial/volume08/2026-11-24-open-epic/integration-v2/08-claude-task.md)。A–H全部采用，不强制每章联动；章节可分任意小节。历史文档保持原貌，旧艺术限额不适用第八部。
+方案自包含科学、世界、人物、结局、自由创意与执行任务。历史文件无参考效力。Claude直接创作连续正式章稿，独立分支提交Draft PR。I—VII、IX及事实源保持不变。
 
 ## 第九部｜作者的思考（2026-11-21正式立项）
 
@@ -96,7 +85,7 @@ python scripts/verify_seven_volume_integrated.py
 
 - [第九部入口](manuscript/volume-09/README.md) · [001《Anthropic：安全、资本与万亿估值的危险游戏》](manuscript/volume-09/001-Anthropic-安全资本与万亿估值的危险游戏.md)
 - [原文保存](editorial/volume09/2026-11-21-ch01-author-verbatim.md) · [事实核查](editorial/volume09/2026-11-21-ch01-fact-check.md) · [已采纳的上市后附录](manuscript/volume-09/001-Anthropic-安全资本与万亿估值的危险游戏.md#附录上市以后问题还在) · [附录采纳记录](editorial/volume09/2026-11-21-ch01-appendix-acceptance.md)
-- 第一至七部当前135章、854,867字的V1.3正典**不变**（867,377为历史PR #92快照）；第八部为V3.1正式设计，正文尚未启动。第九部目前一章，作者原稿中的现实主张不等同于已核实的出版稿。
+- 第一至七部当前135章、854,867字的V1.3正典**不变**（867,377为历史PR #92快照）；第八部为V4.0唯一正式方案，正文尚未启动。第九部目前一章，作者原稿中的现实主张不等同于已核实的出版稿。
 
 ## 创作入口｜作者宪章与后台制度分离（2026-11-20）
 
@@ -104,10 +93,10 @@ python scripts/verify_seven_volume_integrated.py
 |---|---|
 | 常驻：作者身份、声音、野心 | [AGENTS.md 作者宪章](AGENTS.md)（约1455汉字，不堆工程条款） |
 | 常驻精简；详细规则按需 | [后台制度](editorial/creative-charter/OPERATING-RULES.md) 的快速卡 |
-| 写作时读2–3例 | [声音样本](editorial/creative-charter/VOICE-SAMPLES.md)（五处现行正文逐字节选，作者偏好待确认） |
+| I—VII按需；VIII不读 | [声音样本](editorial/creative-charter/VOICE-SAMPLES.md)（仅I—VII按需；VIII不作参考） |
 | 按章提取 | [材料卡](editorial/creative-charter/templates/material-card.md)、[人物卡](editorial/creative-charter/templates/character-card.md) |
-| 每章施工 | [章节任务书](editorial/creative-charter/templates/chapter-brief.md)（三案按需，顺畅的故事直接成文） |
+| 每章施工 | [章节任务书](editorial/creative-charter/templates/chapter-brief.md)（VIII直接正式成文） |
 | 审稿时 | [病灶对照](editorial/creative-charter/PROSE-REPAIR-EXAMPLES.md)、[交付清单](editorial/pre-delivery-literary-checklist.md) |
-| 方法校准 | [第八部施工示例与盲评方案](editorial/creative-charter/pilots/2026-11-20-scene-pilot.md) |
+| 方法校准 | 历史施工示例，VIII不作参考 |
 
 [跨仓冲突清单](editorial/creative-charter/2026-11-20-policy-crosswalk.md)继续登记旧制度的历史适用范围。新的作者宪章与后台制度取代旧根规则的组织形式，不改变历史事实、成熟题材范围、第三人权益与版本保护。Claude Code见[CLAUDE.md](CLAUDE.md)；Cursor技能与本入口同步。
