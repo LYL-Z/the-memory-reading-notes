@@ -1,6 +1,6 @@
-# 当前工作导航（2026-11-24）
+# 当前工作导航（2026-11-25｜V3.1）
 
-I—VII现行主线135章854867官方汉字（V1.3），详见[README](../README.md)与现行正典表。VIII新任务：[开放史诗V2](../editorial/volume08/2026-11-24-open-epic/integration-v2/README.md)，先写真实物理支撑的原创时域开篇，再展开A–H全部架构；章数、字数、每章小节均开放。IX保持独立。下文是历史行动记录，不代表当前阶段或重新启动已完成工作。
+I—VII现行主线135章854867官方汉字（V1.3）；IX保持独立。VIII当前[正式设计](../editorial/volume08/2026-11-25-integrated-v3/v3.1/README.md)、[Claude主创入口](../editorial/volume08/2026-11-25-integrated-v3/v3.1/10-claude-brief.md)。PR #110承载V3与V3.1；作者授权合并设计，未要求本轮写正文或试写。下一步由作者发送任务，Claude在独立分支提交连续开篇正文Draft PR，不再重新竞标总体架构。A—H全采用、无篇幅与章节上限。以下为历史记录，不再是当前任务。
 
 ---
 

@@ -73,7 +73,11 @@ python scripts/verify_seven_volume_integrated.py
 旧README全文保存在 [六部历史README](editorial/archive/README-pre-integration-20261114.md) 与 [七部融合前README](editorial/archive/README-pre-seven-volume-20261121.md)，旧项目状态保存在 [六部历史状态](state/archive/progress-pre-integration-20261114.json)、[七部融合前状态](state/archive/progress-pre-seven-volume-20261121.json)，不可再作为现稿依据。第七部20章原候审稿见 [PR #84](https://github.com/LYL-Z/the-memory-reading-notes/pull/84)，**本轮已并入正典**。第八部仍为独立反事实设计，不计入正文统计。
 
 
-## 2026-11-20｜创作规则与第八部
+## 第八部｜当前正式设计 V3.1
+
+[第八部《复数》V3.1正式设计](editorial/volume08/2026-11-25-integrated-v3/v3.1/README.md) · [Claude主创入口](editorial/volume08/2026-11-25-integrated-v3/v3.1/10-claude-brief.md) · [二次审查](editorial/volume08/2026-11-25-integrated-v3/v3.1/00-review.md) · [CTH数学与模拟](editorial/volume08/2026-11-25-integrated-v3/v3.1/02-cth.md)。作者授权PR #110深化并合入main；该设计不是正文冻结。A—H全部采用，无章数、篇幅、世界及小节上限；从硬科幻连续开篇起写，八类人生可独立展开；四梦允许圆满，成年原创爱情、科技财富、现代全球帝国、古代皇家、家庭和文明救世都可充分发展。历史V2、V3和独立PR保留为来源，不是平行执行入口。事实、权利及适用平台边界不变。正文由作者启动Claude后独立分支提交。
+
+## 2026-11-20｜创作规则与第八部（历史演变）
 
 **所有协作AI必须先读 [AGENTS.md](AGENTS.md)** 的文学作者宪章，再按当轮授权工作。作者允许大胆、完整地文学重构普通生活，不应因过度审慎将小说写成事实摘要、人物训诫或空洞的情绪解释；成熟主题、爽感、矛盾与圆满均可有独立文学价值。事实/反事实仍严格分层。
 
@@ -92,7 +96,7 @@ python scripts/verify_seven_volume_integrated.py
 
 - [第九部入口](manuscript/volume-09/README.md) · [001《Anthropic：安全、资本与万亿估值的危险游戏》](manuscript/volume-09/001-Anthropic-安全资本与万亿估值的危险游戏.md)
 - [原文保存](editorial/volume09/2026-11-21-ch01-author-verbatim.md) · [事实核查](editorial/volume09/2026-11-21-ch01-fact-check.md) · [已采纳的上市后附录](manuscript/volume-09/001-Anthropic-安全资本与万亿估值的危险游戏.md#附录上市以后问题还在) · [附录采纳记录](editorial/volume09/2026-11-21-ch01-appendix-acceptance.md)
-- 第一至七部当前135章、854,867字的V1.3正典**不变**（867,377为历史PR #92快照）；第八部仍为独立候选设计。第九部目前一章，作者原稿中的现实主张不等同于已核实的出版稿。
+- 第一至七部当前135章、854,867字的V1.3正典**不变**（867,377为历史PR #92快照）；第八部为V3.1正式设计，正文尚未启动。第九部目前一章，作者原稿中的现实主张不等同于已核实的出版稿。
 
 ## 创作入口｜作者宪章与后台制度分离（2026-11-20）
 
@@ -102,7 +106,7 @@ python scripts/verify_seven_volume_integrated.py
 | 常驻精简；详细规则按需 | [后台制度](editorial/creative-charter/OPERATING-RULES.md) 的快速卡 |
 | 写作时读2–3例 | [声音样本](editorial/creative-charter/VOICE-SAMPLES.md)（五处现行正文逐字节选，作者偏好待确认） |
 | 按章提取 | [材料卡](editorial/creative-charter/templates/material-card.md)、[人物卡](editorial/creative-charter/templates/character-card.md) |
-| 每章施工 | [章节任务书](editorial/creative-charter/templates/chapter-brief.md)（先三案，后成文） |
+| 每章施工 | [章节任务书](editorial/creative-charter/templates/chapter-brief.md)（三案按需，顺畅的故事直接成文） |
 | 审稿时 | [病灶对照](editorial/creative-charter/PROSE-REPAIR-EXAMPLES.md)、[交付清单](editorial/pre-delivery-literary-checklist.md) |
 | 方法校准 | [第八部施工示例与盲评方案](editorial/creative-charter/pilots/2026-11-20-scene-pilot.md) |
 
